@@ -1,0 +1,386 @@
+name,info,occupation
+Serena_Williams,"Gender:FemaleDate of Birth:26 September  1981 - 20:28hBirth place:Saginaw, MichiganCountry:US, United StatesAge:38 years",r_tennis-players
+Venus_Williams,"Gender:FemaleDate of Birth:17 June  1980 - 14:12hBirth place:Lynwood, CaliforniaCountry:US, United StatesAge:39 years",r_tennis-players
+John_McEnroe,"Gender:MaleDate of Birth:16 February  1959 - 22:30hBirth place:WiesbadenCountry:DE, GermanyAge:61 years",r_tennis-players
+Novak_Djokovic,"Gender:MaleDate of Birth:22 May  1987 - 23:25hBirth place:BelgradeCountry:RS, SerbiaAge:32 years",r_tennis-players
+Boris_Becker,"Gender:MaleDate of Birth:22 November  1967 - 08:45hBirth place:Leimen, BadenCountry:DE, GermanyAge:52 years",r_tennis-players
+Steffi_Graf,"Gender:FemaleDate of Birth:14 June  1969 - 04:40hBirth place:MannheimCountry:DE, GermanyAge:50 years",r_tennis-players
+Andre_Agassi,"Gender:MaleDate of Birth:29 April  1970Birth place:Las VegasCountry:US, United StatesAge:49 years",r_tennis-players
+Roger_Federer,"Gender:MaleDate of Birth:8 August  1981 - 08:40hBirth place:BaselCountry:CH, SwitzerlandAge:38 years",r_tennis-players
+David_Ferrer,"Gender:MaleDate of Birth:2 April  1982Birth place:ValenciaCountry:ES, SpainAge:38 years",r_tennis-players
+Rafael_Nadal,"Gender:MaleDate of Birth:3 June  1986 - 18:20hBirth place:ManacorCountry:ES, SpainAge:33 years",r_tennis-players
+Maria_Sharapova,"Gender:FemaleDate of Birth:19 April  1987Birth place:NyaganCountry:RU, RussiaAge:32 years",r_tennis-players
+Caroline_Wozniacki,"Gender:FemaleDate of Birth:11 July  1990Birth place:OdenseCountry:DK, DenmarkAge:29 years",r_tennis-players
+Helen_Wills_Moody,"Gender:FemaleDate of Birth:6 October  1905 - 02:25hBirth place:Berkeley, CaliforniaCountry:US, United StatesAge:† 92 years",r_tennis-players
+Tomáš_Berdych,"Gender:MaleBirth:*1985Country:CZ, Czech RepublicAge:34 years",r_tennis-players
+Timo_Boll,"Gender:MaleDate of Birth:8 March  1981Birth place:Erbach im OdenwaldCountry:DE, GermanyAge:39 years",r_tennis-players
+Samantha_Stosur,"Gender:FemaleDate of Birth:30 March  1984Birth place:Brisbane, QueenslandCountry:AU, AustraliaAge:36 years",r_tennis-players
+Vitas_Gerulaitis,"Gender:MaleDate of Birth:26 July  1954 - 04:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 40 years",r_tennis-players
+Ana_Ivanovic,"Gender:FemaleDate of Birth:6 November  1987Birth place:BelgradeCountry:RS, SerbiaAge:32 years",r_tennis-players
+Jean_Borotra,"Gender:MaleDate of Birth:13 August  1898 - 17:00hBirth place:BiarritzCountry:FR, FranceAge:† 95 years",r_tennis-players
+Suzanne_Lenglen,"Gender:FemaleDate of Birth:24 May  1899 - 19:00hBirth place:CompiègneCountry:FR, FranceAge:† 39 years",r_tennis-players
+Henri_Cochet,"Gender:MaleDate of Birth:14 December  1901 - 11:00hBirth place:VilleurbanneCountry:FR, FranceAge:† 85 years",r_tennis-players
+René_Lacoste,"Gender:MaleDate of Birth:2 July  1904 - 05:00hBirth place:ParisCountry:FR, FranceAge:† 92 years",r_tennis-players
+Pauline_Betz,"Gender:FemaleDate of Birth:6 August  1919 - 02:50hBirth place:DaytonCountry:US, United States",r_tennis-players
+Jack_Kramer,"Gender:MaleDate of Birth:1 August  1921 - 01:45hBirth place:Las VegasCountry:US, United StatesAge:† 88 years",r_tennis-players
+Shirley_Fry,"Gender:FemaleDate of Birth:30 June  1927 - 12:35hBirth place:AkronCountry:US, United StatesAge:92 years",r_tennis-players
+Maureen_Connolly,"Gender:FemaleDate of Birth:17 September  1934 - 12:07hBirth place:San DiegoCountry:US, United StatesAge:† 34 years",r_tennis-players
+Arthur_Ashe,"Gender:MaleDate of Birth:10 July  1943 - 12:55hBirth place:Richmond, VirginiaCountry:US, United StatesAge:† 49 years",r_tennis-players
+Billie_Jean_King,"Gender:FemaleDate of Birth:22 November  1943 - 11:45hBirth place:Long BeachCountry:US, United StatesAge:76 years",r_tennis-players
+Stan_Smith,"Gender:MaleDate of Birth:14 December  1946 - 22:13hBirth place:PasadenaCountry:US, United StatesAge:73 years",r_tennis-players
+Jimmy_Connors,"Gender:MaleDate of Birth:2 September  1952 - 10:30hBirth place:East Saint LouisCountry:US, United StatesAge:67 years",r_tennis-players
+Björn_Borg,"Gender:MaleDate of Birth:6 June  1956 - 23:55hBirth place:StockholmCountry:SE, SwedenAge:63 years",r_tennis-players
+Stefan_Edberg,"Gender:MaleDate of Birth:19 January  1966 - 09:00hCountry:XX, Unknown(?)Age:54 years",r_tennis-players
+Michael_Stich,"Gender:MaleDate of Birth:18 October  1968 - 18:30hBirth place:PinnebergCountry:DE, GermanyAge:51 years",r_tennis-players
+Gabriela_Sabatini,"Gender:FemaleDate of Birth:16 May  1970 - 06:30hBirth place:Buenos AiresCountry:AR, ArgentinaAge:49 years",r_tennis-players
+Goran_Ivanišević,"Gender:MaleDate of Birth:13 September  1971 - 01:00hBirth place:SplitCountry:HR, CroatiaAge:48 years",r_tennis-players
+Arantxa_Sánchez_Vicario,"Gender:FemaleDate of Birth:18 December  1971 - 18:00hBirth place:BarcelonaCountry:ES, SpainAge:48 years",r_tennis-players
+Michael_Chang,"Gender:MaleDate of Birth:22 February  1972 - 13:30hBirth place:HobokenCountry:US, United StatesAge:48 years",r_tennis-players
+Barbara_Schett,"Gender:FemaleDate of Birth:10 March  1976Birth place:InnsbruckCountry:AT, AustriaAge:44 years",r_tennis-players
+Arnaud_Clément,"Gender:MaleDate of Birth:17 December  1977 - 13:15hBirth place:Aix-en-ProvenceCountry:FR, FranceAge:42 years",r_tennis-players
+Bob_Bryan,"Gender:MaleDate of Birth:29 April  1978Birth place:Camarillo, CaliforniaCountry:US, United StatesAge:41 years",r_tennis-players
+Mike_Bryan,"Gender:MaleDate of Birth:29 April  1978Birth place:Camarillo, CaliforniaCountry:US, United StatesAge:41 years",r_tennis-players
+Amélie_Mauresmo,"Gender:FemaleDate of Birth:5 July  1979 - 16:30hBirth place:Saint-Germain-en-LayeCountry:FR, FranceAge:40 years",r_tennis-players
+Lleyton_Hewitt,"Gender:MaleDate of Birth:24 February  1981 - 00:01hBirth place:AdelaideCountry:AU, AustraliaAge:39 years",r_tennis-players
+Anastasia_Myskina,"Gender:FemaleDate of Birth:8 July  1981Birth place:MoscowCountry:RU, RussiaAge:38 years",r_tennis-players
+Justine_Henin,"Gender:FemaleDate of Birth:1 June  1982 - 16:20hBirth place:LiègeCountry:BE, BelgiumAge:37 years",r_tennis-players
+Andy_Roddick,"Gender:MaleDate of Birth:30 August  1982Birth place:Omaha, NebraskaCountry:US, United StatesAge:37 years",r_tennis-players
+Jelena_Dokić,"Gender:FemaleDate of Birth:12 April  1983 - 09:23hBirth place:OsijekCountry:HR, CroatiaAge:36 years",r_tennis-players
+Fernando_Verdasco,"Gender:MaleDate of Birth:15 November  1983Birth place:MadridCountry:ES, SpainAge:36 years",r_tennis-players
+Janko_Tipsarevič,"Gender:MaleDate of Birth:22 June  1984Birth place:BelgradeCountry:RS, SerbiaAge:35 years",r_tennis-players
+Marion_Bartoli,"Gender:FemaleDate of Birth:2 October  1984 - 21:15hBirth place:Le Puy-en-VelayCountry:FR, FranceAge:35 years",r_tennis-players
+Gilles_Simon,"Gender:MaleDate of Birth:27 December  1984 - 09:00hBirth place:NiceCountry:FR, FranceAge:35 years",r_tennis-players
+Jelena_Janković,"Gender:FemaleDate of Birth:28 February  1985 - 11:05hBirth place:BelgradeCountry:RS, SerbiaAge:35 years",r_tennis-players
+Stanislas_Wawrinka,"Gender:MaleDate of Birth:28 March  1985 - 11:05hBirth place:LausanneCountry:CH, SwitzerlandAge:35 years",r_tennis-players
+Jo-Wilfried_Tsonga,"Gender:MaleDate of Birth:17 April  1985 - 04:15hBirth place:Le MansCountry:FR, FranceAge:34 years",r_tennis-players
+Ashley_Harkleroad,"Gender:FemaleDate of Birth:2 May  1985Birth place:RossvilleCountry:US, United StatesAge:34 years",r_tennis-players
+Richard_Gasquet,"Gender:MaleDate of Birth:18 June  1986 - 09:00hBirth place:SérignanCountry:FR, FranceAge:33 years",r_tennis-players
+Gaël_Monfils,"Gender:MaleDate of Birth:1 September  1986 - 04:50hBirth place:ParisCountry:FR, FranceAge:33 years",r_tennis-players
+Andy_Murray,"Gender:MaleDate of Birth:15 May  1987 - 14:10hBirth place:GlasgowCountry:GB, United KingdomAge:32 years",r_tennis-players
+Juan_Martín_Del_Potro,"Gender:MaleDate of Birth:23 September  1988Birth place:TandilCountry:AR, ArgentinaAge:31 years",r_tennis-players
+Victoria_Azarenka,"Gender:FemaleDate of Birth:31 July  1989Birth place:MinskCountry:BY, BelarusAge:30 years",r_tennis-players
+Sabine_Appelmans,"Gender:FemaleDate of Birth:22 April  1972 - 04:30hBirth place:AalstCountry:BE, BelgiumAge:47 years",r_tennis-players
+Tracy_Austin,"Gender:FemaleDate of Birth:12 December  1962 - 06:18hBirth place:Redondo Beach, CaliforniaCountry:US, United StatesAge:57 years",r_tennis-players
+Julien_Benneteau,"Gender:MaleDate of Birth:20 December  1981 - 15:20hBirth place:Bourg-en-BresseCountry:FR, FranceAge:38 years",r_tennis-players
+Marcel_Bernard,"Gender:MaleDate of Birth:18 May  1914 - 20:00hBirth place:La MadeleineCountry:FR, FranceAge:† 79 years",r_tennis-players
+Arnaud_Boetsch,"Gender:MaleDate of Birth:1 April  1969 - 08:30hBirth place:Meulan-en-YvelinesCountry:FR, FranceAge:51 years",r_tennis-players
+Christian_Boussus,"Gender:MaleDate of Birth:5 March  1908 - 05:00hBirth place:HyèresCountry:FR, France",r_tennis-players
+Toto_Brugnon,"Gender:MaleDate of Birth:11 May  1895 - 10:30hBirth place:ParisCountry:FR, FranceAge:† 82 years",r_tennis-players
+Sergi_Bruguera,"Gender:MaleDate of Birth:16 January  1971 - 20:00hBirth place:BarcelonaCountry:ES, SpainAge:49 years",r_tennis-players
+Earl_H._Buchholz,"Gender:MaleDate of Birth:16 September  1940 - 09:25hBirth place:St. Louis, MissouriCountry:US, United StatesAge:79 years",r_tennis-players
+Neville_Bulwer-Lytton,"Gender:MaleDate of Birth:6 February  1879 - 02:00hBirth place:KolkataCountry:IN, IndiaAge:† 72 years",r_tennis-players
+Wilhelm_Bungert,"Gender:MaleDate of Birth:1 April  1939 - 12:35hBirth place:MannheimCountry:DE, GermanyAge:81 years",r_tennis-players
+Francesco_Cancellotti,"Gender:MaleDate of Birth:27 February  1963 - 20:00hBirth place:PerugiaCountry:IT, ItalyAge:57 years",r_tennis-players
+Jennifer_Capriati,"Gender:FemaleDate of Birth:29 March  1976Birth place:New York, New YorkCountry:US, United StatesAge:44 years",r_tennis-players
+Philippe_Chatrier,"Gender:MaleDate of Birth:2 February  1928 - 10:15hBirth place:CréteilCountry:FR, FranceAge:† 72 years",r_tennis-players
+Kim_Clijsters,"Gender:FemaleDate of Birth:8 June  1983 - 02:17hBirth place:BilzenCountry:BE, BelgiumAge:36 years",r_tennis-players
+Kenny_De_Schepper,"Gender:MaleDate of Birth:29 May  1987 - 04:05hBirth place:BordeauxCountry:FR, FranceAge:32 years",r_tennis-players
+Jo_Durie,"Gender:FemaleDate of Birth:27 July  1960 - 12:15hBirth place:Bristol, EnglandCountry:GB, United KingdomAge:59 years",r_tennis-players
+Chris_Evert,"Gender:FemaleDate of Birth:21 December  1954 - 04:30hBirth place:Fort Lauderdale, FloridaCountry:US, United StatesAge:65 years",r_tennis-players
+Althea_Gibson,"Gender:FemaleDate of Birth:25 August  1927 - 09:00hBirth place:Manning, South CarolinaCountry:US, United StatesAge:† 76 years",r_tennis-players
+David_Goffin,"Gender:MaleDate of Birth:7 December  1990 - 14:35hBirth place:LiègeCountry:BE, BelgiumAge:29 years",r_tennis-players
+Evonne_Goolagong,"Gender:FemaleDate of Birth:31 July  1951 - 12:00hBirth place:Griffith, New South WalesCountry:AU, AustraliaAge:68 years",r_tennis-players
+Clark_Edward_Graebner,"Gender:MaleDate of Birth:4 November  1943 - 18:20hBirth place:Cleveland, OhioCountry:US, United StatesAge:76 years",r_tennis-players
+Sébastien_Grosjean,"Gender:MaleDate of Birth:29 May  1978 - 08:00hBirth place:MarseilleCountry:FR, FranceAge:41 years",r_tennis-players
+Robert_Haillet,"Gender:MaleDate of Birth:26 September  1931 - 02:30hBirth place:PauCountry:FR, FranceAge:† 80 years",r_tennis-players
+Julie_Medalie_Heldman,"Gender:FemaleDate of Birth:8 December  1945 - 06:32hBirth place:Berkeley, CaliforniaCountry:US, United StatesAge:74 years",r_tennis-players
+Sylvia_Henrotin,"Gender:FemaleDate of Birth:10 July  1904 - 10:00hBirth place:Le HavreCountry:FR, FranceAge:† 66 years",r_tennis-players
+Yevgeny_Kafelnikov,"Gender:MaleDate of Birth:18 February  1974Birth place:SočiCountry:RU, RussiaAge:46 years",r_tennis-players
+Guga_Kuerten,"Gender:MaleDate of Birth:10 September  1976 - 03:30hBirth place:FlorianopolisCountry:BR, BrazilAge:43 years",r_tennis-players
+Henri_Leconte,"Gender:MaleDate of Birth:4 July  1963 - 08:45hBirth place:LillersCountry:FR, FranceAge:56 years",r_tennis-players
+Alice_Marble,"Gender:FemaleDate of Birth:28 September  1913 - 21:01hBirth place:Beckwourth, CaliforniaCountry:US, United StatesAge:† 77 years",r_tennis-players
+Ilie_Năstase,"Gender:MaleDate of Birth:19 July  1946 - 07:00hBirth place:BucharestCountry:RO, RomaniaAge:73 years",r_tennis-players
+Yannick_Noah,"Gender:MaleDate of Birth:18 May  1960 - 12:45hBirth place:SedanCountry:FR, FranceAge:59 years",r_tennis-players
+Benoît_Paire,"Gender:MaleDate of Birth:8 May  1989 - 21:05hBirth place:AvignonCountry:FR, FranceAge:30 years",r_tennis-players
+Claudio_Panatta,"Gender:MaleDate of Birth:2 February  1960 - 04:30hBirth place:RomeCountry:IT, ItalyAge:60 years",r_tennis-players
+Mary_Pierce,"Gender:FemaleDate of Birth:15 January  1975 - 01:07hBirth place:Montreal, QuébecCountry:CA, CanadaAge:45 years",r_tennis-players
+Gérard_Pilet,"Gender:MaleDate of Birth:15 September  1933 - 03:50hBirth place:Asnières-sur-SeineCountry:FR, FranceAge:86 years",r_tennis-players
+Cedric_Pioline,"Gender:MaleDate of Birth:15 June  1969 - 18:00hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:50 years",r_tennis-players
+Pat_Rafter,"Gender:FemaleDate of Birth:28 December  1972 - 07:15hBirth place:Mount Isa, QueenslandCountry:AU, AustraliaAge:47 years",r_tennis-players
+Dennis_Ralston,"Gender:MaleDate of Birth:27 July  1942 - 08:37hBirth place:Bakersfield, CaliforniaCountry:US, United StatesAge:77 years",r_tennis-players
+Fabrice_Santoro,"Gender:MaleDate of Birth:9 December  1972 - 16:00hBirth place:Pīra'eCountry:PF, French PolynesiaAge:47 years",r_tennis-players
+Ted_Schroeder,"Gender:MaleDate of Birth:20 July  1921 - 22:40hBirth place:Newark, New JerseyCountry:US, United StatesAge:† 84 years",r_tennis-players
+Monica_Seles,"Gender:FemaleDate of Birth:2 December  1973 - 05:00hBirth place:Novi SadCountry:RS, SerbiaAge:46 years",r_tennis-players
+Billy_Talbert,"Gender:MaleDate of Birth:4 September  1918 - 21:00hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 80 years",r_tennis-players
+Hendrik_Timmer,"Gender:MaleDate of Birth:8 February  1904 - 00:30hBirth place:UtrechtCountry:NL, NetherlandsAge:† 94 years",r_tennis-players
+Patricia_Todd,"Gender:FemaleDate of Birth:22 July  1922 - 17:00hBirth place:San Francisco, CaliforniaCountry:US, United States",r_tennis-players
+Guillermo_Vilas,"Gender:MaleDate of Birth:17 August  1952 - 12:00hBirth place:Buenos AiresCountry:AR, ArgentinaAge:67 years",r_tennis-players
+Gottfried_von_Cramm,"Gender:MaleDate of Birth:7 July  1909 - 17:45hBirth place:SöhldeCountry:DE, GermanyAge:† 67 years",r_tennis-players
+Don_Budge,"Gender:MaleDate of Birth:13 June  1915 - 04:00hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:† 84 years",r_tennis-players
+Simona_Halep,"Gender:FemaleDate of Birth:27 September  1991Birth place:ConstanțaCountry:RO, RomaniaAge:28 years",r_tennis-players
+Andrea_Holíková,"Gender:FemaleBirth:*1968Country:CE, CZSKAge:52 years",r_tennis-players
+Martin_Kameník,"Gender:MaleBirth:*1988Country:CE, CZSKAge:32 years",r_tennis-players
+Jiří_Košler,"Gender:MaleBirth:*1989Country:CE, CZSKAge:31 years",r_tennis-players
+Nicole_Vaidišová,"Gender:FemaleDate of Birth:23 April  1989Birth place:NurembergCountry:DE, GermanyAge:30 years",r_tennis-players
+Bohumil_Váňa,"Gender:MaleDate of Birth:17 January  1920Birth place:PragueCountry:CZ, Czech RepublicAge:† 68 years",r_tennis-players
+Mark_Philippoussis,"Gender:MaleDate of Birth:7 November  1976Birth place:MelbourneCountry:AU, AustraliaAge:43 years",r_tennis-players
+Daniela_Hantuchová,"Gender:FemaleBirth:*1983Country:SK, SlovakiaAge:36 years",r_tennis-players
+Dominika_Cibulková,"Gender:FemaleBirth:*1989Country:CZ, Czech RepublicAge:30 years",r_tennis-players
+Dean_Paul_Martin,"Gender:MaleDate of Birth:17 November  1951 - 18:50hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:† 35 years",r_tennis-players
+Věra_Suková,"Gender:FemaleDate of Birth:13 June  1931Birth place:Uherské HradištěCountry:CZ, Czech RepublicAge:† 50 years",r_tennis-players
+Maud_Watson,"Gender:FemaleDate of Birth:9 October  1864Birth place:Harrow, EnglandCountry:GB, United KingdomAge:† 81 years",r_tennis-players
+Lena_Rice,"Gender:FemaleDate of Birth:21 June  1866Birth place:TipperaryCountry:IE, IrelandAge:† 41 years",r_tennis-players
+Charlotte_Cooper_Sterry,"Gender:FemaleDate of Birth:22 September  1870Birth place:Ealing, EnglandCountry:GB, United KingdomAge:† 96 years",r_tennis-players
+Lottie_Dod,"Gender:FemaleDate of Birth:24 September  1871Birth place:Bebington, CheshireCountry:GB, United Kingdom",r_tennis-players
+Muriel_Robb,"Gender:FemaleDate of Birth:13 May  1878Birth place:Newcastle upon Tyne, EnglandCountry:GB, United Kingdom",r_tennis-players
+Dorothea_Douglass,"Gender:FemaleDate of Birth:3 September  1878Birth place:GuaymasCountry:MX, Mexico",r_tennis-players
+May_Sutton,"Gender:FemaleDate of Birth:25 September  1886Birth place:Plymouth, EnglandCountry:GB, United KingdomAge:† 89 years",r_tennis-players
+Cilly_Aussem,"Gender:FemaleDate of Birth:4 January  1909Birth place:CologneCountry:DE, GermanyAge:† 54 years",r_tennis-players
+Fred_Perry,"Gender:MaleDate of Birth:18 May  1909Birth place:Stockport District, EnglandCountry:GB, United Kingdom",r_tennis-players
+Jadwiga_Jędrzejowska,"Gender:FemaleDate of Birth:15 October  1912Birth place:KrakówCountry:PL, Poland",r_tennis-players
+Angela_Mortimer,"Gender:FemaleDate of Birth:21 April  1932Birth place:Plymouth, DevonCountry:GB, United KingdomAge:87 years",r_tennis-players
+Maria_Bueno,"Gender:FemaleDate of Birth:11 October  1939Birth place:São PauloCountry:BR, BrazilAge:80 years",r_tennis-players
+Betty_Stöve,"Gender:FemaleDate of Birth:24 June  1945Birth place:RotterdamCountry:NL, NetherlandsAge:74 years",r_tennis-players
+Renáta_Tomanová,"Gender:FemaleBirth:*1954Country:CZ, Czech RepublicAge:65 years",r_tennis-players
+Martina_Navrátilová,"Gender:FemaleBirth:*1956Country:CZ, Czech RepublicAge:63 years",r_tennis-players
+Ivan_Lendl,"Gender:MaleBirth:*1960Country:CZ, Czech RepublicAge:60 years",r_tennis-players
+Hana_Mandlíková,"Gender:FemaleBirth:*1962Country:CZ, Czech RepublicAge:58 years",r_tennis-players
+Mats_Wilander,"Gender:MaleDate of Birth:22 August  1964 - 05:00hBirth place:VäxjöCountry:SE, SwedenAge:55 years",r_tennis-players
+Helena_Suková,"Gender:FemaleBirth:*1965Country:CZ, Czech RepublicAge:55 years",r_tennis-players
+Petr_Korda,"Gender:MaleBirth:*1968Country:CZ, Czech RepublicAge:52 years",r_tennis-players
+Jana_Novotná,"Gender:FemaleDate of Birth:2 October  1968Birth place:BrnoCountry:CZ, Czech RepublicAge:† 49 years",r_tennis-players
+Todd_Woodbridge,"Gender:MaleDate of Birth:2 April  1971Birth place:Sydney, NSWCountry:AU, AustraliaAge:49 years",r_tennis-players
+Pete_Sampras,"Gender:MaleDate of Birth:12 August  1971Birth place:Washington HighlandsCountry:US, United StatesAge:48 years",r_tennis-players
+Jonas_Björkman,"Gender:MaleDate of Birth:23 March  1972Birth place:VaxjoCountry:SE, SwedenAge:48 years",r_tennis-players
+Greg_Rusedski,"Gender:MaleDate of Birth:6 September  1973Birth place:MontrealuCountry:CA, CanadaAge:46 years",r_tennis-players
+Virginia_Ruano_Pascual,"Gender:FemaleDate of Birth:21 September  1973Birth place:MadridCountry:ES, SpainAge:46 years",r_tennis-players
+Karol_Kučera,"Gender:MaleBirth:*1974Country:SK, SlovakiaAge:46 years",r_tennis-players
+Mahesh_Bhupathi,"Gender:MaleDate of Birth:7 June  1974Birth place:ChennaiCountry:IN, IndiaAge:45 years",r_tennis-players
+Bohdan_Ulihrach,"Gender:MaleBirth:*1975Country:CZ, Czech RepublicAge:45 years",r_tennis-players
+Jiří_Novák,"Gender:MaleBirth:*1975Country:CZ, Czech RepublicAge:45 years",r_tennis-players
+Marcelo_Ríos,"Gender:MaleDate of Birth:26 December  1975Birth place:SantiagoCountry:CL, ChileAge:44 years",r_tennis-players
+Lindsay_Davenport,"Gender:FemaleDate of Birth:8 June  1976Birth place:Rancho Palos Verdes, CaliforniaCountry:US, United StatesAge:43 years",r_tennis-players
+Paola_Suárez,"Gender:FemaleDate of Birth:23 June  1976Birth place:PergaminoCountry:AR, ArgentinaAge:43 years",r_tennis-players
+Carlos_Moyà,"Gender:MaleDate of Birth:27 August  1976Birth place:Palma de MajorqueCountry:ES, SpainAge:43 years",r_tennis-players
+Dominik_Hrbatý,"Gender:MaleBirth:*1978Country:SK, SlovakiaAge:42 years",r_tennis-players
+Radek_Štěpánek,"Gender:MaleBirth:*1978Country:CZ, Czech RepublicAge:41 years",r_tennis-players
+Marat_Safin,"Gender:MaleDate of Birth:27 January  1980Birth place:MoscowCountry:RU, RussiaAge:40 years",r_tennis-players
+Juan_Carlos_Ferrero,"Gender:MaleDate of Birth:12 February  1980Birth place:OntenienteCountry:ES, SpainAge:40 years",r_tennis-players
+Sybille_Bammer,"Gender:FemaleDate of Birth:27 April  1980Birth place:LinzCountry:AT, AustriaAge:39 years",r_tennis-players
+Francesca_Schiavone,"Gender:FemaleDate of Birth:23 June  1980Birth place:MilanCountry:IT, ItalyAge:39 years",r_tennis-players
+Fernando_González,"Gender:MaleDate of Birth:29 July  1980Birth place:ChillánCountry:CL, ChileAge:39 years",r_tennis-players
+Olivier_Rochus,"Gender:MaleDate of Birth:18 January  1981Birth place:NamurCountry:BE, BelgiumAge:39 years",r_tennis-players
+Taylor_Dent,"Gender:MaleDate of Birth:24 April  1981Birth place:Newport Beach, CaliforniaCountry:US, United StatesAge:38 years",r_tennis-players
+Jürgen_Melzer,"Gender:MaleDate of Birth:22 May  1981Birth place:ViennaCountry:AT, AustriaAge:38 years",r_tennis-players
+Jarkko_Nieminen,"Gender:MaleDate of Birth:23 July  1981Birth place:MaskuCountry:FI, FinlandAge:38 years",r_tennis-players
+Filippo_Volandri,"Gender:MaleDate of Birth:5 September  1981Birth place:LivornoCountry:IT, ItalyAge:38 years",r_tennis-players
+Mardy_Fish,"Gender:MaleDate of Birth:9 December  1981Birth place:Edina, MinnesotaCountry:US, United StatesAge:38 years",r_tennis-players
+David_Nalbandian,"Gender:MaleDate of Birth:1 January  1982Birth place:CórdobaCountry:AR, ArgentinaAge:38 years",r_tennis-players
+Klára_Koukalová,"Gender:FemaleBirth:*1982Country:CZ, Czech RepublicAge:38 years",r_tennis-players
+Klára_Zakopalová,"Gender:FemaleBirth:*1982Country:CZ, Czech RepublicAge:38 years",r_tennis-players
+Tommy_Robredo,"Gender:MaleDate of Birth:1 May  1982Birth place:HostalricCountry:ES, SpainAge:37 years",r_tennis-players
+Iveta_Benešová,"Gender:FemaleBirth:*1983Country:CZ, Czech RepublicAge:37 years",r_tennis-players
+Philipp_Kohlschreiber,"Gender:MaleDate of Birth:16 October  1983Birth place:AugsburgCountry:DE, GermanyAge:36 years",r_tennis-players
+Juan_Mónaco,"Gender:MaleDate of Birth:29 March  1984Birth place:Buenos AiresCountry:AR, ArgentinaAge:36 years",r_tennis-players
+Mario_Ančič,"Gender:MaleDate of Birth:30 March  1984Birth place:SplitCountry:HR, CroatiaAge:36 years",r_tennis-players
+Robin_Söderling,"Gender:MaleDate of Birth:14 August  1984Birth place:TibroCountry:SE, SwedenAge:35 years",r_tennis-players
+Marcos_Baghdatis,"Gender:MaleDate of Birth:17 June  1985Birth place:LimassolCountry:CY, CyprusAge:34 years",r_tennis-players
+Svetlana_Kuznetsova,"Gender:FemaleDate of Birth:27 June  1985Birth place:Saint PetersburgCountry:RU, RussiaAge:34 years",r_tennis-players
+Simone_Bolelli,"Gender:MaleDate of Birth:8 October  1985Birth place:BolognaCountry:IT, ItalyAge:34 years",r_tennis-players
+Viktor_Troicki,"Gender:MaleDate of Birth:10 February  1986Birth place:BelgradeCountry:RS, SerbiaAge:34 years",r_tennis-players
+Dinara_Safina,"Gender:FemaleDate of Birth:27 April  1986Birth place:MoscowCountry:RU, RussiaAge:33 years",r_tennis-players
+Maria_Kirilenko,"Gender:FemaleDate of Birth:25 January  1987Birth place:MoscowCountry:RU, RussiaAge:33 years",r_tennis-players
+Lucie_Šafářová,"Gender:FemaleBirth:*1987Country:CZ, Czech RepublicAge:33 years",r_tennis-players
+Jérémy_Chardy,"Gender:MaleDate of Birth:12 February  1987 - 03:50hBirth place:PauCountry:FR, FranceAge:33 years",r_tennis-players
+Anna_Chakvetadze,"Gender:FemaleDate of Birth:5 March  1987Birth place:MoscowCountry:RU, RussiaAge:33 years",r_tennis-players
+Tatiana_Golovin,"Gender:FemaleDate of Birth:25 January  1988Birth place:MoscowCountry:RU, RussiaAge:32 years",r_tennis-players
+Ernests_Gulbis,"Gender:MaleDate of Birth:30 August  1988Birth place:RigaCountry:LV, LatviaAge:31 years",r_tennis-players
+Julia_Görges,"Gender:FemaleDate of Birth:2 November  1988Birth place:Bad Oldesloe, Schleswig-HolsteinCountry:DE, GermanyAge:31 years",r_tennis-players
+Agnieszka_Radwańska,"Gender:FemaleDate of Birth:6 March  1989Birth place:KrakówCountry:PL, PolandAge:31 years",r_tennis-players
+Sabine_Lisicki,"Gender:FemaleDate of Birth:22 September  1989Birth place:TroisdorfCountry:DE, GermanyAge:30 years",r_tennis-players
+Petra_Kvitová,"Gender:FemaleBirth:*1990Country:CZ, Czech RepublicAge:30 years",r_tennis-players
+Sorana_Cîrstea,"Gender:FemaleDate of Birth:7 April  1990Birth place:BucharestCountry:RO, RomaniaAge:30 years",r_tennis-players
+Jonathan_Eysseric,"Gender:MaleDate of Birth:27 May  1990Birth place:Saint-Germain-en-LayeCountry:FR, FranceAge:29 years",r_tennis-players
+Simone_Barbier,"Gender:FemaleDate of Birth:19 January  1903 - 06:00hBirth place:NancyCountry:FR, France",r_tennis-players
+Bitti_Bergamo,"Gender:MaleDate of Birth:1 January  1930 - 03:45hBirth place:VeniceCountry:IT, ItalyAge:† 49 years",r_tennis-players
+Omar_Camporese,"Gender:MaleDate of Birth:8 May  1968 - 10:40hBirth place:BolognaCountry:IT, ItalyAge:51 years",r_tennis-players
+Paolo_Cane',"Gender:MaleDate of Birth:19 April  1965 - 04:00hBirth place:BolognaCountry:IT, ItalyAge:54 years",r_tennis-players
+Cristiano_Carratti,"Gender:MaleDate of Birth:24 May  1970 - 09:00hBirth place:Acqui TermeCountry:IT, ItalyAge:49 years",r_tennis-players
+Jacques_Chaban-Delmas,"Gender:MaleDate of Birth:7 March  1915 - 23:40hBirth place:ParisCountry:FR, FranceAge:† 85 years",r_tennis-players
+Dorothy_May_Bundy_Cheney,"Gender:FemaleDate of Birth:1 September  1916 - 14:30hBirth place:Los Angeles, CaliforniaCountry:US, United States",r_tennis-players
+Jim_Courier,"Gender:MaleDate of Birth:17 August  1970Birth place:Sanford, FloridaCountry:US, United StatesAge:49 years",r_tennis-players
+Suzanne_Desloges,"Gender:FemaleDate of Birth:14 December  1901 - 23:50hBirth place:Neuilly-sur-SeineCountry:FR, France",r_tennis-players
+Ruxandra_Dragomir,"Gender:FemaleDate of Birth:24 October  1972Birth place:PiteștiCountry:RO, RomaniaAge:47 years",r_tennis-players
+Thomas_Enqvist,"Gender:MaleDate of Birth:13 March  1974Birth place:StockholmCountry:SE, SwedenAge:46 years",r_tennis-players
+Mary_Joe_Fernandez,"Gender:FemaleDate of Birth:19 August  1971Birth place:Santo DomingoCountry:DO, Dominican RepublicAge:48 years",r_tennis-players
+Guy_Forget,"Gender:MaleDate of Birth:4 January  1965 - 01:15hBirth place:CasablancaCountry:MA, MoroccoAge:55 years",r_tennis-players
+Pancho_Gonzales,"Gender:MaleDate of Birth:9 May  1928 - 04:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 67 years",r_tennis-players
+Magnus_Gustafsson,"Gender:MaleDate of Birth:3 January  1967Birth place:LundCountry:SE, SwedenAge:53 years",r_tennis-players
+Darlene_R._Hard,"Gender:FemaleDate of Birth:6 January  1936 - 23:32hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:84 years",r_tennis-players
+Doris_Hart,"Gender:FemaleDate of Birth:20 June  1925 - 07:00hBirth place:St. Louis, MissouriCountry:US, United States",r_tennis-players
+Patty_Heard,"Gender:FemaleDate of Birth:24 December  1933 - 02:15hBirth place:Fort Worth, TexasCountry:US, United StatesAge:86 years",r_tennis-players
+Tim_Henman,"Gender:MaleDate of Birth:6 September  1974Birth place:Oxford, EnglandCountry:GB, United KingdomAge:45 years",r_tennis-players
+Mia_Rebecca_Hewitt,"Gender:FemaleDate of Birth:29 November  2005 - 01:45hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:14 years",r_tennis-players
+Martina_Hingis,"Gender:FemaleBirth:*1980Country:SK, SlovakiaAge:39 years",r_tennis-players
+Terry_Ann_Holladay,"Gender:FemaleDate of Birth:28 November  1955 - 08:26hBirth place:Charlotte, North CarolinaCountry:US, United StatesAge:64 years",r_tennis-players
+Anke_Huber,"Gender:FemaleDate of Birth:4 December  1974Birth place:BruchsalCountry:DE, GermanyAge:45 years",r_tennis-players
+Paul_Jalabert,"Gender:MaleDate of Birth:2 April  1928 - 23:50hBirth place:AlgiersCountry:DZ, AlgeriaAge:92 years",r_tennis-players
+Roland_Journu,"Gender:MaleDate of Birth:6 August  1906 - 01:30hBirth place:BordeauxCountry:FR, France",r_tennis-players
+Anna_Kournikova,"Gender:FemaleDate of Birth:7 June  1981Birth place:MoscowCountry:RU, RussiaAge:38 years",r_tennis-players
+Richard_Krajicek,"Gender:MaleDate of Birth:6 December  1971Birth place:RotterdamCountry:NL, NetherlandsAge:48 years",r_tennis-players
+Arthur_Larsen,"Gender:MaleDate of Birth:17 April  1925 - 02:00hBirth place:San Leandro, CaliforniaCountry:US, United States",r_tennis-players
+Alain_Lemyse,"Gender:MaleDate of Birth:6 November  1931 - 09:30hBirth place:RoubaixCountry:FR, FranceAge:88 years",r_tennis-players
+Jean_Lesueur,"Gender:MaleDate of Birth:24 June  1910 - 05:40hBirth place:DieppeCountry:FR, France",r_tennis-players
+Michael_Llodra,"Gender:MaleDate of Birth:18 May  1980 - 10:10hBirth place:SuresnesCountry:FR, FranceAge:39 years",r_tennis-players
+Marcelyn_Louie,"Gender:FemaleDate of Birth:10 September  1953 - 22:01hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:66 years",r_tennis-players
+Jada_Lynch,"Gender:FemaleDate of Birth:27 February  2008 - 13:35hBirth place:TongerenCountry:BE, BelgiumAge:12 years",r_tennis-players
+Alan_Richard_Mackin,"Gender:MaleDate of Birth:11 August  1981 - 21:44hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:38 years",r_tennis-players
+Nicolas_Mahut,"Gender:MaleDate of Birth:21 January  1982 - 09:45hBirth place:AngersCountry:FR, FranceAge:38 years",r_tennis-players
+Iva_Majoli,"Gender:FemaleDate of Birth:12 August  1977Birth place:ZagrebCountry:HR, CroatiaAge:42 years",r_tennis-players
+Magdalena_Maleeva,"Gender:FemaleDate of Birth:1 April  1975Birth place:SofiaCountry:BG, BulgariaAge:45 years",r_tennis-players
+Todd_Martin,"Gender:MaleDate of Birth:8 July  1970Birth place:Hinsdale, IllinoisCountry:US, United StatesAge:49 years",r_tennis-players
+Conchita_Martinez,"Gender:FemaleDate of Birth:16 April  1972Birth place:MonzónCountry:ES, SpainAge:47 years",r_tennis-players
+Simone_Mathieu,"Gender:FemaleDate of Birth:31 January  1908 - 11:45hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:† 71 years",r_tennis-players
+Chuck_McKinley,"Gender:MaleDate of Birth:5 January  1941 - 01:20hBirth place:St. Louis, MissouriCountry:US, United StatesAge:79 years",r_tennis-players
+Andrei_Medvedev,"Gender:MaleDate of Birth:31 August  1974Birth place:KievCountry:UA, UkraineAge:45 years",r_tennis-players
+Dominique_Monami,"Gender:FemaleDate of Birth:31 May  1973 - 22:00hBirth place:VerviersCountry:BE, BelgiumAge:46 years",r_tennis-players
+Thomas_Muster,"Gender:MaleDate of Birth:2 October  1967Birth place:LeibnitzCountry:AT, AustriaAge:52 years",r_tennis-players
+Janet_Scott_Newberry,"Gender:FemaleDate of Birth:6 August  1953 - 13:00hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:66 years",r_tennis-players
+Carol_Lee_Newsom,"Gender:FemaleDate of Birth:23 May  1946 - 08:45hBirth place:Brookline, MassachusettsCountry:US, United StatesAge:† 56 years",r_tennis-players
+Marie-Claire_Noah,"Gender:FemaleDate of Birth:30 September  1937 - 03:00hBirth place:SedanCountry:FR, FranceAge:† 75 years",r_tennis-players
+Magnus_Norman,"Gender:MaleDate of Birth:30 May  1976Birth place:StockholmCountry:SE, SwedenAge:43 years",r_tennis-players
+Betty_Nuthall,"Gender:FemaleDate of Birth:11 May  1911 - 10:30hBirth place:Surbiton, EnglandCountry:GB, United Kingdom",r_tennis-players
+Tom_Okker,"Gender:MaleDate of Birth:22 February  1944 - 18:20hBirth place:AmsterdamCountry:NL, NetherlandsAge:76 years",r_tennis-players
+Alex_Olmedo,"Gender:MaleDate of Birth:24 March  1936 - 09:30hBirth place:ArequipaCountry:PE, PeruAge:84 years",r_tennis-players
+Adriano_Di_Panatta,"Gender:MaleDate of Birth:9 July  1950 - 12:00hBirth place:RomeCountry:IT, ItalyAge:69 years",r_tennis-players
+Pierre_Pellizza,"Gender:MaleDate of Birth:10 July  1917 - 20:00hBirth place:LurdyCountry:FR, FranceAge:† 56 years",r_tennis-players
+Kimberly_Po,"Gender:FemaleDate of Birth:20 October  1971Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:48 years",r_tennis-players
+John_Powless,"Gender:MaleDate of Birth:24 August  1932 - 09:15hBirth place:Flora, IllinoisCountry:US, United StatesAge:87 years",r_tennis-players
+India_Rafter,"Gender:FemaleDate of Birth:24 May  2005 - 03:00hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:14 years",r_tennis-players
+Bob_Ramillon,"Gender:MaleDate of Birth:24 February  1909 - 16:00hBirth place:CannesCountry:FR, France",r_tennis-players
+Guillaume_Raoux,"Gender:MaleDate of Birth:14 February  1970 - 10:15hBirth place:Bagnols-sur-CèzeCountry:FR, FranceAge:50 years",r_tennis-players
+Martin_Riessen,"Gender:MaleDate of Birth:4 December  1941 - 19:31hBirth place:Hinsdale, IllinoisCountry:US, United StatesAge:78 years",r_tennis-players
+Bobby_Riggs,"Gender:MaleDate of Birth:25 February  1918 - 01:00hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 77 years",r_tennis-players
+Gianluca_Rinaldini,"Gender:MaleDate of Birth:10 August  1959 - 15:45hBirth place:FaenzaCountry:IT, ItalyAge:60 years",r_tennis-players
+Lionel_Roux,"Gender:MaleDate of Birth:12 April  1973 - 12:30hBirth place:LyonCountry:FR, FranceAge:46 years",r_tennis-players
+Chanda_Rubin,"Gender:FemaleDate of Birth:18 February  1976Birth place:Lafayette, LouisianaCountry:US, United StatesAge:44 years",r_tennis-players
+Jean-Michel_Saive,"Gender:MaleDate of Birth:17 November  1969 - 23:15hBirth place:LiègeCountry:BE, BelgiumAge:50 years",r_tennis-players
+Philippe_Saive,"Gender:MaleDate of Birth:2 July  1971 - 11:30hBirth place:LiègeCountry:BE, BelgiumAge:48 years",r_tennis-players
+Dick_Savitt,"Gender:MaleDate of Birth:4 March  1927 - 16:15hBirth place:Bayonne, New JerseyCountry:US, United StatesAge:93 years",r_tennis-players
+Jacques_Secretin,"Gender:MaleDate of Birth:18 March  1944 - 23:45hBirth place:CarvinCountry:FR, FranceAge:76 years",r_tennis-players
+Irina_Spirlea,"Gender:FemaleDate of Birth:26 March  1974Birth place:BucharestCountry:RO, RomaniaAge:46 years",r_tennis-players
+Roscoe_Tanner,"Gender:MaleDate of Birth:15 October  1951 - 13:30hBirth place:Chattanooga, TennesseeCountry:US, United StatesAge:68 years",r_tennis-players
+Jacques_Thomas,"Gender:MaleDate of Birth:13 April  1922 - 06:00hBirth place:AntibesCountry:FR, France",r_tennis-players
+Tony_Trabert,"Gender:MaleDate of Birth:16 August  1930 - 03:50hBirth place:Cincinnati, OhioCountry:US, United StatesAge:89 years",r_tennis-players
+Pierre_Vaultier,"Gender:MaleDate of Birth:24 June  1987 - 04:32hBirth place:BriançonCountry:FR, FranceAge:32 years",r_tennis-players
+Ellsworth_Vines,"Gender:MaleDate of Birth:29 September  1911 - 12:00hBirth place:Los Angeles, CaliforniaCountry:US, United States",r_tennis-players
+Malivai_Washington,"Gender:MaleDate of Birth:20 June  1969Birth place:Glen Cove, New YorkCountry:US, United StatesAge:50 years",r_tennis-players
+Mark_Woodforde,"Gender:MaleDate of Birth:23 September  1965Birth place:Adelaide, South AustraliaCountry:AU, AustraliaAge:54 years",r_tennis-players
+Tereza_Adámková,"Gender:FemaleDate of Birth:1 January  1982Country:XX, Unknown(?)Age:38 years",r_tennis-players
+Mansour_Bahrami,"Gender:MaleDate of Birth:26 April  1956Birth place:ArákCountry:IR, IranAge:63 years",r_tennis-players
+Blanche_Bingley_Hillyard,"Gender:FemaleDate of Birth:3 November  1863Birth place:Greenford, EnglandCountry:GB, United KingdomAge:† 82 years",r_tennis-players
+Cara_Black,"Gender:FemaleDate of Birth:17 February  1979Birth place:HarareCountry:ZW, ZimbabweAge:41 years",r_tennis-players
+James_Blake,"Gender:MaleDate of Birth:28 December  1979Birth place:Yonkers, New YorkCountry:US, United StatesAge:40 years",r_tennis-players
+Jan_Blecha,"Gender:MaleBirth:*1989Country:CZ, Czech RepublicAge:31 years",r_tennis-players
+Dora_Boothby,"Gender:FemaleDate of Birth:2 August  1881Birth place:London, EnglandCountry:GB, United KingdomAge:† 88 years",r_tennis-players
+Eugenie_Bouchard,"Gender:FemaleDate of Birth:25 February  1994Birth place:Montreal, QuébecCountry:CA, CanadaAge:26 years",r_tennis-players
+Louise_Broughová,"Gender:FemaleDate of Birth:11 March  1923Birth place:Oklahoma City, OklahomaCountry:US, United States",r_tennis-players
+Petra_Cetkovská,"Gender:FemaleBirth:*1985Country:CZ, Czech RepublicAge:35 years",r_tennis-players
+William_Clothier,"Gender:MaleDate of Birth:27 September  1881Birth place:Sharon Hill, PennsylvaniaCountry:US, United States",r_tennis-players
+Margaret_Court,"Gender:FemaleDate of Birth:16 July  1942Birth place:Albury, New South WalesCountry:AU, AustraliaAge:77 years",r_tennis-players
+Jan_Čejka,"Gender:MaleBirth:*1988Country:CE, CZSKAge:31 years",r_tennis-players
+Marin_Čilić,"Gender:MaleDate of Birth:28 September  1988Birth place:ZagrebCountry:HR, CroatiaAge:31 years",r_tennis-players
+Martin_Damm,"Gender:MaleBirth:*1972Country:CZ, Czech RepublicAge:47 years",r_tennis-players
+Nikolay_Davydenko,"Gender:MaleDate of Birth:2 June  1981Birth place:SeverodoněckCountry:UA, UkraineAge:38 years",r_tennis-players
+Elena_Dementieva,"Gender:FemaleDate of Birth:15 October  1981Birth place:MoscowCountry:RU, RussiaAge:38 years",r_tennis-players
+Zarina_Diyas,"Gender:FemaleDate of Birth:18 October  1993Country:KZ, KazakhstanAge:26 years",r_tennis-players
+Djordje_Djokovič,"Gender:MaleDate of Birth:17 July  1995Country:RS, SerbiaAge:24 years",r_tennis-players
+Marko_Djokovič,"Gender:MaleDate of Birth:20 August  1991Birth place:BelgradeCountry:RS, SerbiaAge:28 years",r_tennis-players
+Lukáš_Dlouhý,"Gender:MaleBirth:*1983Country:CZ, Czech RepublicAge:36 years",r_tennis-players
+Margaret_Osborne_duPont,"Gender:FemaleDate of Birth:4 February  1918Birth place:Joseph, OregonCountry:US, United States",r_tennis-players
+Sara_Errani,"Gender:FemaleDate of Birth:29 April  1987Birth place:BolognaCountry:IT, ItalyAge:32 years",r_tennis-players
+Nikola_Fraňková,"Gender:FemaleBirth:*1988Country:CZ, Czech RepublicAge:32 years",r_tennis-players
+Leoš_Friedl,"Gender:MaleBirth:*1977Country:CZ, Czech RepublicAge:43 years",r_tennis-players
+Camila_Giorgi,"Gender:FemaleDate of Birth:31 December  1991Birth place:MacerataCountry:IT, ItalyAge:28 years",r_tennis-players
+Kathleen_McKane_Godfree,"Gender:FemaleDate of Birth:6 May  1896Birth place:London, EnglandCountry:GB, United KingdomAge:† 96 years",r_tennis-players
+Spencer_Gore,"Gender:MaleDate of Birth:10 March  1850Country:XX, Unknown(?)Age:† 56 years",r_tennis-players
+Anna-Lena_Grönefeld,"Gender:FemaleDate of Birth:4 June  1985Birth place:NordhornCountry:DE, GermanyAge:34 years",r_tennis-players
+Karina_Habšudová,"Gender:FemaleBirth:*1973Country:SK, SlovakiaAge:46 years",r_tennis-players
+Dana_Hadačová,"Gender:FemaleBirth:*1983Country:CZ, Czech RepublicAge:36 years",r_tennis-players
+Sylvia_Hanika,"Gender:FemaleDate of Birth:30 November  1959Birth place:MunichCountry:DE, GermanyAge:60 years",r_tennis-players
+Christian_Harrison,"Gender:MaleDate of Birth:29 May  1994Birth place:Shreveport, LouisianaCountry:US, United StatesAge:25 years",r_tennis-players
+Jan_Hernych,"Gender:MaleBirth:*1979Country:CZ, Czech RepublicAge:40 years",r_tennis-players
+Lucie_Hradecká,"Gender:FemaleBirth:*1985Country:CZ, Czech RepublicAge:34 years",r_tennis-players
+Liezel_Huber,"Gender:FemaleDate of Birth:21 August  1976Birth place:DurbanCountry:ZA, South AfricaAge:43 years",r_tennis-players
+Stephen_Huss,"Gender:MaleDate of Birth:10 December  1975Birth place:Bendigo, VictoriaCountry:AU, AustraliaAge:44 years",r_tennis-players
+Helen_Jacobs,"Gender:FemaleDate of Birth:6 August  1908Birth place:Globe, ArizonaCountry:US, United StatesAge:† 88 years",r_tennis-players
+Anet_Jarolímová,"Gender:FemaleDate of Birth:5 July  1989Birth place:ParisCountry:FR, FranceAge:30 years",r_tennis-players
+Roman_Jebavý,"Gender:MaleBirth:*1989Country:CZ, Czech RepublicAge:30 years",r_tennis-players
+Zhang_Jike,"Gender:MaleDate of Birth:16 February  1988Birth place:QingdaoCountry:CN, ChinaAge:32 years",r_tennis-players
+Bill_Johnston,"Gender:MaleDate of Birth:2 November  1894Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 51 years",r_tennis-players
+Sandra_Kleinová,"Gender:FemaleBirth:*1978Country:CZ, Czech RepublicAge:41 years",r_tennis-players
+Mark_Knowles,"Gender:MaleDate of Birth:4 August  1971Birth place:NassauCountry:BS, BahamasAge:48 years",r_tennis-players
+Jan_Kodeš,"Gender:MaleBirth:*1946Country:CZ, Czech RepublicAge:74 years",r_tennis-players
+Petr_Korbel,"Gender:MaleBirth:*1971Country:CZ, Czech RepublicAge:48 years",r_tennis-players
+David_Kotyza,"Gender:MaleBirth:*1967Country:CZ, Czech RepublicAge:52 years",r_tennis-players
+Karel_Koželuh,"Gender:MaleDate of Birth:7 March  1895Birth place:PragueCountry:CZ, Czech RepublicAge:† 55 years",r_tennis-players
+William_Larned,"Gender:MaleDate of Birth:30 December  1872Birth place:Summit, New JerseyCountry:US, United States",r_tennis-players
+Rod_Laver,"Gender:MaleDate of Birth:19 August  1938Country:AU, AustraliaAge:81 years",r_tennis-players
+Jesse_Levine,"Gender:MaleDate of Birth:15 October  1987Birth place:Ottawa, OntarioCountry:CA, CanadaAge:32 years",r_tennis-players
+Elena_Likhovtseva,"Gender:FemaleDate of Birth:8 September  1975Birth place:AlmatyCountry:KZ, KazakhstanAge:44 years",r_tennis-players
+Dorothy_Round_Little,"Gender:FemaleDate of Birth:13 June  1908Birth place:Dudley District, EnglandCountry:GB, United KingdomAge:† 74 years",r_tennis-players
+Émilie_Loit,"Gender:FemaleDate of Birth:9 June  1979 - 07:10hBirth place:Cherbourg-OctevilleCountry:FR, FranceAge:40 years",r_tennis-players
+Dušan_Lojda,"Gender:MaleBirth:*1988Country:CZ, Czech RepublicAge:32 years",r_tennis-players
+Rui_Machado,"Gender:MaleDate of Birth:10 April  1984Country:PT, PortugalAge:35 years",r_tennis-players
+Lubomír_Majšajdr,"Gender:MaleBirth:*1988Country:CZ, Czech RepublicAge:32 years",r_tennis-players
+Michal_Matěásko,"Gender:MaleBirth:*1988Country:CZ, Czech RepublicAge:31 years",r_tennis-players
+Miloslav_Mečíř,"Gender:MaleBirth:*1964Country:SK, SlovakiaAge:55 years",r_tennis-players
+Roderich_Menzel,"Gender:MaleDate of Birth:13 April  1907Birth place:LiberecCountry:CZ, Czech RepublicAge:† 80 years",r_tennis-players
+Ivo_Minář,"Gender:MaleBirth:*1984Country:CZ, Czech RepublicAge:35 years",r_tennis-players
+Max_Mirnyj,"Gender:MaleDate of Birth:6 July  1977Birth place:MinskCountry:BY, BelarusAge:42 years",r_tennis-players
+Sania_Mirza,"Gender:FemaleDate of Birth:15 November  1986Birth place:HyderabadCountry:IN, IndiaAge:33 years",r_tennis-players
+Mathieu_Montcourt,"Gender:MaleDate of Birth:4 March  1985Birth place:ParisCountry:FR, FranceAge:35 years",r_tennis-players
+Wesley_Moodie,"Gender:MaleDate of Birth:14 February  1979Birth place:DurbanCountry:ZA, South AfricaAge:41 years",r_tennis-players
+Jamie_Murray,"Gender:MaleDate of Birth:13 February  1986 - 02:01hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:34 years",r_tennis-players
+Daniel_Nestor,"Gender:MaleDate of Birth:4 September  1972Birth place:BelgradeCountry:RS, SerbiaAge:47 years",r_tennis-players
+Kurt_Nielsen,"Gender:MaleDate of Birth:19 November  1930Country:XX, Unknown(?)Age:89 years",r_tennis-players
+Melanie_Oudin,"Gender:FemaleDate of Birth:23 September  1991Birth place:Marietta, GeorgiaCountry:US, United StatesAge:28 years",r_tennis-players
+Dimitrij_Ovtcharov,"Gender:MaleDate of Birth:2 September  1988Birth place:KievCountry:UA, UkraineAge:31 years",r_tennis-players
+Leander_Paes,"Gender:MaleDate of Birth:17 June  1973Birth place:KolkataCountry:IN, IndiaAge:46 years",r_tennis-players
+Jiří_Parma,"Gender:MaleBirth:*1929Country:CZ, Czech RepublicAge:91 years",r_tennis-players
+Květa_Peschkeová,"Gender:FemaleBirth:*1975Country:CZ, Czech RepublicAge:44 years",r_tennis-players
+Naděžda_Petrov,"Gender:FemaleDate of Birth:8 June  1982Birth place:MoscowCountry:RU, RussiaAge:37 years",r_tennis-players
+Karolína_Plíšková,"Gender:FemaleBirth:*1992Country:CZ, Czech RepublicAge:28 years",r_tennis-players
+Kristýna_Plíšková,"Gender:FemaleBirth:*1992Country:CZ, Czech RepublicAge:28 years",r_tennis-players
+Vasek_Pospisil,"Gender:MaleDate of Birth:23 June  1990Birth place:Vernon, British ColumbiaCountry:CA, CanadaAge:29 years",r_tennis-players
+Jiří_Priesol,"Gender:MaleDate of Birth:19 July  1980Country:XX, Unknown(?)Age:39 years",r_tennis-players
+Andy_Ram,"Gender:MaleDate of Birth:10 April  1980Birth place:MontevideoCountry:UY, UruguayAge:39 years",r_tennis-players
+Lisa_Raymondová,"Gender:FemaleDate of Birth:10 August  1973Birth place:Norristown, PennsylvaniaCountry:US, United StatesAge:46 years",r_tennis-players
+Josiah_Ritchie,"Gender:MaleDate of Birth:18 October  1870Birth place:Westminster, EnglandCountry:GB, United Kingdom",r_tennis-players
+Laura_Robson,"Gender:FemaleDate of Birth:21 January  1994Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:26 years",r_tennis-players
+Ken_Rosewall,"Gender:MaleDate of Birth:2 November  1934Birth place:Sydney, New South WalesCountry:AU, AustraliaAge:85 years",r_tennis-players
+Lukáš_Rosol,"Gender:MaleBirth:*1985Country:CZ, Czech RepublicAge:34 years",r_tennis-players
+Magdaléna_Rybáriková,"Gender:FemaleBirth:*1988Country:SK, SlovakiaAge:31 years",r_tennis-players
+Vladimir_Samsonov,"Gender:MaleDate of Birth:17 April  1976Birth place:MinskCountry:BY, BelarusAge:43 years",r_tennis-players
+Werner_Schlager,"Gender:MaleDate of Birth:28 September  1972Birth place:Vídeňské Nové MěstoCountry:AT, AustriaAge:47 years",r_tennis-players
+Rainer_Schüttler,"Gender:MaleDate of Birth:25 April  1976Birth place:KorbachCountry:DE, GermanyAge:43 years",r_tennis-players
+Pavel_Složil,"Gender:MaleBirth:*1955Country:CZ, Czech RepublicAge:64 years",r_tennis-players
+Katarina_Srebotniková,"Gender:FemaleDate of Birth:12 March  1981Birth place:Slovenj GradecCountry:SI, SloveniaAge:39 years",r_tennis-players
+Fred_Stolle,"Gender:MaleDate of Birth:8 October  1938Birth place:Hornsby, New South WalesCountry:AU, AustraliaAge:81 years",r_tennis-players
+Rennae_Stubbs,"Gender:FemaleDate of Birth:26 March  1971Birth place:Sydney, New South WalesCountry:AU, AustraliaAge:49 years",r_tennis-players
+Ai_Sugijama,"Gender:FemaleDate of Birth:5 July  1975Birth place:YokohamaCountry:JP, JapanAge:44 years",r_tennis-players
+Cyril_Suk,"Gender:MaleBirth:*1967Country:CZ, Czech RepublicAge:53 years",r_tennis-players
+Karen_Hantze_Susman,"Gender:FemaleDate of Birth:11 December  1942Birth place:San Diego, CaliforniaCountry:US, United StatesAge:77 years",r_tennis-players
+Jan_Šátral,"Gender:MaleBirth:*1990Country:CZ, Czech RepublicAge:29 years",r_tennis-players
+Jiří_Školoudík,"Gender:MaleBirth:*1987Country:CZ, Czech RepublicAge:33 years",r_tennis-players
+Tomáš_Šmíd,"Gender:MaleBirth:*1956Country:CZ, Czech RepublicAge:63 years",r_tennis-players
+Romana_Tabaková,"Gender:FemaleBirth:*1991Country:SK, SlovakiaAge:28 years",r_tennis-players
+Nathalie_Tauziat,"Gender:FemaleDate of Birth:17 October  1967 - 11:20hBirth place:BanguiCountry:CF, Central African RepublicAge:52 years",r_tennis-players
+Bill_Tilden,"Gender:MaleDate of Birth:10 February  1893Birth place:Philadelphia, PennsylvaniaCountry:US, United States",r_tennis-players
+Monika_Tůmová,"Gender:FemaleBirth:*1991Country:CZ, Czech RepublicAge:29 years",r_tennis-players
+Dmitrij_Tursunov,"Gender:MaleDate of Birth:12 December  1982Birth place:MoscowCountry:RU, RussiaAge:37 years",r_tennis-players
+Kevin_Ullyett,"Gender:MaleDate of Birth:23 May  1972Birth place:HarareCountry:ZW, ZimbabweAge:47 years",r_tennis-players
+Jiří_Vaněk,"Gender:MaleDate of Birth:24 April  1978Country:XX, Unknown(?)Age:41 years",r_tennis-players
+Miroslava_Vavrincová,"Gender:FemaleBirth:*1978Country:SK, SlovakiaAge:42 years",r_tennis-players
+Pavel_Vízner,"Gender:MaleBirth:*1970Country:CZ, Czech RepublicAge:49 years",r_tennis-players
+Lukáš_Vrňák,"Gender:MaleDate of Birth:14 July  1993Country:XX, Unknown(?)Age:26 years",r_tennis-players
+Aleksandra_Wozniak,"Gender:FemaleDate of Birth:7 September  1987Birth place:Montreal, QuébecCountry:CA, CanadaAge:32 years",r_tennis-players
+Sandra_Záhlavová,"Gender:FemaleBirth:*1985Country:CZ, Czech RepublicAge:34 years",r_tennis-players
+Jie_Zheng,"Gender:FemaleDate of Birth:5 June  1983Birth place:Čcheng-tuCountry:CN, ChinaAge:36 years",r_tennis-players
+Nenad_Zimonjic,"Gender:MaleDate of Birth:4 June  1976Birth place:BelgradeCountry:RS, SerbiaAge:43 years",r_tennis-players
+Yan_Zi,"Gender:FemaleDate of Birth:12 November  1984Birth place:Čcheng-tuCountry:CN, ChinaAge:35 years",r_tennis-players
+Vera_Zvonareva,"Gender:FemaleDate of Birth:7 September  1984Birth place:MoscowCountry:RU, RussiaAge:35 years",r_tennis-players
+Michael_Westphal,"Gender:MaleDate of Birth:19 February  1965Birth place:PinnebergCountry:DE, GermanyAge:† 26 years",r_tennis-players
+Barbora_Strýcová,"Gender:FemaleBirth:*1986Country:CZ, Czech RepublicAge:34 years",r_tennis-players
+Ryan_Sweeting,"Gender:MaleDate of Birth:14 July  1987Birth place:NassauCountry:BS, BahamasAge:32 years",r_tennis-players
+Tony_Wilding,"Gender:MaleDate of Birth:31 October  1883Birth place:Christchurch, CanterburyCountry:NZ, New ZealandAge:† 31 years",r_tennis-players

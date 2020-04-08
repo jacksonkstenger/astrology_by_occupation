@@ -1,0 +1,681 @@
+name,info,occupation
+Shaquille_O'Neal,"Gender:MaleDate of Birth:6 March  1972 - 08:00hBirth place:Newark, New YorkCountry:US, United StatesAge:48 years",r_basketball-players
+Michael_Jordan,"Gender:MaleDate of Birth:17 February  1963 - 13:40hBirth place:New York, New YorkCountry:US, United StatesAge:57 years",r_basketball-players
+James_Naismith,"Gender:MaleDate of Birth:6 November  1861Birth place:Almonte, OntarioCountry:CA, CanadaAge:† 78 years",r_basketball-players
+Magic_Johnson,"Gender:MaleDate of Birth:14 August  1959Birth place:LansingCountry:US, United StatesAge:60 years",r_basketball-players
+Kobe_Bryant,"Gender:MaleDate of Birth:23 August  1978 - 17:00hBirth place:Harrisburg, PennsylvaniaCountry:US, United StatesAge:† 41 years",r_basketball-players
+Dennis_Rodman,"Gender:MaleDate of Birth:13 May  1961 - 00:10hBirth place:Trenton, New JerseyCountry:US, United StatesAge:58 years",r_basketball-players
+Allen_Iverson,"Gender:MaleDate of Birth:7 June  1975Birth place:HamptonCountry:US, United StatesAge:44 years",r_basketball-players
+Tony_Parker,"Gender:MaleDate of Birth:17 May  1982 - 16:40hBirth place:BrugesCountry:BE, BelgiumAge:37 years",r_basketball-players
+LeBron_James,"Gender:MaleDate of Birth:30 December  1984 - 16:04hBirth place:Akron, OhioCountry:US, United StatesAge:35 years",r_basketball-players
+Derrick_Rose,"Gender:MaleDate of Birth:4 October  1988Birth place:Chicago, IllinoisCountry:US, United StatesAge:31 years",r_basketball-players
+John_Amaechi,"Gender:MaleDate of Birth:26 November  1970 - 01:31hBirth place:Boston, MassachusettsCountry:US, United StatesAge:49 years",r_basketball-players
+Nick_Anderson,"Gender:MaleDate of Birth:20 January  1968 - 05:30hBirth place:Chicago, IllinoisCountry:US, United StatesAge:52 years",r_basketball-players
+Dana_Barros,"Gender:MaleDate of Birth:13 April  1967 - 08:47hBirth place:Boston, MassachusettsCountry:US, United StatesAge:52 years",r_basketball-players
+Gary_Bradds,"Gender:MaleDate of Birth:26 July  1942 - 04:15hBirth place:Sabina, OhioCountry:US, United StatesAge:† 40 years",r_basketball-players
+Ayla_Brown,"Gender:FemaleDate of Birth:28 July  1988 - 06:56hBirth place:Waltham, MassachusettsCountry:US, United StatesAge:31 years",r_basketball-players
+Elden_Campbell,"Gender:MaleDate of Birth:23 July  1968 - 18:31hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Tom_Chambers,"Gender:MaleDate of Birth:21 June  1959 - 14:46hBirth place:Ogden, UtahCountry:US, United StatesAge:60 years",r_basketball-players
+Glen_Combs,"Gender:MaleDate of Birth:30 October  1946 - 16:10hBirth place:Hazard, KentuckyCountry:US, United StatesAge:73 years",r_basketball-players
+Dave_W._Cowens,"Gender:MaleDate of Birth:25 October  1948 - 04:28hBirth place:Newport, KentuckyCountry:US, United StatesAge:71 years",r_basketball-players
+Bob_Dandridge,"Gender:MaleDate of Birth:15 November  1947 - 13:25hBirth place:Richmond, VirginiaCountry:US, United StatesAge:72 years",r_basketball-players
+Bison_Dele,"Gender:MaleDate of Birth:6 April  1969 - 12:01hBirth place:Fresno, CaliforniaCountry:US, United StatesAge:† 33 years",r_basketball-players
+Julius_Erving,"Gender:MaleDate of Birth:22 February  1950 - 20:51hBirth place:Hempstead, New YorkCountry:US, United StatesAge:70 years",r_basketball-players
+Chet_Forte,"Gender:MaleDate of Birth:7 August  1935 - 03:30hBirth place:Hackensack, New JerseyCountry:US, United StatesAge:† 60 years",r_basketball-players
+Kevin_Grevey,"Gender:MaleDate of Birth:12 May  1953 - 23:55hBirth place:Hamilton, OhioCountry:US, United StatesAge:66 years",r_basketball-players
+Thomas_Heinsohn,"Gender:MaleDate of Birth:26 August  1934 - 13:31hBirth place:Union, New JerseyCountry:US, United StatesAge:85 years",r_basketball-players
+Brian_Hill,"Gender:MaleDate of Birth:19 September  1947 - 04:09hBirth place:Newark, New JerseyCountry:US, United StatesAge:72 years",r_basketball-players
+Jeff_Hornacek,"Gender:MaleDate of Birth:3 May  1963 - 10:28hBirth place:Elmhurst, IllinoisCountry:US, United StatesAge:56 years",r_basketball-players
+Bill_Hosket_Jr.,"Gender:MaleDate of Birth:20 December  1946 - 06:28hBirth place:Dayton, OhioCountry:US, United StatesAge:73 years",r_basketball-players
+Lou_Hudson,"Gender:MaleDate of Birth:11 July  1944 - 08:10hBirth place:Greensboro, North CarolinaCountry:US, United StatesAge:† 69 years",r_basketball-players
+Rod_Hundley,"Gender:MaleDate of Birth:26 October  1934 - 11:00hBirth place:Charleston, West VirginiaCountry:US, United StatesAge:85 years",r_basketball-players
+Phil_Jackson,"Gender:MaleDate of Birth:17 September  1945 - 17:40hBirth place:Deer Lodge, MontanaCountry:US, United StatesAge:74 years",r_basketball-players
+Bobby_Jones,"Gender:MaleDate of Birth:18 December  1951 - 04:15hBirth place:Akron, OhioCountry:US, United StatesAge:68 years",r_basketball-players
+Larry_Jones,"Gender:MaleDate of Birth:22 September  1941 - 05:58hBirth place:Columbus, OhioCountry:US, United StatesAge:78 years",r_basketball-players
+Marcus_Jordan,"Gender:MaleDate of Birth:24 December  1990 - 05:30hBirth place:Chicago, IllinoisCountry:US, United StatesAge:29 years",r_basketball-players
+Bob_Knight,"Gender:MaleDate of Birth:25 October  1940 - 08:42hBirth place:Massillon, OhioCountry:US, United StatesAge:79 years",r_basketball-players
+Donald_Kojis,"Gender:MaleDate of Birth:15 July  1939 - 08:57hBirth place:Milwaukee, WisconsinCountry:US, United StatesAge:80 years",r_basketball-players
+William_Laimbeer_Jr.,"Gender:MaleDate of Birth:19 May  1957 - 05:17hBirth place:Boston, MassachusettsCountry:US, United StatesAge:62 years",r_basketball-players
+Meadowlark_Lemon,"Gender:MaleDate of Birth:25 April  1933 - 18:00hBirth place:Lexington, South CarolinaCountry:US, United StatesAge:† 82 years",r_basketball-players
+Horacio_Llamas,"Gender:MaleDate of Birth:17 July  1973 - 12:01hBirth place:Mexico CityCountry:MX, MexicoAge:46 years",r_basketball-players
+George_Mikan,"Gender:MaleDate of Birth:18 June  1924 - 13:00hBirth place:Joliet, IllinoisCountry:US, United StatesAge:† 80 years",r_basketball-players
+Reggie_Miller,"Gender:MaleDate of Birth:24 August  1965 - 16:39hBirth place:Riverside, CaliforniaCountry:US, United StatesAge:54 years",r_basketball-players
+Yao_Ming,"Gender:MaleDate of Birth:12 September  1980 - 19:00hBirth place:ShanghaiCountry:CN, ChinaAge:39 years",r_basketball-players
+Martin_Müürsepp,"Gender:MaleDate of Birth:26 September  1974 - 12:01hBirth place:TallinnCountry:EE, EstoniaAge:45 years",r_basketball-players
+Joakim-Simon_Noah,"Gender:MaleDate of Birth:25 February  1985 - 21:30hBirth place:New York, New YorkCountry:US, United StatesAge:35 years",r_basketball-players
+Tom_Owens,"Gender:MaleDate of Birth:9 October  1944 - 08:20hBirth place:Santa Ana, CaliforniaCountry:US, United StatesAge:75 years",r_basketball-players
+John_Paxson,"Gender:MaleDate of Birth:29 September  1960 - 01:15hBirth place:Dayton, OhioCountry:US, United StatesAge:59 years",r_basketball-players
+Gary_Payton,"Gender:MaleDate of Birth:23 July  1968 - 00:52hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Drazen_Petrovic,"Gender:MaleDate of Birth:22 October  1964 - 18:44hBirth place:ŠibenikCountry:HR, CroatiaAge:† 28 years",r_basketball-players
+Eric_Piatkowski,"Gender:MaleDate of Birth:30 September  1970 - 10:02hBirth place:Steubenville, OhioCountry:US, United StatesAge:49 years",r_basketball-players
+Gianmarco_Pozzecco,"Gender:MaleDate of Birth:15 September  1972 - 09:20hBirth place:Gorice a GradiškaCountry:IT, ItalyAge:47 years",r_basketball-players
+Willis_Reed,"Gender:MaleDate of Birth:25 June  1942 - 20:40hBirth place:Bernice, LouisianaCountry:US, United StatesAge:77 years",r_basketball-players
+William_Russell,"Gender:MaleDate of Birth:12 February  1934 - 11:27hBirth place:Monroe, LouisianaCountry:US, United StatesAge:86 years",r_basketball-players
+Brian_Taylor,"Gender:MaleDate of Birth:9 June  1951 - 12:01hBirth place:Perth Amboy, New JerseyCountry:US, United StatesAge:68 years",r_basketball-players
+Isiah_Thomas,"Gender:MaleDate of Birth:30 April  1961 - 22:00hBirth place:Chicago, IllinoisCountry:US, United StatesAge:58 years",r_basketball-players
+Brooks_Thompson,"Gender:MaleDate of Birth:19 July  1970 - 00:30hBirth place:Dallas, TexasCountry:US, United StatesAge:49 years",r_basketball-players
+Gary_Trent,"Gender:MaleDate of Birth:22 September  1974 - 04:21hBirth place:Columbus, OhioCountry:US, United StatesAge:45 years",r_basketball-players
+Bob_Verga,"Gender:MaleDate of Birth:7 September  1945 - 03:25hBirth place:Neptune Township, New JerseyCountry:US, United StatesAge:74 years",r_basketball-players
+Bill_Walton,"Gender:MaleDate of Birth:5 November  1952 - 21:20hBirth place:La Mesa, CaliforniaCountry:US, United StatesAge:67 years",r_basketball-players
+Jerry_West,"Gender:MaleDate of Birth:28 May  1938 - 18:00hBirth place:Chelyan, West VirginiaCountry:US, United StatesAge:81 years",r_basketball-players
+Jo_Jo_White,"Gender:MaleDate of Birth:14 November  1946 - 02:59hBirth place:St. Louis, MissouriCountry:US, United StatesAge:73 years",r_basketball-players
+Ivy_Williamson,"Gender:MaleDate of Birth:4 February  1911 - 22:30hBirth place:Wayne, OhioCountry:US, United StatesAge:† 58 years",r_basketball-players
+Matej_Venta,"Gender:MaleDate of Birth:19 March  1984Birth place:Novo mestoCountry:SI, SloveniaAge:36 years",r_basketball-players
+Rick_Fox,"Gender:MaleDate of Birth:24 July  1969Birth place:Toronto, OntarioCountry:CA, CanadaAge:50 years",r_basketball-players
+Kevin_Durant,"Gender:MaleDate of Birth:29 September  1988Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:31 years",r_basketball-players
+Patrick_Ewing,"Gender:MaleDate of Birth:5 August  1962Birth place:KingstonCountry:JM, JamaicaAge:57 years",r_basketball-players
+Christian_Laettner,"Gender:MaleDate of Birth:17 August  1969Birth place:AngolaCountry:US, United StatesAge:50 years",r_basketball-players
+Alonzo_Mourning,"Gender:MaleDate of Birth:8 February  1970Birth place:ChesapeakeCountry:US, United StatesAge:50 years",r_basketball-players
+Lisa_Leslie,"Gender:FemaleDate of Birth:7 July  1972Birth place:Gardena, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Steve_Nash,"Gender:MaleDate of Birth:7 February  1974Birth place:JohannesburgCountry:ZA, South AfricaAge:46 years",r_basketball-players
+Ben_Wallace,"Gender:MaleDate of Birth:10 September  1974Birth place:White HallCountry:US, United StatesAge:45 years",r_basketball-players
+Tim_Duncan,"Gender:MaleDate of Birth:25 April  1976Birth place:Saint CroixCountry:US, United StatesAge:43 years",r_basketball-players
+Kevin_Garnett,"Gender:MaleDate of Birth:19 May  1976Birth place:MauldinCountry:US, United StatesAge:43 years",r_basketball-players
+Antoine_Walker,"Gender:MaleDate of Birth:12 August  1976Birth place:ChicagoCountry:US, United StatesAge:43 years",r_basketball-players
+Vince_Carter,"Gender:MaleDate of Birth:26 January  1977Birth place:Daytona Beach, FloridaCountry:US, United StatesAge:43 years",r_basketball-players
+Stephon_Marbury,"Gender:MaleDate of Birth:20 February  1977Birth place:Brooklyn, New YorkCountry:US, United StatesAge:43 years",r_basketball-players
+Paul_Pierce,"Gender:MaleDate of Birth:13 October  1977Birth place:Oakland, CaliforniaCountry:US, United StatesAge:42 years",r_basketball-players
+Shawn_Marion,"Gender:MaleDate of Birth:7 May  1978Birth place:Waukegan, IllinoisCountry:US, United StatesAge:41 years",r_basketball-players
+Dirk_Nowitzki,"Gender:MaleDate of Birth:19 June  1978Birth place:WürzburgCountry:DE, GermanyAge:41 years",r_basketball-players
+Chris_Andersen,"Gender:MaleDate of Birth:7 July  1978Birth place:Long Beach, CaliforniaCountry:US, United StatesAge:41 years",r_basketball-players
+Tracy_McGrady,"Gender:MaleDate of Birth:24 May  1979Birth place:BartowCountry:US, United StatesAge:40 years",r_basketball-players
+Ron_Artest,"Gender:MaleDate of Birth:13 November  1979Birth place:New YorkCountry:US, United StatesAge:40 years",r_basketball-players
+Pau_Gasol,"Gender:MaleDate of Birth:6 July  1980Birth place:BarcelonaCountry:ES, SpainAge:39 years",r_basketball-players
+Kyle_Korver,"Gender:MaleDate of Birth:17 March  1981Birth place:LakewoodCountry:US, United StatesAge:39 years",r_basketball-players
+Lauren_Jackson,"Gender:FemaleDate of Birth:11 May  1981Birth place:AlburyCountry:US, United StatesAge:38 years",r_basketball-players
+Dwyane_Wade,"Gender:MaleDate of Birth:17 January  1982Birth place:Chicago, IllinoisCountry:US, United StatesAge:38 years",r_basketball-players
+Boris_Diaw,"Gender:MaleDate of Birth:16 April  1982Birth place:Cormeilles-en-ParisisCountry:FR, FranceAge:37 years",r_basketball-players
+Chris_Bosh,"Gender:MaleDate of Birth:24 March  1984Birth place:Dallas, TexasCountry:US, United StatesAge:36 years",r_basketball-players
+Carmelo_Anthony,"Gender:MaleDate of Birth:29 May  1984Birth place:New York, New YorkCountry:US, United StatesAge:35 years",r_basketball-players
+Nate_Robinson,"Gender:MaleDate of Birth:31 May  1984Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:35 years",r_basketball-players
+Chris_Paul,"Gender:MaleDate of Birth:6 May  1985Birth place:Winston-SalemCountry:US, United StatesAge:34 years",r_basketball-players
+Dwight_Howard,"Gender:MaleDate of Birth:8 December  1985Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:34 years",r_basketball-players
+Rajon_Rondo,"Gender:MaleDate of Birth:22 February  1986Birth place:Louisville, KentuckyCountry:US, United StatesAge:34 years",r_basketball-players
+Candace_Parker,"Gender:FemaleDate of Birth:19 April  1986Birth place:St. LouisCountry:US, United StatesAge:33 years",r_basketball-players
+Michael_Beasley,"Gender:MaleDate of Birth:9 January  1989Birth place:FrederickCountry:US, United StatesAge:31 years",r_basketball-players
+Ricky_Rubio,"Gender:MaleDate of Birth:21 October  1990Birth place:El MasnouCountry:ES, SpainAge:29 years",r_basketball-players
+Mahmoud_Abdul-Rauf,"Gender:MaleDate of Birth:9 March  1969Birth place:Gulfport, MississippiCountry:US, United StatesAge:51 years",r_basketball-players
+Shareef_Abdur-Rahim,"Gender:MaleDate of Birth:11 December  1976Birth place:Marietta, GeorgiaCountry:US, United StatesAge:43 years",r_basketball-players
+Rafael_Addison,"Gender:MaleDate of Birth:22 July  1964Birth place:Jersey City, New JerseyCountry:US, United StatesAge:55 years",r_basketball-players
+Matt_Aitch,"Gender:MaleDate of Birth:21 September  1944Birth place:St. Louis, MissouriCountry:US, United StatesAge:† 62 years",r_basketball-players
+Cory_Alexander,"Gender:MaleDate of Birth:22 June  1973Birth place:Waynesboro, VirginiaCountry:US, United StatesAge:46 years",r_basketball-players
+Steve_Alford,"Gender:MaleDate of Birth:23 November  1964Birth place:Franklin, IndianaCountry:US, United StatesAge:55 years",r_basketball-players
+Jerome_Allen,"Gender:MaleDate of Birth:28 January  1973Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:47 years",r_basketball-players
+Lucius_Allen,"Gender:MaleDate of Birth:26 September  1947Birth place:Kansas City, KansasCountry:US, United StatesAge:72 years",r_basketball-players
+Derrick_Alston,"Gender:MaleDate of Birth:20 August  1972Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_basketball-players
+Ashraf_Amaya,"Gender:MaleDate of Birth:23 November  1971Birth place:Oak Park, IllinoisCountry:US, United StatesAge:48 years",r_basketball-players
+Derek_Anderson,"Gender:MaleDate of Birth:18 July  1974Birth place:Louisville, KentuckyCountry:US, United StatesAge:45 years",r_basketball-players
+Shandon_Anderson,"Gender:MaleDate of Birth:13 December  1973Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:46 years",r_basketball-players
+Willie_Anderson,"Gender:MaleDate of Birth:8 January  1967Birth place:Greenville, South CarolinaCountry:US, United StatesAge:53 years",r_basketball-players
+Chris_Anstey,"Gender:MaleDate of Birth:1 January  1975Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:45 years",r_basketball-players
+Jim_Ard,"Gender:MaleDate of Birth:19 September  1948Birth place:Harvey, IllinoisCountry:US, United StatesAge:71 years",r_basketball-players
+B._J._Armstrong,"Gender:MaleDate of Birth:9 September  1967Birth place:Detroit, MichiganCountry:US, United StatesAge:52 years",r_basketball-players
+Darrell_Armstrong,"Gender:MaleDate of Birth:22 June  1968Birth place:Gastonia, North CarolinaCountry:US, United StatesAge:51 years",r_basketball-players
+Vincent_Askew,"Gender:MaleDate of Birth:28 February  1966Birth place:Memphis, TennesseeCountry:US, United StatesAge:54 years",r_basketball-players
+Keith_Askins,"Gender:MaleDate of Birth:15 December  1967Birth place:Athens, AlabamaCountry:US, United StatesAge:52 years",r_basketball-players
+Richard_Atha,"Gender:MaleDate of Birth:21 September  1931Birth place:Otterbein, IndianaCountry:US, United StatesAge:88 years",r_basketball-players
+Arnold_Red_Auerbach,"Gender:MaleDate of Birth:20 September  1917Birth place:New York, New YorkCountry:US, United StatesAge:† 89 years",r_basketball-players
+Stacey_Augmon,"Gender:MaleDate of Birth:1 August  1968Birth place:Pasadena, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Isaac_Austin,"Gender:MaleDate of Birth:18 August  1969Birth place:Gridley, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Vin_Baker,"Gender:MaleDate of Birth:23 November  1971 - 12:09hBirth place:Lake Wales, FloridaCountry:US, United StatesAge:48 years",r_basketball-players
+Brent_Barry,"Gender:MaleDate of Birth:31 December  1971Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_basketball-players
+Jon_Barry,"Gender:MaleDate of Birth:25 July  1969Birth place:Oakland, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Rick_Barry,"Gender:MaleDate of Birth:28 March  1944 - 14:32hBirth place:Elizabeth, New JerseyCountry:US, United StatesAge:76 years",r_basketball-players
+Tony_Battie,"Gender:MaleDate of Birth:11 February  1976Birth place:Dallas, TexasCountry:US, United StatesAge:44 years",r_basketball-players
+Ralph_Beard,"Gender:MaleDate of Birth:1 December  1927 - 02:20hBirth place:Hardinsburg, KentuckyCountry:US, United StatesAge:† 80 years",r_basketball-players
+Walt_J._Bellamy,"Gender:MaleDate of Birth:24 July  1939 - 10:55hBirth place:New Bern, North CarolinaCountry:US, United StatesAge:80 years",r_basketball-players
+Benoit_Benjamin,"Gender:MaleDate of Birth:22 November  1964Birth place:Monroe, LouisianaCountry:US, United StatesAge:55 years",r_basketball-players
+Elmer_Bennett,"Gender:MaleDate of Birth:13 February  1970Birth place:Evanston, IllinoisCountry:US, United StatesAge:50 years",r_basketball-players
+David_Benoit,"Gender:MaleDate of Birth:9 May  1968Birth place:Lafayette, LouisianaCountry:US, United StatesAge:51 years",r_basketball-players
+Travis_Best,"Gender:MaleDate of Birth:12 July  1972 - 17:25hBirth place:Springfield, MassachusettsCountry:US, United StatesAge:47 years",r_basketball-players
+Bernie_Bickerstaff,"Gender:MaleDate of Birth:11 February  1944Birth place:Benham, KentuckyCountry:US, United StatesAge:76 years",r_basketball-players
+Chauncey_Billups,"Gender:MaleDate of Birth:25 September  1976Birth place:Denver, ColoradoCountry:US, United StatesAge:43 years",r_basketball-players
+Mookie_Blaylock,"Gender:MaleDate of Birth:20 March  1967Birth place:Garland, TexasCountry:US, United StatesAge:53 years",r_basketball-players
+Corie_Blount,"Gender:MaleDate of Birth:4 January  1969Birth place:Monrovia, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Mark_Blount,"Gender:MaleDate of Birth:30 November  1975Birth place:Dobbs Ferry, New YorkCountry:US, United StatesAge:44 years",r_basketball-players
+Muggsy_Bogues,"Gender:MaleDate of Birth:9 January  1965Birth place:Baltimore, MarylandCountry:US, United StatesAge:55 years",r_basketball-players
+Manute_Bol,"Gender:MaleDate of Birth:16 October  1962Birth place:GogrialCountry:SS, South SudanAge:† 47 years",r_basketball-players
+Dexter_Boney,"Gender:MaleDate of Birth:27 April  1970Birth place:Wilmington, DelawareCountry:US, United StatesAge:49 years",r_basketball-players
+Melvin_Booker,"Gender:MaleDate of Birth:20 August  1972Birth place:Pascagoula, MississippiCountry:US, United StatesAge:47 years",r_basketball-players
+Keith_Booth,"Gender:MaleDate of Birth:9 October  1974Birth place:Baltimore, MarylandCountry:US, United StatesAge:45 years",r_basketball-players
+Jim_Bostic,"Gender:MaleDate of Birth:28 January  1953Birth place:New York, New YorkCountry:US, United StatesAge:67 years",r_basketball-players
+Bruce_Bowen,"Gender:MaleDate of Birth:14 June  1971Birth place:Merced, CaliforniaCountry:US, United StatesAge:48 years",r_basketball-players
+Donnie_Boyce,"Gender:MaleDate of Birth:2 September  1973Birth place:Chicago, IllinoisCountry:US, United StatesAge:46 years",r_basketball-players
+Alex_Bradley,"Gender:MaleDate of Birth:30 October  1959Birth place:Bradenton, FloridaCountry:US, United StatesAge:60 years",r_basketball-players
+Mark_Bradtke,"Gender:MaleDate of Birth:27 September  1968Birth place:Adelaide, South AustraliaCountry:AU, AustraliaAge:51 years",r_basketball-players
+Terrell_Brandon,"Gender:MaleDate of Birth:20 May  1970Birth place:Portland, OregonCountry:US, United StatesAge:49 years",r_basketball-players
+Frank_Brickowski,"Gender:MaleDate of Birth:14 August  1959Birth place:Bayville, New YorkCountry:US, United StatesAge:60 years",r_basketball-players
+Scott_Brooks,"Gender:MaleDate of Birth:31 July  1965Birth place:French Camp, CaliforniaCountry:US, United StatesAge:54 years",r_basketball-players
+Chucky_Brown,"Gender:MaleDate of Birth:29 February  1968Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_basketball-players
+Dee_Brown,"Gender:MaleDate of Birth:29 November  1968Birth place:Jacksonville, FloridaCountry:US, United StatesAge:51 years",r_basketball-players
+Marcus_Brown,"Gender:MaleDate of Birth:3 April  1974Birth place:West Memphis, ArkansasCountry:US, United StatesAge:46 years",r_basketball-players
+Mike_Brown,"Gender:MaleDate of Birth:19 July  1963Birth place:Newark, New JerseyCountry:US, United StatesAge:56 years",r_basketball-players
+C._J._Bruton,"Gender:MaleDate of Birth:13 December  1975Birth place:Wichita, KansasCountry:US, United StatesAge:44 years",r_basketball-players
+Mark_Bryant,"Gender:MaleDate of Birth:25 April  1965Birth place:Glen Ridge, New JerseyCountry:US, United StatesAge:54 years",r_basketball-players
+Jed_Buechler,"Gender:MaleDate of Birth:19 June  1968Birth place:San Diego, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Matt_Bullard,"Gender:MaleDate of Birth:5 June  1967Birth place:West Des Moines, IowaCountry:US, United StatesAge:52 years",r_basketball-players
+Scott_Burrell,"Gender:MaleDate of Birth:12 January  1971Birth place:New Haven, ConnecticutCountry:US, United StatesAge:49 years",r_basketball-players
+Willie_Burton,"Gender:MaleDate of Birth:26 May  1968Birth place:Detroit, MichiganCountry:US, United StatesAge:51 years",r_basketball-players
+Mitchell_Butler,"Gender:MaleDate of Birth:15 December  1970Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:49 years",r_basketball-players
+Jason_Caffey,"Gender:MaleDate of Birth:12 June  1973Birth place:Mobile, AlabamaCountry:US, United StatesAge:46 years",r_basketball-players
+Michael_Cage,"Gender:MaleDate of Birth:28 January  1962Birth place:West Memphis, ArkansasCountry:US, United StatesAge:58 years",r_basketball-players
+John_Calipari,"Gender:MaleDate of Birth:10 February  1959Birth place:Moon, PennsylvaniaCountry:US, United StatesAge:61 years",r_basketball-players
+Marcus_Camby,"Gender:MaleDate of Birth:22 March  1974Birth place:Hartford, ConnecticutCountry:US, United StatesAge:46 years",r_basketball-players
+P._J._Carlesimo,"Gender:MaleDate of Birth:30 May  1949Birth place:Scranton, PennsylvaniaCountry:US, United StatesAge:70 years",r_basketball-players
+Chris_Carr,"Gender:MaleDate of Birth:12 March  1974Birth place:Ironton, MissouriCountry:US, United StatesAge:46 years",r_basketball-players
+Jimmy_Carruth,"Gender:MaleDate of Birth:4 November  1969Birth place:El Paso, TexasCountry:US, United StatesAge:50 years",r_basketball-players
+Sam_Cassell,"Gender:MaleDate of Birth:18 November  1969Birth place:Baltimore, MarylandCountry:US, United StatesAge:50 years",r_basketball-players
+Kelvin_Cato,"Gender:MaleDate of Birth:26 August  1974Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:45 years",r_basketball-players
+Duane_Causwell,"Gender:MaleDate of Birth:31 May  1968Birth place:New York, New YorkCountry:US, United StatesAge:51 years",r_basketball-players
+Rex_Chapman,"Gender:MaleDate of Birth:5 October  1967Birth place:Bowling Green, KentuckyCountry:US, United StatesAge:52 years",r_basketball-players
+Calbert_Cheaney,"Gender:MaleDate of Birth:17 July  1971Birth place:Evansville, IndianaCountry:US, United StatesAge:48 years",r_basketball-players
+Pete_Chilcutt,"Gender:MaleDate of Birth:14 September  1968Birth place:Sumter, South CarolinaCountry:US, United StatesAge:51 years",r_basketball-players
+Randolph_Childress,"Gender:MaleDate of Birth:21 September  1972Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:47 years",r_basketball-players
+Chris_Childs,"Gender:MaleDate of Birth:20 November  1967Birth place:Bakersfield, CaliforniaCountry:US, United StatesAge:52 years",r_basketball-players
+Doug_Christie,"Gender:MaleDate of Birth:9 May  1970Birth place:Seattle, WashingtonCountry:US, United StatesAge:49 years",r_basketball-players
+Derrick_Coleman,"Gender:MaleDate of Birth:21 June  1967Birth place:Mobile, AlabamaCountry:US, United StatesAge:52 years",r_basketball-players
+Bimbo_Coles,"Gender:MaleDate of Birth:22 April  1968Birth place:Covington, VirginiaCountry:US, United StatesAge:51 years",r_basketball-players
+James_Collins,"Gender:MaleDate of Birth:5 November  1973Birth place:Jacksonville, FloridaCountry:US, United StatesAge:46 years",r_basketball-players
+Marty_Conlon,"Gender:MaleDate of Birth:19 January  1968Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_basketball-players
+Tyrone_Corbin,"Gender:MaleDate of Birth:31 December  1962Birth place:Columbia, South CarolinaCountry:US, United StatesAge:57 years",r_basketball-players
+James_Cotton,"Gender:MaleDate of Birth:14 December  1975Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:44 years",r_basketball-players
+Joe_Courtney,"Gender:MaleDate of Birth:17 October  1969Birth place:Jackson, MississippiCountry:US, United StatesAge:50 years",r_basketball-players
+Bob_Cousy,"Gender:MaleDate of Birth:9 August  1928Birth place:New York, New YorkCountry:US, United StatesAge:91 years",r_basketball-players
+Chris_Crawford,"Gender:MaleDate of Birth:13 May  1975Birth place:Kalamazoo, MichiganCountry:US, United StatesAge:44 years",r_basketball-players
+Austin_Croshere,"Gender:MaleDate of Birth:1 May  1975Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:44 years",r_basketball-players
+John_Crotty,"Gender:MaleDate of Birth:15 July  1969Birth place:City of Orange, New JerseyCountry:US, United StatesAge:50 years",r_basketball-players
+Terry_Cummings,"Gender:MaleDate of Birth:15 March  1961Birth place:Chicago, IllinoisCountry:US, United StatesAge:59 years",r_basketball-players
+Earl_Cureton,"Gender:MaleDate of Birth:3 September  1957Birth place:Detroit, MichiganCountry:US, United StatesAge:62 years",r_basketball-players
+Bill_Curley,"Gender:MaleDate of Birth:29 May  1972Birth place:Boston, MassachusettsCountry:US, United StatesAge:47 years",r_basketball-players
+Michael_Curry,"Gender:MaleDate of Birth:22 August  1968Birth place:Anniston, AlabamaCountry:US, United StatesAge:51 years",r_basketball-players
+Chuck_Daly,"Gender:MaleDate of Birth:20 July  1930Birth place:St. Marys, PennsylvaniaCountry:US, United StatesAge:† 78 years",r_basketball-players
+Erick_Dampier,"Gender:MaleDate of Birth:14 July  1974Birth place:Jackson, MississippiCountry:US, United StatesAge:45 years",r_basketball-players
+Antonio_Daniels,"Gender:MaleDate of Birth:19 March  1975 - 06:15hBirth place:Columbus, OhioCountry:US, United StatesAge:45 years",r_basketball-players
+Lloyd_Daniels,"Gender:MaleDate of Birth:4 September  1967Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_basketball-players
+Sasha_Danilovic,"Gender:MaleDate of Birth:26 February  1970Birth place:SarajevoCountry:BA, Bosnia and HerzegovinaAge:50 years",r_basketball-players
+Yinka_Dare,"Gender:MaleDate of Birth:10 October  1972Birth place:KanoCountry:NG, NigeriaAge:† 31 years",r_basketball-players
+Antonio_Davis,"Gender:MaleDate of Birth:31 October  1968Birth place:Oakland, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Ben_Davis,"Gender:MaleDate of Birth:26 December  1972Birth place:Vero Beach, FloridaCountry:US, United StatesAge:47 years",r_basketball-players
+Dale_Davis,"Gender:MaleDate of Birth:25 March  1969 - 15:52hBirth place:Toccoa, GeorgiaCountry:US, United StatesAge:51 years",r_basketball-players
+Emanual_Davis,"Gender:MaleDate of Birth:27 August  1968Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:51 years",r_basketball-players
+Hubert_Davis,"Gender:MaleDate of Birth:17 May  1970Birth place:Winston-Salem, North CarolinaCountry:US, United StatesAge:49 years",r_basketball-players
+Todd_Day,"Gender:MaleDate of Birth:7 January  1970Birth place:Decatur, IllinoisCountry:US, United StatesAge:50 years",r_basketball-players
+Andrew_DeClercq,"Gender:MaleDate of Birth:1 February  1973Birth place:Detroit, MichiganCountry:US, United StatesAge:47 years",r_basketball-players
+David_A._Debusschere,"Gender:MaleDate of Birth:16 October  1940 - 12:58hBirth place:Detroit, MichiganCountry:US, United StatesAge:† 62 years",r_basketball-players
+Terry_Dehere,"Gender:MaleDate of Birth:12 September  1971Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_basketball-players
+Vinny_DelNegro,"Gender:MaleDate of Birth:9 August  1966 - 02:13hBirth place:Springfield, MassachusettsCountry:US, United StatesAge:53 years",r_basketball-players
+Tony_Delk,"Gender:MaleDate of Birth:28 January  1974Birth place:Covington, TennesseeCountry:US, United StatesAge:46 years",r_basketball-players
+Dell_Demps,"Gender:MaleDate of Birth:12 February  1970Birth place:Long Beach, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Alain_Digbeau,"Gender:MaleDate of Birth:13 November  1975Birth place:MâconCountry:FR, FranceAge:44 years",r_basketball-players
+Vlade_Divac,"Gender:MaleDate of Birth:3 February  1968Birth place:PrijepoljeCountry:RS, SerbiaAge:52 years",r_basketball-players
+Sasha_Djordjevic,"Gender:MaleDate of Birth:26 August  1967Birth place:BelgradeCountry:RS, SerbiaAge:52 years",r_basketball-players
+Michael_Doleac,"Gender:MaleDate of Birth:15 June  1977Birth place:Orlando, FloridaCountry:US, United StatesAge:42 years",r_basketball-players
+Sherman_Douglas,"Gender:MaleDate of Birth:15 September  1966Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:53 years",r_basketball-players
+Greg_Dreiling,"Gender:MaleDate of Birth:7 November  1963Birth place:Wichita, KansasCountry:US, United StatesAge:56 years",r_basketball-players
+Clyde_Drexler,"Gender:MaleDate of Birth:22 June  1962Birth place:New Orleans, LouisianaCountry:US, United StatesAge:57 years",r_basketball-players
+Nate_Driggers,"Gender:MaleDate of Birth:12 October  1973Birth place:Chicago, IllinoisCountry:US, United StatesAge:46 years",r_basketball-players
+Predrag_Drobnjak,"Gender:MaleDate of Birth:27 October  1975Birth place:Bijelo PoljeCountry:ME, MontenegroAge:44 years",r_basketball-players
+Roberto_Duenas,"Gender:MaleDate of Birth:1 November  1975Birth place:BarcelonaCountry:ES, SpainAge:44 years",r_basketball-players
+Joe_III_Dumars,"Gender:MaleDate of Birth:24 May  1963Birth place:Shreveport, LouisianaCountry:US, United StatesAge:56 years",r_basketball-players
+Tony_Dumas,"Gender:MaleDate of Birth:25 August  1972Birth place:Chicago, IllinoisCountry:US, United StatesAge:47 years",r_basketball-players
+Mike_Dunleavy,"Gender:MaleDate of Birth:21 March  1954Birth place:New York, New YorkCountry:US, United StatesAge:66 years",r_basketball-players
+Acie_Earl,"Gender:MaleDate of Birth:23 June  1970Birth place:Peoria, IllinoisCountry:US, United StatesAge:49 years",r_basketball-players
+Tyus_Edney,"Gender:MaleDate of Birth:14 February  1973Birth place:Gardena, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Blue_Edwards,"Gender:MaleDate of Birth:31 October  1965Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:54 years",r_basketball-players
+Doug_Edwards,"Gender:MaleDate of Birth:21 January  1971Birth place:Miami, FloridaCountry:US, United StatesAge:49 years",r_basketball-players
+Kevin_Edwards,"Gender:MaleDate of Birth:30 October  1965Birth place:Cleveland Heights, OhioCountry:US, United StatesAge:54 years",r_basketball-players
+Craig_Ehlo,"Gender:MaleDate of Birth:11 August  1961Birth place:Lubbock, TexasCountry:US, United StatesAge:58 years",r_basketball-players
+Howard_Eisley,"Gender:MaleDate of Birth:4 December  1972Birth place:Detroit, MichiganCountry:US, United StatesAge:47 years",r_basketball-players
+Mario_Elie,"Gender:MaleDate of Birth:26 November  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_basketball-players
+Eddie_Elisma,"Gender:MaleDate of Birth:9 April  1975Birth place:Miami, FloridaCountry:US, United StatesAge:44 years",r_basketball-players
+Sean_Elliott,"Gender:MaleDate of Birth:2 February  1968Birth place:Tucson, ArizonaCountry:US, United StatesAge:52 years",r_basketball-players
+Dale_Ellis,"Gender:MaleDate of Birth:6 August  1960Birth place:Marietta, GeorgiaCountry:US, United StatesAge:59 years",r_basketball-players
+LaPhonso_Ellis,"Gender:MaleDate of Birth:5 May  1970Birth place:East St. Louis, IllinoisCountry:US, United StatesAge:49 years",r_basketball-players
+Pervis_Ellison,"Gender:MaleDate of Birth:3 April  1967Birth place:Savannah, GeorgiaCountry:US, United StatesAge:53 years",r_basketball-players
+Nate_Erdmann,"Gender:MaleDate of Birth:21 November  1973Birth place:Fort Dodge, IowaCountry:US, United StatesAge:46 years",r_basketball-players
+Jamie_Feick,"Gender:MaleDate of Birth:3 July  1974Birth place:Lexington, OhioCountry:US, United StatesAge:45 years",r_basketball-players
+Duane_Ferrell,"Gender:MaleDate of Birth:28 February  1965Birth place:Baltimore, MarylandCountry:US, United StatesAge:55 years",r_basketball-players
+Danny_Ferry,"Gender:MaleDate of Birth:17 October  1966Birth place:Hyattsville, MarylandCountry:US, United StatesAge:53 years",r_basketball-players
+Michael_Finley,"Gender:MaleDate of Birth:6 March  1973Birth place:Melrose Park, IllinoisCountry:US, United StatesAge:47 years",r_basketball-players
+Matt_Fish,"Gender:MaleDate of Birth:18 November  1969Birth place:Washington, IowaCountry:US, United StatesAge:50 years",r_basketball-players
+Derek_Fisher,"Gender:MaleDate of Birth:9 August  1974Birth place:Little Rock, ArkansasCountry:US, United StatesAge:45 years",r_basketball-players
+Bill_Fitch,"Gender:MaleDate of Birth:19 May  1934Birth place:Davenport, IowaCountry:US, United StatesAge:85 years",r_basketball-players
+Chris_Ford,"Gender:MaleDate of Birth:11 January  1949Birth place:Atlantic City, New JerseyCountry:US, United StatesAge:71 years",r_basketball-players
+Danny_Fortson,"Gender:MaleDate of Birth:27 March  1976Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:44 years",r_basketball-players
+Greg_Foster,"Gender:MaleDate of Birth:3 October  1968Birth place:Oakland, CaliforniaCountry:US, United StatesAge:51 years",r_basketball-players
+Adonal_Foyle,"Gender:MaleDate of Birth:9 March  1975Birth place:Saint George'sCountry:GD, GrenadaAge:45 years",r_basketball-players
+Mike_Fratello,"Gender:MaleDate of Birth:24 February  1947 - 03:59hBirth place:Hackensack, New JerseyCountry:US, United StatesAge:73 years",r_basketball-players
+Walt_Frazier,"Gender:MaleDate of Birth:29 March  1945Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:75 years",r_basketball-players
+Todd_Fuller,"Gender:MaleDate of Birth:25 July  1974Birth place:Fayetteville, North CarolinaCountry:US, United StatesAge:45 years",r_basketball-players
+Lawrence_Funderburke,"Gender:MaleDate of Birth:15 December  1970 - 17:31hBirth place:Columbus, OhioCountry:US, United StatesAge:49 years",r_basketball-players
+John_Gabriel,"Gender:MaleDate of Birth:17 February  1956 - 19:00hBirth place:Hanover, PennsylvaniaCountry:US, United StatesAge:64 years",r_basketball-players
+Kevin_D._Gamble,"Gender:MaleDate of Birth:13 November  1965Birth place:Springfield, IllinoisCountry:US, United StatesAge:54 years",r_basketball-players
+Earl_Gardner,"Gender:MaleDate of Birth:18 September  1923Birth place:Montgomery County, IndianaCountry:US, United StatesAge:† 82 years",r_basketball-players
+Dean_Garrett,"Gender:MaleDate of Birth:27 November  1966Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:53 years",r_basketball-players
+Chris_Gatling,"Gender:MaleDate of Birth:3 September  1967Birth place:Elizabeth, New JerseyCountry:US, United StatesAge:52 years",r_basketball-players
+Reggie_Geary,"Gender:MaleDate of Birth:31 August  1973Birth place:Trenton, New JerseyCountry:US, United StatesAge:46 years",r_basketball-players
+Matt_Geiger,"Gender:MaleDate of Birth:10 September  1969 - 00:47hBirth place:Salem, MassachusettsCountry:US, United StatesAge:50 years",r_basketball-players
+Alvin_Gentry,"Gender:MaleDate of Birth:5 November  1954Birth place:Shelby, North CarolinaCountry:US, United StatesAge:65 years",r_basketball-players
+George_Gervin,"Gender:MaleDate of Birth:27 April  1952Birth place:Detroit, MichiganCountry:US, United StatesAge:67 years",r_basketball-players
+Kendall_Gill,"Gender:MaleDate of Birth:25 May  1968Birth place:Chicago, IllinoisCountry:US, United StatesAge:51 years",r_basketball-players
+Armen_Gilliam,"Gender:MaleDate of Birth:28 May  1964Birth place:Bethel Park, PennsylvaniaCountry:US, United StatesAge:† 47 years",r_basketball-players
+Anthony_Goldwire,"Gender:MaleDate of Birth:6 September  1971Birth place:West Palm Beach, FloridaCountry:US, United StatesAge:48 years",r_basketball-players
+Greg_Graham,"Gender:MaleDate of Birth:26 November  1970Birth place:Indianapolis, IndianaCountry:US, United StatesAge:49 years",r_basketball-players
+Stedman_Graham,"Gender:MaleDate of Birth:6 March  1951 - 22:30hBirth place:Cape May, New JerseyCountry:US, United StatesAge:69 years",r_basketball-players
+Brian_Grant,"Gender:MaleDate of Birth:5 March  1972 - 20:18hBirth place:Columbus, OhioCountry:US, United StatesAge:48 years",r_basketball-players
+Gary_Grant,"Gender:MaleDate of Birth:21 April  1965Birth place:Canton, OhioCountry:US, United StatesAge:54 years",r_basketball-players
+Paul_Grant,"Gender:MaleDate of Birth:6 January  1974Birth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:46 years",r_basketball-players
+Devin_Gray,"Gender:MaleDate of Birth:31 March  1972Birth place:Baltimore, MarylandCountry:US, United StatesAge:48 years",r_basketball-players
+Ed_Gray,"Gender:MaleDate of Birth:27 September  1975Birth place:Riverside, CaliforniaCountry:US, United StatesAge:44 years",r_basketball-players
+Evric_Gray,"Gender:MaleDate of Birth:13 December  1969Birth place:Bloomington, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Jeff_Grayer,"Gender:MaleDate of Birth:17 December  1965Birth place:Flint, MichiganCountry:US, United StatesAge:54 years",r_basketball-players
+Litterial_Green,"Gender:MaleDate of Birth:7 March  1970Birth place:Pascagoula, MississippiCountry:US, United StatesAge:50 years",r_basketball-players
+Darrell_Griffith,"Gender:MaleDate of Birth:16 June  1958Birth place:Louisville, KentuckyCountry:US, United StatesAge:61 years",r_basketball-players
+Wyc_Grousbeck,"Gender:MaleDate of Birth:13 June  1961 - 01:05hBirth place:Worcester, MassachusettsCountry:US, United StatesAge:58 years",r_basketball-players
+Richie_Guerin,"Gender:MaleDate of Birth:29 May  1932Birth place:New York, New YorkCountry:US, United StatesAge:87 years",r_basketball-players
+Tom_Gugliotta,"Gender:MaleDate of Birth:19 December  1969Birth place:Huntington Station, New YorkCountry:US, United StatesAge:50 years",r_basketball-players
+Cliff_Hagan,"Gender:MaleDate of Birth:9 December  1931Birth place:Owensboro, KentuckyCountry:US, United StatesAge:88 years",r_basketball-players
+Darvin_Ham,"Gender:MaleDate of Birth:23 July  1973Birth place:Saginaw, MichiganCountry:US, United StatesAge:46 years",r_basketball-players
+Steve_Hamer,"Gender:MaleDate of Birth:13 November  1973Birth place:Memphis, TennesseeCountry:US, United StatesAge:46 years",r_basketball-players
+Tom_Hammonds,"Gender:MaleDate of Birth:27 March  1967 - 12:01hBirth place:Fort Walton Beach, FloridaCountry:US, United StatesAge:53 years",r_basketball-players
+Darrin_Hancock,"Gender:MaleDate of Birth:3 November  1971Birth place:Birmingham, AlabamaCountry:US, United StatesAge:48 years",r_basketball-players
+Bill_Hanzlik,"Gender:MaleDate of Birth:6 December  1957Birth place:Middletown, OhioCountry:US, United StatesAge:62 years",r_basketball-players
+Penny_Hardaway,"Gender:MaleDate of Birth:18 July  1971Birth place:Memphis, TennesseeCountry:US, United StatesAge:48 years",r_basketball-players
+Tim_Hardaway,"Gender:MaleDate of Birth:1 September  1966Birth place:Chicago, IllinoisCountry:US, United StatesAge:53 years",r_basketball-players
+Matt_Harpring,"Gender:MaleDate of Birth:31 May  1976Birth place:Orlando, FloridaCountry:US, United StatesAge:43 years",r_basketball-players
+Othella_Harrington,"Gender:MaleDate of Birth:31 January  1974Birth place:Jackson, MississippiCountry:US, United StatesAge:46 years",r_basketball-players
+Lucious_Harris,"Gender:MaleDate of Birth:18 December  1970Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:49 years",r_basketball-players
+Antonio_Harvey,"Gender:MaleDate of Birth:6 July  1970Birth place:Pascagoula, MississippiCountry:US, United StatesAge:49 years",r_basketball-players
+Hersey_Hawkins,"Gender:MaleDate of Birth:29 September  1966Birth place:Chicago, IllinoisCountry:US, United StatesAge:53 years",r_basketball-players
+Michael_Hawkins,"Gender:MaleDate of Birth:28 October  1972Birth place:Canton, OhioCountry:US, United StatesAge:47 years",r_basketball-players
+Shane_Heal,"Gender:MaleDate of Birth:6 September  1970Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:49 years",r_basketball-players
+Alan_Henderson,"Gender:MaleDate of Birth:2 December  1972Birth place:Indianapolis, IndianaCountry:US, United StatesAge:47 years",r_basketball-players
+Cedric_Henderson,"Gender:MaleDate of Birth:11 March  1975Birth place:Memphis, TennesseeCountry:US, United StatesAge:45 years",r_basketball-players
+Mark_Hendrickson,"Gender:MaleDate of Birth:23 June  1974Birth place:Mount Vernon, WashingtonCountry:US, United StatesAge:45 years",r_basketball-players
+Carl_Herrera,"Gender:MaleDate of Birth:14 December  1966 - 12:01hBirth place:San FernandoCountry:TT, Trinidad and TobagoAge:53 years",r_basketball-players
+Bob_Hill,"Gender:MaleDate of Birth:24 November  1948 - 14:36hBirth place:Columbus, OhioCountry:US, United StatesAge:71 years",r_basketball-players
+Grant_Hill,"Gender:MaleDate of Birth:5 October  1972Birth place:Dallas, TexasCountry:US, United StatesAge:47 years",r_basketball-players
+Tyrone_Hill,"Gender:MaleDate of Birth:19 March  1968 - 15:45hBirth place:Cincinnati, OhioCountry:US, United StatesAge:52 years",r_basketball-players
+Fred_Hoiberg,"Gender:MaleDate of Birth:15 October  1972Birth place:Lincoln, NebraskaCountry:US, United StatesAge:47 years",r_basketball-players
+Red_Holzman,"Gender:MaleDate of Birth:10 August  1920Birth place:New York, New YorkCountry:US, United StatesAge:† 78 years",r_basketball-players
+Jerald_Honeycutt,"Gender:MaleDate of Birth:20 October  1974Birth place:Shreveport, LouisianaCountry:US, United StatesAge:45 years",r_basketball-players
+Robert_Horry,"Gender:MaleDate of Birth:25 August  1970Birth place:Andalusia, AlabamaCountry:US, United StatesAge:49 years",r_basketball-players
+Allan_Houston,"Gender:MaleDate of Birth:4 April  1971Birth place:Louisville, KentuckyCountry:US, United StatesAge:49 years",r_basketball-players
+Juwan_Howard,"Gender:MaleDate of Birth:7 February  1973Birth place:Chicago, IllinoisCountry:US, United StatesAge:47 years",r_basketball-players
+Stephen_Howard,"Gender:MaleDate of Birth:15 July  1970Birth place:Dallas, TexasCountry:US, United StatesAge:49 years",r_basketball-players
+Lindsey_Hunter,"Gender:MaleDate of Birth:3 December  1970Birth place:Utica, MississippiCountry:US, United StatesAge:49 years",r_basketball-players
+Bobby_Hurley,"Gender:MaleDate of Birth:28 June  1971Birth place:Jersey City, New JerseyCountry:US, United StatesAge:48 years",r_basketball-players
+Zydrunas_Ilgauskas,"Gender:MaleDate of Birth:5 June  1975Birth place:KaunasCountry:LT, LithuaniaAge:44 years",r_basketball-players
+Edward_'Ned'_Irish,"Gender:MaleDate of Birth:6 May  1905Birth place:Lake George, New YorkCountry:US, United StatesAge:† 76 years",r_basketball-players
+Bobby_Jackson,"Gender:MaleDate of Birth:13 March  1973Birth place:East Spencer, North CarolinaCountry:US, United StatesAge:47 years",r_basketball-players
+Jaren_Jackson,"Gender:MaleDate of Birth:27 October  1967Birth place:New Orleans, LouisianaCountry:US, United StatesAge:52 years",r_basketball-players
+Jim_Jackson,"Gender:MaleDate of Birth:14 October  1970 - 10:26hBirth place:Toledo, OhioCountry:US, United StatesAge:49 years",r_basketball-players
+Marc_Jackson,"Gender:MaleDate of Birth:16 February  1975Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:45 years",r_basketball-players
+Stephen_Jackson,"Gender:MaleDate of Birth:5 April  1978Birth place:Houston, TexasCountry:US, United StatesAge:42 years",r_basketball-players
+Chris_Jent,"Gender:MaleDate of Birth:11 January  1970Birth place:Orange, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Dennis_Johnson,"Gender:MaleDate of Birth:18 September  1954Birth place:Compton, CaliforniaCountry:US, United StatesAge:† 52 years",r_basketball-players
+Ervin_Johnson,"Gender:MaleDate of Birth:21 December  1967Birth place:New Orleans, LouisianaCountry:US, United StatesAge:52 years",r_basketball-players
+George_Johnson,"Gender:MaleDate of Birth:18 December  1948 - 19:15hBirth place:Tylertown, MississippiCountry:US, United StatesAge:71 years",r_basketball-players
+Steffond_Johnson,"Gender:MaleDate of Birth:4 November  1962Birth place:Longview, TexasCountry:US, United StatesAge:57 years",r_basketball-players
+Stew_Johnson,"Gender:MaleDate of Birth:19 August  1944Birth place:Clairton, PennsylvaniaCountry:US, United StatesAge:75 years",r_basketball-players
+Dontae_Jones,"Gender:MaleDate of Birth:2 June  1975Birth place:Nashville, TennesseeCountry:US, United StatesAge:44 years",r_basketball-players
+Eddie_Jones,"Gender:MaleDate of Birth:20 October  1971Birth place:Pompano Beach, FloridaCountry:US, United StatesAge:48 years",r_basketball-players
+Popeye_Jones,"Gender:MaleDate of Birth:17 June  1970Birth place:Dresden, TennesseeCountry:US, United StatesAge:49 years",r_basketball-players
+Robin_Dale_Jones,"Gender:MaleDate of Birth:2 February  1954Birth place:St. Louis, MissouriCountry:US, United StatesAge:66 years",r_basketball-players
+Eddie_Jordan,"Gender:MaleDate of Birth:29 January  1955Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:65 years",r_basketball-players
+Reggie_Jordan,"Gender:MaleDate of Birth:26 January  1968Birth place:Chicago, IllinoisCountry:US, United StatesAge:52 years",r_basketball-players
+Edwin_Kachan,"Gender:MaleDate of Birth:15 September  1925Birth place:Chicago, IllinoisCountry:US, United StatesAge:† 67 years",r_basketball-players
+George_Karl,"Gender:MaleDate of Birth:12 May  1951Birth place:Penn Hills, PennsylvaniaCountry:US, United StatesAge:68 years",r_basketball-players
+Adam_Keefe,"Gender:MaleDate of Birth:22 February  1970Birth place:Irvine, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Shawn_Kemp,"Gender:MaleDate of Birth:26 November  1969Birth place:Elkhart, IndianaCountry:US, United StatesAge:50 years",r_basketball-players
+Tim_Kempton,"Gender:MaleDate of Birth:25 January  1964Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_basketball-players
+Steve_D._Kerr,"Gender:MaleDate of Birth:27 September  1965Birth place:BeirutCountry:LB, LebanonAge:54 years",r_basketball-players
+Jerome_Kersey,"Gender:MaleDate of Birth:26 June  1962Birth place:Clarksville, VirginiaCountry:US, United StatesAge:57 years",r_basketball-players
+Jason_Kidd,"Gender:MaleDate of Birth:23 March  1973Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Frankie_King,"Gender:MaleDate of Birth:6 June  1972Birth place:Baxley, GeorgiaCountry:US, United StatesAge:47 years",r_basketball-players
+Rich_King,"Gender:MaleDate of Birth:4 April  1969Birth place:Lincoln, NebraskaCountry:US, United StatesAge:51 years",r_basketball-players
+Stacey_King,"Gender:MaleDate of Birth:29 January  1967Birth place:Lawton, OklahomaCountry:US, United StatesAge:53 years",r_basketball-players
+Kerry_Kittles,"Gender:MaleDate of Birth:12 June  1974 - 08:23hBirth place:Dayton, OhioCountry:US, United StatesAge:45 years",r_basketball-players
+Brevin_Knight,"Gender:MaleDate of Birth:8 November  1975Birth place:Livingston, New JerseyCountry:US, United StatesAge:44 years",r_basketball-players
+Travis_Knight,"Gender:MaleDate of Birth:13 September  1974Birth place:Salt Lake City, UtahCountry:US, United StatesAge:45 years",r_basketball-players
+Larry_B._Krystkowiak,"Gender:MaleDate of Birth:23 September  1964Birth place:Missoula, MontanaCountry:US, United StatesAge:55 years",r_basketball-players
+Toni_Kukoč,"Gender:MaleDate of Birth:18 September  1968Birth place:SplitCountry:HR, CroatiaAge:51 years",r_basketball-players
+Antonio_Lang,"Gender:MaleDate of Birth:15 May  1972Birth place:Mobile, AlabamaCountry:US, United StatesAge:47 years",r_basketball-players
+Priest_Lauderdale,"Gender:MaleDate of Birth:31 August  1973Birth place:Chicago, IllinoisCountry:US, United StatesAge:46 years",r_basketball-players
+Jason_Lawson,"Gender:MaleDate of Birth:2 September  1974Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:45 years",r_basketball-players
+Eric_Leckner,"Gender:MaleDate of Birth:27 May  1966Birth place:Inglewood, CaliforniaCountry:US, United StatesAge:53 years",r_basketball-players
+Tim_Legler,"Gender:MaleDate of Birth:26 December  1966Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:53 years",r_basketball-players
+Voshon_Lenard,"Gender:MaleDate of Birth:14 May  1973Birth place:Detroit, MichiganCountry:US, United StatesAge:46 years",r_basketball-players
+Martin_Lewis,"Gender:MaleDate of Birth:28 April  1975Birth place:Liberal, KansasCountry:US, United StatesAge:44 years",r_basketball-players
+Alton_Lister,"Gender:MaleDate of Birth:1 October  1958Birth place:Dallas, TexasCountry:US, United StatesAge:61 years",r_basketball-players
+Randy_Livingston,"Gender:MaleDate of Birth:2 April  1975Birth place:New Orleans, LouisianaCountry:US, United StatesAge:45 years",r_basketball-players
+Brad_Lohaus,"Gender:MaleDate of Birth:29 September  1964Birth place:New Ulm, MinnesotaCountry:US, United StatesAge:55 years",r_basketball-players
+Grant_Long,"Gender:MaleDate of Birth:12 March  1966Birth place:Wayne, MichiganCountry:US, United StatesAge:54 years",r_basketball-players
+John_Long,"Gender:MaleDate of Birth:28 August  1956 - 12:01hBirth place:Romulus, MichiganCountry:US, United StatesAge:63 years",r_basketball-players
+Luc_Longley,"Gender:MaleDate of Birth:19 January  1969Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:51 years",r_basketball-players
+Jerry_Lucas,"Gender:MaleDate of Birth:30 March  1940 - 03:00hBirth place:Middletown, OhioCountry:US, United StatesAge:80 years",r_basketball-players
+D._Wayne_Lukas,"Gender:MaleDate of Birth:2 September  1935 - 03:15hBirth place:Antigo, WisconsinCountry:US, United StatesAge:84 years",r_basketball-players
+George_Lynch,"Gender:MaleDate of Birth:3 September  1970Birth place:Roanoke, VirginiaCountry:US, United StatesAge:49 years",r_basketball-players
+Don_MacLean,"Gender:MaleDate of Birth:16 January  1970Birth place:Palo Alto, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Sam_Mack,"Gender:MaleDate of Birth:26 May  1970Birth place:Chicago, IllinoisCountry:US, United StatesAge:49 years",r_basketball-players
+Ian_Mahinmi,"Gender:MaleDate of Birth:5 November  1986 - 12:55hBirth place:RouenCountry:FR, FranceAge:33 years",r_basketball-players
+Rick_Mahorn,"Gender:MaleDate of Birth:21 September  1958Birth place:Hartford, ConnecticutCountry:US, United StatesAge:61 years",r_basketball-players
+Dan_Majerle,"Gender:MaleDate of Birth:9 September  1965Birth place:Traverse City, MichiganCountry:US, United StatesAge:54 years",r_basketball-players
+Gordon_Malone,"Gender:MaleDate of Birth:17 July  1974Birth place:New York, New YorkCountry:US, United StatesAge:45 years",r_basketball-players
+Karl_Malone,"Gender:MaleDate of Birth:24 July  1963Birth place:Summerfield, LouisianaCountry:US, United StatesAge:56 years",r_basketball-players
+Moses_Malone,"Gender:MaleDate of Birth:23 March  1955Birth place:Petersburg, VirginiaCountry:US, United StatesAge:† 60 years",r_basketball-players
+Matt_Maloney,"Gender:MaleDate of Birth:6 December  1971Birth place:Silver Spring, MarylandCountry:US, United StatesAge:48 years",r_basketball-players
+Danny_Manning,"Gender:MaleDate of Birth:17 May  1966Birth place:Hattiesburg, MississippiCountry:US, United StatesAge:53 years",r_basketball-players
+Rich_Manning,"Gender:MaleDate of Birth:23 June  1970Birth place:Tacoma, WashingtonCountry:US, United StatesAge:49 years",r_basketball-players
+Pete_Maravich,"Gender:MaleDate of Birth:22 June  1947Birth place:Aliquippa, PennsylvaniaCountry:US, United StatesAge:† 40 years",r_basketball-players
+Sarunas_Marciulionis,"Gender:MaleDate of Birth:13 June  1964Birth place:KaunasCountry:LT, LithuaniaAge:55 years",r_basketball-players
+Donny_Marshall,"Gender:MaleDate of Birth:17 July  1972Birth place:Detroit, MichiganCountry:US, United StatesAge:47 years",r_basketball-players
+Donyell_Marshall,"Gender:MaleDate of Birth:18 May  1973Birth place:Reading, PennsylvaniaCountry:US, United StatesAge:46 years",r_basketball-players
+Cuonzo_Martin,"Gender:MaleDate of Birth:23 September  1971Birth place:St. Louis, MissouriCountry:US, United StatesAge:48 years",r_basketball-players
+Darrick_Martin,"Gender:MaleDate of Birth:6 March  1971Birth place:Denver, ColoradoCountry:US, United StatesAge:49 years",r_basketball-players
+Jamal_Mashburn,"Gender:MaleDate of Birth:29 November  1972Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_basketball-players
+Anthony_Mason,"Gender:MaleDate of Birth:14 December  1966Birth place:Miami, FloridaCountry:US, United StatesAge:53 years",r_basketball-players
+Tony_Massenburg,"Gender:MaleDate of Birth:13 July  1967Birth place:Sussex, VirginiaCountry:US, United StatesAge:52 years",r_basketball-players
+Ariel._Maughan,"Gender:MaleDate of Birth:23 April  1923Birth place:Salt Lake City, UtahCountry:US, United StatesAge:† 74 years",r_basketball-players
+Vernon_Maxwell,"Gender:MaleDate of Birth:12 September  1965Birth place:Gainesville, FloridaCountry:US, United StatesAge:54 years",r_basketball-players
+Lee_Mayberry,"Gender:MaleDate of Birth:12 June  1970Birth place:Tulsa, OklahomaCountry:US, United StatesAge:49 years",r_basketball-players
+Walter_McCarty,"Gender:MaleDate of Birth:1 February  1974Birth place:Evansville, IndianaCountry:US, United StatesAge:46 years",r_basketball-players
+Amal_McCaskill,"Gender:MaleDate of Birth:28 October  1973Birth place:Maywood, IllinoisCountry:US, United StatesAge:46 years",r_basketball-players
+George_McCloud,"Gender:MaleDate of Birth:27 May  1967Birth place:Daytona Beach, FloridaCountry:US, United StatesAge:52 years",r_basketball-players
+Antonio_McDyess,"Gender:MaleDate of Birth:7 September  1974Birth place:Quitman, MississippiCountry:US, United StatesAge:45 years",r_basketball-players
+Al_McGuire,"Gender:MaleDate of Birth:7 September  1928Birth place:New York, New YorkCountry:US, United StatesAge:† 72 years",r_basketball-players
+Dick_McGuire,"Gender:MaleDate of Birth:25 January  1926Birth place:New York, New YorkCountry:US, United StatesAge:† 84 years",r_basketball-players
+Jim_McIlvaine,"Gender:MaleDate of Birth:30 July  1972Birth place:Racine, WisconsinCountry:US, United StatesAge:47 years",r_basketball-players
+Jeff_McInnis,"Gender:MaleDate of Birth:22 October  1974Birth place:Charlotte, North CarolinaCountry:US, United StatesAge:45 years",r_basketball-players
+Derrick_McKey,"Gender:MaleDate of Birth:10 October  1966Birth place:Meridian, MississippiCountry:US, United StatesAge:53 years",r_basketball-players
+Aaron_McKie,"Gender:MaleDate of Birth:2 October  1972Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:47 years",r_basketball-players
+Nate_McMillan,"Gender:MaleDate of Birth:3 August  1964Birth place:Raleigh, North CarolinaCountry:US, United StatesAge:55 years",r_basketball-players
+Ron_Mercer,"Gender:MaleDate of Birth:18 May  1976Birth place:Nashville, TennesseeCountry:US, United StatesAge:43 years",r_basketball-players
+Loren_Meyer,"Gender:MaleDate of Birth:30 December  1972Birth place:Emmetsburg, IowaCountry:US, United StatesAge:47 years",r_basketball-players
+Larry_Mikan,"Gender:MaleDate of Birth:8 April  1948Birth place:St Louis Park, MinnesotaCountry:US, United StatesAge:71 years",r_basketball-players
+Marko_Milic,"Gender:MaleDate of Birth:5 May  1977 - 12:01hBirth place:LjubljanaCountry:SI, SloveniaAge:42 years",r_basketball-players
+Anthony_Miller,"Gender:MaleDate of Birth:22 October  1971Birth place:Benton Harbor, MichiganCountry:US, United StatesAge:48 years",r_basketball-players
+Oliver_Miller,"Gender:MaleDate of Birth:6 April  1970Birth place:Fort Worth, TexasCountry:US, United StatesAge:50 years",r_basketball-players
+Chris_Mills,"Gender:MaleDate of Birth:25 January  1970Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:50 years",r_basketball-players
+Terry_Mills,"Gender:MaleDate of Birth:21 December  1967 - 12:01hBirth place:Romulus, MichiganCountry:US, United StatesAge:52 years",r_basketball-players
+Greg_Minor,"Gender:MaleDate of Birth:18 September  1971Birth place:Sandersville, GeorgiaCountry:US, United StatesAge:48 years",r_basketball-players
+Sam_Mitchell,"Gender:MaleDate of Birth:2 September  1963Birth place:Columbus, GeorgiaCountry:US, United StatesAge:56 years",r_basketball-players
+Eric_Mobley,"Gender:MaleDate of Birth:1 February  1970Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_basketball-players
+Earl_'The_Pearl'_Monroe,"Gender:MaleDate of Birth:21 November  1944Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:75 years",r_basketball-players
+Eric_Montross,"Gender:MaleDate of Birth:23 September  1971Birth place:Indianapolis, IndianaCountry:US, United StatesAge:48 years",r_basketball-players
+Tracy_Moore,"Gender:MaleDate of Birth:28 December  1965Birth place:Oklahoma City, OklahomaCountry:US, United StatesAge:54 years",r_basketball-players
+Chris_Morris,"Gender:MaleDate of Birth:20 January  1966Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:54 years",r_basketball-players
+Lawrence_Moten,"Gender:MaleDate of Birth:25 March  1972Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:48 years",r_basketball-players
+Chris_Mullen,"Gender:MaleDate of Birth:30 July  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_basketball-players
+Eric_Murdock,"Gender:MaleDate of Birth:14 June  1968Birth place:Somerville, New JerseyCountry:US, United StatesAge:51 years",r_basketball-players
+Lamond_Murray,"Gender:MaleDate of Birth:20 April  1973Birth place:Pasadena, CaliforniaCountry:US, United StatesAge:46 years",r_basketball-players
+Tracy_Murray,"Gender:MaleDate of Birth:25 July  1971Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:48 years",r_basketball-players
+Dikembe_Mutombo,"Gender:MaleDate of Birth:25 June  1966Birth place:KinshasaCountry:CD, Democratic Republic of the CongoAge:53 years",r_basketball-players
+Don_Nelson,"Gender:MaleDate of Birth:15 May  1940 - 21:50hBirth place:Muskegon, MichiganCountry:US, United StatesAge:79 years",r_basketball-players
+Ruben_Nembhard,"Gender:MaleDate of Birth:20 February  1972Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_basketball-players
+Ivano_Newbill,"Gender:MaleDate of Birth:12 December  1970Birth place:Sedalia, MissouriCountry:US, United StatesAge:49 years",r_basketball-players
+Johnny_Newman,"Gender:MaleDate of Birth:28 November  1963Birth place:Danville, VirginiaCountry:US, United StatesAge:56 years",r_basketball-players
+Gaylon_Nickerson,"Gender:MaleDate of Birth:5 February  1969Birth place:Osceola, ArkansasCountry:US, United StatesAge:51 years",r_basketball-players
+Ken_Norman,"Gender:MaleDate of Birth:5 September  1964Birth place:Chicago, IllinoisCountry:US, United StatesAge:55 years",r_basketball-players
+Moochie_Norris,"Gender:MaleDate of Birth:27 July  1973Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:46 years",r_basketball-players
+Charles_O'Bannon,"Gender:MaleDate of Birth:22 February  1975Birth place:Bellflower, CaliforniaCountry:US, United StatesAge:45 years",r_basketball-players
+Ed_O'Bannon,"Gender:MaleDate of Birth:14 August  1972Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Jermaine_O'Neal,"Gender:MaleDate of Birth:13 October  1978Birth place:Columbia, South CarolinaCountry:US, United StatesAge:41 years",r_basketball-players
+Charles_Oakley,"Gender:MaleDate of Birth:18 December  1963Birth place:Cleveland, OhioCountry:US, United StatesAge:56 years",r_basketball-players
+Hakeem_Olajuwon,"Gender:MaleDate of Birth:21 January  1963Birth place:LagosCountry:NG, NigeriaAge:57 years",r_basketball-players
+Jimmy_Oliver,"Gender:MaleDate of Birth:12 July  1969Birth place:Menifee, ArkansasCountry:US, United StatesAge:50 years",r_basketball-players
+Greg_Ostertag,"Gender:MaleDate of Birth:6 March  1973Birth place:Dallas, TexasCountry:US, United StatesAge:47 years",r_basketball-players
+Bo_Outlaw,"Gender:MaleDate of Birth:13 April  1971Birth place:San Antonio, TexasCountry:US, United StatesAge:48 years",r_basketball-players
+Doug_Overton,"Gender:MaleDate of Birth:3 August  1969Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:50 years",r_basketball-players
+Billy_Owens,"Gender:MaleDate of Birth:1 May  1969Birth place:Carlisle, PennsylvaniaCountry:US, United StatesAge:50 years",r_basketball-players
+Ray_Owes,"Gender:MaleDate of Birth:11 December  1972Birth place:San Bernardino, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Robert_Pack,"Gender:MaleDate of Birth:3 February  1969Birth place:New Orleans, LouisianaCountry:US, United StatesAge:51 years",r_basketball-players
+Robert_Parish,"Gender:MaleDate of Birth:30 August  1953Birth place:Shreveport, LouisianaCountry:US, United StatesAge:66 years",r_basketball-players
+Anthony_Parker,"Gender:MaleDate of Birth:19 June  1975Birth place:Naperville, IllinoisCountry:US, United StatesAge:44 years",r_basketball-players
+Cherokee_Parks,"Gender:MaleDate of Birth:11 October  1972Birth place:Huntington Beach, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Jim_Paxson,"Gender:MaleDate of Birth:9 July  1957 - 11:48hBirth place:Dayton, OhioCountry:US, United StatesAge:62 years",r_basketball-players
+Anthony_Peeler,"Gender:MaleDate of Birth:25 November  1969Birth place:Kansas City, MissouriCountry:US, United StatesAge:50 years",r_basketball-players
+Ben_Pepper,"Gender:MaleDate of Birth:15 July  1975Birth place:Geraldton, Western AustraliaCountry:AU, AustraliaAge:44 years",r_basketball-players
+Will_Perdue,"Gender:MaleDate of Birth:29 August  1965Birth place:Melbourne, FloridaCountry:US, United StatesAge:54 years",r_basketball-players
+Sam_Perkins,"Gender:MaleDate of Birth:14 June  1961Birth place:New York, New YorkCountry:US, United StatesAge:58 years",r_basketball-players
+Elliot_Perry,"Gender:MaleDate of Birth:28 March  1969Birth place:Memphis, TennesseeCountry:US, United StatesAge:51 years",r_basketball-players
+Chuck_Person,"Gender:MaleDate of Birth:27 June  1964Birth place:Brantley, AlabamaCountry:US, United StatesAge:55 years",r_basketball-players
+Wesley_Person,"Gender:MaleDate of Birth:28 March  1971Birth place:Brantley, AlabamaCountry:US, United StatesAge:49 years",r_basketball-players
+Bob_Pettit,"Gender:MaleDate of Birth:12 December  1932 - 05:04hBirth place:Baton Rouge, LouisianaCountry:US, United StatesAge:87 years",r_basketball-players
+Bobby_Phills,"Gender:MaleDate of Birth:20 December  1969Birth place:Baton Rouge, LouisianaCountry:US, United StatesAge:† 30 years",r_basketball-players
+Ricky_Pierce,"Gender:MaleDate of Birth:19 August  1959Birth place:Dallas, TexasCountry:US, United StatesAge:60 years",r_basketball-players
+Ed_Pinckney,"Gender:MaleDate of Birth:27 March  1963Birth place:New York, New YorkCountry:US, United StatesAge:57 years",r_basketball-players
+Scottie_Pippen,"Gender:MaleDate of Birth:25 September  1965Birth place:Hamburg, ArkansasCountry:US, United StatesAge:54 years",r_basketball-players
+Rick_Pitino,"Gender:MaleDate of Birth:18 September  1952Birth place:New York, New YorkCountry:US, United StatesAge:67 years",r_basketball-players
+Scot_Pollard,"Gender:MaleDate of Birth:12 February  1975Birth place:Murray, UtahCountry:US, United StatesAge:45 years",r_basketball-players
+Olden_Polynice,"Gender:MaleDate of Birth:21 November  1964Birth place:Port-au-PrinceCountry:HT, HaitiAge:55 years",r_basketball-players
+Greg_Popovich,"Gender:MaleDate of Birth:28 January  1949Birth place:East Chicago, IndianaCountry:US, United StatesAge:71 years",r_basketball-players
+Howard_Porter,"Gender:MaleDate of Birth:31 August  1948Birth place:Stuart, FloridaCountry:US, United StatesAge:† 58 years",r_basketball-players
+Terry_Porter,"Gender:MaleDate of Birth:8 April  1963Birth place:Milwaukee, WisconsinCountry:US, United StatesAge:56 years",r_basketball-players
+Vitaly_Potapenko,"Gender:MaleDate of Birth:21 March  1975Birth place:KievCountry:UA, UkraineAge:45 years",r_basketball-players
+Brent_Price,"Gender:MaleDate of Birth:9 December  1968Birth place:Shawnee, OklahomaCountry:US, United StatesAge:51 years",r_basketball-players
+Mark_Price,"Gender:MaleDate of Birth:15 February  1964Birth place:Bartlesville, OklahomaCountry:US, United StatesAge:56 years",r_basketball-players
+Les_Pugh,"Gender:MaleDate of Birth:18 September  1923Birth place:Middletown, OhioCountry:US, United States",r_basketball-players
+Dino_Radja,"Gender:MaleDate of Birth:24 April  1967Birth place:SplitCountry:HR, CroatiaAge:52 years",r_basketball-players
+William_Ed_Ratleff,"Gender:MaleDate of Birth:29 March  1950 - 08:28hBirth place:Bellefontaine, OhioCountry:US, United StatesAge:70 years",r_basketball-players
+Theo_Ratliff,"Gender:MaleDate of Birth:17 April  1973Birth place:Demopolis, AlabamaCountry:US, United StatesAge:46 years",r_basketball-players
+Eldridge_Recasner,"Gender:MaleDate of Birth:14 December  1967Birth place:New Orleans, LouisianaCountry:US, United StatesAge:52 years",r_basketball-players
+Bryant_Reeves,"Gender:MaleDate of Birth:8 June  1973Birth place:Fort Smith, ArkansasCountry:US, United StatesAge:46 years",r_basketball-players
+Khalid_Reeves,"Gender:MaleDate of Birth:15 July  1972Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_basketball-players
+Don_Reid,"Gender:MaleDate of Birth:30 December  1973Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:46 years",r_basketball-players
+J._R._Reid,"Gender:MaleDate of Birth:31 March  1968Birth place:Virginia Beach, VirginiaCountry:US, United StatesAge:52 years",r_basketball-players
+Shawn_Respert,"Gender:MaleDate of Birth:6 February  1972Birth place:Detroit, MichiganCountry:US, United StatesAge:48 years",r_basketball-players
+Rodrick_Rhodes,"Gender:MaleDate of Birth:24 September  1973Birth place:Jersey City, New JerseyCountry:US, United StatesAge:46 years",r_basketball-players
+Glen_Rice,"Gender:MaleDate of Birth:28 May  1967Birth place:Flint, MichiganCountry:US, United StatesAge:52 years",r_basketball-players
+Pooh_Richardson,"Gender:MaleDate of Birth:14 May  1966Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:53 years",r_basketball-players
+Mitch_Richmond,"Gender:MaleDate of Birth:30 June  1965Birth place:Fort Lauderdale, FloridaCountry:US, United StatesAge:54 years",r_basketball-players
+Isaiah_Rider,"Gender:MaleDate of Birth:12 March  1971Birth place:Oakland, CaliforniaCountry:US, United StatesAge:49 years",r_basketball-players
+Eric_Riley,"Gender:MaleDate of Birth:2 June  1970 - 11:29hBirth place:Cleveland, OhioCountry:US, United StatesAge:49 years",r_basketball-players
+Pat_Riley,"Gender:MaleDate of Birth:20 March  1945Birth place:Rome, New YorkCountry:US, United StatesAge:75 years",r_basketball-players
+Fred_Roberts,"Gender:MaleDate of Birth:14 August  1960Birth place:Provo, UtahCountry:US, United StatesAge:59 years",r_basketball-players
+Oscar_Robertson,"Gender:MaleDate of Birth:24 November  1938Birth place:Charlotte, TennesseeCountry:US, United StatesAge:81 years",r_basketball-players
+Chris_Robinson,"Gender:MaleDate of Birth:2 April  1974Birth place:Columbus, GeorgiaCountry:US, United StatesAge:46 years",r_basketball-players
+David_Robinson,"Gender:MaleDate of Birth:6 August  1965Birth place:Key West, FloridaCountry:US, United StatesAge:54 years",r_basketball-players
+Glenn_Robinson,"Gender:MaleDate of Birth:10 January  1973Birth place:Gary, IndianaCountry:US, United StatesAge:47 years",r_basketball-players
+Rumeal_Robinson,"Gender:MaleDate of Birth:13 November  1966Birth place:MandevilleCountry:JM, JamaicaAge:53 years",r_basketball-players
+Red_Rocha,"Gender:MaleDate of Birth:18 September  1923Birth place:Hilo, HawaiiCountry:US, United StatesAge:† 86 years",r_basketball-players
+Lou_Roe,"Gender:MaleDate of Birth:14 July  1972Birth place:Atlantic City, New JerseyCountry:US, United StatesAge:47 years",r_basketball-players
+Carlos_Rogers,"Gender:MaleDate of Birth:6 February  1971Birth place:Detroit, MichiganCountry:US, United StatesAge:49 years",r_basketball-players
+Paul_Rogers,"Gender:MaleDate of Birth:29 September  1973Birth place:Adelaide, South AustraliaCountry:AU, AustraliaAge:46 years",r_basketball-players
+Rodney_Rogers,"Gender:MaleDate of Birth:20 June  1971Birth place:Durham, North CarolinaCountry:US, United StatesAge:48 years",r_basketball-players
+Sean_Rooks,"Gender:MaleDate of Birth:9 September  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_basketball-players
+Jalen_Rose,"Gender:MaleDate of Birth:30 January  1973Birth place:Detroit, MichiganCountry:US, United StatesAge:47 years",r_basketball-players
+Malik_Rose,"Gender:MaleDate of Birth:23 November  1974Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:45 years",r_basketball-players
+Donald_Royal,"Gender:MaleDate of Birth:22 May  1966Birth place:New Orleans, LouisianaCountry:US, United StatesAge:53 years",r_basketball-players
+Clifford_Rozier,"Gender:MaleDate of Birth:31 October  1972Birth place:Bradenton, FloridaCountry:US, United StatesAge:47 years",r_basketball-players
+Byron_Russell,"Gender:MaleDate of Birth:31 December  1970Birth place:San Bernardino, CaliforniaCountry:US, United StatesAge:49 years",r_basketball-players
+Arvydas_Sabonis,"Gender:MaleDate of Birth:19 December  1964Birth place:KaunasCountry:LT, LithuaniaAge:55 years",r_basketball-players
+Kevin_Salvadori,"Gender:MaleDate of Birth:30 December  1970Birth place:Wheeling, West VirginiaCountry:US, United StatesAge:49 years",r_basketball-players
+Mark_Sanford,"Gender:MaleDate of Birth:7 February  1976Birth place:Dallas, TexasCountry:US, United StatesAge:44 years",r_basketball-players
+Jason_Sasser,"Gender:MaleDate of Birth:13 January  1974Birth place:Denton, TexasCountry:US, United StatesAge:46 years",r_basketball-players
+Flip_Saunders,"Gender:MaleDate of Birth:23 February  1955 - 03:25hBirth place:Lakewood, OhioCountry:US, United StatesAge:65 years",r_basketball-players
+Steve_Scheffler,"Gender:MaleDate of Birth:3 September  1967Birth place:Grand Rapids, MichiganCountry:US, United StatesAge:52 years",r_basketball-players
+Dwayne_Schintzius,"Gender:MaleDate of Birth:14 October  1968Birth place:Brandon, FloridaCountry:US, United StatesAge:† 43 years",r_basketball-players
+Detlef_Schrempf,"Gender:MaleDate of Birth:21 January  1963Birth place:LeverkusenCountry:DE, GermanyAge:57 years",r_basketball-players
+Brent_Scott,"Gender:MaleDate of Birth:15 June  1971Birth place:Jackson, MichiganCountry:US, United StatesAge:48 years",r_basketball-players
+Byron_Scott,"Gender:MaleDate of Birth:28 March  1961Birth place:Ogden, UtahCountry:US, United StatesAge:59 years",r_basketball-players
+Dennis_Scott,"Gender:MaleDate of Birth:5 September  1968Birth place:Hagerstown, MarylandCountry:US, United StatesAge:51 years",r_basketball-players
+Shawnelle_Scott,"Gender:MaleDate of Birth:16 June  1972Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_basketball-players
+Malik_Sealy,"Gender:MaleDate of Birth:1 February  1970Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_basketball-players
+Rony_Seikaly,"Gender:MaleDate of Birth:10 May  1965Birth place:BeirutCountry:LB, LebanonAge:54 years",r_basketball-players
+God_Shammgod,"Gender:MaleDate of Birth:29 April  1976Birth place:New York, New YorkCountry:US, United StatesAge:43 years",r_basketball-players
+Bill_Sharman,"Gender:MaleDate of Birth:25 May  1926 - 08:50hBirth place:Abilene, TexasCountry:US, United StatesAge:† 87 years",r_basketball-players
+Brian_Keith_Shaw,"Gender:MaleDate of Birth:22 March  1966 - 07:15hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:54 years",r_basketball-players
+Lionel_Simmons,"Gender:MaleDate of Birth:14 November  1968Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:51 years",r_basketball-players
+Dickey_Simpkins,"Gender:MaleDate of Birth:6 April  1972 - 12:01hBirth place:Fort Washington, PennsylvaniaCountry:US, United StatesAge:48 years",r_basketball-players
+Reggie_Slater,"Gender:MaleDate of Birth:27 August  1970Birth place:Houston, TexasCountry:US, United StatesAge:49 years",r_basketball-players
+Jerry_Sloan,"Gender:MaleDate of Birth:28 March  1942Birth place:McLeansboro, IllinoisCountry:US, United StatesAge:78 years",r_basketball-players
+Bobby_Smith,"Gender:MaleDate of Birth:20 August  1937Birth place:Charleston, West VirginiaCountry:US, United StatesAge:82 years",r_basketball-players
+Joe_Smith,"Gender:MaleDate of Birth:26 July  1975Birth place:Norfolk, VirginiaCountry:US, United StatesAge:44 years",r_basketball-players
+Steve_Smith,"Gender:MaleDate of Birth:31 March  1969Birth place:Highland Park, MichiganCountry:US, United StatesAge:51 years",r_basketball-players
+Stevin_Smith,"Gender:MaleDate of Birth:24 January  1972Birth place:Dallas, TexasCountry:US, United StatesAge:48 years",r_basketball-players
+Tony_Smith,"Gender:MaleDate of Birth:14 June  1968Birth place:Wauwatosa, WisconsinCountry:US, United StatesAge:51 years",r_basketball-players
+Rik_Smits,"Gender:MaleDate of Birth:23 August  1966Birth place:EindhovenCountry:NL, NetherlandsAge:53 years",r_basketball-players
+Eric_Snow,"Gender:MaleDate of Birth:24 April  1973 - 03:55hBirth place:Canton, OhioCountry:US, United StatesAge:46 years",r_basketball-players
+Elmore_Spencer,"Gender:MaleDate of Birth:6 December  1969Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:50 years",r_basketball-players
+Felton_Spencer,"Gender:MaleDate of Birth:15 January  1968Birth place:Louisville, KentuckyCountry:US, United StatesAge:52 years",r_basketball-players
+Latrell_Sprewell,"Gender:MaleDate of Birth:8 September  1970Birth place:Milwaukee, WisconsinCountry:US, United StatesAge:49 years",r_basketball-players
+Jerry_Stackhouse,"Gender:MaleDate of Birth:5 November  1974Birth place:Kinston, North CarolinaCountry:US, United StatesAge:45 years",r_basketball-players
+John_Starks,"Gender:MaleDate of Birth:10 August  1965Birth place:Tulsa, OklahomaCountry:US, United StatesAge:54 years",r_basketball-players
+Matt_Steigenga,"Gender:MaleDate of Birth:27 March  1970Birth place:Grand Rapids, MichiganCountry:US, United StatesAge:50 years",r_basketball-players
+Joe_Stephens,"Gender:MaleDate of Birth:28 January  1973Birth place:Riverside, CaliforniaCountry:US, United StatesAge:47 years",r_basketball-players
+Kebu_Stewart,"Gender:MaleDate of Birth:19 December  1973Birth place:New York, New YorkCountry:US, United StatesAge:46 years",r_basketball-players
+Bryant_Stith,"Gender:MaleDate of Birth:10 December  1970Birth place:Emporia, VirginiaCountry:US, United StatesAge:49 years",r_basketball-players
+Tom_Stith,"Gender:MaleDate of Birth:21 January  1939Birth place:Emporia, VirginiaCountry:US, United StatesAge:† 71 years",r_basketball-players
+John_Stockton,"Gender:MaleDate of Birth:26 March  1962Birth place:Spokane, WashingtonCountry:US, United StatesAge:58 years",r_basketball-players
+Damon_Stoudamire,"Gender:MaleDate of Birth:3 September  1973Birth place:Portland, OregonCountry:US, United StatesAge:46 years",r_basketball-players
+Erick_Strickland,"Gender:MaleDate of Birth:25 November  1973Birth place:Opelika, AlabamaCountry:US, United StatesAge:46 years",r_basketball-players
+Mark_Strickland,"Gender:MaleDate of Birth:14 July  1970Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:49 years",r_basketball-players
+Rod_Strickland,"Gender:MaleDate of Birth:11 July  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_basketball-players
+Derek_Strong,"Gender:MaleDate of Birth:9 February  1968Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:52 years",r_basketball-players
+Bob_Sura,"Gender:MaleDate of Birth:25 March  1973Birth place:Wilkes-Barre, PennsylvaniaCountry:US, United StatesAge:47 years",r_basketball-players
+Brett_Szabo,"Gender:MaleDate of Birth:1 February  1968Birth place:Postville, IowaCountry:US, United StatesAge:52 years",r_basketball-players
+Zan_Tabak,"Gender:MaleDate of Birth:15 June  1970Birth place:SplitCountry:HR, CroatiaAge:49 years",r_basketball-players
+Jerry_Tarkanian,"Gender:MaleDate of Birth:8 August  1930 - 00:45hBirth place:Euclid, OhioCountry:US, United StatesAge:89 years",r_basketball-players
+Johnny_Taylor,"Gender:MaleDate of Birth:4 June  1974Birth place:Chattanooga, TennesseeCountry:US, United StatesAge:45 years",r_basketball-players
+Maurice_Taylor,"Gender:MaleDate of Birth:30 October  1976Birth place:Detroit, MichiganCountry:US, United StatesAge:43 years",r_basketball-players
+Chuck_Terry,"Gender:MaleDate of Birth:27 September  1950Birth place:Long Beach, CaliforniaCountry:US, United StatesAge:69 years",r_basketball-players
+Carl_Thomas,"Gender:MaleDate of Birth:3 October  1969 - 23:17hBirth place:Patterson, OhioCountry:US, United StatesAge:50 years",r_basketball-players
+Kurt_Thomas,"Gender:MaleDate of Birth:4 October  1972Birth place:Dallas, TexasCountry:US, United StatesAge:47 years",r_basketball-players
+Tim_Thomas,"Gender:MaleDate of Birth:26 February  1977Birth place:Paterson, New JerseyCountry:US, United StatesAge:43 years",r_basketball-players
+LaSalle_Thompson,"Gender:MaleDate of Birth:23 June  1961Birth place:Cincinnati, OhioCountry:US, United StatesAge:58 years",r_basketball-players
+Otis_Thorpe,"Gender:MaleDate of Birth:5 August  1962Birth place:Boynton Beach, FloridaCountry:US, United StatesAge:57 years",r_basketball-players
+Sedale_Threatt,"Gender:MaleDate of Birth:10 September  1961Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:58 years",r_basketball-players
+Wayman_Tisdale,"Gender:MaleDate of Birth:9 June  1964Birth place:Tulsa, OklahomaCountry:US, United StatesAge:55 years",r_basketball-players
+Rudy_Tomjanovich,"Gender:MaleDate of Birth:24 November  1948Birth place:Hamtramck, MichiganCountry:US, United StatesAge:71 years",r_basketball-players
+Keith_Tower,"Gender:MaleDate of Birth:15 May  1970Birth place:Libby, MontanaCountry:US, United StatesAge:49 years",r_basketball-players
+Daniel_Trant,"Gender:MaleDate of Birth:15 May  1961 - 01:17hBirth place:Westfield, MassachusettsCountry:US, United StatesAge:† 40 years",r_basketball-players
+Kelly_Tripucka,"Gender:MaleDate of Birth:16 February  1959 - 17:29hBirth place:Glen Ridge, New JerseyCountry:US, United StatesAge:61 years",r_basketball-players
+Wes_Unseld,"Gender:MaleDate of Birth:14 March  1946 - 04:26hBirth place:Louisville, KentuckyCountry:US, United StatesAge:74 years",r_basketball-players
+Jeff_VanGundy,"Gender:MaleDate of Birth:19 January  1962 - 00:23hBirth place:Hemet, CaliforniaCountry:US, United StatesAge:58 years",r_basketball-players
+Keith_VanHorn,"Gender:MaleDate of Birth:23 October  1975Birth place:Fullerton, CaliforniaCountry:US, United StatesAge:44 years",r_basketball-players
+Nickey_Van_Exel,"Gender:MaleDate of Birth:27 November  1971 - 10:05hBirth place:Kenosha, WisconsinCountry:US, United StatesAge:48 years",r_basketball-players
+Jacque_Vaughn,"Gender:MaleDate of Birth:11 February  1975Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_basketball-players
+Loy_Vaught,"Gender:MaleDate of Birth:27 February  1968Birth place:Grand Rapids, MichiganCountry:US, United StatesAge:52 years",r_basketball-players
+Stojko_Vrankovic,"Gender:MaleDate of Birth:22 January  1964Birth place:DrnišCountry:HR, CroatiaAge:56 years",r_basketball-players
+Samaki_Walker,"Gender:MaleDate of Birth:25 February  1976 - 09:48hBirth place:Columbus, OhioCountry:US, United StatesAge:44 years",r_basketball-players
+John_Wallace,"Gender:MaleDate of Birth:9 February  1974Birth place:Rochester, New YorkCountry:US, United StatesAge:46 years",r_basketball-players
+Rasheed_Wallace,"Gender:MaleDate of Birth:17 September  1974Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:45 years",r_basketball-players
+Rex_Walters,"Gender:MaleDate of Birth:12 March  1970Birth place:Omaha, NebraskaCountry:US, United StatesAge:50 years",r_basketball-players
+Charlie_Ward,"Gender:MaleDate of Birth:12 October  1970Birth place:Thomasville, GeorgiaCountry:US, United StatesAge:49 years",r_basketball-players
+Dwayne_Pearl_Washington,"Gender:MaleDate of Birth:6 January  1964Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_basketball-players
+Eric_Washington,"Gender:MaleDate of Birth:23 March  1974 - 12:01hBirth place:Pearl, MississippiCountry:US, United StatesAge:46 years",r_basketball-players
+Jamie_Watson,"Gender:MaleDate of Birth:23 February  1972Birth place:Elm City, North CarolinaCountry:US, United StatesAge:48 years",r_basketball-players
+Clarence_Weatherspoon,"Gender:MaleDate of Birth:8 September  1970Birth place:Crawford, MississippiCountry:US, United StatesAge:49 years",r_basketball-players
+Chris_Webber,"Gender:MaleDate of Birth:1 March  1973Birth place:Detroit, MichiganCountry:US, United StatesAge:47 years",r_basketball-players
+Bubba_Wells,"Gender:MaleDate of Birth:26 July  1974Birth place:Russellville, KentuckyCountry:US, United StatesAge:45 years",r_basketball-players
+Bill_Wennington,"Gender:MaleDate of Birth:26 April  1963Birth place:Montreal, QuébecCountry:CA, CanadaAge:56 years",r_basketball-players
+Robert_Werdann,"Gender:MaleDate of Birth:12 September  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_basketball-players
+David_Wesley,"Gender:MaleDate of Birth:14 November  1970Birth place:San Antonio, TexasCountry:US, United StatesAge:49 years",r_basketball-players
+Doug_West,"Gender:MaleDate of Birth:27 May  1967Birth place:Altoona, PennsylvaniaCountry:US, United StatesAge:52 years",r_basketball-players
+Mark_West,"Gender:MaleDate of Birth:5 November  1960Birth place:Petersburg, VirginiaCountry:US, United StatesAge:59 years",r_basketball-players
+P._D._Westphal,"Gender:MaleDate of Birth:30 November  1950 - 05:05hBirth place:Torrance, CaliforniaCountry:US, United StatesAge:69 years",r_basketball-players
+Ennis_Whatley,"Gender:MaleDate of Birth:11 August  1962Birth place:Birmingham, AlabamaCountry:US, United StatesAge:57 years",r_basketball-players
+DeJuan_Wheat,"Gender:MaleDate of Birth:14 October  1973Birth place:Louisville, KentuckyCountry:US, United StatesAge:46 years",r_basketball-players
+Donald_Whiteside,"Gender:MaleDate of Birth:25 April  1969Birth place:Chicago, IllinoisCountry:US, United StatesAge:50 years",r_basketball-players
+Chris_Whitney,"Gender:MaleDate of Birth:5 October  1971Birth place:Hopkinsville, KentuckyCountry:US, United StatesAge:48 years",r_basketball-players
+Morlon_Wiley,"Gender:MaleDate of Birth:24 September  1966Birth place:New Orleans, LouisianaCountry:US, United StatesAge:53 years",r_basketball-players
+Gerald_Wilkins,"Gender:MaleDate of Birth:11 September  1963Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:56 years",r_basketball-players
+Jacques_Dominique_Wilkins,"Gender:MaleDate of Birth:12 January  1960Birth place:ParisCountry:FR, FranceAge:60 years",r_basketball-players
+Jeffrey_Wilkins,"Gender:MaleDate of Birth:9 March  1955Birth place:Chicago, IllinoisCountry:US, United StatesAge:65 years",r_basketball-players
+Lenny_Wilkins,"Gender:MaleDate of Birth:28 October  1937Birth place:New York, New YorkCountry:US, United StatesAge:82 years",r_basketball-players
+Aaron_Williams,"Gender:MaleDate of Birth:2 October  1971Birth place:Evanston, IllinoisCountry:US, United StatesAge:48 years",r_basketball-players
+Alvin_Williams,"Gender:MaleDate of Birth:6 August  1974Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:45 years",r_basketball-players
+Buck_Williams,"Gender:MaleDate of Birth:8 March  1960Birth place:Rocky Mount, North CarolinaCountry:US, United StatesAge:60 years",r_basketball-players
+Herb_Williams,"Gender:MaleDate of Birth:16 February  1958Birth place:Columbus, OhioCountry:US, United StatesAge:62 years",r_basketball-players
+Jayson_Williams,"Gender:MaleDate of Birth:22 February  1968Birth place:Ritter, South CarolinaCountry:US, United StatesAge:52 years",r_basketball-players
+Jerome_Williams,"Gender:MaleDate of Birth:10 May  1973Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:46 years",r_basketball-players
+Lorenzo_Williams,"Gender:MaleDate of Birth:15 July  1969Birth place:Ocala, FloridaCountry:US, United StatesAge:50 years",r_basketball-players
+Michael_D._Williams,"Gender:MaleDate of Birth:23 July  1966Birth place:Dallas, TexasCountry:US, United StatesAge:53 years",r_basketball-players
+Milt_Williams,"Gender:MaleDate of Birth:22 November  1945Birth place:Seattle, WashingtonCountry:US, United StatesAge:74 years",r_basketball-players
+Monty_Williams,"Gender:MaleDate of Birth:8 October  1971Birth place:Fredericksburg, VirginiaCountry:US, United StatesAge:48 years",r_basketball-players
+Walt_Williams,"Gender:MaleDate of Birth:16 April  1970Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:49 years",r_basketball-players
+Corliss_Williamson,"Gender:MaleDate of Birth:4 December  1973Birth place:Russellville, ArkansasCountry:US, United StatesAge:46 years",r_basketball-players
+Kevin_Willis,"Gender:MaleDate of Birth:6 September  1962Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:57 years",r_basketball-players
+Mike_Wilson,"Gender:MaleDate of Birth:15 September  1959Birth place:Memphis, TennesseeCountry:US, United StatesAge:60 years",r_basketball-players
+David_Wingate,"Gender:MaleDate of Birth:15 December  1963Birth place:Baltimore, MarylandCountry:US, United StatesAge:56 years",r_basketball-players
+Dontonio_Wingfield,"Gender:MaleDate of Birth:23 June  1974Birth place:Albany, GeorgiaCountry:US, United StatesAge:45 years",r_basketball-players
+Joe_Wolf,"Gender:MaleDate of Birth:17 December  1964Birth place:Kohler, WisconsinCountry:US, United StatesAge:55 years",r_basketball-players
+David_Wood,"Gender:MaleDate of Birth:30 November  1964Birth place:Spokane, WashingtonCountry:US, United StatesAge:55 years",r_basketball-players
+Haywoode_Workman,"Gender:MaleDate of Birth:23 January  1966Birth place:Charlotte, North CarolinaCountry:US, United StatesAge:54 years",r_basketball-players
+Lorenzen_Wright,"Gender:MaleDate of Birth:4 November  1975Birth place:Memphis, TennesseeCountry:US, United StatesAge:44 years",r_basketball-players
+Sharone_Wright,"Gender:MaleDate of Birth:30 January  1973Birth place:Macon, GeorgiaCountry:US, United StatesAge:47 years",r_basketball-players
+George_Zidek,"Gender:MaleBirth:*1973Country:CZ, Czech RepublicAge:46 years",r_basketball-players
+Serge_Zwikker,"Gender:MaleDate of Birth:28 April  1973Birth place:VlaardingenCountry:NL, NetherlandsAge:46 years",r_basketball-players
+Tony_Allen,"Gender:MaleDate of Birth:11 January  1982Birth place:Chicago, IllinoisCountry:US, United StatesAge:38 years",r_basketball-players
+Edward_Rahsaan_Ames,"Gender:MaleDate of Birth:30 March  1978Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:42 years",r_basketball-players
+Lucie_Andrýsková,"Gender:FemaleBirth:*1985Country:CZ, Czech RepublicAge:34 years",r_basketball-players
+Gilbert_Arenas,"Gender:MaleDate of Birth:6 February  1982Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:38 years",r_basketball-players
+Marcus_Arnold,"Gender:MaleDate of Birth:28 January  1984Birth place:Chicago, IllinoisCountry:US, United StatesAge:36 years",r_basketball-players
+Markéta_Bednářová,"Gender:FemaleBirth:*1981Country:CZ, Czech RepublicAge:38 years",r_basketball-players
+Petr_Benda,"Gender:MaleBirth:*1982Country:CE, CZSKAge:38 years",r_basketball-players
+Jonas_Brown,"Gender:MaleDate of Birth:11 March  1985Birth place:Houston, TexasCountry:US, United StatesAge:35 years",r_basketball-players
+Dwight_Burke,"Gender:MaleDate of Birth:4 August  1986Birth place:New York, New YorkCountry:US, United StatesAge:33 years",r_basketball-players
+Petr_Czudek,"Gender:MaleBirth:*1971Country:CZ, Czech RepublicAge:48 years",r_basketball-players
+Aleš_Chán,"Gender:MaleBirth:*1980Country:CZ, Czech RepublicAge:39 years",r_basketball-players
+Joseph_Edward_Chapman,"Gender:MaleDate of Birth:22 August  1984Birth place:Chicago, IllinoisCountry:US, United StatesAge:35 years",r_basketball-players
+Elin_Eldebrink,"Gender:FemaleDate of Birth:4 January  1988Birth place:SödertäljeCountry:SE, SwedenAge:32 years",r_basketball-players
+Frida_Eldebrink,"Gender:FemaleDate of Birth:4 January  1988Birth place:SödertäljeCountry:SE, SwedenAge:32 years",r_basketball-players
+Kateřina_Elhotová,"Gender:FemaleBirth:*1989Country:CZ, Czech RepublicAge:30 years",r_basketball-players
+Kamaldin_Gamma,"Gender:MaleDate of Birth:23 December  1980Birth place:TripoliCountry:LY, LibyaAge:39 years",r_basketball-players
+Becky_Hammon,"Gender:FemaleDate of Birth:11 March  1977Birth place:Rapid City, South DakotaCountry:US, United StatesAge:43 years",r_basketball-players
+Ian_Joel_Hanavan,"Gender:MaleDate of Birth:15 August  1980Country:BE, BelgiumAge:39 years",r_basketball-players
+Michala_Hartigová,"Gender:FemaleBirth:*1983Country:CZ, Czech RepublicAge:36 years",r_basketball-players
+Romana_Hejdová,"Gender:FemaleBirth:*1988Country:CZ, Czech RepublicAge:31 years",r_basketball-players
+Jiří_Holanda,"Gender:MaleBirth:*1986Country:CZ, Czech RepublicAge:34 years",r_basketball-players
+Jon_Robert_Holden,"Gender:MaleDate of Birth:10 August  1976Birth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:43 years",r_basketball-players
+Hana_Horáková,"Gender:FemaleBirth:*1979Country:CZ, Czech RepublicAge:40 years",r_basketball-players
+Jeffrey_James_McMillian,"Gender:MaleDate of Birth:18 February  1980Birth place:New York, New YorkCountry:US, United StatesAge:40 years",r_basketball-players
+Marko_Jarić,"Gender:MaleDate of Birth:12 October  1978Birth place:BelgradeCountry:RS, SerbiaAge:41 years",r_basketball-players
+Aleš_Jiráň,"Gender:MaleBirth:*1983Country:CE, CZSKAge:37 years",r_basketball-players
+Ondřej_Kohout,"Gender:MaleBirth:*1991Country:CE, CZSKAge:29 years",r_basketball-players
+Lukáš_Kotas,"Gender:MaleBirth:*1984Country:CZ, Czech RepublicAge:35 years",r_basketball-players
+Lukáš_Kraus,"Gender:MaleBirth:*1984Country:CZ, Czech RepublicAge:35 years",r_basketball-players
+Pavel_Kubálek,"Gender:MaleBirth:*1971Country:CZ, Czech RepublicAge:48 years",r_basketball-players
+Petra_Kulichová,"Gender:FemaleBirth:*1984Country:CZ, Czech RepublicAge:35 years",r_basketball-players
+Evanthia_Maltsi,"Gender:FemaleDate of Birth:12 August  1978Birth place:AthensCountry:GR, GreeceAge:41 years",r_basketball-players
+Myles_McKay,"Gender:MaleDate of Birth:19 July  1986Birth place:Menomonee Falls, WisconsinCountry:US, United StatesAge:33 years",r_basketball-players
+Delisha_Milton_Jones,"Gender:FemaleDate of Birth:11 September  1974Birth place:Riceboro, GeorgiaCountry:US, United StatesAge:45 years",r_basketball-players
+Mike_Mitchell,"Gender:MaleDate of Birth:6 July  1983Birth place:San Antonio, TexasCountry:US, United StatesAge:36 years",r_basketball-players
+Chris_Moss,"Gender:MaleDate of Birth:7 February  1980Birth place:Columbus, OhioCountry:US, United StatesAge:40 years",r_basketball-players
+Denis_Mujagič,"Gender:MaleDate of Birth:18 February  1969Country:HR, CroatiaAge:51 years",r_basketball-players
+Deanna_Nolan,"Gender:FemaleDate of Birth:25 August  1979Birth place:Flint, MichiganCountry:US, United StatesAge:40 years",r_basketball-players
+John_Ofoegbu,"Gender:MaleDate of Birth:11 August  1983Birth place:Austin, TexasCountry:US, United StatesAge:36 years",r_basketball-players
+Tereza_Pecková,"Gender:FemaleBirth:*1987Country:CZ, Czech RepublicAge:32 years",r_basketball-players
+Ticha_Penicheiro,"Gender:FemaleDate of Birth:18 September  1974Birth place:Figueira da FozCountry:PT, PortugalAge:45 years",r_basketball-players
+Lukáš_Procházka,"Gender:MaleBirth:*1982Country:CE, CZSKAge:37 years",r_basketball-players
+Pavel_Pumprla,"Gender:MaleBirth:*1986Country:CE, CZSKAge:33 years",r_basketball-players
+Radoslav_Rančík,"Gender:MaleBirth:*1979Country:SK, SlovakiaAge:40 years",r_basketball-players
+Jon_Rogers,"Gender:MaleDate of Birth:30 August  1984Birth place:Hahira, GeorgiaCountry:US, United StatesAge:35 years",r_basketball-players
+Brandon_Roy,"Gender:MaleDate of Birth:23 June  1984Birth place:Seattle, WashingtonCountry:US, United StatesAge:35 years",r_basketball-players
+Levell_Leonard_Sanders,"Gender:MaleDate of Birth:14 December  1975Birth place:New York, New YorkCountry:US, United StatesAge:44 years",r_basketball-players
+Tomáš_Satoranský,"Gender:MaleBirth:*1991Country:CZ, Czech RepublicAge:28 years",r_basketball-players
+Blake_Schilb,"Gender:MaleDate of Birth:23 December  1983Birth place:Monmouth, IllinoisCountry:US, United StatesAge:36 years",r_basketball-players
+Pavel_Slezák,"Gender:MaleBirth:*1984Country:CZ, Czech RepublicAge:35 years",r_basketball-players
+Ladislav_Sokolovský,"Gender:MaleBirth:*1977Country:CZ, Czech RepublicAge:42 years",r_basketball-players
+Amare_Stoudemire,"Gender:MaleDate of Birth:16 November  1982Birth place:Lake Wales, FloridaCountry:US, United StatesAge:37 years",r_basketball-players
+Luboš_Stria,"Gender:MaleBirth:*1981Country:CZ, Czech RepublicAge:39 years",r_basketball-players
+Marek_Stuchlý,"Gender:MaleBirth:*1975Country:CZ, Czech RepublicAge:44 years",r_basketball-players
+Miloslava_Svobodová,"Gender:FemaleBirth:*1984Country:CE, CZSKAge:36 years",r_basketball-players
+Martin_Sýkora,"Gender:MaleBirth:*1981Country:CE, CZSKAge:39 years",r_basketball-players
+Edita_Šujanová,"Gender:FemaleBirth:*1985Country:CZ, Czech RepublicAge:34 years",r_basketball-players
+Diana_Taurasi,"Gender:FemaleDate of Birth:11 June  1982Birth place:Chino, CaliforniaCountry:US, United StatesAge:37 years",r_basketball-players
+Michaela_Uhrová,"Gender:FemaleBirth:*1982Country:CZ, Czech RepublicAge:37 years",r_basketball-players
+Ivana_Večeřová,"Gender:FemaleBirth:*1979Country:CZ, Czech RepublicAge:41 years",r_basketball-players
+Jana_Veselá,"Gender:FemaleBirth:*1983Country:CZ, Czech RepublicAge:36 years",r_basketball-players
+Eva_Vítečková,"Gender:FemaleBirth:*1982Country:CZ, Czech RepublicAge:38 years",r_basketball-players
+Kenneth_Walker,"Gender:MaleDate of Birth:4 February  1980Birth place:Jackson, IowaCountry:US, United StatesAge:40 years",r_basketball-players
+Darius_Washington,"Gender:MaleDate of Birth:6 December  1985Birth place:Winter Park, FloridaCountry:US, United StatesAge:34 years",r_basketball-players
+Jiří_Welsch,"Gender:MaleBirth:*1980Country:CZ, Czech RepublicAge:40 years",r_basketball-players
+Lindsay_Whalen,"Gender:FemaleDate of Birth:9 May  1982Birth place:Hutchinson, MinnesotaCountry:US, United StatesAge:37 years",r_basketball-players
+Michaela_Zrůstová,"Gender:FemaleBirth:*1987Country:CZ, Czech RepublicAge:33 years",r_basketball-players
+Zuzana_Žirková,"Gender:FemaleBirth:*1980Country:SK, SlovakiaAge:39 years",r_basketball-players
+Fernando_Romay,"Gender:MaleDate of Birth:23 September  1959Birth place:A CoruñaCountry:ES, SpainAge:60 years",r_basketball-players
+Hafthor_Bjornsson,"Gender:MaleDate of Birth:28 November  1988Birth place:ReykjavíkCountry:IS, IcelandAge:31 years",r_basketball-players
+Kyrie_Irving,"Gender:MaleDate of Birth:23 March  1992Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:28 years",r_basketball-players
+Serge_Ibaka,"Gender:MaleDate of Birth:18 September  1989Birth place:BrazzavilleCountry:CG, Republic of the CongoAge:30 years",r_basketball-players

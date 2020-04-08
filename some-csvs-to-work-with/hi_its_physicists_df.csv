@@ -1,0 +1,417 @@
+name,info,occupation
+Albert_Einstein,"Gender:MaleDate of Birth:14 March  1879 - 11:30hBirth place:UlmCountry:DE, GermanyAge:† 76 years",r_physicists
+Stephen_Hawking,"Gender:MaleDate of Birth:8 January  1942 - 10:08hBirth place:Oxford, EnglandCountry:GB, United KingdomAge:† 76 years",r_physicists
+Leonhard_Euler,"Gender:MaleDate of Birth:15 April  1707 - 21:13hBirth place:BaselCountry:CH, SwitzerlandAge:† 76 years",r_physicists
+James_Watt,"Gender:MaleDate of Birth:19 January  1736 - 02:55hBirth place:Greenock, ScotlandCountry:GB, United KingdomAge:† 83 years",r_physicists
+Georg_Ohm,"Gender:MaleDate of Birth:16 March  1789 - 03:00hBirth place:ErlangenCountry:DE, GermanyAge:† 65 years",r_physicists
+Michael_Faraday,"Gender:MaleDate of Birth:22 September  1791 - 05:00hBirth place:Newington ButtsCountry:GB, United KingdomAge:† 75 years",r_physicists
+William_Hamilton,"Gender:MaleDate of Birth:4 August  1805 - 00:00hBirth place:DublinCountry:IE, IrelandAge:† 60 years",r_physicists
+Julius_Mayer,"Gender:MaleDate of Birth:25 November  1814 - 00:15hBirth place:HeilbronnCountry:DE, GermanyAge:† 63 years",r_physicists
+Felix_Bloch,"Gender:MaleDate of Birth:23 October  1905 - 06:30hBirth place:ZürichCountry:CH, SwitzerlandAge:† 77 years",r_physicists
+Niels_Bohr,"Gender:MaleDate of Birth:7 October  1885 - 13:15hBirth place:CopenhagenCountry:DK, DenmarkAge:† 77 years",r_physicists
+Ludwig_Boltzmann,"Gender:MaleDate of Birth:20 February  1844 - 23:21hBirth place:ViennaCountry:AT, AustriaAge:† 62 years",r_physicists
+Max_Born,"Gender:MaleDate of Birth:11 December  1882 - 11:02hBirth place:WrocławCountry:PL, PolandAge:† 87 years",r_physicists
+Fritjof_Capra,"Gender:MaleDate of Birth:1 February  1939 - 10:55hBirth place:ViennaCountry:AT, AustriaAge:81 years",r_physicists
+Owen_Chamberlain,"Gender:MaleDate of Birth:10 July  1920 - 03:33hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 85 years",r_physicists
+Pierre_Curie,"Gender:MaleDate of Birth:15 May  1859 - 02:00hBirth place:ParisCountry:FR, FranceAge:† 46 years",r_physicists
+Carl_Friedrich_Gauss,"Gender:MaleDate of Birth:30 April  1777 - 08:18hBirth place:BrunswickCountry:DE, GermanyAge:† 77 years",r_physicists
+Walther_Gerlach,"Gender:MaleDate of Birth:1 August  1889 - 08:15hBirth place:WiesbadenCountry:DE, GermanyAge:† 90 years",r_physicists
+Werner_Heisenberg,"Gender:MaleDate of Birth:5 December  1901 - 16:45hBirth place:WürzburgCountry:DE, GermanyAge:† 74 years",r_physicists
+Gustav_Hertz,"Gender:MaleDate of Birth:22 July  1887 - 16:15hBirth place:HamburgCountry:DE, GermanyAge:† 88 years",r_physicists
+Heinrich_Hertz,"Gender:MaleDate of Birth:22 February  1857 - 06:00hBirth place:HamburgCountry:DE, GermanyAge:† 36 years",r_physicists
+Max_von_Laue,"Gender:MaleDate of Birth:9 October  1879 - 09:30hBirth place:KoblenzCountry:DE, GermanyAge:† 80 years",r_physicists
+James_Clerk_Maxwell,"Gender:MaleDate of Birth:13 June  1831Birth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 48 years",r_physicists
+Philip_M._Morse,"Gender:MaleDate of Birth:6 August  1903 - 03:00hBirth place:Shreveport, LouisianaCountry:US, United StatesAge:† 82 years",r_physicists
+Robert_Oppenheimer,"Gender:MaleDate of Birth:22 April  1904 - 08:15hBirth place:New York, New YorkCountry:US, United StatesAge:† 62 years",r_physicists
+Wolfgang_Pauli,"Gender:MaleDate of Birth:25 April  1900 - 13:43hBirth place:ViennaCountry:AT, AustriaAge:† 58 years",r_physicists
+Ludwig_Prandtl,"Gender:MaleDate of Birth:4 February  1875 - 18:45hBirth place:FreisingCountry:DE, GermanyAge:† 78 years",r_physicists
+Wilhelm_Röntgen,"Gender:MaleDate of Birth:27 March  1845 - 14:00hBirth place:RemscheidCountry:DE, GermanyAge:† 77 years",r_physicists
+Carlo_Rubbia,"Gender:MaleDate of Birth:31 March  1934 - 06:20hBirth place:Gorice a GradiškaCountry:IT, ItalyAge:86 years",r_physicists
+Andrei_Sakharov,"Gender:MaleDate of Birth:21 May  1921 - 05:00hBirth place:MoscowCountry:RU, RussiaAge:† 68 years",r_physicists
+Erwin_Schrödinger,"Gender:MaleDate of Birth:12 August  1887 - 08:33hBirth place:ViennaCountry:AT, AustriaAge:† 73 years",r_physicists
+Alastair_Reynolds,"Gender:MaleDate of Birth:13 March  1966Birth place:Barry, WalesCountry:GB, United KingdomAge:54 years",r_physicists
+Boris_Nemtsov,"Gender:MaleDate of Birth:9 October  1959Birth place:SochiCountry:RU, RussiaAge:† 55 years",r_physicists
+Dennis_Ritchie,"Gender:MaleDate of Birth:9 September  1941Birth place:Bronxville, New YorkCountry:US, United StatesAge:† 70 years",r_physicists
+Léon_Foucault,"Gender:MaleDate of Birth:18 September  1819Birth place:ParisCountry:FR, FranceAge:† 48 years",r_physicists
+Isaac_Newton,"Gender:MaleDate of Birth:4 January  1643 - 01:38h(gregor.)Birth place:Woolsthorpe, EnglandCountry:GB, United KingdomAge:† 85 years",r_physicists
+Léon_Theremin,"Gender:MaleDate of Birth:27 August  1896Birth place:Saint PetersburgCountry:RU, RussiaAge:† 97 years",r_physicists
+Galilei_Galileo,"Gender:MaleDate of Birth:26 February  1564 - 15:41h(gregor.)Birth place:PisaCountry:IT, ItalyAge:† 77 years",r_physicists
+Mileva_Marić,"Gender:FemaleDate of Birth:19 December  1875 - 10:00h(gregor.)Birth place:TitelCountry:RS, SerbiaAge:† 72 years",r_physicists
+Jiří_Grygar,"Gender:MaleDate of Birth:17 March  1936 - 04:30hBirth place:DziewiętliceCountry:PL, PolandAge:84 years",r_physicists
+Dana_Drábová,"Gender:FemaleBirth:*1961Country:CE, CZSKAge:58 years",r_physicists
+Alexandre_Becquerel,"Gender:MaleDate of Birth:24 March  1820 - 13:00hBirth place:ParisCountry:FR, FranceAge:† 71 years",r_physicists
+Ernst_Abbe,"Gender:MaleDate of Birth:23 January  1840 - 21:30hBirth place:EisenachCountry:DE, GermanyAge:† 64 years",r_physicists
+Luis_Walter_Alvarez,"Gender:MaleDate of Birth:13 June  1911 - 02:45hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 77 years",r_physicists
+Henri_Atlan,"Gender:MaleDate of Birth:27 December  1931 - 22:00hBirth place:BlidaCountry:DZ, AlgeriaAge:88 years",r_physicists
+John_Bardeen,"Gender:MaleDate of Birth:23 May  1908 - 05:00hBirth place:Madison, WisconsinCountry:US, United StatesAge:† 82 years",r_physicists
+Antoine_Becquerel,"Gender:MaleDate of Birth:15 December  1852 - 15:00hBirth place:ParisCountry:FR, FranceAge:† 55 years",r_physicists
+Hans_Bethe,"Gender:MaleDate of Birth:2 July  1906 - 20:45hBirth place:StrasbourgCountry:FR, FranceAge:† 98 years",r_physicists
+André_Blondel,"Gender:MaleDate of Birth:28 August  1863 - 08:00hBirth place:ChaumontCountry:FR, FranceAge:† 75 years",r_physicists
+Jagadish_Chandra_Bose,"Gender:MaleDate of Birth:30 November  1858 - 16:25hBirth place:MymensinghCountry:BD, BangladeshAge:† 78 years",r_physicists
+William_Lawrence_Bragg,"Gender:MaleDate of Birth:31 March  1890 - 00:38hBirth place:Adelaida, South AustraliaCountry:AU, AustraliaAge:† 81 years",r_physicists
+Lewis_M._Branscomb,"Gender:MaleDate of Birth:17 August  1926 - 06:40hBirth place:Asheville, North CarolinaCountry:US, United StatesAge:93 years",r_physicists
+Karl_Ferdinand_Braun,"Gender:MaleDate of Birth:6 June  1850 - 15:45hBirth place:FuldaCountry:DE, GermanyAge:† 67 years",r_physicists
+David_Brewster,"Gender:MaleDate of Birth:11 December  1781 - 12:15hBirth place:Jedburgh, ScotlandCountry:GB, United KingdomAge:† 86 years",r_physicists
+Louis_de_Broglie,"Gender:MaleDate of Birth:15 August  1892 - 01:00hBirth place:DieppeCountry:FR, FranceAge:† 94 years",r_physicists
+Maurice_de_Broglie,"Gender:MaleDate of Birth:27 April  1875 - 06:00hBirth place:ParisCountry:FR, FranceAge:† 85 years",r_physicists
+Harvey_Brooks,"Gender:MaleDate of Birth:5 August  1915 - 08:00hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 88 years",r_physicists
+Keith_Brueckner,"Gender:MaleDate of Birth:19 March  1924 - 22:38hBirth place:Minneapolis, MinnesotaCountry:US, United States",r_physicists
+Christophorus_Buys_Ballot,"Gender:MaleDate of Birth:10 October  1817 - 23:00hBirth place:KloetingeCountry:NL, NetherlandsAge:† 72 years",r_physicists
+Louis_Paul_Cailletet,"Gender:MaleDate of Birth:21 September  1832 - 11:00hBirth place:Châtillon-sur-SeineCountry:FR, France",r_physicists
+James_Chadwick,"Gender:MaleDate of Birth:20 October  1891 - 13:38hBirth place:Bollington, EnglandCountry:GB, United KingdomAge:† 82 years",r_physicists
+Subrahmanyan_Chandrasekhar,"Gender:MaleDate of Birth:19 October  1910 - 20:02hBirth place:LahoreCountry:PK, PakistanAge:† 84 years",r_physicists
+Michel_Eugène_Chevreul,"Gender:MaleDate of Birth:31 August  1786 - 20:00hBirth place:AngersCountry:FR, FranceAge:† 102 years",r_physicists
+Brian_Clark,"Gender:MaleDate of Birth:23 September  1949 - 22:32hBirth place:Belleville, OntarioCountry:CA, CanadaAge:70 years",r_physicists
+William_Coblentz,"Gender:MaleDate of Birth:28 July  1922 - 18:00hBirth place:San Francisco, CaliforniaCountry:US, United States",r_physicists
+Claude_Cohen-Tannoudji,"Gender:MaleDate of Birth:1 April  1933 - 14:00hBirth place:ConstantineCountry:DZ, AlgeriaAge:87 years",r_physicists
+Arthur_Holly_Compton,"Gender:MaleDate of Birth:10 September  1892 - 10:20hBirth place:Wooster, OhioCountry:US, United StatesAge:† 69 years",r_physicists
+Allan_Verne_Cox,"Gender:MaleDate of Birth:17 December  1926 - 01:50hBirth place:Santa Ana, CaliforniaCountry:US, United StatesAge:† 60 years",r_physicists
+William_Crookes,"Gender:MaleDate of Birth:17 June  1832 - 17:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 86 years",r_physicists
+Peter_Debye,"Gender:MaleDate of Birth:24 March  1884 - 12:00hBirth place:MaasbrachtCountry:NL, NetherlandsAge:† 82 years",r_physicists
+Paul_Dirac,"Gender:MaleDate of Birth:8 August  1902 - 06:48hBirth place:Bristol, EnglandCountry:GB, United KingdomAge:† 82 years",r_physicists
+Christian_Doppler,"Gender:MaleDate of Birth:29 November  1803 - 11:00hBirth place:SalzburgCountry:AT, AustriaAge:† 49 years",r_physicists
+Sidney_Drell,"Gender:MaleDate of Birth:13 September  1926 - 04:07hBirth place:Atlantic City, New JerseyCountry:US, United StatesAge:93 years",r_physicists
+François_Englert,"Gender:MaleDate of Birth:6 November  1932 - 02:20hBirth place:EtterbeekCountry:BE, BelgiumAge:87 years",r_physicists
+Enrico_Fermi,"Gender:MaleDate of Birth:29 September  1901 - 19:00hBirth place:RomeCountry:IT, ItalyAge:† 53 years",r_physicists
+Hippolyte_Fizeau,"Gender:MaleDate of Birth:23 September  1819 - 04:00hBirth place:ParisCountry:FR, FranceAge:† 76 years",r_physicists
+James_Franck,"Gender:MaleDate of Birth:26 August  1882 - 13:04hBirth place:HamburgCountry:DE, GermanyAge:† 81 years",r_physicists
+Dirk_Frimout,"Gender:MaleDate of Birth:21 March  1941 - 02:00hBirth place:PoperingeCountry:BE, BelgiumAge:79 years",r_physicists
+Richard_Garwin,"Gender:MaleDate of Birth:19 April  1928 - 01:15hBirth place:Cleveland, OhioCountry:US, United StatesAge:91 years",r_physicists
+Hans_Geiger,"Gender:MaleDate of Birth:30 September  1882 - 08:30hBirth place:NeustadtCountry:DE, GermanyAge:† 62 years",r_physicists
+Murray_Gell-Mann,"Gender:MaleDate of Birth:15 September  1929 - 19:00hBirth place:New York, New YorkCountry:US, United StatesAge:90 years",r_physicists
+Pierre-Gilles_de_Gennes,"Gender:MaleDate of Birth:24 October  1932 - 11:20hBirth place:ParisCountry:FR, FranceAge:† 74 years",r_physicists
+Riccardo_Giacconi,"Gender:MaleDate of Birth:6 October  1931 - 04:00hBirth place:GenoaCountry:IT, ItalyAge:88 years",r_physicists
+John_Currie_Gunn,"Gender:MaleDate of Birth:13 September  1916 - 13:00hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 85 years",r_physicists
+Alan_Harvey_Guth,"Gender:MaleDate of Birth:27 February  1947 - 11:37hBirth place:Perth Amboy, New JerseyCountry:US, United StatesAge:73 years",r_physicists
+Heinz_Haber,"Gender:MaleDate of Birth:15 May  1913 - 07:00hBirth place:MannheimCountry:DE, GermanyAge:† 76 years",r_physicists
+Friedrich_Hund,"Gender:MaleDate of Birth:4 February  1896 - 05:45hBirth place:KarlsruheCountry:DE, GermanyAge:† 101 years",r_physicists
+Pierre_Jules_Janssen,"Gender:MaleDate of Birth:22 February  1824 - 04:00hBirth place:ParisCountry:FR, FranceAge:† 83 years",r_physicists
+Frédéric_Joliot-Curie,"Gender:MaleDate of Birth:19 March  1900 - 09:00hBirth place:ParisCountry:FR, FranceAge:† 58 years",r_physicists
+Monika_Jünemann,"Gender:FemaleDate of Birth:15 September  1956 - 07:25hBirth place:FrankfurtCountry:DE, GermanyAge:63 years",r_physicists
+Pyotr_Kapitsa,"Gender:MaleDate of Birth:8 July  1894 - 02:00h(gregor.)Birth place:KronshtadtCountry:RU, RussiaAge:† 89 years",r_physicists
+Desmond_King-Hele,"Gender:MaleDate of Birth:3 November  1927 - 04:30hBirth place:Seaford, EnglandCountry:GB, United KingdomAge:92 years",r_physicists
+Herbert_Freiherr_von_Klöckler,"Gender:MaleDate of Birth:26 April  1896 - 09:43hBirth place:DresdenCountry:DE, GermanyAge:† 53 years",r_physicists
+Leon_Knopoff,"Gender:MaleDate of Birth:1 July  1925 - 21:33hBirth place:Los Angeles, CaliforniaCountry:US, United States",r_physicists
+Willis_Eugene_Lamb_Jr.,"Gender:MaleDate of Birth:12 July  1913 - 00:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 94 years",r_physicists
+Lev_Davidovich_Landau,"Gender:MaleDate of Birth:22 January  1908 - 09:10hBirth place:BakuCountry:AZ, AzerbaijanAge:† 60 years",r_physicists
+Alfred_Landé,"Gender:MaleDate of Birth:13 December  1888 - 09:15hBirth place:WuppertalCountry:DE, GermanyAge:† 87 years",r_physicists
+Paul_Langevin,"Gender:MaleDate of Birth:23 January  1872 - 21:00hBirth place:ParisCountry:FR, FranceAge:† 74 years",r_physicists
+Ernest_Lawrence,"Gender:MaleDate of Birth:8 August  1901 - 18:18hBirth place:Canton, South DakotaCountry:US, United StatesAge:† 57 years",r_physicists
+Georg_Christoph_Lichtenberg,"Gender:MaleDate of Birth:1 July  1742 - 17:00hBirth place:Ober-RamstadtCountry:DE, GermanyAge:† 56 years",r_physicists
+Frederick_Lindemann,"Gender:MaleDate of Birth:5 April  1886 - 14:30hBirth place:Baden-BadenCountry:DE, GermanyAge:† 71 years",r_physicists
+Oliver_Joseph_Lodge,"Gender:MaleDate of Birth:12 June  1851 - 09:00hBirth place:Stoke-on-Trent, EnglandCountry:GB, United KingdomAge:† 89 years",r_physicists
+Hendrik_Antoon_Lorentz,"Gender:MaleDate of Birth:18 July  1853 - 13:00hBirth place:ArnhemCountry:NL, NetherlandsAge:† 74 years",r_physicists
+Jean-Pierre_Luminet,"Gender:MaleDate of Birth:3 June  1951 - 06:50hBirth place:CavaillonCountry:FR, FranceAge:68 years",r_physicists
+Roderick_MacKinnon,"Gender:MaleDate of Birth:19 February  1956 - 06:25hBirth place:Melrose, MassachusettsCountry:US, United StatesAge:64 years",r_physicists
+Theodore_Maiman,"Gender:MaleDate of Birth:11 July  1927 - 07:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 79 years",r_physicists
+Ettore_Majorana,"Gender:MaleDate of Birth:5 August  1906 - 20:15hBirth place:CataniaCountry:IT, ItalyAge:† 31 years",r_physicists
+Guglielmo_Marconi,"Gender:MaleDate of Birth:25 April  1874 - 09:15hBirth place:BolognaCountry:IT, ItalyAge:† 63 years",r_physicists
+Lise_Meitner,"Gender:FemaleDate of Birth:7 November  1878 - 17:25hBirth place:ViennaCountry:AT, AustriaAge:† 89 years",r_physicists
+Albert_Abraham_Michelson,"Gender:MaleDate of Birth:19 December  1852 - 22:27hBirth place:StrzelnoCountry:PL, PolandAge:† 78 years",r_physicists
+Robert_A._Millikan,"Gender:MaleDate of Birth:22 March  1868 - 23:30hBirth place:Morrison, IllinoisCountry:US, United StatesAge:† 85 years",r_physicists
+Louis_Neel,"Gender:MaleDate of Birth:22 November  1904 - 13:00hBirth place:LyonCountry:FR, FranceAge:† 95 years",r_physicists
+Hermann_Oberth,"Gender:MaleDate of Birth:25 June  1894 - 22:16hBirth place:SibiuCountry:RO, RomaniaAge:† 95 years",r_physicists
+Auguste_Piccard,"Gender:MaleDate of Birth:28 January  1884 - 23:00hBirth place:BaselCountry:CH, SwitzerlandAge:† 78 years",r_physicists
+Jean_Louis_Marie_Poiseuille,"Gender:MaleDate of Birth:22 April  1797 - 09:00hBirth place:ParisCountry:FR, FranceAge:† 72 years",r_physicists
+Isidor_Isaac_Rabi,"Gender:MaleDate of Birth:29 July  1898 - 01:32hBirth place:RymanówCountry:PL, PolandAge:† 89 years",r_physicists
+C_V_Raman,"Gender:MaleDate of Birth:8 November  1888 - 04:25hBirth place:TiruččiráppalliCountry:IN, IndiaAge:† 82 years",r_physicists
+Carl_Wilhelm_Ramsauer,"Gender:MaleDate of Birth:6 February  1879 - 05:30hBirth place:OldenburgCountry:DE, GermanyAge:† 76 years",r_physicists
+Ernest_Rutherford,"Gender:MaleDate of Birth:30 August  1871 - 05:38hBirth place:Nelson, NelsonCountry:NZ, New ZealandAge:† 66 years",r_physicists
+Wallace_Clement_Sabine,"Gender:MaleDate of Birth:13 June  1868 - 16:20hBirth place:Richwood, OhioCountry:US, United StatesAge:† 50 years",r_physicists
+Arthur_Schawlow,"Gender:MaleDate of Birth:5 May  1921 - 11:00hBirth place:Mount Vernon, New YorkCountry:US, United StatesAge:† 77 years",r_physicists
+Stanley_Schmidt,"Gender:MaleDate of Birth:7 March  1944 - 21:49hBirth place:Cincinnati, OhioCountry:US, United StatesAge:76 years",r_physicists
+Martin_Schwarzchild,"Gender:MaleDate of Birth:31 May  1912 - 20:00hBirth place:PotsdamCountry:DE, GermanyAge:† 84 years",r_physicists
+Rudolf_Karl_Seeliger,"Gender:MaleDate of Birth:12 November  1886 - 16:00hBirth place:MunichCountry:DE, GermanyAge:† 78 years",r_physicists
+Emilio_Segrè,"Gender:MaleDate of Birth:30 January  1905 - 12:00hBirth place:TivoliCountry:IT, ItalyAge:† 84 years",r_physicists
+Frederick_Seitz,"Gender:MaleDate of Birth:4 July  1911 - 22:30hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 96 years",r_physicists
+Henry_Siedentopf,"Gender:MaleDate of Birth:22 September  1872 - 20:00hBirth place:BremenCountry:DE, GermanyAge:† 67 years",r_physicists
+Arnold_Sommerfeld,"Gender:MaleDate of Birth:5 December  1868 - 17:45hBirth place:KönigsbergCountry:DE, GermanyAge:† 82 years",r_physicists
+Johannes_Stark,"Gender:MaleDate of Birth:15 April  1874 - 06:00hBirth place:FreihungCountry:DE, GermanyAge:† 83 years",r_physicists
+John_William_Strutt,"Gender:MaleDate of Birth:12 November  1842 - 08:16hBirth place:Maldon, EnglandCountry:GB, United KingdomAge:† 76 years",r_physicists
+Edward_Teller,"Gender:MaleDate of Birth:15 January  1908 - 00:55hBirth place:BudapestCountry:HU, HungaryAge:† 95 years",r_physicists
+Hans_Thirring,"Gender:MaleDate of Birth:23 March  1888 - 10:25hBirth place:ViennaCountry:AT, AustriaAge:† 87 years",r_physicists
+George_Paget_Thomson,"Gender:MaleDate of Birth:3 May  1892 - 01:42hBirth place:Cambridge, EnglandCountry:GB, United KingdomAge:† 83 years",r_physicists
+J_J_Thomson,"Gender:MaleDate of Birth:18 December  1856 - 20:17hBirth place:Manchester, EnglandCountry:GB, United KingdomAge:† 83 years",r_physicists
+William_Thomson,"Gender:MaleDate of Birth:26 June  1824 - 05:00hBirth place:Belfast, Northern IrelandCountry:GB, United KingdomAge:† 83 years",r_physicists
+Charles_Hard_Townes,"Gender:MaleDate of Birth:28 July  1915 - 05:00hBirth place:Greenville, South CarolinaCountry:US, United StatesAge:† 99 years",r_physicists
+Johannes_van_der_Waals,"Gender:MaleDate of Birth:23 November  1837 - 00:30hBirth place:LeidenCountry:NL, NetherlandsAge:† 85 years",r_physicists
+Carl_Friedrich_von_Weizsäcker,"Gender:MaleDate of Birth:28 June  1912 - 21:30hBirth place:KielCountry:DE, GermanyAge:† 94 years",r_physicists
+Pieter_Zeeman,"Gender:MaleDate of Birth:25 May  1865 - 19:00hBirth place:ZonnemaireCountry:NL, NetherlandsAge:† 78 years",r_physicists
+Petr_Nečas,"Gender:MaleBirth:*1964Country:CZ, Czech RepublicAge:55 years",r_physicists
+Jim_Al-Khalili,"Gender:MaleDate of Birth:20 September  1962Birth place:BaghdadCountry:IQ, IraqAge:57 years",r_physicists
+Leroy_Alldredge,"Gender:MaleDate of Birth:6 February  1917 - 06:00hBirth place:Mesa, ArizonaCountry:US, United States",r_physicists
+Edoardo_Amaldi,"Gender:MaleDate of Birth:5 September  1908 - 06:00hBirth place:Carpaneto PiacentinoCountry:IT, Italy",r_physicists
+David_Fyfe_Anderson,"Gender:MaleDate of Birth:8 June  1904 - 12:00hBirth place:Cumnock, ScotlandCountry:GB, United Kingdom",r_physicists
+Michael_P._Anderson,"Gender:MaleDate of Birth:25 December  1959Birth place:Plattsburgh, New YorkCountry:US, United StatesAge:† 43 years",r_physicists
+Severino_Antinori,"Gender:MaleDate of Birth:6 September  1945 - 08:00hBirth place:Civitella del TrontoCountry:IT, ItalyAge:74 years",r_physicists
+Alain_Jean_Assailly,"Gender:MaleDate of Birth:17 October  1909 - 18:10hBirth place:PontchâteauCountry:FR, France",r_physicists
+Jacques_Ayotte,"Gender:MaleDate of Birth:12 February  1942 - 16:10hBirth place:Québec City, QuébecCountry:CA, CanadaAge:78 years",r_physicists
+George_Edward_Backus,"Gender:MaleDate of Birth:24 May  1930 - 10:47hBirth place:Chicago, IllinoisCountry:US, United StatesAge:89 years",r_physicists
+Alec_William_Badenoch,"Gender:MaleDate of Birth:23 June  1903 - 16:20hBirth place:Banff, ScotlandCountry:GB, United KingdomAge:† 87 years",r_physicists
+Dugald_Baird,"Gender:MaleDate of Birth:16 November  1899 - 13:15hBirth place:Beith, ScotlandCountry:GB, United KingdomAge:† 86 years",r_physicists
+Rene_Barthelemy,"Gender:MaleDate of Birth:10 March  1889 - 06:00hBirth place:NangisCountry:FR, FranceAge:† 64 years",r_physicists
+Alfred_von_Bary,"Gender:MaleDate of Birth:18 January  1873 - 01:00hBirth place:VallettaCountry:MT, MaltaAge:† 53 years",r_physicists
+G._F._Grant_Batchelor,"Gender:MaleDate of Birth:6 April  1902 - 19:00hBirth place:Dundee, ScotlandCountry:GB, United Kingdom",r_physicists
+Karl_Richard_Bechert,"Gender:MaleDate of Birth:23 August  1901 - 08:00hBirth place:NurembergCountry:DE, GermanyAge:† 79 years",r_physicists
+Rudolf_Heinrich_Bechmann,"Gender:MaleDate of Birth:22 July  1902 - 06:00hBirth place:NurembergCountry:DE, Germany",r_physicists
+Karl_Beck,"Gender:MaleDate of Birth:4 April  1856 - 02:00hBirth place:NeckargemündCountry:DE, GermanyAge:† 55 years",r_physicists
+Antoine_Louis_Beclere,"Gender:MaleDate of Birth:17 March  1856 - 11:00hBirth place:ParisCountry:FR, FranceAge:† 82 years",r_physicists
+Joseph_Bergerard,"Gender:MaleDate of Birth:23 February  1921 - 14:00hBirth place:Fossé, Loir-et-CherCountry:FR, France",r_physicists
+Louise_Berlay,"Gender:FemaleDate of Birth:2 January  1916 - 17:00hBirth place:McLoud, OklahomaCountry:US, United States",r_physicists
+Joseph_Bessemans,"Gender:MaleDate of Birth:16 February  1888 - 05:00hBirth place:Sint-TruidenCountry:BE, Belgium",r_physicists
+Ludwig_Biermann,"Gender:MaleDate of Birth:13 March  1907 - 05:15hBirth place:HammCountry:DE, GermanyAge:† 78 years",r_physicists
+Henri_Billet,"Gender:MaleDate of Birth:3 February  1882 - 20:00hBirth place:ChâteaurouxCountry:FR, France",r_physicists
+Gabriel_Blancher,"Gender:MaleDate of Birth:24 December  1923 - 16:00hBirth place:La Rochefoucauld, CharenteCountry:FR, France",r_physicists
+Hyppolite_Blot,"Gender:MaleDate of Birth:14 June  1822 - 03:00hBirth place:ParisCountry:FR, FranceAge:† 65 years",r_physicists
+Amadee_Bonnet,"Gender:MaleDate of Birth:20 March  1809 - 20:00hBirth place:Ambérieu-en-BugeyCountry:FR, France",r_physicists
+Roger-Maurice_Bonnet,"Gender:MaleDate of Birth:23 December  1937 - 06:00hBirth place:DourdanCountry:FR, FranceAge:82 years",r_physicists
+Roger_Boom,"Gender:MaleDate of Birth:10 March  1923 - 06:22hBirth place:Bladen, NebraskaCountry:US, United States",r_physicists
+Fritz_Edward_Borgnis,"Gender:MaleDate of Birth:24 December  1906 - 04:00hBirth place:MannheimCountry:DE, Germany",r_physicists
+Bodo_von_Borries,"Gender:MaleDate of Birth:24 December  1905 - 21:00hBirth place:HerfordCountry:DE, GermanyAge:† 50 years",r_physicists
+Joan_Borysenko,"Gender:FemaleDate of Birth:25 October  1945 - 12:48hBirth place:Boston, MassachusettsCountry:US, United StatesAge:74 years",r_physicists
+Walther_Bothe,"Gender:MaleDate of Birth:8 January  1891 - 08:30hBirth place:OranienburgCountry:DE, GermanyAge:† 66 years",r_physicists
+Andre_Bourguignon,"Gender:MaleDate of Birth:8 August  1920 - 02:10hBirth place:ParisCountry:FR, FranceAge:† 75 years",r_physicists
+André_Brahic,"Gender:MaleDate of Birth:30 November  1942 - 04:40hBirth place:ParisCountry:FR, FranceAge:77 years",r_physicists
+Jan_van_Breemen,"Gender:MaleDate of Birth:11 May  1874 - 10:30hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 86 years",r_physicists
+Paul_Brenner,"Gender:MaleDate of Birth:21 May  1933 - 10:05hBirth place:New York, New YorkCountry:US, United StatesAge:86 years",r_physicists
+Bob_Brown,"Gender:MaleDate of Birth:27 December  1944 - 14:20hBirth place:Oberon, New South WalesCountry:AU, AustraliaAge:75 years",r_physicists
+Charles_Brown-Sequard,"Gender:MaleDate of Birth:17 April  1817 - 04:00hBirth place:Port LouisCountry:MU, MauritiusAge:† 76 years",r_physicists
+George_Bruce,"Gender:MaleDate of Birth:25 August  1891 - 20:30hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_physicists
+Marcel_Brule,"Gender:MaleDate of Birth:31 January  1883 - 16:15hBirth place:AmiensCountry:FR, France",r_physicists
+Pietro_Bucalossi,"Gender:MaleDate of Birth:9 August  1905 - 15:30hBirth place:San MiniatoCountry:IT, Italy",r_physicists
+Frederik_Jacobus_Johannes_Buytendijk,"Gender:MaleDate of Birth:29 April  1887 - 22:00hBirth place:BredaCountry:NL, NetherlandsAge:† 87 years",r_physicists
+Ernest_Candaze,"Gender:MaleDate of Birth:22 February  1827 - 06:00hBirth place:LiègeCountry:BE, Belgium",r_physicists
+Alain_Carpentier,"Gender:MaleDate of Birth:11 August  1933 - 00:15hBirth place:ToulouseCountry:FR, FranceAge:86 years",r_physicists
+Joseph_Wyan_Chamberlain,"Gender:MaleDate of Birth:24 August  1928 - 04:45hBirth place:Boonville, MissouriCountry:US, United StatesAge:† 75 years",r_physicists
+Jean_Charon,"Gender:MaleDate of Birth:25 February  1920 - 09:00hBirth place:ParisCountry:FR, France",r_physicists
+Celso_Charuri,"Gender:MaleDate of Birth:11 June  1941 - 12:00hBirth place:São PauloCountry:BR, BrazilAge:78 years",r_physicists
+Pierre_Chassaignac,"Gender:MaleDate of Birth:22 December  1804 - 08:00hBirth place:NantesCountry:FR, FranceAge:† 74 years",r_physicists
+Pomicino_Cirino,"Gender:MaleDate of Birth:3 September  1939 - 07:30hBirth place:NaplesCountry:IT, ItalyAge:80 years",r_physicists
+Boyer_Coe,"Gender:MaleDate of Birth:18 August  1946 - 21:35hBirth place:Lake Charles, LouisianaCountry:US, United StatesAge:73 years",r_physicists
+Louis_Corman,"Gender:MaleDate of Birth:19 February  1901 - 13:00hBirth place:RoubaixCountry:FR, France",r_physicists
+Aime_Auguste_Cotton,"Gender:MaleDate of Birth:9 October  1869 - 09:17hBirth place:Bourg-en-BresseCountry:FR, France",r_physicists
+Hilarie_Cranmer,"Gender:FemaleDate of Birth:27 June  1966 - 14:06hBirth place:Boston, MassachusettsCountry:US, United StatesAge:53 years",r_physicists
+Benjamin_Creme,"Gender:MaleDate of Birth:5 December  1922 - 08:45hBirth place:Glasgow, ScotlandCountry:GB, United Kingdom",r_physicists
+Michel_Cymes,"Gender:MaleDate of Birth:14 May  1957 - 14:35hBirth place:ParisCountry:FR, FranceAge:62 years",r_physicists
+Andre_Danjon,"Gender:MaleDate of Birth:6 April  1890 - 23:30hBirth place:CaenCountry:FR, FranceAge:† 77 years",r_physicists
+Jean_Dausset,"Gender:MaleDate of Birth:19 October  1916 - 01:00hBirth place:ToulouseCountry:FR, FranceAge:† 92 years",r_physicists
+Casimir_Davaine,"Gender:MaleDate of Birth:19 March  1812 - 16:00hBirth place:Saint-Amand-les-EauxCountry:FR, FranceAge:† 70 years",r_physicists
+Lee_de_Forest,"Gender:MaleDate of Birth:26 August  1873Birth place:Council Bluffs, IowaCountry:US, United StatesAge:† 87 years",r_physicists
+Charles_De_Jean,"Gender:MaleDate of Birth:7 February  1888 - 21:00hBirth place:Montclar, Alpes-de-Haute-ProvenceCountry:FR, France",r_physicists
+Howard_Dean,"Gender:MaleDate of Birth:17 November  1948 - 19:21hBirth place:New York, New YorkCountry:US, United StatesAge:71 years",r_physicists
+Henri_Delafond,"Gender:MaleDate of Birth:13 February  1805 - 22:00hBirth place:Saint-Amand-en-PuisayeCountry:FR, FranceAge:† 56 years",r_physicists
+Jean_Delay,"Gender:MaleDate of Birth:14 November  1907 - 14:00hBirth place:BayonneCountry:FR, France",r_physicists
+Jack_Delinger,"Gender:MaleDate of Birth:22 June  1926 - 23:22hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:93 years",r_physicists
+Jean_Anne_Henri_Depaul,"Gender:MaleDate of Birth:26 July  1811 - 01:00hBirth place:MorlaixCountry:FR, FranceAge:† 72 years",r_physicists
+Luigi_Di_Bella,"Gender:MaleDate of Birth:18 July  1912 - 06:00hBirth place:LinguaglossaCountry:IT, ItalyAge:† 90 years",r_physicists
+Paul_Diepgen,"Gender:MaleDate of Birth:24 November  1878 - 03:30hBirth place:AachenCountry:DE, GermanyAge:† 87 years",r_physicists
+Georges_Dieulafoy,"Gender:MaleDate of Birth:18 November  1839 - 15:00hBirth place:ToulouseCountry:FR, FranceAge:† 71 years",r_physicists
+Richard_Doell,"Gender:MaleDate of Birth:28 June  1923 - 16:04hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:† 84 years",r_physicists
+Donald_M._Douglas,"Gender:MaleDate of Birth:28 June  1911 - 22:05hBirth place:St Andrews, ScotlandCountry:GB, United Kingdom",r_physicists
+Levi_R._Dowling,"Gender:MaleDate of Birth:18 May  1844 - 06:00hBirth place:Bellville, OhioCountry:US, United StatesAge:† 67 years",r_physicists
+Angelo_Lorenzo_Drigo,"Gender:MaleDate of Birth:29 May  1907 - 01:00hBirth place:PaduaCountry:IT, Italy",r_physicists
+Gaston_Dupouy,"Gender:MaleDate of Birth:7 August  1900 - 04:00hBirth place:MarmandeCountry:FR, France",r_physicists
+Manfred_Eigen,"Gender:MaleDate of Birth:9 May  1927 - 04:00hBirth place:BochumCountry:DE, GermanyAge:92 years",r_physicists
+Havelock_Ellis,"Gender:MaleDate of Birth:2 February  1859 - 08:15hBirth place:Croydon, EnglandCountry:GB, United KingdomAge:† 80 years",r_physicists
+Xavier_Emmanuelli,"Gender:MaleDate of Birth:23 August  1938 - 00:05hBirth place:ParisCountry:FR, FranceAge:81 years",r_physicists
+Ernest_Esclangon,"Gender:MaleDate of Birth:17 March  1876 - 20:00hBirth place:MisonCountry:FR, FranceAge:† 77 years",r_physicists
+Laurent_Fabius,"Gender:MaleDate of Birth:20 August  1946 - 09:00hBirth place:ParisCountry:FR, FranceAge:73 years",r_physicists
+Charles_Fabry,"Gender:MaleDate of Birth:11 June  1867 - 01:00hBirth place:MarseilleCountry:FR, FranceAge:† 78 years",r_physicists
+Pierre_Antoine_Favre,"Gender:MaleDate of Birth:20 February  1813 - 07:00hBirth place:LyonCountry:FR, FranceAge:† 66 years",r_physicists
+Bernard_Finch,"Gender:MaleDate of Birth:7 January  1918 - 04:41hBirth place:Covina, CaliforniaCountry:US, United States",r_physicists
+Ludwig_Finckh,"Gender:MaleDate of Birth:21 March  1876 - 05:00hBirth place:ReutlingenCountry:DE, Germany",r_physicists
+Wolfgang_Finkelnburg,"Gender:MaleDate of Birth:5 June  1905 - 13:30hBirth place:BonnCountry:DE, GermanyAge:† 61 years",r_physicists
+Elisabeth_Y._Fitzhugh,"Gender:FemaleDate of Birth:25 March  1948 - 11:57hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:72 years",r_physicists
+James_Fletcher,"Gender:MaleDate of Birth:5 June  1919 - 04:20hBirth place:Millburn, New JerseyCountry:US, United StatesAge:† 72 years",r_physicists
+Marvin_Flicker,"Gender:MaleDate of Birth:18 February  1935 - 03:40hBirth place:Freehold Township, New JerseyCountry:US, United StatesAge:85 years",r_physicists
+Emmett_Fox,"Gender:MaleDate of Birth:30 July  1886 - 08:44hBirth place:DublinCountry:IE, Ireland",r_physicists
+Joseph_C._Fox,"Gender:MaleDate of Birth:8 September  1939Birth place:Petersburg, VirginiaCountry:US, United StatesAge:80 years",r_physicists
+Stanton_Friedman,"Gender:MaleDate of Birth:29 July  1934 - 07:05hBirth place:Elizabeth, New JerseyCountry:US, United StatesAge:85 years",r_physicists
+Alfred_Fripp,"Gender:MaleDate of Birth:12 September  1865 - 06:56hBirth place:Blandford, New South WalesCountry:AU, Australia",r_physicists
+Robert_Peter_Gale,"Gender:MaleDate of Birth:11 October  1945 - 20:50hBirth place:New York, New YorkCountry:US, United StatesAge:74 years",r_physicists
+Maurice_Gauja,"Gender:MaleDate of Birth:6 January  1867 - 19:00hBirth place:ToulonCountry:FR, France",r_physicists
+Benjamin_Ginsburg,"Gender:MaleDate of Birth:5 February  1897 - 12:00hBirth place:ValensoleCountry:FR, France",r_physicists
+Donald_Glaser,"Gender:MaleDate of Birth:21 September  1926 - 23:30hBirth place:Cleveland, OhioCountry:US, United StatesAge:93 years",r_physicists
+Camille_Godard,"Gender:FemaleDate of Birth:18 May  1993 - 03:35hBirth place:Aunay-sur-OdonCountry:FR, FranceAge:† 5 years",r_physicists
+Yves_Godard,"Gender:MaleDate of Birth:2 June  1955 - 11:40hBirth place:ParisCountry:FR, FranceAge:64 years",r_physicists
+James_L._Goddard,"Gender:MaleDate of Birth:24 April  1923 - 18:00hBirth place:Alliance, OhioCountry:US, United StatesAge:† 86 years",r_physicists
+Marvin_Leonard_Goldberger,"Gender:MaleDate of Birth:22 October  1922 - 20:00hBirth place:Chicago, IllinoisCountry:US, United States",r_physicists
+Robert_Alan_Good,"Gender:MaleDate of Birth:21 May  1922 - 06:00hBirth place:Crosby, MinnesotaCountry:US, United States",r_physicists
+Mehran_Goulian,"Gender:MaleDate of Birth:31 December  1929 - 07:00hBirth place:Weehawken, New JerseyCountry:US, United StatesAge:90 years",r_physicists
+Joan_Grant,"Gender:FemaleDate of Birth:12 April  1907 - 08:00hBirth place:London, EnglandCountry:GB, United Kingdom",r_physicists
+Mary_Greer,"Gender:FemaleDate of Birth:14 October  1947 - 08:07hBirth place:Denver, ColoradoCountry:US, United StatesAge:72 years",r_physicists
+Ann_Gryboski,"Gender:FemaleDate of Birth:1 March  1956 - 10:40hBirth place:Cambridge, MassachusettsCountry:US, United StatesAge:64 years",r_physicists
+Camille_Guerin,"Gender:MaleDate of Birth:22 December  1872 - 22:00hBirth place:PoitiersCountry:FR, FranceAge:† 88 years",r_physicists
+Antonio_Guidi,"Gender:MaleDate of Birth:13 June  1945 - 20:35hBirth place:RomeCountry:IT, ItalyAge:74 years",r_physicists
+James_M._Gully,"Gender:MaleDate of Birth:14 March  1808 - 06:00hBirth place:KingstonCountry:JM, Jamaica",r_physicists
+Lewis_R._Gumbiner,"Gender:MaleDate of Birth:31 January  1923Birth place:St. Louis, MissouriCountry:US, United States",r_physicists
+William_Haddon,"Gender:MaleDate of Birth:24 May  1926 - 03:03hBirth place:City of Orange, New JerseyCountry:US, United StatesAge:93 years",r_physicists
+Thomas_M._Hahn,"Gender:MaleDate of Birth:2 December  1926Birth place:Lexington, KentuckyCountry:US, United StatesAge:93 years",r_physicists
+Malcom_Hathorne,"Gender:MaleDate of Birth:1 June  1951 - 23:37hBirth place:Rome, New YorkCountry:US, United StatesAge:68 years",r_physicists
+Oliver_Heaviside,"Gender:MaleDate of Birth:18 May  1850Birth place:London, EnglandCountry:GB, United KingdomAge:† 74 years",r_physicists
+Burkhard_Heim,"Gender:MaleDate of Birth:9 February  1925 - 22:23hBirth place:PotsdamCountry:DE, Germany",r_physicists
+Karl_Herrligkoffer,"Gender:MaleDate of Birth:13 June  1916 - 08:35hBirth place:SchweinfurtCountry:DE, Germany",r_physicists
+Gerhard_Herzberg,"Gender:MaleDate of Birth:25 December  1904 - 04:00hBirth place:HamburgCountry:DE, GermanyAge:† 94 years",r_physicists
+Dwight_H._Hibbard,"Gender:MaleDate of Birth:27 July  1923Birth place:Hadley, MassachusettsCountry:US, United States",r_physicists
+Peter_Higgs,"Gender:MaleDate of Birth:29 May  1929Birth place:Newcastle upon Tyne, EnglandCountry:GB, United KingdomAge:90 years",r_physicists
+William_Hiltner,"Gender:MaleDate of Birth:27 August  1914 - 09:45hBirth place:North Creek OH, OhioCountry:US, United States",r_physicists
+Enid_Hoffman,"Gender:FemaleDate of Birth:1 September  1917 - 16:00hBirth place:Oak Bluffs, MassachusettsCountry:US, United StatesAge:† 82 years",r_physicists
+Robert_Joseph_Huebner,"Gender:MaleDate of Birth:23 February  1914 - 08:15hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 84 years",r_physicists
+Elsie_Inglis,"Gender:FemaleDate of Birth:16 August  1864 - 04:13hBirth place:MainiCountry:IN, IndiaAge:† 53 years",r_physicists
+Lucien_Isadore_Israel,"Gender:MaleDate of Birth:14 April  1926 - 13:10hBirth place:ParisCountry:FR, FranceAge:93 years",r_physicists
+Henri_Jammet,"Gender:MaleDate of Birth:6 June  1920 - 10:30hBirth place:RabatCountry:MA, MoroccoAge:† 76 years",r_physicists
+Asko_Jantunen,"Gender:MaleDate of Birth:5 September  1945 - 11:40hBirth place:NivalaCountry:FI, FinlandAge:74 years",r_physicists
+Jean_Marie_Jarricot,"Gender:MaleDate of Birth:14 July  1877 - 19:00hBirth place:St-Genis-LavalCountry:FR, FranceAge:† 85 years",r_physicists
+Robert_William_Johnstone,"Gender:MaleDate of Birth:11 August  1879 - 14:50hBirth place:Edinburgh, ScotlandCountry:GB, United Kingdom",r_physicists
+Dottie_Kamenshek,"Gender:FemaleDate of Birth:21 December  1925 - 08:00hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 84 years",r_physicists
+Reima_Kampman,"Gender:MaleDate of Birth:5 November  1943 - 12:30hBirth place:SaloCountry:FI, FinlandAge:† 49 years",r_physicists
+Alfred_Kastler,"Gender:MaleDate of Birth:3 May  1902 - 13:45hBirth place:SaarbrückenCountry:DE, GermanyAge:† 81 years",r_physicists
+Andrew_Watt_Kay,"Gender:MaleDate of Birth:14 August  1916 - 00:10hBirth place:Ayr, ScotlandCountry:GB, United Kingdom",r_physicists
+Rebecca_Knapp,"Gender:FemaleDate of Birth:8 November  1959 - 23:08hBirth place:Boston, MassachusettsCountry:US, United StatesAge:60 years",r_physicists
+John_Hilton_Knowles,"Gender:MaleDate of Birth:23 May  1926 - 17:35hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 52 years",r_physicists
+Gabriel_Koenigs,"Gender:MaleDate of Birth:17 January  1858 - 01:00hBirth place:ToulouseCountry:FR, France",r_physicists
+Hugo_Rudolph_Kruyt,"Gender:MaleDate of Birth:3 June  1882 - 15:00hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 77 years",r_physicists
+Daniel_Kunth,"Gender:MaleDate of Birth:10 July  1946 - 22:40hBirth place:ParisCountry:FR, FranceAge:73 years",r_physicists
+Roy_Kupsinel,"Gender:MaleDate of Birth:19 November  1928 - 17:27hBirth place:Lynn, MassachusettsCountry:US, United StatesAge:91 years",r_physicists
+Polykarp_Kusch,"Gender:MaleDate of Birth:26 January  1911 - 15:15hBirth place:Blankenburg (Harz)Country:DE, GermanyAge:† 82 years",r_physicists
+Eberhard_Maria_Körner,"Gender:MaleDate of Birth:30 April  1932 - 22:40hBirth place:HanoverCountry:DE, GermanyAge:87 years",r_physicists
+Henri_Laborit,"Gender:MaleDate of Birth:21 November  1914 - 06:45hBirth place:HanojCountry:VN, Vietnam",r_physicists
+Antoine_Lacassagne,"Gender:MaleDate of Birth:29 August  1884 - 01:00hBirth place:VillerestCountry:FR, FranceAge:† 87 years",r_physicists
+Marie-Jean-Lucien_Lacaze,"Gender:MaleDate of Birth:22 June  1860 - 11:00hBirth place:Pierrefonds, OiseCountry:FR, FranceAge:† 94 years",r_physicists
+Hubert_Léon_Lampo,"Gender:MaleDate of Birth:1 September  1920 - 12:30hBirth place:AntwerpCountry:BE, Belgium",r_physicists
+Patrick_Lancaster,"Gender:MaleDate of Birth:11 April  1956 - 02:48hBirth place:Medford, MassachusettsCountry:US, United StatesAge:† 50 years",r_physicists
+Edwin_Lanehart,"Gender:MaleDate of Birth:19 April  1935 - 09:55hBirth place:Baltimore, MarylandCountry:US, United StatesAge:84 years",r_physicists
+Charles_Laveran,"Gender:MaleDate of Birth:18 June  1845 - 06:00hBirth place:ParisCountry:FR, FranceAge:† 76 years",r_physicists
+Robert_Leachman,"Gender:MaleDate of Birth:11 June  1921 - 08:00hBirth place:Lakewood, OhioCountry:US, United States",r_physicists
+George_Lennon,"Gender:MaleDate of Birth:7 October  1911 - 20:15hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_physicists
+Louis_Leprince-Ringuet,"Gender:MaleDate of Birth:27 March  1901 - 21:00hBirth place:AlèsCountry:FR, FranceAge:† 99 years",r_physicists
+Edmond_Lescarbault,"Gender:MaleDate of Birth:11 August  1814 - 09:00hBirth place:ChâteaudunCountry:FR, France",r_physicists
+Jacques_Jean_Lhermitte,"Gender:MaleDate of Birth:20 January  1877 - 16:00hBirth place:Mont-Saint-PèreCountry:FR, FranceAge:† 82 years",r_physicists
+Joseph_Lister,"Gender:MaleDate of Birth:5 April  1827Birth place:Upton, EnglandCountry:GB, United KingdomAge:† 84 years",r_physicists
+Robert_Lockhart,"Gender:MaleDate of Birth:7 January  1894 - 12:45hBirth place:Hamilton, ScotlandCountry:GB, United Kingdom",r_physicists
+Rauni-Leena_Luukanen,"Gender:FemaleDate of Birth:15 November  1939 - 16:00hBirth place:Värtsilä, FinlandCountry:FI, FinlandAge:80 years",r_physicists
+Andre_Lwoff,"Gender:MaleDate of Birth:8 May  1902 - 14:00hBirth place:Ainay-le-ChâteauCountry:FR, FranceAge:† 92 years",r_physicists
+Bernard_Ferdinand_Lyot,"Gender:MaleDate of Birth:27 February  1897 - 22:00hBirth place:ParisCountry:FR, FranceAge:† 55 years",r_physicists
+Bernard_MacFadden,"Gender:MaleDate of Birth:16 August  1868 - 08:00hBirth place:Mill Spring, MissouriCountry:US, United StatesAge:† 87 years",r_physicists
+Dante_Manfredi,"Gender:MaleDate of Birth:20 October  1923 - 22:45hBirth place:Castro dei VolsciCountry:IT, Italy",r_physicists
+Pier_Mannuccio_Mannucci,"Gender:MaleDate of Birth:5 June  1939 - 16:30hBirth place:MilanCountry:IT, ItalyAge:80 years",r_physicists
+Charles_F._Martins,"Gender:MaleDate of Birth:6 February  1806 - 19:00hBirth place:ParisCountry:FR, France",r_physicists
+Eleuthere_Mascart,"Gender:MaleDate of Birth:20 February  1837 - 18:00hBirth place:QuaroubleCountry:FR, FranceAge:† 71 years",r_physicists
+Junius_Massau,"Gender:MaleDate of Birth:9 April  1852 - 16:00hBirth place:CharleroiCountry:BE, Belgium",r_physicists
+William_Masters,"Gender:MaleDate of Birth:27 December  1915 - 19:20hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 85 years",r_physicists
+Charles_Maurain,"Gender:MaleDate of Birth:27 February  1871 - 01:00hBirth place:OrléansCountry:FR, France",r_physicists
+Gerry_McCann,"Gender:MaleDate of Birth:5 June  1968 - 07:45hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:51 years",r_physicists
+Boyce_Dawkins_McDaniel,"Gender:MaleDate of Birth:11 June  1917 - 06:20hBirth place:Brevard, North CarolinaCountry:US, United StatesAge:† 84 years",r_physicists
+Helen_M._M._McKay,"Gender:FemaleDate of Birth:23 May  1891 - 09:30hBirth place:Inverness, ScotlandCountry:GB, United Kingdom",r_physicists
+Hugh_McLaren,"Gender:MaleDate of Birth:25 April  1913 - 12:30hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 72 years",r_physicists
+Joseph_Melnick,"Gender:MaleDate of Birth:9 October  1914Birth place:Boston, MassachusettsCountry:US, United StatesAge:† 86 years",r_physicists
+Walter_Mercer,"Gender:MaleDate of Birth:19 March  1890 - 07:30hBirth place:Galashiels, ScotlandCountry:GB, United KingdomAge:† 80 years",r_physicists
+Joseph_von_Mering,"Gender:MaleDate of Birth:28 February  1849 - 09:30hBirth place:CologneCountry:DE, GermanyAge:† 58 years",r_physicists
+Demetrious_Mihalas,"Gender:MaleDate of Birth:20 March  1939 - 15:21hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:81 years",r_physicists
+Hugh_Robert_Mill,"Gender:MaleDate of Birth:28 May  1861 - 15:00hBirth place:Thurso, ScotlandCountry:GB, United KingdomAge:† 88 years",r_physicists
+Margaret_Millard,"Gender:FemaleDate of Birth:6 September  1916 - 16:35hBirth place:KingstownCountry:VC, Saint Vincent and the GrenadinesAge:† 88 years",r_physicists
+Paul_Milliez,"Gender:MaleDate of Birth:15 June  1912 - 08:30hBirth place:Mons-en-BarœulCountry:FR, France",r_physicists
+Thomas_W._Mitchell,"Gender:MaleDate of Birth:18 January  1869 - 04:30hBirth place:Avoch, ScotlandCountry:GB, United Kingdom",r_physicists
+Giuseppe_Montalenti,"Gender:MaleDate of Birth:3 December  1904 - 03:00hBirth place:AstiCountry:IT, ItalyAge:† 85 years",r_physicists
+Aquilino_Morelle,"Gender:MaleDate of Birth:5 June  1962 - 08:30hBirth place:ParisCountry:FR, FranceAge:57 years",r_physicists
+Kathryn_Morton,"Gender:FemaleDate of Birth:20 November  1955 - 18:00hBirth place:Perth, ScotlandCountry:GB, United KingdomAge:64 years",r_physicists
+Leonce_Mout,"Gender:MaleDate of Birth:19 March  1916 - 06:00hBirth place:MonteuxCountry:FR, FranceAge:† 72 years",r_physicists
+Edwin_Muir,"Gender:MaleDate of Birth:15 May  1887 - 01:00hBirth place:Deerness, ScotlandCountry:GB, United KingdomAge:† 71 years",r_physicists
+Gustav_Nachtigall,"Gender:MaleDate of Birth:23 February  1834 - 16:45hBirth place:MarwitzCountry:DE, GermanyAge:† 51 years",r_physicists
+Nathaniel_Waterman,"Gender:MaleDate of Birth:17 March  1883 - 20:00hBirth place:RotterdamCountry:NL, NetherlandsAge:† 77 years",r_physicists
+Werner_Nawrocki,"Gender:MaleDate of Birth:3 April  1946 - 13:38hBirth place:ImmenstadtCountry:DE, GermanyAge:74 years",r_physicists
+Meta_Neuberger,"Gender:FemaleDate of Birth:29 February  1912 - 22:00hBirth place:New York, New YorkCountry:US, United States",r_physicists
+Michael_Nitschke,"Gender:MaleDate of Birth:27 April  1939 - 05:00hBirth place:BerlinCountry:DE, GermanyAge:† 55 years",r_physicists
+Leonard_Ornstein,"Gender:MaleDate of Birth:12 November  1880 - 12:00hBirth place:NijmegenCountry:NL, NetherlandsAge:† 60 years",r_physicists
+Eusapia_Paladino,"Gender:FemaleDate of Birth:20 January  1854 - 19:00hBirth place:Minervino MurgeCountry:IT, Italy",r_physicists
+Pierre_Pallardy,"Gender:MaleDate of Birth:13 February  1941 - 10:30hBirth place:MoulinsCountry:FR, FranceAge:79 years",r_physicists
+Carol_Parrish-Harra,"Gender:FemaleDate of Birth:21 January  1935 - 09:15hBirth place:Jonesboro, ArkansasCountry:US, United StatesAge:85 years",r_physicists
+A._Spencer_Paterson,"Gender:MaleDate of Birth:22 February  1900 - 22:30hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_physicists
+Henri_Paucot,"Gender:MaleDate of Birth:27 December  1877 - 18:00hBirth place:Saint-OmerCountry:FR, France",r_physicists
+Donald_Payne,"Gender:MaleDate of Birth:23 January  1936 - 17:16hBirth place:Dallas, TexasCountry:US, United StatesAge:† 45 years",r_physicists
+Jean-Claude_Pecker,"Gender:MaleDate of Birth:10 May  1923 - 16:45hBirth place:ReimsCountry:FR, France",r_physicists
+Pier_Pelicci,"Gender:MaleDate of Birth:5 September  1956 - 06:00hBirth place:GubbioCountry:IT, ItalyAge:63 years",r_physicists
+Dirceu_Pereira,"Gender:MaleDate of Birth:21 July  1943 - 22:30hBirth place:Três LagoasCountry:BR, BrazilAge:76 years",r_physicists
+Jean-Baptiste_Perrin,"Gender:MaleDate of Birth:30 September  1870 - 19:30hBirth place:LilleCountry:FR, FranceAge:† 71 years",r_physicists
+Jean-Jacques_Peschard,"Gender:MaleDate of Birth:27 April  1930 - 18:10hBirth place:ParisCountry:FR, FranceAge:† 59 years",r_physicists
+Pierre_Ernest_Pinoy,"Gender:MaleDate of Birth:3 February  1873 - 21:00hBirth place:ParisCountry:FR, France",r_physicists
+Max_Planck,"Gender:MaleDate of Birth:23 April  1858Birth place:KielCountry:DE, GermanyAge:† 89 years",r_physicists
+Joseph_Plateau,"Gender:MaleDate of Birth:14 October  1801 - 21:00hBirth place:BrusselsCountry:BE, BelgiumAge:† 81 years",r_physicists
+Longostrevi_Poggi,"Gender:MaleDate of Birth:13 February  1935 - 17:10hBirth place:MilanCountry:IT, ItalyAge:† 65 years",r_physicists
+J._Henri_Poincare,"Gender:MaleDate of Birth:29 April  1854 - 01:00hBirth place:NancyCountry:FR, FranceAge:† 58 years",r_physicists
+Bruno_Pontecorvo,"Gender:MaleDate of Birth:22 August  1913 - 00:15hBirth place:PisaCountry:IT, Italy",r_physicists
+Peter_Pringsheim,"Gender:MaleDate of Birth:19 March  1881 - 15:30hBirth place:MunichCountry:DE, GermanyAge:† 82 years",r_physicists
+Louis_Ranvier,"Gender:MaleDate of Birth:2 October  1835 - 04:00hBirth place:LyonCountry:FR, FranceAge:† 86 years",r_physicists
+Paul_Reclus,"Gender:MaleDate of Birth:7 March  1847 - 16:45hBirth place:OrthezCountry:FR, FranceAge:† 67 years",r_physicists
+Tullio_Eugenio_Regge,"Gender:MaleDate of Birth:11 July  1931 - 13:30hBirth place:TurinCountry:IT, ItalyAge:88 years",r_physicists
+Thomas_Renault,"Gender:MaleDate of Birth:11 February  1805 - 18:00hBirth place:Saint-Ouen-l'AumôneCountry:FR, France",r_physicists
+Louis_Rene,"Gender:MaleDate of Birth:21 August  1918 - 14:00hBirth place:Saint-GillesCountry:FR, FranceAge:† 77 years",r_physicists
+Francesco_Rezzesi,"Gender:MaleDate of Birth:7 January  1902 - 23:25hBirth place:SondrioCountry:IT, Italy",r_physicists
+Frederick_Robbins,"Gender:MaleDate of Birth:25 August  1916 - 09:00hBirth place:Auburn, AlabamaCountry:US, United StatesAge:† 86 years",r_physicists
+Albert_Rochas_D'Aiglun,"Gender:MaleDate of Birth:20 May  1837 - 17:00hBirth place:Saint-FirminCountry:FR, FranceAge:† 77 years",r_physicists
+Heinrich_Rohrer,"Gender:MaleDate of Birth:6 June  1933Birth place:BuchsCountry:CH, SwitzerlandAge:† 79 years",r_physicists
+Corrado_Rossi,"Gender:MaleDate of Birth:4 April  1905 - 16:40hBirth place:FlorenceCountry:IT, Italy",r_physicists
+Joseph_Harold_Rush,"Gender:MaleDate of Birth:17 April  1911 - 23:00hBirth place:Mount Calm, TexasCountry:US, United StatesAge:† 95 years",r_physicists
+James_Knox_Russell,"Gender:MaleDate of Birth:5 September  1919 - 01:00hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_physicists
+Anthony_Saidy,"Gender:MaleDate of Birth:16 May  1937 - 04:35hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:82 years",r_physicists
+Karl_Felix_Saller,"Gender:MaleDate of Birth:3 September  1902 - 22:00hBirth place:KemptenCountry:DE, GermanyAge:† 67 years",r_physicists
+Charles_Sannie,"Gender:MaleDate of Birth:28 December  1896 - 06:30hBirth place:Janville, Eure-et-LoirCountry:FR, France",r_physicists
+Sibrand_Schepel,"Gender:MaleDate of Birth:22 December  1945 - 02:45hBirth place:HilversumCountry:NL, NetherlandsAge:74 years",r_physicists
+Jack_Schwarz,"Gender:MaleDate of Birth:26 April  1924 - 11:10hBirth place:DordrechtCountry:NL, NetherlandsAge:† 76 years",r_physicists
+James_Steel_Scott,"Gender:MaleDate of Birth:18 April  1924 - 15:45hBirth place:Glasgow, ScotlandCountry:GB, United Kingdom",r_physicists
+Percy_Seymour,"Gender:MaleDate of Birth:3 January  1938 - 08:00hBirth place:KimberleyCountry:ZA, South AfricaAge:82 years",r_physicists
+Richard_Sharpe,"Gender:MaleDate of Birth:23 August  1954 - 11:30hBirth place:Derby, ConnecticutCountry:US, United StatesAge:† 54 years",r_physicists
+Raymond_Sheline,"Gender:MaleDate of Birth:31 March  1922 - 10:00hBirth place:Port Clinton, OhioCountry:US, United States",r_physicists
+Sam_Sheppard,"Gender:MaleDate of Birth:29 December  1923 - 05:30hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 46 years",r_physicists
+John_Shockro,"Gender:MaleDate of Birth:25 July  1947 - 02:25hBirth place:Attleboro, MassachusettsCountry:US, United StatesAge:72 years",r_physicists
+Just_Sicard_De_Pauzoles,"Gender:MaleDate of Birth:12 January  1872 - 09:00hBirth place:MontpellierCountry:FR, France",r_physicists
+Bernie_Siegel,"Gender:MaleDate of Birth:14 October  1932 - 10:00hBirth place:New York, New YorkCountry:US, United StatesAge:87 years",r_physicists
+Jackson_Kent_Sierra,"Gender:MaleDate of Birth:18 July  1988 - 13:15hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:31 years",r_physicists
+Celestin_Sieur,"Gender:MaleDate of Birth:27 December  1860 - 09:00hBirth place:La FayeCountry:FR, FranceAge:† 94 years",r_physicists
+Markku_Siivola,"Gender:MaleDate of Birth:3 January  1945 - 23:25hBirth place:HelsinkiCountry:FI, FinlandAge:75 years",r_physicists
+Richard_Simmons,"Gender:MaleDate of Birth:12 July  1948 - 11:18hBirth place:New Orleans, LouisianaCountry:US, United StatesAge:71 years",r_physicists
+Carl_O._Simonton,"Gender:MaleDate of Birth:29 June  1942 - 12:40hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:77 years",r_physicists
+Stephanie_Simonton,"Gender:FemaleDate of Birth:19 October  1947 - 10:50hBirth place:Brigham City, UtahCountry:US, United StatesAge:72 years",r_physicists
+James_Young_Simpson,"Gender:MaleDate of Birth:7 June  1811 - 20:00hBirth place:Bathgate, ScotlandCountry:GB, United KingdomAge:† 58 years",r_physicists
+David_Slemmons,"Gender:MaleDate of Birth:31 December  1922 - 07:45hBirth place:Alameda, CaliforniaCountry:US, United States",r_physicists
+Pierre_Soulié,"Gender:MaleDate of Birth:9 May  1903 - 17:00hBirth place:MontpellierCountry:FR, France",r_physicists
+Christian_Spitz,"Gender:MaleDate of Birth:4 July  1950 - 19:00hBirth place:BesançonCountry:FR, FranceAge:69 years",r_physicists
+Leo_Szilard,"Gender:MaleDate of Birth:11 February  1898 - 15:00hBirth place:BudapestCountry:HU, HungaryAge:† 66 years",r_physicists
+Brad_Steiger,"Gender:MaleDate of Birth:19 February  1936 - 07:50hBirth place:Fort Dodge, IowaCountry:US, United StatesAge:84 years",r_physicists
+John_Low_Stephen,"Gender:MaleDate of Birth:13 May  1912 - 14:30hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_physicists
+John_Philip_Stewart,"Gender:MaleDate of Birth:1 February  1900 - 22:45hBirth place:Edinburgh, ScotlandCountry:GB, United Kingdom",r_physicists
+William_Huffman_Stewart,"Gender:MaleDate of Birth:19 May  1921 - 02:00hBirth place:Minneapolis, MinnesotaCountry:US, United StatesAge:† 86 years",r_physicists
+Vincent_Strangio,"Gender:MaleDate of Birth:26 March  1923 - 14:37hBirth place:New York, New YorkCountry:US, United StatesAge:† 70 years",r_physicists
+Norbert_Ségard,"Gender:MaleDate of Birth:3 October  1922 - 04:00hBirth place:AnicheCountry:FR, FranceAge:† 58 years",r_physicists
+Jean_Tarneaud,"Gender:MaleDate of Birth:6 January  1888 - 07:00hBirth place:JarnacCountry:FR, France",r_physicists
+Alfred_Terquem,"Gender:MaleDate of Birth:30 January  1831 - 09:00hBirth place:MetzCountry:FR, FranceAge:† 56 years",r_physicists
+Jean_Thibaud,"Gender:MaleDate of Birth:12 May  1901 - 18:06hBirth place:LyonCountry:FR, FranceAge:† 59 years",r_physicists
+Robert_R._Tocquet,"Gender:MaleDate of Birth:5 June  1898 - 14:00hBirth place:Saint-OulphCountry:FR, FranceAge:† 95 years",r_physicists
+Rudolf_Tomaschek,"Gender:MaleDate of Birth:23 December  1895 - 13:40hBirth place:České BudějoviceCountry:CZ, Czech RepublicAge:† 70 years",r_physicists
+Miguel_Torga,"Gender:MaleDate of Birth:12 August  1907 - 11:00hBirth place:São Martinho de AntaCountry:PT, PortugalAge:† 87 years",r_physicists
+Paul_M._Vasse,"Gender:MaleDate of Birth:17 February  1910 - 21:30hBirth place:AmiensCountry:FR, France",r_physicists
+Marcel_Vigot,"Gender:MaleDate of Birth:28 December  1887 - 03:00hBirth place:CaenCountry:FR, France",r_physicists
+Jean_Antoine_Villemin,"Gender:MaleDate of Birth:24 January  1827 - 14:00hBirth place:Prey, EureCountry:FR, FranceAge:† 65 years",r_physicists
+Raymond_Villey,"Gender:MaleDate of Birth:23 January  1913 - 17:30hBirth place:CaenCountry:FR, FranceAge:† 85 years",r_physicists
+Hyacinthe_Jean_Vincent,"Gender:MaleDate of Birth:22 December  1862 - 06:00hBirth place:BordeauxCountry:FR, FranceAge:† 87 years",r_physicists
+Jean-Didier_Vincent,"Gender:MaleDate of Birth:7 June  1935 - 09:45hBirth place:LibourneCountry:FR, FranceAge:84 years",r_physicists
+Edme_Felix_Vulpian,"Gender:FemaleDate of Birth:5 January  1826 - 09:00hBirth place:ParisCountry:FR, France",r_physicists
+Tom_Waddell,"Gender:MaleDate of Birth:1 November  1937 - 06:30hBirth place:Paterson, New JerseyCountry:US, United StatesAge:† 49 years",r_physicists
+Otto_Walkhoff,"Gender:MaleDate of Birth:23 April  1860 - 20:00hBirth place:BrunswickCountry:DE, GermanyAge:† 74 years",r_physicists
+Frederick_Theodor_Wall,"Gender:MaleDate of Birth:14 December  1912 - 22:00hBirth place:Chisholm, MinnesotaCountry:US, United States",r_physicists
+Joel_Wallach,"Gender:MaleDate of Birth:4 June  1938 - 10:00hBirth place:Creve Coeur, MissouriCountry:US, United StatesAge:81 years",r_physicists
+Arieh_Warshel,"Gender:MaleDate of Birth:20 November  1940Birth place:Bejt Še'anCountry:IL, IsraelAge:79 years",r_physicists
+Gerald_Wasserburg,"Gender:MaleDate of Birth:25 March  1927 - 00:53hBirth place:New Brunswick, New JerseyCountry:US, United StatesAge:93 years",r_physicists
+Co_Westerik,"Gender:MaleDate of Birth:2 March  1924 - 23:30hBirth place:The HagueCountry:NL, Netherlands",r_physicists
+Eugene_Wigner,"Gender:MaleDate of Birth:17 November  1902Birth place:BudapestCountry:HU, HungaryAge:† 92 years",r_physicists
+Charles_T._R._Wilson,"Gender:MaleDate of Birth:14 February  1869 - 04:00hBirth place:GlencourseCountry:GB, United KingdomAge:† 90 years",r_physicists
+Fred_Alan_Wolf,"Gender:MaleDate of Birth:3 December  1934 - 11:23hBirth place:Chicago, IllinoisCountry:US, United StatesAge:85 years",r_physicists
+Arthur_M._Young,"Gender:MaleDate of Birth:3 November  1905 - 10:23hBirth place:ParisCountry:FR, FranceAge:† 89 years",r_physicists
+David_Younger,"Gender:MaleDate of Birth:21 October  1828 - 03:00hBirth place:Ecclefechan, ScotlandCountry:GB, United KingdomAge:† 76 years",r_physicists
+František_Běhounek,"Gender:MaleDate of Birth:28 October  1898Birth place:PragueCountry:CZ, Czech Republic",r_physicists
+Ernesto_Sabato,"Gender:MaleDate of Birth:3 July  1911 - 07:00hBirth place:Rojas, Buenos AiresCountry:AR, ArgentinaAge:† 99 years",r_physicists
+John_Smeaton,"Gender:MaleDate of Birth:8 June  1724Birth place:Leeds, EnglandCountry:GB, United KingdomAge:† 68 years",r_physicists
+Vincas_Kudirka,"Gender:MaleDate of Birth:31 December  1858Birth place:PaežeriaiCountry:LT, LithuaniaAge:† 40 years",r_physicists
+Ed_Oberg,"Gender:MaleDate of Birth:6 February  1943 - 02:52hBirth place:Chicago, IllinoisCountry:US, United StatesAge:77 years",r_physicists
+Maurice_Allais,"Gender:MaleDate of Birth:31 May  1911Birth place:ParisCountry:FR, FranceAge:† 99 years",r_physicists
+Alexandr_Gerst,"Gender:MaleDate of Birth:3 May  1976Birth place:KünzelsauCountry:DE, GermanyAge:43 years",r_physicists

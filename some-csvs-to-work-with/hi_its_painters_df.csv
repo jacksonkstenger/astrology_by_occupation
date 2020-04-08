@@ -1,0 +1,718 @@
+name,info,occupation
+Jiří_Trnka,"Gender:MaleDate of Birth:24 February  1912Birth place:PilsenCountry:CZ, Czech RepublicAge:† 57 years",r_painters
+Andy_Warhol,"Gender:MaleDate of Birth:6 August  1928 - 06:30hBirth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:† 58 years",r_painters
+Hergé,"Gender:MaleDate of Birth:22 May  1907 - 07:30hBirth place:EtterbeekCountry:BE, BelgiumAge:† 75 years",r_painters
+Matt_Groening,"Gender:MaleDate of Birth:15 February  1954Birth place:Portland, OregonCountry:US, United StatesAge:66 years",r_painters
+Salvador_Dalí,"Gender:MaleDate of Birth:11 May  1904 - 08:45hBirth place:FigueresCountry:ES, SpainAge:† 84 years",r_painters
+Roy_Lichtenstein,"Gender:MaleDate of Birth:27 October  1923Birth place:New York, New YorkCountry:US, United StatesAge:† 73 years",r_painters
+Marcel_Duchamp,"Gender:MaleDate of Birth:28 July  1887 - 14:00hBirth place:Blainville-CrevonCountry:FR, FranceAge:† 81 years",r_painters
+H._R._Giger,"Gender:MaleDate of Birth:5 February  1940 - 16:45hBirth place:ChurCountry:CH, SwitzerlandAge:† 74 years",r_painters
+Jack_Kerouac,"Gender:MaleDate of Birth:12 March  1922 - 17:00hBirth place:Lowell, MassachusettsCountry:US, United StatesAge:† 47 years",r_painters
+Pablo_Picasso,"Gender:MaleDate of Birth:25 October  1881 - 23:15hBirth place:MálagaCountry:ES, SpainAge:† 91 years",r_painters
+William_Blake,"Gender:MaleDate of Birth:28 November  1757 - 19:45hBirth place:London, EnglandCountry:GB, United KingdomAge:† 69 years",r_painters
+Honoré_Daumier,"Gender:MaleDate of Birth:26 February  1808 - 15:00hBirth place:MarseilleCountry:FR, FranceAge:† 70 years",r_painters
+Gustave_Courbet,"Gender:MaleDate of Birth:10 June  1819 - 03:00hBirth place:OrnansCountry:FR, FranceAge:† 58 years",r_painters
+Charles_Addams,"Gender:MaleDate of Birth:7 January  1912 - 13:00hBirth place:Westfield, New JerseyCountry:US, United StatesAge:† 76 years",r_painters
+Umberto_Boccioni,"Gender:MaleDate of Birth:19 October  1882 - 15:15hBirth place:Reggio CalabriaCountry:IT, ItalyAge:† 33 years",r_painters
+Paul_Cézanne,"Gender:MaleDate of Birth:19 January  1839 - 01:00hBirth place:Aix-en-ProvenceCountry:FR, FranceAge:† 67 years",r_painters
+Marc_Chagall,"Gender:MaleDate of Birth:6 July  1887(gregor.)Birth place:VitebskCountry:RU, RussiaAge:† 97 years",r_painters
+Edgar_Degas,"Gender:MaleDate of Birth:19 July  1834 - 20:30hBirth place:ParisCountry:FR, FranceAge:† 83 years",r_painters
+Pierre_Dumont,"Gender:MaleDate of Birth:29 March  1884 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 52 years",r_painters
+Paul_Gauguin,"Gender:MaleDate of Birth:7 June  1848 - 10:00hBirth place:ParisCountry:FR, FranceAge:† 54 years",r_painters
+Kahlil_Gibran,"Gender:MaleDate of Birth:6 January  1883 - 04:00hBirth place:BcharreCountry:LB, LebanonAge:† 48 years",r_painters
+Francisco_de_Goya,"Gender:MaleDate of Birth:30 March  1746Birth place:FuendetodosCountry:ES, SpainAge:† 82 years",r_painters
+Paul_Jenkins,"Gender:MaleDate of Birth:12 July  1923 - 00:45hBirth place:Kansas City, MissouriCountry:US, United StatesAge:† 88 years",r_painters
+Frida_Kahlo,"Gender:FemaleDate of Birth:6 July  1907 - 08:30hBirth place:Mexico CityCountry:MX, MexicoAge:† 47 years",r_painters
+Wassily_Kandinsky,"Gender:MaleDate of Birth:16 December  1866 - 05:58h(gregor.)Birth place:MoscowCountry:RU, RussiaAge:† 77 years",r_painters
+Paul_Klee,"Gender:MaleDate of Birth:18 December  1879 - 04:00hBirth place:MünchenbuchseeCountry:CH, SwitzerlandAge:† 60 years",r_painters
+Le_Corbusier,"Gender:MaleDate of Birth:6 October  1887 - 21:00hBirth place:La Chaux-de-FondsCountry:CH, SwitzerlandAge:† 77 years",r_painters
+Antoine_Lumière,"Gender:MaleDate of Birth:13 March  1840 - 17:00hBirth place:OrmoyCountry:FR, FranceAge:† 71 years",r_painters
+August_Macke,"Gender:MaleDate of Birth:3 January  1887 - 13:30hBirth place:MeschedeCountry:DE, GermanyAge:† 27 years",r_painters
+Franz_Marc,"Gender:MaleDate of Birth:8 February  1880 - 10:00hBirth place:MunichCountry:DE, GermanyAge:† 36 years",r_painters
+Claude_Monet,"Gender:MaleDate of Birth:14 November  1840 - 19:26hBirth place:ParisCountry:FR, FranceAge:† 86 years",r_painters
+Henry_Moore,"Gender:MaleDate of Birth:30 July  1898 - 20:00hBirth place:Castleford, EnglandCountry:GB, United KingdomAge:† 88 years",r_painters
+Morris,"Gender:MaleDate of Birth:1 December  1923 - 13:00hBirth place:KortrijkCountry:BE, BelgiumAge:† 77 years",r_painters
+Samuel_F._B._Morse,"Gender:MaleDate of Birth:27 April  1791 - 10:30hBirth place:Boston, MassachusettsCountry:US, United StatesAge:† 80 years",r_painters
+Camille_Pissarro,"Gender:MaleDate of Birth:10 July  1830Birth place:St.ThomasCountry:VI, U.S. Virgin IslandsAge:† 73 years",r_painters
+Jackson_Pollock,"Gender:MaleDate of Birth:28 January  1912 - 12:06hBirth place:Cody, WyomingCountry:US, United StatesAge:† 44 years",r_painters
+Auguste_Renoir,"Gender:MaleDate of Birth:25 February  1841 - 06:00hBirth place:LimogesCountry:FR, FranceAge:† 78 years",r_painters
+Diego_Rivera,"Gender:MaleDate of Birth:8 December  1886 - 19:30hBirth place:GuanajuatoCountry:MX, MexicoAge:† 70 years",r_painters
+D._G._Rossetti,"Gender:MaleDate of Birth:12 May  1828 - 04:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 53 years",r_painters
+John_Ruskin,"Gender:MaleDate of Birth:8 February  1819 - 07:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 80 years",r_painters
+Egon_Schiele,"Gender:MaleDate of Birth:12 June  1890 - 06:00hBirth place:Tulln an der DonauCountry:AT, AustriaAge:† 28 years",r_painters
+Georges_Seurat,"Gender:MaleDate of Birth:2 December  1859 - 01:00hBirth place:ParisCountry:FR, FranceAge:† 31 years",r_painters
+Paul_Signac,"Gender:MaleDate of Birth:11 November  1863 - 15:00hBirth place:ParisCountry:FR, FranceAge:† 71 years",r_painters
+Henri_de_Toulouse-Lautrec,"Gender:MaleDate of Birth:24 November  1864 - 06:00hBirth place:AlbiCountry:FR, FranceAge:† 36 years",r_painters
+Vincent_Van_Gogh,"Gender:MaleDate of Birth:30 March  1853 - 11:00hBirth place:ZundertCountry:NL, NetherlandsAge:† 37 years",r_painters
+Henry_van_de_Velde,"Gender:MaleDate of Birth:3 April  1863 - 01:00hBirth place:AntwerpCountry:BE, BelgiumAge:† 94 years",r_painters
+Varlin,"Gender:MaleDate of Birth:16 March  1900 - 08:40hBirth place:ZürichCountry:CH, SwitzerlandAge:† 77 years",r_painters
+Taras_Shevchenko,"Gender:MaleDate of Birth:9 March  1814Birth place:MoryntsiCountry:UA, UkraineAge:† 47 years",r_painters
+Rabíndranáth_Thákur,"Gender:MaleDate of Birth:6 May  1861Birth place:KolkataCountry:IN, IndiaAge:† 80 years",r_painters
+Friedensreich_Hundertwasser,"Gender:MaleDate of Birth:15 December  1928Birth place:ViennaCountry:AT, AustriaAge:† 71 years",r_painters
+Ivan_Leonidov,"Gender:MaleDate of Birth:9 February  1902Birth place:Vlasikha, Moscow OblastCountry:RU, RussiaAge:† 57 years",r_painters
+Konstantin_Melnikov,"Gender:MaleDate of Birth:3 August  1890Birth place:MoscowCountry:RU, RussiaAge:† 84 years",r_painters
+Karl_Friedrich_Schinkel,"Gender:MaleDate of Birth:13 March  1781Birth place:NeuruppinCountry:DE, GermanyAge:† 60 years",r_painters
+Camillo_Sitte,"Gender:MaleDate of Birth:17 April  1843Birth place:ViennaCountry:AT, AustriaAge:† 60 years",r_painters
+Vladimir_Tatlin,"Gender:MaleDate of Birth:28 December  1885Birth place:KievCountry:UA, UkraineAge:† 67 years",r_painters
+Gustav_Klimt,"Gender:MaleDate of Birth:14 July  1862Birth place:BaumgartenCountry:AT, AustriaAge:† 55 years",r_painters
+Herbert_Masaryk,"Gender:MaleDate of Birth:1 May  1880Birth place:ViennaCountry:AT, AustriaAge:† 34 years",r_painters
+Leonardo_da_Vinci,"Gender:MaleDate of Birth:23 April  1452 - 21:40h(gregor.)Birth place:VinciCountry:IT, ItalyAge:† 67 years",r_painters
+Michelangelo_Buonarroti,"Gender:MaleDate of Birth:15 March  1475 - 01:45h(gregor.)Birth place:Caprese MichelangeloCountry:IT, ItalyAge:† 88 years",r_painters
+Rembrandt,"Gender:MaleDate of Birth:15 July  1606(gregor.)Birth place:LeidenCountry:NL, NetherlandsAge:† 63 years",r_painters
+Masaccio,"Gender:MaleDate of Birth:30 December  1401 - 08:00h(gregor.)Birth place:San Giovanni ValdarnoCountry:IT, ItalyAge:† 26 years",r_painters
+Jean_Marais,"Gender:MaleDate of Birth:11 December  1913 - 12:30hBirth place:Cherbourg-OctevilleCountry:FR, FranceAge:† 84 years",r_painters
+Serge_Reggiani,"Gender:MaleDate of Birth:2 May  1922 - 05:00hBirth place:Reggio EmiliaCountry:IT, ItalyAge:† 82 years",r_painters
+Marie_Laurencin,"Gender:FemaleDate of Birth:31 October  1883 - 09:00hBirth place:ParisCountry:FR, FranceAge:† 72 years",r_painters
+Giovanni_Guareschi,"Gender:MaleDate of Birth:1 May  1908 - 23:00hBirth place:RoccabiancaCountry:IT, ItalyAge:† 60 years",r_painters
+Gerard_Way,"Gender:MaleDate of Birth:9 April  1977 - 08:48hBirth place:Newark, New JerseyCountry:US, United StatesAge:42 years",r_painters
+Jean_Francois_Millet,"Gender:MaleDate of Birth:4 October  1814 - 20:00hBirth place:GruchyCountry:FR, FranceAge:† 60 years",r_painters
+G._F._Watts,"Gender:MaleDate of Birth:23 February  1817 - 01:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 87 years",r_painters
+Edmond_Aman-Jean,"Gender:MaleDate of Birth:13 November  1858 - 21:00hBirth place:Chevry-CossignyCountry:FR, FranceAge:† 77 years",r_painters
+Lizzy_Ansingh,"Gender:FemaleDate of Birth:13 March  1875 - 22:30hBirth place:UtrechtCountry:NL, NetherlandsAge:† 84 years",r_painters
+Fernandez_Arman,"Gender:MaleDate of Birth:17 November  1928 - 15:00hBirth place:NiceCountry:FR, FranceAge:† 76 years",r_painters
+Gus_Arriola,"Gender:MaleDate of Birth:23 July  1917 - 19:00hBirth place:Florence, ArizonaCountry:US, United StatesAge:† 90 years",r_painters
+Giacomo_Balla,"Gender:MaleDate of Birth:18 July  1871 - 12:00hBirth place:TurinCountry:IT, ItalyAge:† 86 years",r_painters
+Balthus,"Gender:MaleDate of Birth:29 February  1908 - 13:00hBirth place:ParisCountry:FR, FranceAge:† 92 years",r_painters
+Guy_Bardone,"Gender:MaleDate of Birth:19 September  1927 - 03:00hBirth place:Saint-ClaudeCountry:FR, FranceAge:92 years",r_painters
+Jules_Bastien-Lepage,"Gender:MaleDate of Birth:1 November  1848 - 01:00hBirth place:DamvillersCountry:FR, FranceAge:† 36 years",r_painters
+Andre_Bauchant,"Gender:MaleDate of Birth:24 April  1873 - 23:30hBirth place:Château-RenaultCountry:FR, France",r_painters
+Jean_René_Bazaine,"Gender:MaleDate of Birth:21 December  1904 - 01:00hBirth place:ParisCountry:FR, FranceAge:† 96 years",r_painters
+Frédéric_Bazille,"Gender:MaleDate of Birth:6 December  1841 - 21:00hBirth place:MontpellierCountry:FR, FranceAge:† 28 years",r_painters
+Willy_Beckerath,"Gender:MaleDate of Birth:28 September  1868 - 04:30hBirth place:KrefeldCountry:DE, GermanyAge:† 69 years",r_painters
+Roger_Bissière,"Gender:MaleDate of Birth:22 September  1886 - 17:30hBirth place:VilleréalCountry:FR, France",r_painters
+Jacques-Émile_Blanche,"Gender:MaleDate of Birth:31 January  1861 - 01:00hBirth place:ParisCountry:FR, FranceAge:† 81 years",r_painters
+Rosa_Bonheur,"Gender:FemaleDate of Birth:16 March  1822 - 20:00hBirth place:BordeauxCountry:FR, FranceAge:† 77 years",r_painters
+Pierre_Bonnard,"Gender:MaleDate of Birth:3 October  1867 - 10:00hBirth place:Fontenay-aux-RosesCountry:FR, FranceAge:† 79 years",r_painters
+Eugène_Boudin,"Gender:MaleDate of Birth:12 July  1824 - 05:00hBirth place:HonfleurCountry:FR, FranceAge:† 74 years",r_painters
+Georges_Braque,"Gender:MaleDate of Birth:13 May  1882 - 21:00hBirth place:ArgenteuilCountry:FR, FranceAge:† 81 years",r_painters
+Yves_Brayer,"Gender:MaleDate of Birth:18 November  1907 - 08:30hBirth place:VersaillesCountry:FR, FranceAge:† 82 years",r_painters
+George_Hendrik_Breitner,"Gender:MaleDate of Birth:12 September  1857 - 21:00hBirth place:RotterdamCountry:NL, NetherlandsAge:† 65 years",r_painters
+Herman_Brood,"Gender:MaleDate of Birth:5 November  1946 - 19:00hBirth place:ZwolleCountry:NL, NetherlandsAge:† 54 years",r_painters
+Bernard_Buffet,"Gender:MaleDate of Birth:10 July  1928 - 07:30hBirth place:ParisCountry:FR, FranceAge:† 71 years",r_painters
+Félix_Buhot,"Gender:MaleDate of Birth:9 July  1847 - 05:00hBirth place:ValognesCountry:FR, FranceAge:† 50 years",r_painters
+Wilhelm_Busch,"Gender:MaleDate of Birth:14 April  1832 - 06:00hBirth place:WiedensahlCountry:DE, GermanyAge:† 75 years",r_painters
+Alexandre_Cabanel,"Gender:MaleDate of Birth:28 September  1823 - 00:00hBirth place:MontpellierCountry:FR, FranceAge:† 65 years",r_painters
+Henri_Cadiou,"Gender:MaleDate of Birth:26 March  1906 - 22:15hBirth place:ParisCountry:FR, FranceAge:† 83 years",r_painters
+Gustave_Caillebotte,"Gender:MaleDate of Birth:19 August  1848 - 15:20hBirth place:ParisCountry:FR, FranceAge:† 45 years",r_painters
+David_Cameron,"Gender:MaleDate of Birth:28 June  1865 - 15:17hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 80 years",r_painters
+Jean-Baptiste_Carpeaux,"Gender:MaleDate of Birth:11 May  1827 - 17:00hBirth place:ValenciennesCountry:FR, FranceAge:† 48 years",r_painters
+Carlo_Carra,"Gender:MaleDate of Birth:11 February  1881 - 14:00hBirth place:QuargnentoCountry:IT, ItalyAge:† 85 years",r_painters
+Eugene_Carriere,"Gender:MaleDate of Birth:16 January  1849 - 15:00hBirth place:Gournay-sur-MarneCountry:FR, FranceAge:† 57 years",r_painters
+Maria_Caspar-Filser,"Gender:FemaleDate of Birth:7 August  1878 - 16:00hBirth place:RiedlingenCountry:DE, Germany",r_painters
+Mary_Cassatt,"Gender:FemaleDate of Birth:22 May  1844 - 23:55hBirth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:† 82 years",r_painters
+Jean_Charles_Cazin,"Gender:MaleDate of Birth:25 May  1841 - 18:00hBirth place:SamerCountry:FR, France",r_painters
+Roger_Chapelet,"Gender:MaleDate of Birth:25 September  1903 - 22:30hBirth place:VersaillesCountry:FR, FranceAge:† 91 years",r_painters
+José_Charlet,"Gender:MaleDate of Birth:19 October  1916 - 21:00hBirth place:Bourg-en-BresseCountry:FR, FranceAge:† 76 years",r_painters
+Emile_Claus,"Gender:MaleDate of Birth:27 September  1849 - 16:00hBirth place:BrusselsCountry:BE, BelgiumAge:† 74 years",r_painters
+Hugo_Maurice_Claus,"Gender:MaleDate of Birth:5 April  1929 - 21:00hBirth place:BrugesCountry:BE, BelgiumAge:† 78 years",r_painters
+Auguste_Clésigner,"Gender:MaleDate of Birth:22 October  1814 - 15:00hBirth place:BesançonCountry:FR, FranceAge:† 68 years",r_painters
+Cecil_Collins,"Gender:MaleDate of Birth:23 March  1908 - 06:00hBirth place:Plymouth, EnglandCountry:GB, United KingdomAge:† 81 years",r_painters
+Camille_Corot,"Gender:MaleDate of Birth:16 July  1796 - 01:30hBirth place:ParisCountry:FR, FranceAge:† 78 years",r_painters
+Jean-Baptiste_Corot,"Gender:MaleDate of Birth:16 July  1796 - 01:30hBirth place:ParisCountry:FR, FranceAge:† 78 years",r_painters
+Charles_Cottet,"Gender:MaleDate of Birth:12 July  1863 - 09:00hBirth place:Le Puy-en-VelayCountry:FR, FranceAge:† 62 years",r_painters
+Henri_Edmond_Cross,"Gender:MaleDate of Birth:20 May  1856 - 05:30hBirth place:DouaiCountry:FR, FranceAge:† 53 years",r_painters
+E._E._Cummings,"Gender:MaleDate of Birth:14 October  1894 - 19:00hBirth place:Cambridge, MassachusettsCountry:US, United StatesAge:† 67 years",r_painters
+Louis_Daguerre,"Gender:MaleDate of Birth:18 November  1787Birth place:Cormeilles-en-ParisisCountry:FR, FranceAge:† 63 years",r_painters
+Charles-François_Daubigny,"Gender:MaleDate of Birth:15 February  1817 - 20:00hBirth place:ParisCountry:FR, FranceAge:† 61 years",r_painters
+Willem_De_Kooning,"Gender:MaleDate of Birth:24 April  1904 - 01:00hBirth place:RotterdamCountry:NL, NetherlandsAge:† 92 years",r_painters
+Giuseppe_de_Nittis,"Gender:MaleDate of Birth:25 February  1846 - 18:00hBirth place:BarlettaCountry:IT, Italy",r_painters
+Filippo_de_Pisis,"Gender:MaleDate of Birth:11 May  1896 - 11:00hBirth place:FerraraCountry:IT, ItalyAge:† 59 years",r_painters
+Séraphine_de_Senlis,"Gender:FemaleDate of Birth:3 September  1864 - 04:00hBirth place:ArsyCountry:FR, FranceAge:† 78 years",r_painters
+Roger_de_la_Fresnaye,"Gender:MaleDate of Birth:11 July  1885 - 15:45hBirth place:Le MansCountry:FR, FranceAge:† 40 years",r_painters
+Julies-Elie_Delaunay,"Gender:MaleDate of Birth:13 June  1828 - 08:00hBirth place:NantesCountry:FR, FranceAge:† 63 years",r_painters
+Robert_Delaunay,"Gender:MaleDate of Birth:12 April  1885 - 07:00hBirth place:ParisCountry:FR, FranceAge:† 56 years",r_painters
+Paul_Delvaux,"Gender:MaleDate of Birth:23 September  1897 - 22:00hBirth place:WanzeCountry:BE, BelgiumAge:† 96 years",r_painters
+Richard_Demarco,"Gender:MaleDate of Birth:9 July  1930 - 07:00hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:89 years",r_painters
+Maurice_Denis,"Gender:MaleDate of Birth:25 November  1870 - 16:00hBirth place:GranvilleCountry:FR, FranceAge:† 72 years",r_painters
+Jacques_Derrey,"Gender:MaleDate of Birth:22 September  1907 - 23:00hBirth place:ToulouseCountry:FR, FranceAge:† 67 years",r_painters
+Georges_Desvallieres,"Gender:MaleDate of Birth:14 March  1861 - 02:15hBirth place:ParisCountry:FR, France",r_painters
+Hervé_Di_Rosa,"Gender:MaleDate of Birth:17 December  1959 - 10:45hBirth place:SèteCountry:FR, FranceAge:60 years",r_painters
+Narcisse_Diaz_de_la_Pena,"Gender:MaleDate of Birth:20 August  1807 - 08:00hBirth place:BordeauxCountry:FR, FranceAge:† 69 years",r_painters
+Otto_Dix,"Gender:MaleDate of Birth:2 December  1891 - 01:30hBirth place:GeraCountry:DE, GermanyAge:† 77 years",r_painters
+Kees_Van_Dongen,"Gender:MaleDate of Birth:26 January  1877 - 07:00hBirth place:RotterdamCountry:NL, NetherlandsAge:† 91 years",r_painters
+Jean_Dubuffet,"Gender:MaleDate of Birth:31 July  1901 - 13:00hBirth place:Le HavreCountry:FR, FranceAge:† 83 years",r_painters
+Georges_Leon_Dufrenoy,"Gender:MaleDate of Birth:20 June  1870 - 23:00hBirth place:ThiaisCountry:FR, France",r_painters
+Raoul_Dufy,"Gender:MaleDate of Birth:3 June  1877 - 07:00hBirth place:Le HavreCountry:FR, FranceAge:† 75 years",r_painters
+André_Dunoyer_de_Segonsac,"Gender:MaleDate of Birth:6 July  1884 - 00:05hBirth place:ParisCountry:FR, FranceAge:† 90 years",r_painters
+James_Ensor,"Gender:MaleDate of Birth:13 April  1860 - 04:30hBirth place:OstendCountry:BE, BelgiumAge:† 89 years",r_painters
+Rodolphe_Erlanger,"Gender:MaleDate of Birth:7 June  1872 - 03:00hBirth place:Boulogne-BillancourtCountry:FR, France",r_painters
+Henri_Fantin-Latour,"Gender:MaleDate of Birth:14 January  1836 - 15:00hBirth place:GrenobleCountry:FR, FranceAge:† 68 years",r_painters
+Jean_Fautrier,"Gender:MaleDate of Birth:16 May  1898 - 16:30hBirth place:ParisCountry:FR, FranceAge:† 66 years",r_painters
+Lyonel_Feininger,"Gender:MaleDate of Birth:17 July  1871 - 06:08hBirth place:New York, New YorkCountry:US, United StatesAge:† 84 years",r_painters
+Anselm_Feuerbach,"Gender:MaleDate of Birth:12 September  1829 - 14:00hBirth place:SpeyerCountry:DE, GermanyAge:† 50 years",r_painters
+Charles_Filiger,"Gender:MaleDate of Birth:28 November  1863 - 03:00hBirth place:ThannCountry:FR, FranceAge:† 64 years",r_painters
+Hippolyte_Flandrin,"Gender:MaleDate of Birth:23 March  1809 - 15:00hBirth place:LyonCountry:FR, FranceAge:† 54 years",r_painters
+Maria_Fortuny,"Gender:MaleDate of Birth:11 June  1838 - 06:00hBirth place:ReusCountry:ES, SpainAge:† 36 years",r_painters
+Caspar_David_Friedrich,"Gender:MaleDate of Birth:5 September  1774 - 03:30hBirth place:GreifswaldCountry:DE, GermanyAge:† 65 years",r_painters
+Eugène_Fromentin,"Gender:MaleDate of Birth:24 October  1820 - 05:00hBirth place:La RochelleCountry:FR, FranceAge:† 55 years",r_painters
+Paul_Gachet,"Gender:MaleDate of Birth:30 July  1828 - 06:00hBirth place:LilleCountry:FR, FranceAge:† 80 years",r_painters
+Ferdinand_Gaillard,"Gender:MaleDate of Birth:7 January  1834 - 12:00hBirth place:ParisCountry:FR, France",r_painters
+Angelica_Garnett,"Gender:FemaleDate of Birth:25 December  1918 - 02:00hBirth place:Lewes, EnglandCountry:GB, United KingdomAge:† 93 years",r_painters
+Gérard_Garouste,"Gender:MaleDate of Birth:10 March  1946 - 20:00hBirth place:ParisCountry:FR, FranceAge:74 years",r_painters
+Gen_Paul,"Gender:MaleDate of Birth:2 July  1895 - 06:00hBirth place:ParisCountry:FR, FranceAge:† 79 years",r_painters
+Jean-Léon_Gérôme,"Gender:MaleDate of Birth:11 May  1824 - 03:00hBirth place:VesoulCountry:FR, FranceAge:† 79 years",r_painters
+Albert_Gleizes,"Gender:MaleDate of Birth:8 December  1881 - 03:00hBirth place:ParisCountry:FR, FranceAge:† 71 years",r_painters
+Jean-Paul_Goude,"Gender:MaleDate of Birth:8 December  1938 - 18:50hBirth place:MontreuilCountry:FR, FranceAge:81 years",r_painters
+Jean_Grandville,"Gender:MaleDate of Birth:15 September  1803 - 23:00hBirth place:NancyCountry:FR, FranceAge:† 43 years",r_painters
+Henriette_L._L._Groll,"Gender:FemaleDate of Birth:28 February  1906 - 09:50hBirth place:GrenobleCountry:FR, FranceAge:† 89 years",r_painters
+Marcel_Gromaire,"Gender:MaleDate of Birth:24 July  1892 - 19:30hBirth place:Noyelles-sur-MerCountry:FR, France",r_painters
+Francis_Gruber,"Gender:MaleDate of Birth:15 March  1912 - 16:00hBirth place:NancyCountry:FR, FranceAge:† 36 years",r_painters
+Paul_Guigou,"Gender:MaleDate of Birth:15 February  1834 - 01:00hBirth place:VillarsCountry:FR, France",r_painters
+Henri_Joseph_Harpignies,"Gender:MaleDate of Birth:24 July  1819 - 22:00hBirth place:ValenciennesCountry:FR, FranceAge:† 97 years",r_painters
+Ernest_Hebert,"Gender:MaleDate of Birth:3 November  1817 - 19:00hBirth place:La TroncheCountry:FR, France",r_painters
+Erich_Heckel,"Gender:MaleDate of Birth:31 July  1883 - 04:30hBirth place:DöbelnCountry:DE, GermanyAge:† 86 years",r_painters
+Jean_Helion,"Gender:MaleDate of Birth:21 April  1904 - 08:00hBirth place:CouterneCountry:FR, FranceAge:† 83 years",r_painters
+Auguste_Herbin,"Gender:MaleDate of Birth:29 April  1882 - 23:00hBirth place:QuiévyCountry:FR, FranceAge:† 77 years",r_painters
+Florimond_Hervé,"Gender:MaleDate of Birth:30 June  1825 - 02:30hBirth place:HoudainCountry:FR, FranceAge:† 67 years",r_painters
+Ferdinand_Hodler,"Gender:MaleDate of Birth:14 March  1853 - 05:00hBirth place:BerneCountry:DE, GermanyAge:† 65 years",r_painters
+Jeanne_Hébuterne,"Gender:FemaleDate of Birth:6 April  1898 - 20:00hBirth place:ParisCountry:FR, FranceAge:† 21 years",r_painters
+Isaac_Israels,"Gender:MaleDate of Birth:3 February  1865 - 21:30hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 69 years",r_painters
+Josef_Israels,"Gender:MaleDate of Birth:27 January  1824 - 04:00hBirth place:GroningenCountry:NL, NetherlandsAge:† 87 years",r_painters
+Max_Jacob,"Gender:MaleDate of Birth:12 July  1876 - 13:00hBirth place:QuimperCountry:FR, FranceAge:† 67 years",r_painters
+Johan_Jongkind,"Gender:MaleDate of Birth:3 March  1819 - 16:30hBirth place:LattropCountry:NL, Netherlands",r_painters
+Ernst_Kirchner,"Gender:MaleDate of Birth:6 May  1880 - 06:30hBirth place:AschaffenburgCountry:DE, GermanyAge:† 58 years",r_painters
+Tristan_Klingsor,"Gender:MaleDate of Birth:8 August  1874 - 10:00hBirth place:Lachapelle-aux-PotsCountry:FR, FranceAge:† 91 years",r_painters
+Wojciech_Kossak,"Gender:MaleDate of Birth:31 December  1856 - 23:45hBirth place:ParisCountry:FR, FranceAge:† 85 years",r_painters
+Cornelius_Krieghoff,"Gender:MaleDate of Birth:19 June  1815 - 18:00hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 56 years",r_painters
+Félix_Labisse,"Gender:MaleDate of Birth:9 March  1905 - 07:30hBirth place:MarchiennesCountry:FR, FranceAge:† 76 years",r_painters
+Eugene_Louis_Lami,"Gender:MaleDate of Birth:12 January  1800 - 13:00hBirth place:ParisCountry:FR, FranceAge:† 90 years",r_painters
+Jean_Paul_Laurens,"Gender:MaleDate of Birth:28 March  1838 - 22:00hBirth place:FourquevauxCountry:FR, FranceAge:† 82 years",r_painters
+Jean_Le_Moal,"Gender:MaleDate of Birth:30 October  1909 - 19:00hBirth place:Authon-du-PercheCountry:FR, FranceAge:† 97 years",r_painters
+Charles-Lucien_Leandre,"Gender:MaleDate of Birth:23 July  1862 - 07:00hBirth place:ChampsecretCountry:FR, FranceAge:† 71 years",r_painters
+Jan_August_Hendrik_Leys,"Gender:MaleDate of Birth:22 February  1815 - 08:00hBirth place:AntwerpCountry:BE, Belgium",r_painters
+Leon_Lhermitte,"Gender:MaleDate of Birth:31 July  1844 - 07:00hBirth place:Mont-Saint-PèreCountry:FR, FranceAge:† 80 years",r_painters
+Andre_Lhote,"Gender:MaleDate of Birth:5 July  1885 - 22:00hBirth place:BordeauxCountry:FR, FranceAge:† 76 years",r_painters
+Max_Liebermann,"Gender:MaleDate of Birth:20 July  1847 - 08:00hBirth place:BerlinCountry:DE, GermanyAge:† 87 years",r_painters
+Bernard_Lorjou,"Gender:MaleDate of Birth:9 September  1908 - 05:00hBirth place:BloisCountry:FR, FranceAge:† 77 years",r_painters
+Jean_Lurcat,"Gender:MaleDate of Birth:1 July  1892 - 11:00hBirth place:BruyèresCountry:FR, France",r_painters
+W._J._MacLean,"Gender:MaleDate of Birth:12 October  1941 - 09:00hBirth place:Inverness, ScotlandCountry:GB, United KingdomAge:78 years",r_painters
+René_Magritte,"Gender:MaleDate of Birth:21 November  1898 - 07:30hBirth place:LessinesCountry:BE, BelgiumAge:† 68 years",r_painters
+Aristide_Maillol,"Gender:MaleDate of Birth:8 December  1861 - 10:00hBirth place:Banyuls-sur-MerCountry:FR, FranceAge:† 82 years",r_painters
+Alfred_Manessier,"Gender:MaleDate of Birth:5 December  1911 - 13:00hBirth place:Saint-OuenCountry:FR, FranceAge:† 81 years",r_painters
+Édouard_Manet,"Gender:MaleDate of Birth:23 January  1832 - 19:00hBirth place:ParisCountry:FR, FranceAge:† 51 years",r_painters
+André_Marius_Marchand,"Gender:MaleDate of Birth:10 February  1907 - 06:45hBirth place:Aix-en-ProvenceCountry:FR, FranceAge:† 90 years",r_painters
+René_Margotton,"Gender:MaleDate of Birth:18 November  1915 - 15:00hBirth place:RoanneCountry:FR, FranceAge:† 94 years",r_painters
+Jacob_Maris,"Gender:MaleDate of Birth:25 August  1837 - 02:00hBirth place:The HagueCountry:NL, NetherlandsAge:† 61 years",r_painters
+Matthijs_Maris,"Gender:MaleDate of Birth:17 August  1839 - 22:00hBirth place:The HagueCountry:NL, NetherlandsAge:† 78 years",r_painters
+Willem_Maris,"Gender:MaleDate of Birth:18 February  1844 - 12:00hBirth place:The HagueCountry:NL, NetherlandsAge:† 66 years",r_painters
+Henri_Martin,"Gender:MaleDate of Birth:5 August  1860 - 09:00hBirth place:ToulouseCountry:FR, France",r_painters
+Alberto_Martini,"Gender:MaleDate of Birth:24 November  1876 - 13:00hBirth place:OderzoCountry:IT, Italy",r_painters
+Andre_Masson,"Gender:MaleDate of Birth:4 January  1896 - 02:00hBirth place:Balagny-sur-ThérainCountry:FR, FranceAge:† 91 years",r_painters
+Ewald_Matare,"Gender:MaleDate of Birth:25 February  1887 - 03:30hBirth place:AachenCountry:DE, Germany",r_painters
+Anton_Mauve,"Gender:MaleDate of Birth:18 September  1838 - 03:30hBirth place:ZaandamCountry:NL, NetherlandsAge:† 49 years",r_painters
+Jean-Louis_Meissonier,"Gender:MaleDate of Birth:21 February  1815 - 05:00hBirth place:LyonCountry:FR, FranceAge:† 75 years",r_painters
+Jean_Metzinger,"Gender:MaleDate of Birth:24 June  1883 - 00:30hBirth place:NantesCountry:FR, FranceAge:† 73 years",r_painters
+Constantin_Emile_Meunier,"Gender:MaleDate of Birth:12 April  1831 - 10:00hBirth place:EtterbeekCountry:BE, BelgiumAge:† 73 years",r_painters
+Achille_Michallon,"Gender:MaleDate of Birth:22 October  1796 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 25 years",r_painters
+Henri_Michaux,"Gender:MaleDate of Birth:24 May  1899 - 14:15hBirth place:NamurCountry:BE, BelgiumAge:† 85 years",r_painters
+Joan_Miro,"Gender:MaleDate of Birth:20 April  1893 - 11:30hBirth place:BarcelonaCountry:ES, SpainAge:† 90 years",r_painters
+Paula_Modersohn-Becker,"Gender:FemaleDate of Birth:8 February  1876 - 10:45hBirth place:DresdenCountry:DE, Germany",r_painters
+Amedeo_Modigliani,"Gender:MaleDate of Birth:12 July  1884 - 09:00hBirth place:LivornoCountry:IT, ItalyAge:† 35 years",r_painters
+Piet_Mondrian,"Gender:MaleDate of Birth:7 March  1872 - 06:00hBirth place:AmersfoortCountry:NL, NetherlandsAge:† 71 years",r_painters
+Adolphe_Monticelli,"Gender:MaleDate of Birth:14 October  1824 - 14:00hBirth place:MarseilleCountry:FR, FranceAge:† 61 years",r_painters
+Giorgio_Morandi,"Gender:MaleDate of Birth:20 July  1890 - 15:30hBirth place:BolognaCountry:IT, ItalyAge:† 73 years",r_painters
+Gustave_Moreau,"Gender:MaleDate of Birth:6 April  1826 - 09:00hBirth place:ParisCountry:FR, FranceAge:† 72 years",r_painters
+Berthe_Morisot,"Gender:FemaleDate of Birth:14 January  1841 - 15:00hBirth place:BourgesCountry:FR, FranceAge:† 54 years",r_painters
+William_Morris,"Gender:MaleDate of Birth:24 March  1834 - 01:00hBirth place:Walthamstow, EnglandCountry:GB, United KingdomAge:† 62 years",r_painters
+Robert_Motherwell,"Gender:MaleDate of Birth:24 January  1915 - 22:45hBirth place:Aberdeen, WashingtonCountry:US, United StatesAge:† 76 years",r_painters
+Romano_Mussolini,"Gender:MaleDate of Birth:26 September  1927 - 23:05hBirth place:ForliCountry:IT, ItalyAge:† 78 years",r_painters
+Charles_Nègre,"Gender:MaleDate of Birth:9 May  1820 - 21:00hBirth place:GrasseCountry:FR, France",r_painters
+Albert_Neuhuys,"Gender:MaleDate of Birth:10 June  1844 - 21:30hBirth place:UtrechtCountry:NL, NetherlandsAge:† 69 years",r_painters
+Emil_Nolde,"Gender:MaleDate of Birth:7 August  1867 - 07:09hBirth place:TonderCountry:DK, DenmarkAge:† 88 years",r_painters
+Georgia_O'Keeffe,"Gender:FemaleDate of Birth:15 November  1887 - 06:30hBirth place:Sand Prairie, WisconsinCountry:US, United StatesAge:† 98 years",r_painters
+Maxfield_Parrish,"Gender:MaleDate of Birth:25 July  1870 - 18:00hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 95 years",r_painters
+Max_Pechstein,"Gender:MaleDate of Birth:31 December  1881 - 15:15hBirth place:ZwickauCountry:DE, GermanyAge:† 73 years",r_painters
+Giuseppe_Pellizza_da_Volpedo,"Gender:MaleDate of Birth:28 July  1868 - 23:00hBirth place:VolpedoCountry:IT, ItalyAge:† 38 years",r_painters
+Kurt_Pilz,"Gender:MaleDate of Birth:8 March  1955 - 09:25hBirth place:AachenCountry:DE, GermanyAge:† 49 years",r_painters
+Lucien_Pissarro,"Gender:MaleDate of Birth:20 February  1863 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 81 years",r_painters
+Lari_Pittman,"Gender:MaleDate of Birth:19 February  1952 - 11:17hBirth place:Glendale, CaliforniaCountry:US, United StatesAge:68 years",r_painters
+Jean-Francois_Portaels,"Gender:MaleDate of Birth:30 April  1818 - 01:00hBirth place:VilvoordeCountry:BE, Belgium",r_painters
+Matthew_Pratt,"Gender:MaleDate of Birth:4 October  1734 - 08:00h(gregor.)Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 70 years",r_painters
+Hans_Purrmann,"Gender:MaleDate of Birth:10 April  1880 - 14:00hBirth place:SpeyerCountry:DE, GermanyAge:† 86 years",r_painters
+Louis_Raemaekers,"Gender:MaleDate of Birth:6 April  1869 - 06:00hBirth place:The HagueCountry:NL, NetherlandsAge:† 87 years",r_painters
+Paul_Ranson,"Gender:MaleDate of Birth:29 March  1861 - 13:00hBirth place:LimogesCountry:FR, FranceAge:† 47 years",r_painters
+Martial_Raysse,"Gender:MaleDate of Birth:12 February  1936 - 17:00hBirth place:VallaurisCountry:FR, FranceAge:84 years",r_painters
+Paul_Rebeyrolle,"Gender:MaleDate of Birth:3 November  1926 - 16:00hBirth place:EymoutiersCountry:FR, FranceAge:† 78 years",r_painters
+Odilon_Redon,"Gender:MaleDate of Birth:20 April  1840 - 10:00hBirth place:BordeauxCountry:FR, FranceAge:† 76 years",r_painters
+Joshua_Reynolds,"Gender:MaleDate of Birth:27 July  1723 - 09:30hBirth place:Plymouth, EnglandCountry:GB, United KingdomAge:† 68 years",r_painters
+Gerhard_Richter,"Gender:MaleDate of Birth:9 February  1932 - 07:30hBirth place:Waltersdorf (Sachsen)Country:DE, GermanyAge:88 years",r_painters
+Ludwig_Richter,"Gender:MaleDate of Birth:28 September  1803 - 12:30hBirth place:DresdenCountry:DE, GermanyAge:† 80 years",r_painters
+Leopold_Robert,"Gender:MaleDate of Birth:13 May  1794 - 16:00hBirth place:La Chaux-de-FondsCountry:CH, SwitzerlandAge:† 40 years",r_painters
+Alfred_Roll,"Gender:MaleDate of Birth:1 March  1846 - 00:30hBirth place:ParisCountry:FR, France",r_painters
+Félicien_Rops,"Gender:MaleDate of Birth:7 July  1833 - 08:30hBirth place:NamurCountry:BE, BelgiumAge:† 65 years",r_painters
+Georges_Rouault,"Gender:MaleDate of Birth:27 May  1871 - 05:00hBirth place:ParisCountry:FR, FranceAge:† 86 years",r_painters
+Henri_Rousseau,"Gender:MaleDate of Birth:21 May  1844 - 01:00hBirth place:LavalCountry:FR, FranceAge:† 66 years",r_painters
+Théodore_Rousseau,"Gender:MaleDate of Birth:15 April  1812 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 55 years",r_painters
+Ker-Xavier_Roussel,"Gender:MaleDate of Birth:10 December  1867 - 20:00hBirth place:Lorry-lès-MetzCountry:FR, FranceAge:† 76 years",r_painters
+Pierre_Roy,"Gender:MaleDate of Birth:10 August  1880 - 19:00hBirth place:NantesCountry:FR, FranceAge:† 70 years",r_painters
+Philipp_Otto_Runge,"Gender:MaleDate of Birth:23 July  1777 - 06:00hBirth place:WolgastCountry:DE, GermanyAge:† 33 years",r_painters
+Luigi_Russolo,"Gender:MaleDate of Birth:30 April  1885 - 23:00hBirth place:PortogruaroCountry:IT, ItalyAge:† 61 years",r_painters
+Jaime_Sabartes,"Gender:MaleDate of Birth:10 June  1881 - 05:00hBirth place:BarcelonaCountry:ES, Spain",r_painters
+Giuseppe_Santomaso,"Gender:MaleDate of Birth:26 September  1907 - 19:00hBirth place:VeniceCountry:IT, ItalyAge:† 82 years",r_painters
+Klaudia_Schifferle,"Gender:FemaleDate of Birth:22 September  1955 - 15:16hBirth place:ZürichCountry:CH, SwitzerlandAge:64 years",r_painters
+Giovannni_Segantini,"Gender:MaleDate of Birth:15 January  1858 - 08:00hBirth place:ArcoCountry:IT, ItalyAge:† 41 years",r_painters
+Michel_Seuphor,"Gender:MaleDate of Birth:10 March  1901 - 08:00hBirth place:AntwerpCountry:BE, BelgiumAge:† 97 years",r_painters
+Gino_Severini,"Gender:MaleDate of Birth:7 April  1883 - 06:30hBirth place:CortonaCountry:IT, ItalyAge:† 82 years",r_painters
+Max_Slevogt,"Gender:MaleDate of Birth:8 October  1868 - 07:00hBirth place:LandshutCountry:DE, GermanyAge:† 63 years",r_painters
+Jan_Slujters,"Gender:MaleDate of Birth:17 December  1881 - 01:00hBirth place:'s-HertogenboschCountry:NL, NetherlandsAge:† 75 years",r_painters
+Ardengo_Soffici,"Gender:MaleDate of Birth:7 April  1879 - 21:30hBirth place:Rignano sull'ArnoCountry:IT, ItalyAge:† 85 years",r_painters
+Xul_Solar,"Gender:MaleDate of Birth:14 December  1887 - 11:20hBirth place:San Fernando, Buenos AiresCountry:AR, ArgentinaAge:† 75 years",r_painters
+Pierre_Soulages,"Gender:MaleDate of Birth:24 December  1919 - 13:00hBirth place:RodezCountry:FR, France",r_painters
+Carl_Spitzweg,"Gender:MaleDate of Birth:5 February  1808 - 04:30hBirth place:MunichCountry:DE, GermanyAge:† 77 years",r_painters
+Eric_Stanton,"Gender:MaleDate of Birth:29 September  1926 - 23:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 72 years",r_painters
+David_Hunter_Strother,"Gender:MaleDate of Birth:26 September  1816 - 10:00hBirth place:Martinsburg, West VirginiaCountry:US, United StatesAge:† 71 years",r_painters
+Peter_Struycken,"Gender:MaleDate of Birth:5 January  1939 - 17:40hBirth place:The HagueCountry:NL, NetherlandsAge:81 years",r_painters
+Paul_Sérusier,"Gender:MaleDate of Birth:9 November  1864 - 02:00hBirth place:ParisCountry:FR, FranceAge:† 62 years",r_painters
+Tadema-Alma_Lawrence,"Gender:MaleDate of Birth:8 January  1836 - 12:00hBirth place:DronrijpCountry:NL, NetherlandsAge:† 76 years",r_painters
+Pierre_Tal_Coat,"Gender:MaleDate of Birth:12 December  1905 - 17:30hBirth place:Clohars-CarnoëtCountry:FR, FranceAge:† 79 years",r_painters
+Yves_Tanguy,"Gender:MaleDate of Birth:5 January  1900 - 17:30hBirth place:ParisCountry:FR, FranceAge:† 55 years",r_painters
+Antoni_Tapies,"Gender:MaleDate of Birth:13 December  1923 - 05:00hBirth place:BarcelonaCountry:ES, SpainAge:† 88 years",r_painters
+Hans_Thoma,"Gender:MaleDate of Birth:2 October  1839 - 23:30hBirth place:Bernau im SchwarzwaldCountry:DE, GermanyAge:† 85 years",r_painters
+Pierre-Yves_Trémois,"Gender:MaleDate of Birth:8 January  1921 - 08:35hBirth place:ParisCountry:FR, France",r_painters
+Yigal_Tumarkin,"Gender:MaleDate of Birth:23 October  1933 - 19:00hBirth place:DresdenCountry:DE, GermanyAge:86 years",r_painters
+Maurice_Utrillo,"Gender:MaleDate of Birth:26 December  1883 - 13:00hBirth place:ParisCountry:FR, FranceAge:† 71 years",r_painters
+Félix_Vallotton,"Gender:MaleDate of Birth:28 December  1865 - 08:00hBirth place:LausanneCountry:CH, SwitzerlandAge:† 60 years",r_painters
+Louis_Valtat,"Gender:MaleDate of Birth:8 August  1869 - 06:30hBirth place:DieppeCountry:FR, FranceAge:† 82 years",r_painters
+Remedios_Varo_Uranga,"Gender:FemaleDate of Birth:16 December  1908 - 22:45hBirth place:AnglèsCountry:ES, SpainAge:† 54 years",r_painters
+Emilio_Vedova,"Gender:MaleDate of Birth:9 August  1919 - 07:00hBirth place:VeniceCountry:IT, ItalyAge:† 87 years",r_painters
+Jan_Verdoodt,"Gender:MaleDate of Birth:10 May  1908 - 03:00hBirth place:JetteCountry:BE, BelgiumAge:† 71 years",r_painters
+Egon_von_Vietinghoff,"Gender:MaleDate of Birth:6 February  1903 - 23:40hBirth place:The HagueCountry:NL, NetherlandsAge:† 91 years",r_painters
+Maurice_Vlaminck,"Gender:MaleDate of Birth:4 April  1876 - 16:00hBirth place:ParisCountry:FR, FranceAge:† 82 years",r_painters
+Wilhelm_von_Kaulbach,"Gender:MaleDate of Birth:15 October  1804 - 01:30hBirth place:ArolsenCountry:DE, GermanyAge:† 69 years",r_painters
+Franz_von_Lenbach,"Gender:MaleDate of Birth:13 December  1836 - 07:30hBirth place:SchrobenhausenCountry:DE, GermanyAge:† 67 years",r_painters
+Hans_von_Marées,"Gender:MaleDate of Birth:24 December  1837 - 06:30hBirth place:WuppertalCountry:DE, GermanyAge:† 49 years",r_painters
+Franz_von_Stuck,"Gender:MaleDate of Birth:23 February  1863 - 04:00hBirth place:TettenweisCountry:DE, GermanyAge:† 65 years",r_painters
+Frederick_Walker,"Gender:MaleDate of Birth:26 May  1840 - 17:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 35 years",r_painters
+Denton_Welch,"Gender:MaleDate of Birth:29 March  1915 - 18:00hBirth place:ShanghaiCountry:CN, ChinaAge:† 33 years",r_painters
+Tom_Wesselmann,"Gender:MaleDate of Birth:23 February  1931 - 08:00hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 73 years",r_painters
+James_McNeill_Whistler,"Gender:MaleDate of Birth:10 July  1834 - 23:45hBirth place:Lowell, MassachusettsCountry:US, United StatesAge:† 69 years",r_painters
+Walter_Wiemken,"Gender:MaleDate of Birth:14 September  1907 - 10:30hBirth place:BaselCountry:CH, SwitzerlandAge:† 33 years",r_painters
+Antoine_Wiertz,"Gender:MaleDate of Birth:22 February  1806 - 21:00hBirth place:DinantCountry:BE, BelgiumAge:† 59 years",r_painters
+David_Wilkie,"Gender:MaleDate of Birth:18 November  1785 - 17:00hBirth place:Cults, ScotlandCountry:GB, United KingdomAge:† 55 years",r_painters
+Carel_Willink,"Gender:MaleDate of Birth:7 March  1900 - 06:00hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 83 years",r_painters
+Dalhart_Windberg,"Gender:MaleDate of Birth:26 March  1933 - 01:00hBirth place:Beeville, TexasCountry:US, United StatesAge:87 years",r_painters
+Fritz_Winter,"Gender:MaleDate of Birth:22 September  1905 - 00:01hBirth place:AltenburgCountry:DE, GermanyAge:† 71 years",r_painters
+Georges_Wolinski,"Gender:MaleDate of Birth:29 June  1934 - 17:00hBirth place:TunisCountry:TN, TunisiaAge:† 80 years",r_painters
+Jan_Wolkers,"Gender:MaleDate of Birth:26 October  1925 - 07:45hBirth place:OegstgeestCountry:NL, NetherlandsAge:† 81 years",r_painters
+Rik_Wouters,"Gender:MaleDate of Birth:21 August  1882 - 11:00hBirth place:MechelenCountry:BE, BelgiumAge:† 33 years",r_painters
+Andrew_Wyeth,"Gender:MaleDate of Birth:12 July  1917 - 01:35hBirth place:Chadds Ford, PennsylvaniaCountry:US, United StatesAge:† 91 years",r_painters
+Carolyn_Wyeth,"Gender:FemaleDate of Birth:26 October  1909 - 16:00hBirth place:Chadds Ford, PennsylvaniaCountry:US, United StatesAge:† 84 years",r_painters
+Jamie_Wyeth,"Gender:MaleDate of Birth:6 July  1946 - 21:42hBirth place:Wilmington, DelawareCountry:US, United StatesAge:73 years",r_painters
+Wendy_Yoshimura,"Gender:FemaleDate of Birth:17 January  1943 - 03:30hBirth place:Manzanar, CaliforniaCountry:US, United StatesAge:77 years",r_painters
+Ignacio_Zuloaga,"Gender:MaleDate of Birth:26 July  1870 - 06:00hBirth place:ÉibarCountry:ES, SpainAge:† 75 years",r_painters
+Branwell_Brontë,"Gender:MaleDate of Birth:26 June  1817 - 03:00hBirth place:Thornton, EnglandCountry:GB, United KingdomAge:† 31 years",r_painters
+Tomm_Moore,"Gender:MaleDate of Birth:7 January  1977Birth place:Newry, Northern IrelandCountry:GB, United KingdomAge:43 years",r_painters
+Nora_Twomey,"Gender:FemaleDate of Birth:31 October  1971Birth place:CorkCountry:IE, IrelandAge:48 years",r_painters
+František_Drtikol,"Gender:MaleDate of Birth:3 March  1883 - 03:45hBirth place:PříbramCountry:CZ, Czech RepublicAge:† 77 years",r_painters
+Piero_di_Cosimo,"Gender:MaleDate of Birth:11 January  1462 - 09:00h(gregor.)Birth place:FlorenceCountry:IT, ItalyAge:† 60 years",r_painters
+Josef_Hlinomaz,"Gender:MaleDate of Birth:9 October  1914Birth place:PragueCountry:CZ, Czech RepublicAge:† 63 years",r_painters
+Jiří_Holý,"Gender:MaleDate of Birth:27 November  1922Birth place:RužomberokCountry:SK, SlovakiaAge:† 86 years",r_painters
+Beata_Poźniak_Daniels,"Gender:FemaleDate of Birth:30 April  1960Birth place:GdańskCountry:PL, PolandAge:59 years",r_painters
+Michael_Lonsdale,"Gender:MaleDate of Birth:24 May  1931 - 11:30hBirth place:ParisCountry:FR, FranceAge:88 years",r_painters
+Zdeněk_Seydl,"Gender:MaleDate of Birth:29 April  1916Birth place:TřeboňCountry:CZ, Czech RepublicAge:† 62 years",r_painters
+Vladimír_Jiránek,"Gender:MaleDate of Birth:6 June  1938Birth place:Hradec KrálovéCountry:CZ, Czech RepublicAge:† 74 years",r_painters
+Oskar_Fischinger,"Gender:MaleDate of Birth:22 June  1900Birth place:GelnhausenCountry:DE, GermanyAge:† 66 years",r_painters
+László_Moholy-Nagy,"Gender:MaleDate of Birth:20 July  1895Birth place:BácsborsódCountry:HU, HungaryAge:† 51 years",r_painters
+MF_Husain,"Gender:MaleDate of Birth:17 September  1915Birth place:PandharpurCountry:IN, IndiaAge:† 95 years",r_painters
+Mirko_Eliáš,"Gender:MaleDate of Birth:13 August  1899Birth place:ChoceňCountry:CZ, Czech RepublicAge:† 38 years",r_painters
+Jens_Jørgen_Thorsen,"Gender:MaleDate of Birth:2 February  1932 - 22:05hBirth place:HolstebroCountry:DK, DenmarkAge:† 68 years",r_painters
+Paul_Stanley,"Gender:MaleDate of Birth:20 January  1952Birth place:New York, New YorkCountry:US, United StatesAge:68 years",r_painters
+Theodor_Pištěk_Jr.,"Gender:MaleBirth:*1932Country:CZ, Czech RepublicAge:87 years",r_painters
+Jiří_Jelínek,"Gender:MaleDate of Birth:6 July  1922Birth place:ŽluticeCountry:CZ, Czech RepublicAge:† 62 years",r_painters
+Miloslav_Jágr,"Gender:MaleDate of Birth:8 June  1927Birth place:SemilyCountry:CZ, Czech RepublicAge:† 70 years",r_painters
+Josef_Lada,"Gender:MaleDate of Birth:17 December  1887Birth place:HrusiceCountry:CZ, Czech RepublicAge:† 69 years",r_painters
+Adolf_Born,"Gender:MaleDate of Birth:12 June  1930Birth place:České BudějoviceCountry:CZ, Czech RepublicAge:† 85 years",r_painters
+Bob_Ross,"Gender:MaleDate of Birth:29 October  1942Birth place:Daytona Beach, FloridaCountry:US, United StatesAge:† 52 years",r_painters
+Laco_Déczi,"Gender:MaleBirth:*1938Country:SK, SlovakiaAge:82 years",r_painters
+Antonio_Cupo,"Gender:MaleDate of Birth:10 January  1978Birth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:42 years",r_painters
+Francis_Picabia,"Gender:MaleDate of Birth:22 January  1879 - 11:00hBirth place:ParisCountry:FR, FranceAge:† 74 years",r_painters
+Vlastimil_Třešňák,"Gender:MaleBirth:*1950Country:CZ, Czech RepublicAge:69 years",r_painters
+Marine_Delterme,"Gender:FemaleDate of Birth:18 March  1968 - 20:45hBirth place:ParisCountry:FR, FranceAge:52 years",r_painters
+Alexandra_Tydings,"Gender:FemaleDate of Birth:15 December  1972Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:47 years",r_painters
+Kool_Shen,"Gender:MaleDate of Birth:9 February  1966 - 09:17hBirth place:ParisCountry:FR, FranceAge:54 years",r_painters
+Jana_Kepková,"Gender:FemaleBirth:*2001Country:CZ, Czech RepublicAge:18 years",r_painters
+Jaroslav_Róna,"Gender:MaleBirth:*1957Country:CZ, Czech RepublicAge:62 years",r_painters
+Reon_Argondian,"Gender:MaleBirth:*1948Country:CZ, Czech RepublicAge:71 years",r_painters
+Ali_Zafar,"Gender:MaleDate of Birth:18 May  1980Birth place:LahoreCountry:PK, PakistanAge:39 years",r_painters
+Kája_Saudek,"Gender:MaleDate of Birth:13 May  1935Birth place:PragueCountry:CZ, Czech RepublicAge:† 80 years",r_painters
+Marie-Hélène_Breillat,"Gender:FemaleDate of Birth:2 June  1947 - 22:30hBirth place:TalenceCountry:FR, FranceAge:72 years",r_painters
+Petr_Poš,"Gender:MaleDate of Birth:2 January  1944Birth place:PragueCountry:CZ, Czech RepublicAge:† 71 years",r_painters
+Zdeněk_Burian,"Gender:MaleDate of Birth:11 February  1905Birth place:KopřivniceCountry:CZ, Czech RepublicAge:† 76 years",r_painters
+Ron_Wood,"Gender:MaleDate of Birth:1 June  1947Birth place:Hillingdon, LondonCountry:GB, United KingdomAge:72 years",r_painters
+H._A._Rey,"Gender:MaleDate of Birth:16 September  1898Birth place:HamburgCountry:DE, GermanyAge:† 78 years",r_painters
+Josef_Čapek,"Gender:MaleDate of Birth:23 March  1887Birth place:HronovCountry:CZ, Czech RepublicAge:† 58 years",r_painters
+Markku_Annila,"Gender:MaleDate of Birth:26 September  1935Country:FI, FinlandAge:84 years",r_painters
+Agnès_Capri,"Gender:FemaleDate of Birth:15 April  1907 - 13:00hBirth place:L'ArbresleCountry:FR, FranceAge:† 69 years",r_painters
+Joy_Adamson,"Gender:FemaleDate of Birth:20 January  1910Birth place:OpavaCountry:CZ, Czech RepublicAge:† 69 years",r_painters
+Bill_Peet,"Gender:MaleDate of Birth:29 January  1915Birth place:Grandview, IndianaCountry:US, United StatesAge:† 87 years",r_painters
+Slavko_Janevski,"Gender:MaleDate of Birth:11 January  1920Birth place:SkopjeCountry:MK, Macedonia",r_painters
+Józef_Zbiróg,"Gender:MaleDate of Birth:18 March  1930Birth place:BędzinCountry:PL, PolandAge:† 79 years",r_painters
+Shel_Silverstein,"Gender:MaleDate of Birth:25 September  1930Birth place:Chicago, IllinoisCountry:US, United StatesAge:† 68 years",r_painters
+Michael_Horse,"Gender:MaleDate of Birth:21 December  1951Birth place:Tucson, ArizonaCountry:US, United StatesAge:68 years",r_painters
+Billy_Childish,"Gender:MaleDate of Birth:1 December  1959 - 08:25hBirth place:Chatham, EnglandCountry:GB, United KingdomAge:60 years",r_painters
+Masashi_Kishimoto,"Gender:MaleDate of Birth:8 November  1974Birth place:Nagi, OkayamaCountry:JP, JapanAge:45 years",r_painters
+Lenka_Burianová,"Gender:FemaleBirth:*1984Country:CZ, Czech RepublicAge:36 years",r_painters
+Agnes_Anne_Abbot,"Gender:FemaleDate of Birth:19 August  1897 - 18:30hBirth place:PotsdamCountry:DE, GermanyAge:† 94 years",r_painters
+René_Charles_Acht,"Gender:MaleDate of Birth:24 March  1920 - 14:15hBirth place:BaselCountry:CH, Switzerland",r_painters
+Vincent_Aderente,"Gender:MaleDate of Birth:20 February  1880 - 03:00hBirth place:NaplesCountry:IT, ItalyAge:† 61 years",r_painters
+Afro,"Gender:MaleDate of Birth:4 March  1912 - 04:30hBirth place:UdineCountry:IT, ItalyAge:† 64 years",r_painters
+Jean-Pierre_Alaux,"Gender:MaleDate of Birth:14 November  1925 - 14:30hBirth place:La CiotatCountry:FR, France",r_painters
+Josef_Albers,"Gender:MaleDate of Birth:19 March  1888 - 09:00hBirth place:BottropCountry:DE, GermanyAge:† 88 years",r_painters
+Henri_Allouard,"Gender:MaleDate of Birth:11 July  1844 - 15:00hBirth place:ParisCountry:FR, FranceAge:† 84 years",r_painters
+Heinrich_Altherr,"Gender:MaleDate of Birth:11 April  1878 - 11:45hBirth place:BaselCountry:CH, SwitzerlandAge:† 69 years",r_painters
+Alton,"Gender:MaleDate of Birth:30 September  1942 - 22:30hBirth place:TrevisoCountry:IT, ItalyAge:77 years",r_painters
+Paul_Ambille,"Gender:MaleDate of Birth:23 December  1930 - 18:00hBirth place:BéziersCountry:FR, FranceAge:† 79 years",r_painters
+Pietro_Annigoni,"Gender:MaleDate of Birth:7 June  1910 - 01:30hBirth place:MilanCountry:IT, ItalyAge:† 78 years",r_painters
+Karel_Christian_Appel,"Gender:MaleDate of Birth:25 April  1921 - 16:00hBirth place:AmsterdamCountry:NL, Netherlands",r_painters
+Georges_Arditi,"Gender:MaleDate of Birth:14 December  1914 - 07:00hBirth place:MarseilleCountry:FR, FranceAge:† 97 years",r_painters
+Lydie_Arickx,"Gender:FemaleDate of Birth:10 January  1954 - 10:35hBirth place:VillecresnesCountry:FR, FranceAge:66 years",r_painters
+Lucien_Frederic_Arrieu,"Gender:MaleDate of Birth:27 April  1913 - 04:00hBirth place:MarseilleCountry:FR, France",r_painters
+Aslan,"Gender:MaleDate of Birth:23 May  1930 - 08:00hBirth place:BordeauxCountry:FR, FranceAge:† 83 years",r_painters
+Geneviève_Asse,"Gender:FemaleDate of Birth:24 January  1923 - 20:10hBirth place:VannesCountry:FR, France",r_painters
+Jean_Aujame,"Gender:MaleDate of Birth:12 May  1905 - 07:30hBirth place:AubussonCountry:FR, FranceAge:† 60 years",r_painters
+Tony_Auth,"Gender:MaleDate of Birth:7 May  1942 - 15:17hBirth place:Akron, OhioCountry:US, United StatesAge:77 years",r_painters
+Eugène_Baboulène,"Gender:MaleDate of Birth:18 August  1905 - 10:00hBirth place:ToulonCountry:FR, FranceAge:† 88 years",r_painters
+François_Baboulet,"Gender:MaleDate of Birth:12 April  1914 - 01:00hBirth place:ToulouseCountry:FR, FranceAge:† 96 years",r_painters
+Domenico_Baccarini,"Gender:MaleDate of Birth:16 December  1882 - 01:30hBirth place:FaenzaCountry:IT, Italy",r_painters
+Bele_Bachem,"Gender:FemaleDate of Birth:17 May  1916 - 04:00hBirth place:DüsseldorfCountry:DE, Germany",r_painters
+Alain_Bailhache,"Gender:MaleDate of Birth:27 November  1937 - 12:00hBirth place:GuéretCountry:FR, FranceAge:82 years",r_painters
+Marie_Baranger,"Gender:FemaleDate of Birth:26 February  1902 - 14:30hBirth place:AngoulêmeCountry:FR, FranceAge:† 101 years",r_painters
+Maurice_Barraud,"Gender:MaleDate of Birth:20 February  1889 - 01:00hBirth place:GenevaCountry:CH, SwitzerlandAge:† 65 years",r_painters
+Thomas_Batiuk,"Gender:MaleDate of Birth:14 March  1947 - 15:56hBirth place:Akron, OhioCountry:US, United StatesAge:73 years",r_painters
+Mark_Wilfrid_Batten,"Gender:MaleDate of Birth:21 July  1905 - 00:15hBirth place:Kirkcaldy, ScotlandCountry:GB, United KingdomAge:† 87 years",r_painters
+Willi_Baumeister,"Gender:MaleDate of Birth:22 January  1889 - 09:00hBirth place:StuttgartCountry:DE, GermanyAge:† 66 years",r_painters
+André_Beaudin,"Gender:MaleDate of Birth:3 February  1895 - 12:00hBirth place:MennecyCountry:FR, FranceAge:† 84 years",r_painters
+Robert_Bechtle,"Gender:MaleDate of Birth:14 May  1932 - 06:37hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:87 years",r_painters
+C._C._Beck,"Gender:MaleDate of Birth:8 June  1910 - 02:00hBirth place:Zumbrota, MinnesotaCountry:US, United StatesAge:† 79 years",r_painters
+Max_Beckmann,"Gender:MaleDate of Birth:12 February  1884Birth place:LeipzigCountry:DE, GermanyAge:† 66 years",r_painters
+Camille-Félix_Bellanger,"Gender:MaleDate of Birth:13 January  1853 - 14:00hBirth place:ParisCountry:FR, FranceAge:† 69 years",r_painters
+Michel_Bellion,"Gender:MaleDate of Birth:15 June  1946 - 08:00hBirth place:BrestCountry:FR, FranceAge:73 years",r_painters
+André_Beloni,"Gender:MaleDate of Birth:7 October  1905 - 20:30hBirth place:ChâteaubriantCountry:FR, France",r_painters
+Narcisse_Berchère,"Gender:MaleDate of Birth:11 September  1819 - 02:00hBirth place:ÉtampesCountry:FR, FranceAge:† 72 years",r_painters
+Marc_P._G._Berthier,"Gender:MaleDate of Birth:30 April  1944 - 02:35hBirth place:Saint-MaloCountry:FR, FranceAge:75 years",r_painters
+Jean_Bertholle,"Gender:MaleDate of Birth:26 June  1909 - 22:00hBirth place:DijonCountry:FR, FranceAge:† 87 years",r_painters
+Michel_Bez,"Gender:MaleDate of Birth:15 March  1951 - 04:45hBirth place:ToulouseCountry:FR, FranceAge:69 years",r_painters
+Raymond_Biaussat,"Gender:MaleDate of Birth:21 January  1932 - 09:00hBirth place:VergtCountry:FR, FranceAge:88 years",r_painters
+Vincent_Bioulès,"Gender:MaleDate of Birth:5 March  1938 - 12:00hBirth place:MontpellierCountry:FR, FranceAge:82 years",r_painters
+Renato_Birolli,"Gender:MaleDate of Birth:10 December  1905 - 01:20hBirth place:VeronaCountry:IT, ItalyAge:† 53 years",r_painters
+Emil_Bisstram,"Gender:MaleDate of Birth:7 April  1895 - 13:00hBirth place:HungaryCountry:HU, HungaryAge:† 80 years",r_painters
+André_Bizette-Lindet,"Gender:MaleDate of Birth:28 February  1906 - 05:00hBirth place:SavenayCountry:FR, FranceAge:† 92 years",r_painters
+Gilles_Blanchard,"Gender:MaleDate of Birth:9 December  1953 - 14:15hBirth place:Sainte-AdresseCountry:FR, FranceAge:66 years",r_painters
+Fritz_Boehle,"Gender:MaleDate of Birth:7 February  1823 - 06:00hBirth place:EmmendingenCountry:DE, Germany",r_painters
+Camille_Bombois,"Gender:MaleDate of Birth:3 February  1883 - 14:00hBirth place:Venarey-les-LaumesCountry:FR, FranceAge:† 87 years",r_painters
+Muirhead_Bone,"Gender:MaleDate of Birth:23 March  1876 - 02:00hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 77 years",r_painters
+Giovanni_Bonelli,"Gender:MaleDate of Birth:22 December  1908 - 10:55hBirth place:MilanCountry:IT, ItalyAge:† 92 years",r_painters
+Yves_Bonnat,"Gender:MaleDate of Birth:20 February  1912 - 09:00hBirth place:VoironCountry:FR, France",r_painters
+Johannes_Bosboom,"Gender:MaleDate of Birth:18 February  1817 - 16:30hBirth place:The HagueCountry:NL, NetherlandsAge:† 74 years",r_painters
+Lya_Bosi,"Gender:FemaleDate of Birth:20 May  1926 - 11:00hBirth place:RomeCountry:IT, ItalyAge:93 years",r_painters
+Thierry_Bosquet,"Gender:MaleDate of Birth:2 May  1937 - 01:00hBirth place:UccleCountry:BE, BelgiumAge:82 years",r_painters
+Gustave_Boulanger,"Gender:MaleDate of Birth:25 April  1824 - 05:00hBirth place:ParisCountry:FR, FranceAge:† 63 years",r_painters
+James_Boyd,"Gender:MaleDate of Birth:10 August  1917 - 17:55hBirth place:Glasgow, ScotlandCountry:GB, United Kingdom",r_painters
+Claude_Bragdon,"Gender:MaleDate of Birth:1 August  1866 - 04:39hBirth place:Oberlin, OhioCountry:US, United StatesAge:† 80 years",r_painters
+André_Brasilier,"Gender:MaleDate of Birth:29 October  1929 - 11:00hBirth place:SaumurCountry:FR, FranceAge:90 years",r_painters
+Maurice_Brianchon,"Gender:MaleDate of Birth:11 January  1899 - 17:00hBirth place:Fresnay-sur-SartheCountry:FR, FranceAge:† 79 years",r_painters
+Ford_Madox_Brown,"Gender:MaleDate of Birth:16 April  1821 - 16:00hBirth place:CalaisCountry:FR, FranceAge:† 72 years",r_painters
+Gil_Brown,"Gender:MaleDate of Birth:5 January  1941 - 05:40hBirth place:Seminole, OklahomaCountry:US, United StatesAge:79 years",r_painters
+Gordon_Bryce,"Gender:MaleDate of Birth:30 June  1943 - 10:30hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:76 years",r_painters
+John_Callahan,"Gender:MaleDate of Birth:5 February  1951 - 02:45hBirth place:Portland, OregonCountry:US, United StatesAge:† 59 years",r_painters
+Jean-Marie_Calmettes,"Gender:MaleDate of Birth:14 April  1918 - 22:00hBirth place:WissousCountry:FR, FranceAge:† 88 years",r_painters
+Gordon_Cameron,"Gender:MaleDate of Birth:27 April  1916 - 15:40hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_painters
+Marguerite_Carbonell,"Gender:FemaleDate of Birth:23 January  1910 - 15:00hBirth place:MeudonCountry:FR, France",r_painters
+Bruno_Cassinari,"Gender:MaleDate of Birth:29 October  1912 - 09:30hBirth place:PiacenzaCountry:IT, ItalyAge:† 79 years",r_painters
+Pierre_Catoni,"Gender:MaleDate of Birth:26 February  1939 - 08:00hBirth place:MarseilleCountry:FR, FranceAge:81 years",r_painters
+Dorival_Caymmi,"Gender:MaleDate of Birth:30 April  1914 - 22:50hBirth place:SalvadorCountry:BR, BrazilAge:† 94 years",r_painters
+Vija_Celmins,"Gender:FemaleDate of Birth:25 October  1938 - 15:40hBirth place:RigaCountry:LV, LatviaAge:81 years",r_painters
+Jacqueline_Cerrano,"Gender:FemaleDate of Birth:30 October  1920 - 01:00hBirth place:NiceCountry:FR, France",r_painters
+Roger_Chapelain-Midy,"Gender:MaleDate of Birth:24 August  1904 - 01:00hBirth place:ParisCountry:FR, FranceAge:† 87 years",r_painters
+Ariel_Chiappone,"Gender:FemaleDate of Birth:4 November  1931 - 15:30hBirth place:Rochester, New YorkCountry:US, United StatesAge:88 years",r_painters
+Pierre_Chigot,"Gender:MaleDate of Birth:21 February  1910 - 22:00hBirth place:LimogesCountry:FR, France",r_painters
+Maurice_Chot-Plassot,"Gender:MaleDate of Birth:22 April  1929 - 16:00hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:90 years",r_painters
+Michel_Ciry,"Gender:MaleDate of Birth:31 August  1919 - 12:00hBirth place:La BauleCountry:FR, France",r_painters
+Pierre_Cizos-Natou,"Gender:MaleDate of Birth:15 October  1927 - 23:00hBirth place:BordeauxCountry:FR, FranceAge:92 years",r_painters
+John_Clem_Clarke,"Gender:MaleDate of Birth:6 June  1937 - 21:03hBirth place:Bend, OregonCountry:US, United StatesAge:82 years",r_painters
+Bernard_Clavel,"Gender:MaleDate of Birth:29 May  1923 - 11:30hBirth place:Lons-le-SaunierCountry:FR, FranceAge:† 87 years",r_painters
+Paul_Day_Clemens,"Gender:MaleDate of Birth:7 January  1958 - 17:55hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:62 years",r_painters
+John_Constable,"Gender:MaleDate of Birth:11 June  1776Birth place:East Bergholt, EnglandCountry:GB, United KingdomAge:† 60 years",r_painters
+Jacques_Courtens,"Gender:MaleDate of Birth:24 April  1926 - 14:00hBirth place:Saint-Josse-ten-NoodeCountry:BE, BelgiumAge:† 62 years",r_painters
+Lucien_Coutaud,"Gender:MaleDate of Birth:13 December  1904 - 16:00hBirth place:MeynesCountry:FR, FranceAge:† 72 years",r_painters
+Serge_Creuz,"Gender:MaleDate of Birth:4 May  1924 - 02:00hBirth place:Sint-Jans-MolenbeekCountry:BE, BelgiumAge:† 70 years",r_painters
+Percy_Leo_Crosby,"Gender:MaleDate of Birth:8 December  1891 - 04:00hBirth place:New York, New YorkCountry:US, United States",r_painters
+Doris_Cross,"Gender:FemaleDate of Birth:10 December  1906 - 12:05hBirth place:New York, New YorkCountry:US, United States",r_painters
+Rudolf_Czapek,"Gender:MaleDate of Birth:2 July  1871 - 07:15hBirth place:PragueCountry:CZ, Czech RepublicAge:† 64 years",r_painters
+George_D'Espagnat,"Gender:MaleDate of Birth:14 August  1870 - 23:00hBirth place:MelunCountry:FR, France",r_painters
+Ken_Danby,"Gender:MaleDate of Birth:6 March  1940 - 14:10hBirth place:Sault Ste. Marie, OntarioCountry:CA, CanadaAge:† 67 years",r_painters
+Olivier_Debré,"Gender:MaleDate of Birth:15 April  1920 - 00:15hBirth place:ParisCountry:FR, FranceAge:† 79 years",r_painters
+Jean_Degottex,"Gender:MaleDate of Birth:25 February  1918 - 14:00hBirth place:Sathonay-CampCountry:FR, FranceAge:† 70 years",r_painters
+Georges_Delplanque,"Gender:MaleDate of Birth:13 July  1903 - 13:00hBirth place:ChantillyCountry:FR, FranceAge:† 95 years",r_painters
+Jean_Delville,"Gender:MaleDate of Birth:19 January  1867 - 02:00hBirth place:LeuvenCountry:BE, BelgiumAge:† 86 years",r_painters
+Andre_Derain,"Gender:MaleDate of Birth:17 June  1880 - 14:00hBirth place:ChatouCountry:FR, FranceAge:† 74 years",r_painters
+George_Devlin,"Gender:MaleDate of Birth:8 September  1937 - 19:52hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:82 years",r_painters
+Jean_Deyrolle,"Gender:MaleDate of Birth:20 August  1911 - 07:00hBirth place:Nogent-sur-MarneCountry:FR, FranceAge:† 56 years",r_painters
+Andre_Dignimont,"Gender:MaleDate of Birth:22 August  1891 - 05:00hBirth place:ParisCountry:FR, France",r_painters
+Jean-Gabriel_Domergue,"Gender:MaleDate of Birth:4 March  1889 - 09:00hBirth place:BordeauxCountry:FR, FranceAge:† 73 years",r_painters
+Gustave_Droz,"Gender:MaleDate of Birth:9 June  1832 - 15:00hBirth place:ParisCountry:FR, FranceAge:† 63 years",r_painters
+Jacques_Dubois,"Gender:MaleDate of Birth:25 October  1912 - 15:30hBirth place:VersaillesCountry:FR, FranceAge:† 81 years",r_painters
+Albert_Dubout,"Gender:MaleDate of Birth:15 May  1905 - 03:30hBirth place:MarseilleCountry:FR, FranceAge:† 65 years",r_painters
+Jean-Jacques_Dufy,"Gender:MaleDate of Birth:12 March  1888 - 14:00hBirth place:Le HavreCountry:FR, FranceAge:† 76 years",r_painters
+René_Duvillier,"Gender:MaleDate of Birth:3 April  1919 - 01:00hBirth place:OyonnaxCountry:FR, FranceAge:† 83 years",r_painters
+Albert_G._Edelfelt,"Gender:MaleDate of Birth:21 July  1854 - 12:00hBirth place:HelsinkiCountry:FI, FinlandAge:† 51 years",r_painters
+Jean_Effel,"Gender:MaleDate of Birth:12 February  1908 - 13:30hBirth place:ParisCountry:FR, FranceAge:† 74 years",r_painters
+Wally_Elenbaas,"Gender:MaleDate of Birth:21 April  1912 - 16:00hBirth place:RotterdamCountry:NL, NetherlandsAge:† 96 years",r_painters
+Cris_af_Enehielm,"Gender:FemaleDate of Birth:24 March  1954 - 14:20hBirth place:HelsinkiCountry:FI, FinlandAge:66 years",r_painters
+Tim_Englert,"Gender:MaleDate of Birth:1 November  1947 - 20:36hBirth place:Burbank, CaliforniaCountry:US, United StatesAge:72 years",r_painters
+David_Alexander_English,"Gender:MaleDate of Birth:26 August  1957 - 17:26hBirth place:Chelsea, MassachusettsCountry:US, United StatesAge:62 years",r_painters
+Maurice_Estève,"Gender:MaleDate of Birth:2 May  1904 - 21:00hBirth place:CulanCountry:FR, FranceAge:† 97 years",r_painters
+Jean_Marie_Euzet,"Gender:MaleDate of Birth:26 April  1905 - 13:00hBirth place:SèteCountry:FR, France",r_painters
+André_Even,"Gender:MaleDate of Birth:16 May  1918 - 05:00hBirth place:Pont-AvenCountry:FR, France",r_painters
+Louis_Fabien,"Gender:MaleDate of Birth:18 January  1924 - 15:00hBirth place:L'Isle-Jourdain, GersCountry:FR, France",r_painters
+Gilles_Fabre,"Gender:MaleDate of Birth:7 October  1933 - 23:30hBirth place:BlâmontCountry:FR, FranceAge:86 years",r_painters
+José_Fabri-Canti,"Gender:MaleDate of Birth:29 May  1916 - 22:00hBirth place:NiceCountry:FR, FranceAge:† 79 years",r_painters
+Jacques_Faizant,"Gender:MaleDate of Birth:30 October  1918 - 04:00hBirth place:LaroquebrouCountry:FR, FranceAge:† 87 years",r_painters
+Jacques_Falcou,"Gender:MaleDate of Birth:9 May  1912 - 21:00hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:† 62 years",r_painters
+Salvatore_Fiume,"Gender:MaleDate of Birth:23 October  1915 - 21:15hBirth place:ComisoCountry:IT, ItalyAge:† 81 years",r_painters
+Yves_Floch,"Gender:MaleDate of Birth:24 May  1906 - 14:00hBirth place:PlouguerneauCountry:FR, FranceAge:† 84 years",r_painters
+André_Fougeron,"Gender:MaleDate of Birth:1 October  1913 - 18:00hBirth place:ParisCountry:FR, FranceAge:† 84 years",r_painters
+Paul_Gabriel,"Gender:MaleDate of Birth:5 July  1828 - 16:00hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 75 years",r_painters
+Albino_Galvano,"Gender:MaleDate of Birth:16 December  1907 - 06:00hBirth place:TurinCountry:IT, ItalyAge:† 83 years",r_painters
+Georges_Gaste,"Gender:MaleDate of Birth:30 August  1869 - 14:00hBirth place:ParisCountry:FR, FranceAge:† 41 years",r_painters
+Franco_Gentilini,"Gender:MaleDate of Birth:4 August  1909 - 18:30hBirth place:FaenzaCountry:IT, Italy",r_painters
+Maurice_Ghiglion-Green,"Gender:MaleDate of Birth:8 November  1913 - 06:00hBirth place:CannesCountry:FR, FranceAge:† 75 years",r_painters
+Jean_Francois_Gigoux,"Gender:MaleDate of Birth:6 January  1806 - 07:15hBirth place:BesançonCountry:FR, FranceAge:† 88 years",r_painters
+Marcel_Gili,"Gender:MaleDate of Birth:12 February  1914 - 02:00hBirth place:ThuirCountry:FR, FranceAge:† 79 years",r_painters
+Léon_Gischia,"Gender:MaleDate of Birth:8 June  1903 - 15:30hBirth place:DaxCountry:FR, France",r_painters
+William_Goodman,"Gender:MaleDate of Birth:4 October  1937 - 00:15hBirth place:London, EnglandCountry:GB, United KingdomAge:82 years",r_painters
+Marc_Gould,"Gender:MaleDate of Birth:27 August  1952 - 00:40hBirth place:New Castle, PennsylvaniaCountry:US, United StatesAge:67 years",r_painters
+Duncan_Grant,"Gender:MaleDate of Birth:21 January  1885 - 15:10hBirth place:InverdruieCountry:GB, United KingdomAge:† 93 years",r_painters
+Marion_Greenwood,"Gender:FemaleDate of Birth:6 April  1909 - 18:55hBirth place:New York, New YorkCountry:US, United StatesAge:† 60 years",r_painters
+Juan_Gris,"Gender:MaleDate of Birth:23 March  1887 - 19:00hBirth place:MadridCountry:ES, SpainAge:† 40 years",r_painters
+Charles_Guérin,"Gender:MaleDate of Birth:21 February  1875 - 11:00hBirth place:SensCountry:FR, FranceAge:† 64 years",r_painters
+Godfried_Guffens,"Gender:MaleDate of Birth:22 July  1823 - 17:00hBirth place:HasseltCountry:BE, Belgium",r_painters
+Fernand_Guibouret,"Gender:MaleDate of Birth:30 May  1902 - 10:00hBirth place:MoulinsCountry:FR, France",r_painters
+Fabio_Carapezza_Guttuso,"Gender:MaleDate of Birth:18 January  1954 - 21:00hBirth place:PalermoCountry:IT, ItalyAge:66 years",r_painters
+Gavin_Hamilton,"Gender:MaleDate of Birth:19 November  1923 - 19:00hBirth place:Glasgow, ScotlandCountry:GB, United Kingdom",r_painters
+John_Haning,"Gender:MaleDate of Birth:21 August  1961 - 23:34hBirth place:Paragould, ArkansasCountry:US, United StatesAge:58 years",r_painters
+Simo_Hannula,"Gender:MaleDate of Birth:12 March  1932 - 18:15hBirth place:KonginkangasCountry:FI, FinlandAge:88 years",r_painters
+Hans_Hartung,"Gender:MaleDate of Birth:21 September  1904 - 09:30hBirth place:LeipzigCountry:DE, GermanyAge:† 85 years",r_painters
+Rory_Bruce_Hayes,"Gender:MaleDate of Birth:8 August  1949 - 15:31hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:70 years",r_painters
+Jean-Jacques_Henner,"Gender:MaleDate of Birth:5 March  1829 - 23:00hBirth place:BernwillerCountry:FR, FranceAge:† 76 years",r_painters
+Camille_Hilaire,"Gender:MaleDate of Birth:2 August  1916 - 09:00hBirth place:MetzCountry:FR, FranceAge:† 87 years",r_painters
+Jim_Hiltz,"Gender:MaleDate of Birth:7 November  1927 - 04:47hBirth place:Phoenix, ArizonaCountry:US, United StatesAge:† 84 years",r_painters
+Albert_Hopf,"Gender:MaleDate of Birth:27 May  1813 - 19:00hBirth place:NeulewinCountry:DE, GermanyAge:† 72 years",r_painters
+Jean_Jacques_Hueber,"Gender:MaleDate of Birth:26 February  1920 - 03:30hBirth place:StrasbourgCountry:FR, FranceAge:† 72 years",r_painters
+Paul_Huet,"Gender:MaleDate of Birth:3 October  1803 - 04:00hBirth place:ParisCountry:FR, FranceAge:† 65 years",r_painters
+Patrice_Hugues,"Gender:MaleDate of Birth:10 April  1930 - 07:55hBirth place:CourbevoieCountry:FR, FranceAge:89 years",r_painters
+Robert_Humblot,"Gender:MaleDate of Birth:13 May  1907 - 17:00hBirth place:Fontenay-sous-BoisCountry:FR, France",r_painters
+Henri-Gabriel_Ibels,"Gender:MaleDate of Birth:30 November  1867 - 02:00hBirth place:ParisCountry:FR, FranceAge:† 68 years",r_painters
+Robert_Scott_Irvine,"Gender:MaleDate of Birth:16 March  1906 - 16:45hBirth place:Edinburgh, ScotlandCountry:GB, United Kingdom",r_painters
+Christian_Jaccard,"Gender:MaleDate of Birth:2 April  1939 - 09:00hBirth place:Fontenay-sous-BoisCountry:FR, FranceAge:81 years",r_painters
+André_Jacquemin,"Gender:MaleDate of Birth:3 September  1904 - 03:00hBirth place:ÉpinalCountry:FR, FranceAge:† 88 years",r_painters
+Pierre_Jacquot,"Gender:MaleDate of Birth:15 May  1929 - 04:15hBirth place:NancyCountry:FR, FranceAge:90 years",r_painters
+Pierre_Jérôme,"Gender:MaleDate of Birth:20 January  1905 - 01:00hBirth place:DunkirkCountry:FR, France",r_painters
+Cornelis_Jetses,"Gender:MaleDate of Birth:23 June  1873 - 12:00hBirth place:GroningenCountry:NL, NetherlandsAge:† 81 years",r_painters
+George_Johnston,"Gender:MaleDate of Birth:14 June  1933 - 04:10hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:86 years",r_painters
+Alex_Katz,"Gender:MaleDate of Birth:24 July  1927 - 15:00hBirth place:New York, New YorkCountry:US, United StatesAge:92 years",r_painters
+M._M._Kaye,"Gender:FemaleDate of Birth:21 August  1908 - 23:49hBirth place:ŠimlaCountry:IN, IndiaAge:† 95 years",r_painters
+Ellsworth_Kelly,"Gender:MaleDate of Birth:31 May  1923 - 23:20hBirth place:Newburgh, New YorkCountry:US, United StatesAge:† 92 years",r_painters
+Hank_Ketcham,"Gender:MaleDate of Birth:14 March  1920 - 23:11hBirth place:Seattle, WashingtonCountry:US, United StatesAge:† 81 years",r_painters
+Kiki_de_Montparnasse,"Gender:FemaleDate of Birth:2 October  1901 - 09:00hBirth place:Châtillon-sur-SeineCountry:FR, FranceAge:† 51 years",r_painters
+Tom_Kirby,"Gender:MaleDate of Birth:10 June  1926 - 02:00hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:93 years",r_painters
+Douglas_Kirk,"Gender:MaleDate of Birth:22 February  1949 - 03:15hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:71 years",r_painters
+Erwin_Knebel,"Gender:MaleDate of Birth:25 January  1927 - 11:00hBirth place:ZürichCountry:CH, SwitzerlandAge:93 years",r_painters
+Claire_Wolf_Krantz,"Gender:FemaleDate of Birth:22 June  1938 - 18:36hBirth place:Chicago, IllinoisCountry:US, United StatesAge:81 years",r_painters
+Mildred_Sands_Krantz,"Gender:FemaleDate of Birth:15 July  1923 - 01:18hBirth place:Pottstown, PennsylvaniaCountry:US, United States",r_painters
+Luc_Lafnet,"Gender:MaleDate of Birth:22 January  1899 - 19:00hBirth place:LiègeCountry:BE, BelgiumAge:† 39 years",r_painters
+Charles_Landelle,"Gender:MaleDate of Birth:2 June  1821 - 09:00hBirth place:LavalCountry:FR, FranceAge:† 87 years",r_painters
+Fenwick_Lansdowne,"Gender:MaleDate of Birth:8 August  1937 - 00:10hBirth place:Hong KongCountry:HK, Hong KongAge:82 years",r_painters
+Charles_Lapicque,"Gender:MaleDate of Birth:6 October  1898 - 14:00hBirth place:TheizéCountry:FR, FranceAge:† 89 years",r_painters
+Gary_Larson,"Gender:MaleDate of Birth:14 August  1950Birth place:Tacoma, WashingtonCountry:US, United StatesAge:69 years",r_painters
+Albert_Lauzero,"Gender:MaleDate of Birth:16 August  1909 - 23:00hBirth place:FleuranceCountry:FR, FranceAge:† 96 years",r_painters
+Henri_Laville,"Gender:MaleDate of Birth:7 February  1916 - 08:00hBirth place:BordeauxCountry:FR, France",r_painters
+Mel_Lazarus,"Gender:MaleDate of Birth:3 May  1927 - 09:00hBirth place:New York, New YorkCountry:US, United StatesAge:92 years",r_painters
+Andree_LePecq,"Gender:MaleDate of Birth:3 October  1910 - 00:51hBirth place:LavalCountry:FR, FranceAge:† 62 years",r_painters
+Eugène_Leroy,"Gender:MaleDate of Birth:8 August  1910 - 12:00hBirth place:TourcoingCountry:FR, FranceAge:† 89 years",r_painters
+Sander_Littel,"Gender:MaleDate of Birth:28 July  1939 - 23:56hBirth place:ZwijndrechtCountry:NL, NetherlandsAge:80 years",r_painters
+Gabriel_Loire,"Gender:MaleDate of Birth:21 April  1904 - 11:00hBirth place:ParisCountry:FR, FranceAge:† 92 years",r_painters
+Bruce_Lowney,"Gender:MaleDate of Birth:16 October  1937 - 13:52hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:82 years",r_painters
+Édouard_Georges_Mac-Avoy,"Gender:MaleDate of Birth:25 January  1905 - 09:00hBirth place:Lignan-de-BordeauxCountry:FR, FranceAge:† 86 years",r_painters
+Micheál_MacLiammóir,"Gender:MaleDate of Birth:25 October  1899 - 03:00hBirth place:CorkCountry:IE, IrelandAge:† 78 years",r_painters
+Hector_MacLusky,"Gender:MaleDate of Birth:20 January  1923 - 03:00hBirth place:Glasgow, ScotlandCountry:GB, United Kingdom",r_painters
+Ian_MacPhail,"Gender:MaleDate of Birth:11 March  1922 - 14:15hBirth place:Aberdeen, ScotlandCountry:GB, United Kingdom",r_painters
+Pol_Mara,"Gender:MaleDate of Birth:8 December  1920 - 11:00hBirth place:AntwerpCountry:BE, Belgium",r_painters
+Simon_Willem_Maris,"Gender:MaleDate of Birth:21 May  1873 - 21:00hBirth place:The HagueCountry:NL, NetherlandsAge:† 61 years",r_painters
+Emile_Marzé,"Gender:MaleDate of Birth:4 August  1930 - 06:30hBirth place:MentonCountry:FR, FranceAge:89 years",r_painters
+Marcel_Masson,"Gender:MaleDate of Birth:25 June  1911 - 01:30hBirth place:NangisCountry:FR, France",r_painters
+Georges_Victor_Mathieu,"Gender:MaleDate of Birth:27 January  1921 - 10:45hBirth place:Boulogne-sur-MerCountry:FR, France",r_painters
+Bill_Mauldin,"Gender:MaleDate of Birth:29 October  1921 - 22:15hBirth place:Mountain Park, New MexicoCountry:US, United StatesAge:† 81 years",r_painters
+Thys_Mauve,"Gender:MaleDate of Birth:26 November  1915 - 02:30hBirth place:The HagueCountry:NL, Netherlands",r_painters
+Charles_McCall,"Gender:MaleDate of Birth:24 February  1907 - 14:05hBirth place:Edinburgh, ScotlandCountry:GB, United Kingdom",r_painters
+David_McCraken,"Gender:MaleDate of Birth:30 April  1925 - 04:30hBirth place:Glasgow, ScotlandCountry:GB, United Kingdom",r_painters
+Hans_Meid,"Gender:MaleDate of Birth:3 June  1883 - 04:15hBirth place:PforzheimCountry:DE, Germany",r_painters
+George_Metzger,"Gender:MaleDate of Birth:12 July  1939 - 09:30hBirth place:Northlake, IllinoisCountry:US, United StatesAge:80 years",r_painters
+Frans_Pieter_ter_Meulen,"Gender:MaleDate of Birth:9 March  1843 - 13:00hBirth place:BodegravenCountry:NL, NetherlandsAge:† 41 years",r_painters
+Kenneth_Hayes_Miller,"Gender:MaleDate of Birth:11 March  1876 - 09:00hBirth place:Oneida, New YorkCountry:US, United States",r_painters
+Francis_John_Minton,"Gender:MaleDate of Birth:25 December  1917 - 23:59hBirth place:London, EnglandCountry:GB, United KingdomAge:† 39 years",r_painters
+Joan_Mitchell,"Gender:FemaleDate of Birth:12 February  1925 - 22:31hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 67 years",r_painters
+Emile_Moeyens,"Gender:MaleDate of Birth:3 March  1942 - 15:00hBirth place:GhentCountry:BE, BelgiumAge:78 years",r_painters
+Jean_Monneret,"Gender:MaleDate of Birth:27 November  1922 - 07:00hBirth place:Chalon-sur-SaôneCountry:FR, France",r_painters
+Bob_Montana,"Gender:MaleDate of Birth:23 October  1920 - 13:00hBirth place:Stockton, CaliforniaCountry:US, United StatesAge:† 54 years",r_painters
+Roger_Montané,"Gender:MaleDate of Birth:21 February  1916 - 01:00hBirth place:BordeauxCountry:FR, France",r_painters
+Forrest_Moses,"Gender:MaleDate of Birth:14 May  1934 - 16:45hBirth place:Danville, VirginiaCountry:US, United StatesAge:85 years",r_painters
+Gabriele_Mucchi,"Gender:MaleDate of Birth:25 June  1899 - 22:00hBirth place:TurinCountry:IT, ItalyAge:† 102 years",r_painters
+Roger_Mühl,"Gender:MaleDate of Birth:20 December  1929 - 10:00hBirth place:StrasbourgCountry:FR, FranceAge:† 78 years",r_painters
+Marv_Myers,"Gender:MaleDate of Birth:3 January  1924 - 03:00hBirth place:Eugene, OregonCountry:US, United States",r_painters
+Armand_Nakache,"Gender:MaleDate of Birth:11 January  1894 - 05:00hBirth place:AnnabaCountry:DZ, AlgeriaAge:† 81 years",r_painters
+Rani_Nanjappa,"Gender:FemaleDate of Birth:10 August  1934 - 06:30hBirth place:Port BlairCountry:IN, IndiaAge:† 60 years",r_painters
+Jozef_Neuhuys,"Gender:MaleDate of Birth:7 April  1841 - 16:00hBirth place:UtrechtCountry:NL, NetherlandsAge:† 48 years",r_painters
+Otto_Niemeyer-Holstein,"Gender:MaleDate of Birth:11 May  1896 - 04:15hBirth place:KielCountry:DE, GermanyAge:† 87 years",r_painters
+Valère_Novarina,"Gender:FemaleDate of Birth:4 May  1947 - 14:50hBirth place:Chêne-BougeriesCountry:CH, SwitzerlandAge:72 years",r_painters
+Pierre_Oliver,"Gender:MaleDate of Birth:23 August  1919 - 03:00hBirth place:NancyCountry:FR, France",r_painters
+Ernesto_Ornati,"Gender:MaleDate of Birth:12 February  1932 - 06:30hBirth place:VigevanoCountry:IT, ItalyAge:88 years",r_painters
+Jose_Orozco,"Gender:MaleDate of Birth:23 November  1883 - 00:30hBirth place:Ciudad Guzmán, JaliscoCountry:MX, MexicoAge:† 63 years",r_painters
+Juan_Orozco,"Gender:MaleDate of Birth:18 February  1945 - 06:14hBirth place:Lincoln, CaliforniaCountry:US, United StatesAge:75 years",r_painters
+Amedee_Ozenfant,"Gender:MaleDate of Birth:15 April  1886 - 17:00hBirth place:Saint-QuentinCountry:FR, FranceAge:† 79 years",r_painters
+Jim_Davis,"Gender:MaleDate of Birth:28 July  1945Birth place:Marion, IndianaCountry:US, United StatesAge:74 years",r_painters
+Bernardino_Palazzi,"Gender:MaleDate of Birth:22 December  1907 - 23:00hBirth place:NuoroCountry:IT, Italy",r_painters
+Filippo_Palizzi,"Gender:MaleDate of Birth:16 June  1818 - 01:00hBirth place:VastoCountry:IT, ItalyAge:† 81 years",r_painters
+Giuseppe_Palizzi,"Gender:MaleDate of Birth:12 March  1812 - 10:00hBirth place:LancianoCountry:IT, ItalyAge:† 76 years",r_painters
+Pierre_Palué,"Gender:MaleDate of Birth:13 May  1920 - 01:00hBirth place:BordeauxCountry:FR, France",r_painters
+Dante_Pantaleoni,"Gender:MaleDate of Birth:31 July  1915 - 18:00hBirth place:ModenaCountry:IT, Italy",r_painters
+Max_Papart,"Gender:MaleDate of Birth:19 December  1911 - 11:00hBirth place:MarseilleCountry:FR, FranceAge:† 82 years",r_painters
+Novella_Parigini,"Gender:FemaleDate of Birth:29 April  1921 - 05:40hBirth place:ChiusiCountry:IT, ItalyAge:† 72 years",r_painters
+James_Patrick,"Gender:MaleDate of Birth:4 February  1907 - 23:00hBirth place:Dundee, ScotlandCountry:GB, United KingdomAge:† 90 years",r_painters
+Ferdinand_Pauwels,"Gender:MaleDate of Birth:13 April  1830 - 20:00hBirth place:AntwerpCountry:BE, BelgiumAge:† 73 years",r_painters
+Michel_Penglaou,"Gender:MaleDate of Birth:31 March  1925 - 15:00hBirth place:NantesCountry:FR, France",r_painters
+Constant_Permeke,"Gender:MaleDate of Birth:31 July  1886 - 10:15hBirth place:AntwerpCountry:BE, BelgiumAge:† 65 years",r_painters
+Piem,"Gender:MaleDate of Birth:12 November  1923 - 12:30hBirth place:Saint-ÉtienneCountry:FR, France",r_painters
+Jean_Pollet,"Gender:MaleDate of Birth:10 May  1929 - 03:00hBirth place:Romanèche-ThorinsCountry:FR, FranceAge:90 years",r_painters
+Enrico_Prampolini,"Gender:MaleDate of Birth:20 April  1894 - 06:30hBirth place:ModenaCountry:IT, ItalyAge:† 61 years",r_painters
+Mary_Pratt,"Gender:FemaleDate of Birth:15 March  1935 - 00:12hBirth place:Fredericton, New BrunswickCountry:CA, CanadaAge:85 years",r_painters
+Jean_Promutico,"Gender:FemaleDate of Birth:23 November  1936 - 03:45hBirth place:Baltimore, MarylandCountry:US, United StatesAge:83 years",r_painters
+Jacques_Pruvost,"Gender:MaleDate of Birth:19 August  1901 - 20:00hBirth place:Merville, NordCountry:FR, France",r_painters
+Milena_Quaglini,"Gender:FemaleDate of Birth:25 March  1957 - 12:30hBirth place:MezzaninoCountry:IT, ItalyAge:63 years",r_painters
+Benjamin_Rabier,"Gender:MaleDate of Birth:30 December  1864 - 16:00hBirth place:La Roche-sur-YonCountry:FR, FranceAge:† 74 years",r_painters
+Franz_Radziwill,"Gender:MaleDate of Birth:6 February  1895 - 21:15hBirth place:StadlandCountry:DE, GermanyAge:† 88 years",r_painters
+Bernard_Rancillac,"Gender:MaleDate of Birth:29 August  1931 - 10:00hBirth place:ParisCountry:FR, FranceAge:88 years",r_painters
+Auguste_Ravier,"Gender:MaleDate of Birth:4 May  1814 - 12:00hBirth place:LyonCountry:FR, FranceAge:† 81 years",r_painters
+Claude_Raynaud,"Gender:MaleDate of Birth:10 August  1918 - 05:30hBirth place:FelletinCountry:FR, France",r_painters
+Gabrielle_Renard,"Gender:FemaleDate of Birth:1 August  1878 - 02:00hBirth place:EssoyesCountry:FR, France",r_painters
+Jacques_Richez,"Gender:MaleDate of Birth:7 June  1918 - 09:30hBirth place:DieppeCountry:FR, FranceAge:† 76 years",r_painters
+Jean_Rigaud,"Gender:MaleDate of Birth:15 June  1912 - 07:00hBirth place:BordeauxCountry:FR, France",r_painters
+Robert_Ripley,"Gender:MaleDate of Birth:22 February  1890 - 01:20hBirth place:Santa Rosa, CaliforniaCountry:US, United StatesAge:† 59 years",r_painters
+Lucie_Rivel,"Gender:FemaleDate of Birth:24 April  1910 - 01:00hBirth place:MetzCountry:FR, FranceAge:† 84 years",r_painters
+Edwin_Rivera,"Gender:MaleDate of Birth:20 January  1948 - 06:30hBirth place:Albuquerque, New MexicoCountry:US, United StatesAge:72 years",r_painters
+Rob-Vel,"Gender:MaleDate of Birth:9 February  1909 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 82 years",r_painters
+Enrique_Rodriguez,"Gender:MaleDate of Birth:8 January  1960 - 02:05hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 35 years",r_painters
+Nicholas_Roerich,"Gender:MaleDate of Birth:9 October  1874Birth place:Saint PetersburgCountry:RU, RussiaAge:† 73 years",r_painters
+Peter_Rogers,"Gender:MaleDate of Birth:24 August  1933 - 07:15hBirth place:London, EnglandCountry:GB, United KingdomAge:86 years",r_painters
+Georges_Rohner,"Gender:MaleDate of Birth:20 July  1913 - 14:00hBirth place:ParisCountry:FR, FranceAge:† 87 years",r_painters
+Carl-W._Rohrig,"Gender:MaleDate of Birth:12 November  1953 - 01:40hBirth place:MunichCountry:DE, GermanyAge:66 years",r_painters
+Umberto_Romano,"Gender:MaleDate of Birth:26 February  1905 - 15:00hBirth place:BraciglianoCountry:IT, ItalyAge:† 77 years",r_painters
+Joelle_Roustan,"Gender:FemaleDate of Birth:19 January  1935 - 16:15hBirth place:MarseilleCountry:FR, FranceAge:85 years",r_painters
+Vincent_Roux,"Gender:MaleDate of Birth:1 December  1928 - 05:00hBirth place:MarseilleCountry:FR, FranceAge:† 62 years",r_painters
+Marius_Roux-Renard,"Gender:MaleDate of Birth:15 March  1870 - 02:00hBirth place:OrangeCountry:FR, France",r_painters
+Ron_Russell,"Gender:MaleDate of Birth:4 February  1938 - 10:38hBirth place:Palo Alto, CaliforniaCountry:US, United StatesAge:82 years",r_painters
+Simon_Saint-Jean,"Gender:MaleDate of Birth:14 October  1808 - 22:00hBirth place:LyonCountry:FR, France",r_painters
+Fernand_Salkin,"Gender:MaleDate of Birth:27 June  1862 - 02:00hBirth place:MontélimarCountry:FR, France",r_painters
+Anna_Salvatore,"Gender:FemaleDate of Birth:29 April  1923 - 01:00hBirth place:RomeCountry:IT, ItalyAge:† 54 years",r_painters
+Leo_Samberger,"Gender:MaleDate of Birth:14 August  1861 - 02:30hBirth place:IngolstadtCountry:DE, GermanyAge:† 87 years",r_painters
+Marie-Nicolas_Saulnier_de_la_Pinelais,"Gender:MaleDate of Birth:9 October  1836 - 21:30hBirth place:ParisCountry:FR, France",r_painters
+Karl_Schmidt-Rottluff,"Gender:MaleDate of Birth:1 December  1884 - 05:00hBirth place:ChemnitzCountry:DE, GermanyAge:† 91 years",r_painters
+Rudolf_Schröder,"Gender:MaleDate of Birth:26 January  1878 - 19:30hBirth place:BremenCountry:DE, GermanyAge:† 84 years",r_painters
+Claude_Schürr,"Gender:MaleDate of Birth:26 March  1921 - 15:00hBirth place:ParisCountry:FR, France",r_painters
+Gino_Scipione,"Gender:MaleDate of Birth:25 February  1904 - 05:00hBirth place:MacerataCountry:IT, ItalyAge:† 29 years",r_painters
+David_Shepherd,"Gender:MaleDate of Birth:25 April  1931 - 04:30hBirth place:London, EnglandCountry:GB, United KingdomAge:88 years",r_painters
+Simon_Simon-Auguste,"Gender:MaleDate of Birth:20 April  1909 - 07:00hBirth place:MarseilleCountry:FR, FranceAge:† 77 years",r_painters
+Siné,"Gender:MaleDate of Birth:30 December  1928 - 03:30hBirth place:ParisCountry:FR, FranceAge:91 years",r_painters
+David_Sirebrenik,"Gender:MaleDate of Birth:18 January  1966 - 14:26hBirth place:SantiagoCountry:CL, ChileAge:54 years",r_painters
+David_Hyrum_Smith,"Gender:MaleDate of Birth:17 November  1844 - 09:00hBirth place:Nauvoo, IllinoisCountry:US, United StatesAge:† 59 years",r_painters
+Gaston_Sébire,"Gender:MaleDate of Birth:18 August  1920 - 11:00hBirth place:Saint-Samson-sur-RanceCountry:FR, France",r_painters
+Marjatta_Tapiola,"Gender:FemaleDate of Birth:30 April  1951 - 13:03hBirth place:HelsinkiCountry:FI, FinlandAge:68 years",r_painters
+Michel_Tesmoingt,"Gender:MaleDate of Birth:22 March  1928 - 23:30hBirth place:LilleCountry:FR, FranceAge:92 years",r_painters
+Tetsu,"Gender:MaleDate of Birth:12 July  1913 - 13:00hBirth place:BourgesCountry:FR, FranceAge:† 94 years",r_painters
+Bill_Tidy,"Gender:MaleDate of Birth:9 October  1933 - 17:30hBirth place:Birkenhead, EnglandCountry:GB, United KingdomAge:86 years",r_painters
+Maurice_Tirmarche,"Gender:MaleDate of Birth:30 May  1909 - 05:00hBirth place:Clermont-FerrandCountry:FR, France",r_painters
+Jan_Toorop,"Gender:MaleDate of Birth:20 December  1858 - 03:00hBirth place:PurworejoCountry:ID, IndonesiaAge:† 69 years",r_painters
+Alex_Toth,"Gender:MaleDate of Birth:25 June  1928 - 00:30hBirth place:New York, New YorkCountry:US, United StatesAge:† 77 years",r_painters
+Louis_Touchagues,"Gender:MaleDate of Birth:28 April  1893 - 03:00hBirth place:Saint-Cyr-au-Mont-d'OrCountry:FR, FranceAge:† 81 years",r_painters
+Jean-Paul_Tourbatez,"Gender:MaleDate of Birth:26 July  1942 - 23:00hBirth place:FécampCountry:FR, FranceAge:77 years",r_painters
+Michel_Tourlière,"Gender:MaleDate of Birth:15 February  1925 - 01:00hBirth place:BeauneCountry:FR, FranceAge:† 79 years",r_painters
+Marie_Louise_Tovae,"Gender:FemaleDate of Birth:27 July  1933 - 12:30hBirth place:StrasbourgCountry:FR, FranceAge:† 68 years",r_painters
+Harold_Town,"Gender:MaleDate of Birth:13 June  1924 - 06:30hBirth place:Toronto, OntarioCountry:CA, Canada",r_painters
+Toyen,"Gender:FemaleDate of Birth:21 September  1902 - 18:00hBirth place:PragueCountry:CZ, Czech RepublicAge:† 78 years",r_painters
+Heinrich_Wilhelm_Trubner,"Gender:MaleDate of Birth:3 February  1851 - 15:00hBirth place:HeidelbergCountry:DE, GermanyAge:† 66 years",r_painters
+Richard_Ross_Trudeau,"Gender:MaleDate of Birth:30 December  1983 - 07:05hBirth place:New York, New YorkCountry:US, United StatesAge:36 years",r_painters
+Otto_Tschumi,"Gender:MaleDate of Birth:4 August  1904 - 03:45hBirth place:BernCountry:CH, SwitzerlandAge:† 80 years",r_painters
+Michel_Vaillant,"Gender:MaleDate of Birth:7 February  1957Birth place:BrusselsCountry:BE, BelgiumAge:63 years",r_painters
+Frans_van_Leemputten,"Gender:MaleDate of Birth:29 December  1850 - 12:00hBirth place:LeuvenCountry:BE, BelgiumAge:† 63 years",r_painters
+Eugen_Verboeckhoven,"Gender:MaleDate of Birth:9 June  1798 - 16:00hBirth place:Warneton, BelgiumCountry:BE, BelgiumAge:† 82 years",r_painters
+Horace_Vernet,"Gender:MaleDate of Birth:1 July  1789Birth place:ParisCountry:FR, FranceAge:† 73 years",r_painters
+Olli_Viiri,"Gender:MaleDate of Birth:3 May  1941 - 11:40hBirth place:RovaniemiCountry:FI, FinlandAge:78 years",r_painters
+Henri_Vincenot,"Gender:MaleDate of Birth:2 January  1912 - 02:30hBirth place:DijonCountry:FR, FranceAge:† 73 years",r_painters
+Louis_Vivin,"Gender:MaleDate of Birth:27 July  1861 - 22:00hBirth place:HadolCountry:FR, FranceAge:† 74 years",r_painters
+Betsy_van_Vloten,"Gender:FemaleDate of Birth:12 July  1862 - 08:30hBirth place:DeventerCountry:NL, NetherlandsAge:† 83 years",r_painters
+Eugen_von_Kampf,"Gender:MaleDate of Birth:16 March  1861 - 12:00hBirth place:AachenCountry:DE, Germany",r_painters
+Karl_Walser,"Gender:MaleDate of Birth:8 April  1877 - 01:00hBirth place:BielCountry:CH, SwitzerlandAge:† 66 years",r_painters
+Monique_Alika_Watteau,"Gender:FemaleDate of Birth:23 December  1929 - 03:35hBirth place:LiègeCountry:BE, BelgiumAge:90 years",r_painters
+Andy_Weber,"Gender:MaleDate of Birth:10 July  1951 - 10:30hBirth place:HanoverCountry:DE, GermanyAge:68 years",r_painters
+Emil_Rudolf_Weiss,"Gender:MaleDate of Birth:12 October  1875 - 10:00hBirth place:LahrCountry:DE, GermanyAge:† 67 years",r_painters
+Daniel_Wildenstein,"Gender:MaleDate of Birth:11 September  1917 - 18:00hBirth place:Verrières-le-BuissonCountry:FR, FranceAge:† 84 years",r_painters
+Tom_Wilson,"Gender:MaleDate of Birth:1 August  1931 - 15:00hBirth place:Grant Town, West VirginiaCountry:US, United StatesAge:† 80 years",r_painters
+Robert_Wogensky,"Gender:MaleDate of Birth:16 November  1919 - 01:00hBirth place:ParisCountry:FR, France",r_painters
+Wols,"Gender:MaleDate of Birth:27 May  1913 - 09:00hBirth place:BerlinCountry:DE, GermanyAge:† 38 years",r_painters
+Harry_Woolford,"Gender:MaleDate of Birth:23 May  1905 - 13:30hBirth place:Edinburgh, ScotlandCountry:GB, United Kingdom",r_painters
+Sulamith_Wulfing,"Gender:FemaleDate of Birth:11 January  1901 - 19:00hBirth place:WuppertalCountry:DE, Germany",r_painters
+Christa_Wuliger-Shubert,"Gender:FemaleDate of Birth:17 October  1934 - 13:30hBirth place:TarutungCountry:ID, IndonesiaAge:85 years",r_painters
+Yrrah,"Gender:MaleDate of Birth:7 November  1932 - 07:04hBirth place:ApeldoornCountry:NL, NetherlandsAge:87 years",r_painters
+Johann_Karl_Zahn,"Gender:MaleDate of Birth:21 August  1800 - 23:59hBirth place:RodenbergCountry:DE, GermanyAge:† 71 years",r_painters
+Margot_Zemach,"Gender:FemaleDate of Birth:30 November  1931 - 20:42hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:88 years",r_painters
+Zim_Zimmerman,"Gender:MaleDate of Birth:25 May  1862 - 10:45hBirth place:BaselCountry:CH, SwitzerlandAge:† 72 years",r_painters
+Janko_Alexy,"Gender:MaleDate of Birth:25 January  1894Birth place:Liptovský MikulášCountry:SK, SlovakiaAge:† 76 years",r_painters
+Josef_Dubiel_von_LeRach,"Gender:MaleBirth:*1951Country:CZ, Czech RepublicAge:69 years",r_painters
+Zdeněk_Galuška,"Gender:MaleDate of Birth:11 July  1913Birth place:Uherský OstrohCountry:CZ, Czech RepublicAge:† 85 years",r_painters
+František_Gellner,"Gender:MaleDate of Birth:19 June  1881Birth place:Mladá BoleslavCountry:CZ, Czech RepublicAge:† 33 years",r_painters
+Marsden_Hartley,"Gender:MaleDate of Birth:4 January  1877Birth place:Lewiston, MaineCountry:US, United StatesAge:† 66 years",r_painters
+Jakub_D._Kočí,"Gender:MaleBirth:*1977Country:CZ, Czech RepublicAge:43 years",r_painters
+Christian_Krohg,"Gender:MaleDate of Birth:13 August  1852Country:NO, Norway",r_painters
+Francis_Davis_Millet,"Gender:MaleDate of Birth:3 November  1846Birth place:Mattapoisett, MassachusettsCountry:US, United StatesAge:† 65 years",r_painters
+Jan_Moštěk,"Gender:MaleBirth:*1923Country:CZ, Czech Republic",r_painters
+Beatrix_Potter,"Gender:FemaleDate of Birth:28 July  1866Birth place:London, EnglandCountry:GB, United KingdomAge:† 77 years",r_painters
+Bohuslav_Reynek,"Gender:MaleDate of Birth:31 May  1892Birth place:PetrkovCountry:CZ, Czech RepublicAge:† 79 years",r_painters
+Ernesto_Sabato,"Gender:MaleDate of Birth:3 July  1911 - 07:00hBirth place:Rojas, Buenos AiresCountry:AR, ArgentinaAge:† 99 years",r_painters
+Ondřej_Sekora,"Gender:MaleDate of Birth:25 September  1899Birth place:BrnoCountry:CZ, Czech Republic",r_painters
+Jindřich_Štyrský,"Gender:MaleDate of Birth:11 August  1899Birth place:ČermnáCountry:CZ, Czech Republic",r_painters
+Josef_Váchal,"Gender:MaleDate of Birth:23 September  1884Birth place:MilavčeCountry:CZ, Czech RepublicAge:† 84 years",r_painters
+Stanislaw_Wyspiaňski,"Gender:MaleDate of Birth:15 January  1869Birth place:KrakówCountry:PL, PolandAge:† 38 years",r_painters
+Ladislav_Novák,"Gender:MaleDate of Birth:4 August  1925Birth place:TurnovCountry:CZ, Czech RepublicAge:† 73 years",r_painters
+Karel_Jerie,"Gender:MaleBirth:*1977Country:CZ, Czech RepublicAge:43 years",r_painters
+Theo_van_Doesburg,"Gender:MaleDate of Birth:30 August  1883 - 16:00hBirth place:UtrechtCountry:NL, NetherlandsAge:† 47 years",r_painters
+Mario_Chiattone,"Gender:MaleDate of Birth:11 November  1891Birth place:BergamoCountry:IT, ItalyAge:† 65 years",r_painters
+El_Lissitzky,"Gender:MaleDate of Birth:22 November  1890Birth place:Pochinok, Smolensk OblastCountry:RU, RussiaAge:† 51 years",r_painters
+Koloman_Moser,"Gender:MaleDate of Birth:30 March  1868Birth place:ViennaCountry:AT, AustriaAge:† 50 years",r_painters
+Georg_Muche,"Gender:MaleDate of Birth:8 May  1895Birth place:QuerfurtCountry:DE, GermanyAge:† 91 years",r_painters
+Paul_Schultze-Naumburg,"Gender:MaleDate of Birth:10 June  1869Birth place:NaumburgCountry:DE, GermanyAge:† 79 years",r_painters
+Charles_Haigh-Wood,"Gender:MaleDate of Birth:9 May  1854Birth place:Bury District, EnglandCountry:GB, United KingdomAge:† 72 years",r_painters
+Carole_Bayer_Sager,"Gender:FemaleDate of Birth:8 March  1947Birth place:New York, New YorkCountry:US, United StatesAge:73 years",r_painters
+Edward_Ruscha,"Gender:MaleDate of Birth:16 December  1937Birth place:Omaha, NebraskaCountry:US, United StatesAge:82 years",r_painters
+Heather_Hunter,"Gender:FemaleDate of Birth:1 October  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_painters
+Solenn_Heussaff,"Gender:FemaleDate of Birth:20 July  1985Birth place:MakatiCountry:PH, PhilippinesAge:34 years",r_painters
+Tico_Torres,"Gender:MaleDate of Birth:7 October  1953Birth place:New York, New YorkCountry:US, United StatesAge:66 years",r_painters
+Stan_Berenstain,"Gender:MaleDate of Birth:29 September  1923Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 82 years",r_painters
+Jan_Berenstain,"Gender:FemaleDate of Birth:26 July  1923Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 88 years",r_painters
+Mose_T,"Gender:MaleDate of Birth:4 July  1920Birth place:Pike Rd, AlabamaCountry:US, United StatesAge:† 86 years",r_painters
+Andrei_Ryabushkin,"Gender:MaleDate of Birth:29 October  1861Birth place:BorisoglebskiyCountry:RU, RussiaAge:† 42 years",r_painters
+Janet_Grahame_Johnstone,"Gender:FemaleDate of Birth:1 June  1928Country:GB, United KingdomAge:† 50 years",r_painters
+Anne_Grahame_Johnstone,"Gender:FemaleDate of Birth:1 June  1928Country:GB, United KingdomAge:† 69 years",r_painters
+Barbara_Bezina,"Gender:FemaleDate of Birth:26 September  1980Birth place:Buenos AiresCountry:AR, ArgentinaAge:39 years",r_painters
+Jiří_Načeradský,"Gender:MaleDate of Birth:9 September  1939Birth place:Sedlec-PrčiceCountry:CZ, Czech RepublicAge:† 74 years",r_painters
+Zdzisław_Beksiński,"Gender:MaleDate of Birth:24 February  1929 - 18:06hBirth place:WarsawCountry:PL, PolandAge:† 75 years",r_painters
+Jiří_Anderle,"Gender:MaleBirth:*1936Country:CZ, Czech RepublicAge:83 years",r_painters
+Ellen_Jilemnická,"Gender:FemaleBirth:*1946Country:CZ, Czech RepublicAge:74 years",r_painters
+Rostislav_Osička,"Gender:MaleBirth:*1956Country:CZ, Czech RepublicAge:63 years",r_painters
+Edwin_Long,"Gender:MaleDate of Birth:12 July  1829Birth place:Bath, EnglandCountry:GB, United KingdomAge:† 61 years",r_painters
+Jindřich_Prucha,"Gender:MaleDate of Birth:29 September  1886Birth place:Uherské HradištěCountry:CZ, Czech RepublicAge:† 27 years",r_painters
+Antonín_Slavíček,"Gender:MaleDate of Birth:16 May  1870Birth place:PragueCountry:CZ, Czech RepublicAge:† 39 years",r_painters
+Vilém_Kocych,"Gender:MaleDate of Birth:3 December  1930Birth place:Frýdek-MístekCountry:CZ, Czech RepublicAge:† 76 years",r_painters
+Ana_Mendieta,"Gender:FemaleDate of Birth:18 November  1948Birth place:HavanaCountry:CU, CubaAge:† 36 years",r_painters
+Egle_Marini,"Gender:FemaleDate of Birth:27 February  1901 - 09:00hBirth place:PistoiaCountry:IT, ItalyAge:† 81 years",r_painters
+Rube_Goldberg,"Gender:MaleDate of Birth:4 July  1883Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 87 years",r_painters
+Élisabeth_Vigée-Lebrun,"Gender:FemaleDate of Birth:16 April  1755Birth place:ParisCountry:FR, FranceAge:† 86 years",r_painters

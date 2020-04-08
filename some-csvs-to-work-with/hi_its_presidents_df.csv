@@ -1,0 +1,209 @@
+name,info,occupation
+Ronald_Reagan,"Gender:MaleDate of Birth:6 February  1911 - 04:16hBirth place:Tampico, IllinoisCountry:US, United StatesAge:† 93 years",r_presidents
+Nelson_Mandela,"Gender:MaleDate of Birth:18 July  1918 - 14:54hBirth place:MvezoCountry:ZA, South AfricaAge:† 95 years",r_presidents
+Bill_Clinton,"Gender:MaleDate of Birth:19 August  1946 - 08:51hBirth place:Hope, ArkansasCountry:US, United StatesAge:73 years",r_presidents
+George_Bush,"Gender:MaleDate of Birth:12 June  1924 - 10:30hBirth place:Milton, MassachusettsCountry:US, United StatesAge:† 94 years",r_presidents
+George_W._Bush,"Gender:MaleDate of Birth:6 July  1946 - 07:26hBirth place:New Haven, ConnecticutCountry:US, United StatesAge:73 years",r_presidents
+Al_Gore,"Gender:MaleDate of Birth:31 March  1948 - 12:53hBirth place:Washington, District of ColumbiaCountry:US, United StatesAge:72 years",r_presidents
+Saddam_Hussein,"Gender:MaleDate of Birth:28 April  1937 - 07:05hBirth place:TikritCountry:IQ, IraqAge:† 69 years",r_presidents
+John_F._Kennedy,"Gender:MaleDate of Birth:29 May  1917 - 15:00hBirth place:Brookline, MassachusettsCountry:US, United StatesAge:† 46 years",r_presidents
+Richard_Nixon,"Gender:MaleDate of Birth:9 January  1913 - 21:35hBirth place:Yorba Linda, CaliforniaCountry:US, United StatesAge:† 81 years",r_presidents
+Josip_Broz_Tito,"Gender:MaleDate of Birth:7 May  1892 - 10:00hBirth place:KumrovecCountry:HR, CroatiaAge:† 87 years",r_presidents
+Dwight_D._Eisenhower,"Gender:MaleDate of Birth:14 October  1890 - 03:00hBirth place:Denison, TexasCountry:US, United StatesAge:† 78 years",r_presidents
+Václav_Havel,"Gender:MaleDate of Birth:5 October  1936 - 15:00hBirth place:PragueCountry:CZ, Czech RepublicAge:† 75 years",r_presidents
+Václav_Klaus,"Gender:MaleBirth:*1941Country:CZ, Czech RepublicAge:78 years",r_presidents
+Jean_Todt,"Gender:MaleDate of Birth:25 February  1946 - 15:00hBirth place:Saint-FlourCountry:FR, FranceAge:74 years",r_presidents
+Barack_Obama,"Gender:MaleDate of Birth:4 August  1961 - 19:24hBirth place:Honolulu, HawaiiCountry:US, United StatesAge:58 years",r_presidents
+Elena_Ceauşescu,"Gender:FemaleDate of Birth:7 January  1919Birth place:PetreştiCountry:RO, RomaniaAge:† 70 years",r_presidents
+Lech_Kaczyński,"Gender:MaleDate of Birth:18 June  1949 - 02:45hBirth place:WarsawCountry:PL, PolandAge:† 60 years",r_presidents
+Ivana_Trump,"Gender:FemaleBirth:*1949Country:CZ, Czech RepublicAge:71 years",r_presidents
+Fidel_Castro,"Gender:MaleDate of Birth:13 August  1926 - 02:00hBirth place:BiránCountry:CU, CubaAge:93 years",r_presidents
+Hugo_Chávez,"Gender:MaleDate of Birth:28 July  1954 - 04:00hBirth place:SabanetaCountry:VE, VenezuelaAge:† 58 years",r_presidents
+Shimon_Peres,"Gender:MaleDate of Birth:16 August  1923 - 05:51hBirth place:VišněvaCountry:BY, Belarus",r_presidents
+Vladimir_Putin,"Gender:MaleDate of Birth:7 October  1952 - 09:30hBirth place:Saint PetersburgCountry:RU, RussiaAge:67 years",r_presidents
+Jimmy_Carter,"Gender:MaleDate of Birth:1 October  1924 - 07:00hBirth place:Plains, GeorgiaCountry:US, United States",r_presidents
+Boris_Yeltsin,"Gender:MaleDate of Birth:1 February  1931 - 12:00hBirth place:ButkaCountry:RU, RussiaAge:† 76 years",r_presidents
+Theodore_Roosevelt,"Gender:MaleDate of Birth:27 October  1858 - 19:45hBirth place:New York, New YorkCountry:US, United StatesAge:† 60 years",r_presidents
+Herbert_Hoover,"Gender:MaleDate of Birth:10 August  1874 - 23:15hBirth place:West Branch, IowaCountry:US, United StatesAge:† 90 years",r_presidents
+Lyndon_B._Johnson,"Gender:MaleDate of Birth:27 August  1908 - 05:40hBirth place:Stonewall, TexasCountry:US, United StatesAge:† 64 years",r_presidents
+Hillary_Clinton,"Gender:FemaleDate of Birth:26 October  1947 - 08:02hBirth place:Chicago, IllinoisCountry:US, United StatesAge:72 years",r_presidents
+Franklin_D._Roosevelt,"Gender:MaleDate of Birth:30 January  1882 - 20:45hBirth place:Hyde Park, New YorkCountry:US, United StatesAge:† 63 years",r_presidents
+Harry_S._Truman,"Gender:MaleDate of Birth:8 May  1884 - 16:00hBirth place:Lamar, MissouriCountry:US, United StatesAge:† 88 years",r_presidents
+Woodrow_Wilson,"Gender:MaleDate of Birth:29 December  1856 - 00:45hBirth place:Staunton, VirginiaCountry:US, United StatesAge:† 67 years",r_presidents
+Habib_Bourguiba,"Gender:MaleDate of Birth:3 August  1903 - 05:00hBirth place:MonastirCountry:TN, TunisiaAge:† 96 years",r_presidents
+John_Adams,"Gender:MaleDate of Birth:30 October  1735 - 02:57hBirth place:Braintree, MassachusettsCountry:US, United StatesAge:† 90 years",r_presidents
+Thomas_Jefferson,"Gender:MaleDate of Birth:13 April  1743 - 06:30h(gregor.)Birth place:Shadwell, VirginiaCountry:US, United StatesAge:† 83 years",r_presidents
+James_Madison,"Gender:MaleDate of Birth:16 March  1751 - 23:59hBirth place:Port Conway, VirginiaCountry:US, United StatesAge:† 85 years",r_presidents
+James_Monroe,"Gender:MaleDate of Birth:28 April  1758 - 01:52hBirth place:Westmoreland CountyCountry:US, United StatesAge:† 73 years",r_presidents
+Andrew_Jackson,"Gender:MaleDate of Birth:15 March  1767 - 07:35hBirth place:Waxhaw, North CarolinaCountry:US, United StatesAge:† 78 years",r_presidents
+William_Henry_Harrison,"Gender:MaleDate of Birth:9 February  1773 - 10:38hBirth place:Charles City, VirginiaCountry:US, United StatesAge:† 68 years",r_presidents
+James_Buchanan,"Gender:MaleDate of Birth:23 April  1791 - 09:11hBirth place:Cove Gap, PennsylvaniaCountry:US, United StatesAge:† 77 years",r_presidents
+Franklin_Pierce,"Gender:MaleDate of Birth:23 November  1804 - 14:12hBirth place:HillsboroughCountry:US, United StatesAge:† 64 years",r_presidents
+Andrew_Johnson,"Gender:MaleDate of Birth:29 December  1808 - 00:34hBirth place:Raleigh, North CarolinaCountry:US, United StatesAge:† 66 years",r_presidents
+Abraham_Lincoln,"Gender:MaleDate of Birth:12 February  1809 - 06:54hBirth place:Hodgenville, KentuckyCountry:US, United StatesAge:† 56 years",r_presidents
+James_Garfield,"Gender:MaleDate of Birth:19 November  1831 - 02:00hBirth place:OrangevilleCountry:US, United StatesAge:† 49 years",r_presidents
+Benjamin_Harrison,"Gender:MaleDate of Birth:20 August  1833 - 03:17hBirth place:North Bend, OhioCountry:US, United StatesAge:† 67 years",r_presidents
+Juan_Perón,"Gender:MaleDate of Birth:7 October  1895 - 10:00hBirth place:LobosCountry:AR, ArgentinaAge:† 78 years",r_presidents
+John_McCain,"Gender:MaleDate of Birth:29 August  1936 - 18:25hBirth place:Coco SoloCountry:PA, PanamaAge:† 81 years",r_presidents
+Dominique_Strauss-Kahn,"Gender:MaleDate of Birth:25 April  1949 - 11:10hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:70 years",r_presidents
+François_Hollande,"Gender:MaleDate of Birth:12 August  1954 - 00:10hBirth place:RouenCountry:FR, FranceAge:65 years",r_presidents
+George_Washington,"Gender:MaleDate of Birth:22 February  1732 - 10:00hBirth place:Wakefield, VirginiaCountry:US, United StatesAge:† 67 years",r_presidents
+Fulgencio_Batista,"Gender:MaleDate of Birth:16 January  1901 - 05:48hBirth place:BanesCountry:CU, CubaAge:† 72 years",r_presidents
+Joachim_Gauck,"Gender:MaleDate of Birth:24 January  1940 - 01:00hBirth place:RostockCountry:DE, GermanyAge:80 years",r_presidents
+Roman_Herzog,"Gender:MaleDate of Birth:5 April  1934 - 08:54hBirth place:LandshutCountry:DE, GermanyAge:86 years",r_presidents
+Theodor_Heuss,"Gender:MaleDate of Birth:31 January  1884 - 13:30hBirth place:BrackenheimCountry:DE, GermanyAge:† 79 years",r_presidents
+Ho_Chi_Minh,"Gender:MaleDate of Birth:19 May  1890 - 05:00hBirth place:Kim LienCountry:VN, VietnamAge:† 79 years",r_presidents
+Jiang_Zemin,"Gender:MaleDate of Birth:17 August  1926Birth place:Jang-čouCountry:CN, ChinaAge:93 years",r_presidents
+Juscelino_Kubitschek,"Gender:MaleDate of Birth:12 September  1902 - 14:00hBirth place:DiamantinaCountry:BR, BrazilAge:† 73 years",r_presidents
+Alexander_Kwaśniewski,"Gender:MaleDate of Birth:15 November  1954 - 19:45hBirth place:BialogardCountry:PL, PolandAge:65 years",r_presidents
+Napoléon_III,"Gender:MaleDate of Birth:20 April  1808 - 01:00hBirth place:ParisCountry:FR, FranceAge:† 64 years",r_presidents
+António_Salazar,"Gender:MaleDate of Birth:28 April  1889 - 15:00hBirth place:VimieiroCountry:PT, PortugalAge:† 81 years",r_presidents
+Frederick_W._Smith,"Gender:MaleDate of Birth:11 August  1944Birth place:Marks, MississippiCountry:US, United StatesAge:75 years",r_presidents
+Xi_Jinping,"Gender:MaleDate of Birth:15 June  1953Birth place:BeijingCountry:CN, ChinaAge:66 years",r_presidents
+Viktor_Yanukovych,"Gender:MaleDate of Birth:9 July  1950 - 12:15hBirth place:YenakijeveCountry:UA, UkraineAge:69 years",r_presidents
+Viktor_Yushchenko,"Gender:MaleDate of Birth:23 February  1954 - 09:30hBirth place:KhoruzhivkaCountry:UA, UkraineAge:66 years",r_presidents
+Dmitry_Medvedev,"Gender:MaleDate of Birth:14 September  1965Birth place:Saint PetersburgCountry:RU, RussiaAge:54 years",r_presidents
+Bashar_al-Assad,"Gender:MaleDate of Birth:11 September  1965Birth place:DamascusCountry:SY, SyriaAge:54 years",r_presidents
+Zayed_bin_Sultan_Al_Nahyan,"Gender:MaleDate of Birth:6 May  1918Birth place:Al AinCountry:AE, United Arab EmiratesAge:† 86 years",r_presidents
+Khalifa_bin_Zayed_Al_Nahyan,"Gender:MaleDate of Birth:25 January  1948Birth place:Abu DhabiCountry:AE, United Arab EmiratesAge:72 years",r_presidents
+Mohammed_bin_Rashid_Al_Maktoum,"Gender:MaleDate of Birth:22 July  1949Birth place:DubajCountry:AE, United Arab EmiratesAge:70 years",r_presidents
+Hassan_Rouhani,"Gender:MaleDate of Birth:12 November  1948Birth place:SorcheCountry:IR, IranAge:71 years",r_presidents
+Abd_Rabbuh_Mansur_Hadi,"Gender:MaleDate of Birth:1 September  1945Birth place:AbyanCountry:YE, YemenAge:74 years",r_presidents
+Andrzej_Duda,"Gender:MaleDate of Birth:16 May  1972Birth place:KrakówCountry:PL, PolandAge:47 years",r_presidents
+Tsai_Ing-wen,"Gender:FemaleDate of Birth:31 August  1956Birth place:TaipeiCountry:TW, TaiwanAge:63 years",r_presidents
+Hafez_al-Assad,"Gender:MaleDate of Birth:6 October  1930Birth place:QardahaCountry:SY, SyriaAge:† 69 years",r_presidents
+Maher_al-Assad,"Gender:MaleDate of Birth:8 December  1967Birth place:DamascusCountry:SY, SyriaAge:52 years",r_presidents
+Ólafur_Ragnar_Grímsson,"Gender:MaleDate of Birth:14 May  1943Birth place:ÍsafjörðurCountry:IS, IcelandAge:76 years",r_presidents
+Melania_Trump,"Gender:FemaleDate of Birth:27 April  1970Birth place:Novo mestoCountry:SI, SloveniaAge:49 years",r_presidents
+Chris_Brennan,"Gender:MaleDate of Birth:1 November  1984 - 13:28hBirth place:Aurora, ColoradoCountry:US, United StatesAge:35 years",r_presidents
+Jean-Claude_Juncker,"Gender:MaleDate of Birth:9 December  1954Birth place:Redange-sur-AttertCountry:LU, LuxembourgAge:65 years",r_presidents
+Zuzana_Čaputová,"Gender:FemaleBirth:*1973Country:SK, SlovakiaAge:46 years",r_presidents
+Marla_Maples,"Gender:FemaleDate of Birth:27 October  1963 - 11:49hBirth place:Dalton, GeorgiaCountry:US, United StatesAge:56 years",r_presidents
+Gerald_Ford,"Gender:MaleDate of Birth:14 July  1913 - 00:43hBirth place:OmahaCountry:US, United StatesAge:† 93 years",r_presidents
+Augusto_Pinochet,"Gender:MaleDate of Birth:25 November  1915 - 19:30hBirth place:ValparaísoCountry:CL, ChileAge:† 91 years",r_presidents
+Paul_von_Hindenburg,"Gender:MaleDate of Birth:2 October  1847 - 15:00hBirth place:PoznańCountry:PL, PolandAge:† 86 years",r_presidents
+John_Quincy_Adams,"Gender:MaleDate of Birth:11 July  1767 - 11:00hBirth place:Quincy NeckCountry:US, United StatesAge:† 80 years",r_presidents
+Martin_Van_Buren,"Gender:MaleDate of Birth:5 December  1782 - 07:28hBirth place:KinderhookCountry:US, United StatesAge:† 79 years",r_presidents
+Zachary_Taylor,"Gender:MaleDate of Birth:24 November  1784 - 10:56hBirth place:Barboursville, VirginiaCountry:US, United StatesAge:† 65 years",r_presidents
+John_Tyler,"Gender:MaleDate of Birth:29 March  1790 - 05:47hBirth place:Greenway CourtCountry:US, United StatesAge:† 71 years",r_presidents
+James_K._Polk,"Gender:MaleDate of Birth:2 November  1795 - 12:00hBirth place:PinevilleCountry:US, United StatesAge:† 53 years",r_presidents
+Millard_Fillmore,"Gender:MaleDate of Birth:7 January  1800 - 05:50hBirth place:Summerhill, New YorkCountry:US, United StatesAge:† 74 years",r_presidents
+Ulysses_S._Grant,"Gender:MaleDate of Birth:27 April  1822 - 05:47hBirth place:Point Pleasant, OhioCountry:US, United StatesAge:† 63 years",r_presidents
+Rutherford_B._Hayes,"Gender:MaleDate of Birth:4 October  1822 - 21:30hBirth place:Delaware, OhioCountry:US, United StatesAge:† 70 years",r_presidents
+Chester_A._Arthur,"Gender:MaleDate of Birth:5 October  1829 - 06:08hBirth place:FairfieldCountry:US, United StatesAge:† 57 years",r_presidents
+Grover_Cleveland,"Gender:MaleDate of Birth:18 March  1837 - 11:32hBirth place:Caldwell, New JerseyCountry:US, United StatesAge:† 71 years",r_presidents
+William_McKinley,"Gender:MaleDate of Birth:29 January  1843 - 23:43hBirth place:Niles, OhioCountry:US, United StatesAge:† 58 years",r_presidents
+William_Howard_Taft,"Gender:MaleDate of Birth:15 September  1857 - 20:00hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 72 years",r_presidents
+Warren_G._Harding,"Gender:MaleDate of Birth:2 November  1865 - 14:30hBirth place:Blooming Grove, OhioCountry:US, United StatesAge:† 57 years",r_presidents
+Calvin_Coolidge,"Gender:MaleDate of Birth:4 July  1872 - 09:00hBirth place:PlymouthCountry:US, United StatesAge:† 60 years",r_presidents
+François_Mitterrand,"Gender:MaleDate of Birth:26 October  1916 - 04:00hBirth place:JarnacCountry:FR, FranceAge:† 79 years",r_presidents
+Anwar_Sadat,"Gender:MaleDate of Birth:25 December  1918 - 03:41hBirth place:Mit Abu El KomCountry:EG, EgyptAge:† 62 years",r_presidents
+Giorgio_Napolitano,"Gender:MaleDate of Birth:29 June  1925 - 05:30hBirth place:NaplesCountry:IT, Italy",r_presidents
+Dana_White,"Gender:MaleDate of Birth:28 July  1969 - 15:02hBirth place:Manchester, ConnecticutCountry:US, United StatesAge:50 years",r_presidents
+John_II_Adams,"Gender:MaleDate of Birth:4 July  1803 - 03:00hBirth place:Quincy, MassachusettsCountry:US, United StatesAge:† 31 years",r_presidents
+Spiro_Agnew,"Gender:MaleDate of Birth:9 November  1918 - 09:00hBirth place:Forest Hill, MarylandCountry:US, United StatesAge:† 77 years",r_presidents
+Abdel_Fattah_el-Sisi,"Gender:MaleDate of Birth:19 November  1954 - 13:00hBirth place:CairoCountry:EG, EgyptAge:65 years",r_presidents
+Vincent_Auriol,"Gender:MaleDate of Birth:27 August  1884 - 18:00hBirth place:RevelCountry:FR, FranceAge:† 81 years",r_presidents
+Manuel_Azana_Y_Diaz,"Gender:MaleDate of Birth:10 January  1880 - 11:30hBirth place:Alcala de HenaresCountry:ES, SpainAge:† 60 years",r_presidents
+Michelle_Bachelet,"Gender:FemaleDate of Birth:29 September  1951 - 00:30hBirth place:SantiagoCountry:CL, ChileAge:68 years",r_presidents
+Alben_Barkley,"Gender:MaleDate of Birth:24 November  1877 - 03:30hBirth place:Wheel, KentuckyCountry:US, United StatesAge:† 78 years",r_presidents
+Sepp_Blatter,"Gender:MaleDate of Birth:10 March  1936 - 16:10hBirth place:VispCountry:CH, SwitzerlandAge:84 years",r_presidents
+Desi_Bouterse,"Gender:MaleDate of Birth:13 October  1945 - 07:05hBirth place:Dornburg, HesseCountry:DE, GermanyAge:74 years",r_presidents
+James_Brady,"Gender:MaleDate of Birth:29 August  1940 - 19:05hBirth place:Centralia, IllinoisCountry:US, United StatesAge:† 73 years",r_presidents
+Lazaro_Cardenas_De_Rio,"Gender:MaleDate of Birth:21 May  1895 - 10:15hBirth place:Jiquilpan, MichoacánCountry:MX, MexicoAge:† 75 years",r_presidents
+Fernando_Cardoso,"Gender:MaleDate of Birth:18 June  1931 - 00:15hBirth place:Rio de JaneiroCountry:BR, BrazilAge:88 years",r_presidents
+Sadi_Carnot,"Gender:MaleDate of Birth:11 August  1837 - 18:00hBirth place:LimogesCountry:FR, FranceAge:† 56 years",r_presidents
+Jean_Casimir-Perier,"Gender:MaleDate of Birth:8 November  1847 - 08:00hBirth place:ParisCountry:FR, FranceAge:† 59 years",r_presidents
+Carlo_Ciampi,"Gender:MaleDate of Birth:9 December  1920 - 21:30hBirth place:LivornoCountry:IT, ItalyAge:† 95 years",r_presidents
+René_Coty,"Gender:MaleDate of Birth:20 March  1882 - 04:00hBirth place:Le HavreCountry:FR, FranceAge:† 80 years",r_presidents
+Enrico_De_Nicola,"Gender:MaleDate of Birth:9 November  1877 - 18:00hBirth place:NaplesCountry:IT, ItalyAge:† 81 years",r_presidents
+Fernando_de_la_Rua,"Gender:MaleDate of Birth:15 September  1937 - 18:15hBirth place:CórdobaCountry:AR, ArgentinaAge:82 years",r_presidents
+Paul_Deschanel,"Gender:MaleDate of Birth:13 February  1855 - 11:00hBirth place:SchaerbeekCountry:BE, BelgiumAge:† 67 years",r_presidents
+Luigi_Einaudi,"Gender:MaleDate of Birth:24 March  1874 - 13:00hBirth place:CarrùCountry:IT, ItalyAge:† 87 years",r_presidents
+Félix_Faure,"Gender:MaleDate of Birth:30 January  1841 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 58 years",r_presidents
+Henry_II_Ford,"Gender:MaleDate of Birth:4 September  1917 - 18:00hBirth place:Detroit, MichiganCountry:US, United StatesAge:† 70 years",r_presidents
+Roberto_Formigoni,"Gender:MaleDate of Birth:30 March  1947 - 01:00hBirth place:LeccoCountry:IT, ItalyAge:73 years",r_presidents
+Vincente_Fox,"Gender:MaleDate of Birth:2 July  1942 - 09:45hBirth place:Mexico CityCountry:MX, MexicoAge:77 years",r_presidents
+Alberto_Fujimori,"Gender:MaleDate of Birth:28 July  1938 - 01:20hBirth place:LimaCountry:PE, PeruAge:81 years",r_presidents
+Francisco_da_Costa_Gomes,"Gender:MaleDate of Birth:30 June  1914 - 22:00hBirth place:ChavesCountry:PT, PortugalAge:† 87 years",r_presidents
+Félix_Gouin,"Gender:MaleDate of Birth:4 October  1884 - 05:00hBirth place:PeypinCountry:FR, FranceAge:† 93 years",r_presidents
+Jules_Grévy,"Gender:MaleDate of Birth:15 August  1807 - 23:00hBirth place:Mont-sous-VaudreyCountry:FR, FranceAge:† 84 years",r_presidents
+Xanana_Gusmao,"Gender:MaleDate of Birth:21 June  1946 - 00:10hBirth place:DiliCountry:TL, East TimorAge:73 years",r_presidents
+Michael_Hainisch,"Gender:MaleDate of Birth:15 August  1858 - 12:00hBirth place:GloggnitzCountry:AT, AustriaAge:† 81 years",r_presidents
+Tarja_Halonen,"Gender:FemaleDate of Birth:24 December  1943 - 19:20hBirth place:HelsinkiCountry:FI, FinlandAge:76 years",r_presidents
+John_Hinckley,"Gender:MaleDate of Birth:29 May  1955 - 23:42hBirth place:Ardmore, OklahomaCountry:US, United StatesAge:64 years",r_presidents
+Albert_Lebrun,"Gender:MaleDate of Birth:29 August  1871 - 14:30hBirth place:Mercy-le-HautCountry:FR, FranceAge:† 78 years",r_presidents
+Giovanni_Leone,"Gender:MaleDate of Birth:3 November  1908 - 00:30hBirth place:NaplesCountry:IT, ItalyAge:† 93 years",r_presidents
+Patrice_Maurice_Mac-Mahon,"Gender:MaleDate of Birth:13 June  1808 - 12:00hBirth place:Sully-sur-LoireCountry:FR, FranceAge:† 85 years",r_presidents
+Kamisese_Mara,"Gender:MaleDate of Birth:6 May  1920 - 15:00hBirth place:LomalomaCountry:FJ, FijiAge:† 83 years",r_presidents
+Edwin_Meese,"Gender:MaleDate of Birth:2 December  1931 - 03:29hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:88 years",r_presidents
+Carlos_Menem_Akil,"Gender:MaleDate of Birth:2 July  1930 - 06:20hBirth place:AnillacoCountry:AR, ArgentinaAge:89 years",r_presidents
+Alexandre_Millerand,"Gender:MaleDate of Birth:10 February  1859 - 19:00hBirth place:ParisCountry:FR, FranceAge:† 84 years",r_presidents
+Hosni_Mubarak,"Gender:MaleDate of Birth:4 May  1928 - 10:15hBirth place:Kafr El-ZayatCountry:EG, EgyptAge:† 91 years",r_presidents
+Alan_R._Mulally,"Gender:MaleDate of Birth:4 August  1945Birth place:Oakland, CaliforniaCountry:US, United StatesAge:74 years",r_presidents
+Gamal_Abdel_Nasser,"Gender:MaleDate of Birth:15 January  1918 - 04:28hBirth place:AlexandriaCountry:EG, EgyptAge:† 52 years",r_presidents
+Sylvanus_Olympio,"Gender:MaleDate of Birth:6 September  1902 - 21:00hBirth place:LoméCountry:TG, TogoAge:† 60 years",r_presidents
+Lee_Harvey_Oswald,"Gender:MaleDate of Birth:18 October  1939 - 21:55hBirth place:New Orleans, LouisianaCountry:US, United StatesAge:† 24 years",r_presidents
+Isabel_Perón,"Gender:FemaleDate of Birth:4 February  1931 - 19:50hBirth place:La RiojaCountry:AR, ArgentinaAge:89 years",r_presidents
+Sandro_Pertini,"Gender:MaleDate of Birth:25 September  1896 - 17:00hBirth place:StellaCountry:IT, ItalyAge:† 93 years",r_presidents
+Raymond_Poincaré,"Gender:MaleDate of Birth:20 August  1860 - 17:00hBirth place:Bar-le-DucCountry:FR, FranceAge:† 74 years",r_presidents
+Fidel_V._Ramos,"Gender:MaleDate of Birth:18 March  1928 - 09:00hBirth place:LingayenCountry:PH, PhilippinesAge:92 years",r_presidents
+Johannes_Rau,"Gender:MaleDate of Birth:16 January  1931 - 05:00hBirth place:WuppertalCountry:DE, GermanyAge:† 75 years",r_presidents
+Syngman_Rhee,"Gender:MaleDate of Birth:26 March  1875 - 00:01hBirth place:HaejuCountry:KP, North KoreaAge:† 90 years",r_presidents
+Mary_Robinson,"Gender:FemaleDate of Birth:21 May  1944 - 02:30hBirth place:BallinaCountry:IE, IrelandAge:75 years",r_presidents
+Julio_Maria_Sanguinetti,"Gender:MaleDate of Birth:6 January  1936 - 02:00hBirth place:MontevideoCountry:UY, UruguayAge:84 years",r_presidents
+John_Crittenden_Sawhill,"Gender:MaleDate of Birth:12 June  1936 - 14:10hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 63 years",r_presidents
+Antonio_Segni,"Gender:MaleDate of Birth:2 February  1891 - 09:00hBirth place:SassariCountry:IT, ItalyAge:† 81 years",r_presidents
+Anibal_Silva,"Gender:MaleDate of Birth:15 July  1939 - 08:30hBirth place:BoliqueimeCountry:PT, PortugalAge:80 years",r_presidents
+Achmed_Sukarno,"Gender:MaleDate of Birth:6 June  1901 - 06:00hBirth place:SurabayaCountry:ID, IndonesiaAge:† 69 years",r_presidents
+Curtis_William_Tarr,"Gender:MaleDate of Birth:18 September  1924 - 20:55hBirth place:Stockton, CaliforniaCountry:US, United StatesAge:† 88 years",r_presidents
+Adolphe_Thiers,"Gender:MaleDate of Birth:15 April  1797 - 05:00hBirth place:MarseilleCountry:FR, FranceAge:† 80 years",r_presidents
+Jack_Valenti,"Gender:MaleDate of Birth:5 September  1921 - 20:30hBirth place:Houston, TexasCountry:US, United StatesAge:† 85 years",r_presidents
+Getulio_Dorneles_Vargas,"Gender:MaleDate of Birth:19 April  1883 - 23:43hBirth place:São BorjaCountry:BR, BrazilAge:† 71 years",r_presidents
+Eric_Arthur_Walker,"Gender:MaleDate of Birth:29 April  1910 - 04:00hBirth place:Long Eaton, EnglandCountry:GB, United KingdomAge:† 84 years",r_presidents
+Chaim_Weizmann,"Gender:MaleDate of Birth:27 November  1874 - 20:30hBirth place:MotalCountry:BY, BelarusAge:† 77 years",r_presidents
+Brigham_Young,"Gender:MaleDate of Birth:1 June  1801 - 11:00hBirth place:Whitingham, VermontCountry:US, United StatesAge:† 76 years",r_presidents
+Ernesto_Zedillo,"Gender:MaleDate of Birth:27 December  1951 - 16:30hBirth place:Mexico CityCountry:MX, MexicoAge:68 years",r_presidents
+Jared_Kushner,"Gender:MaleDate of Birth:10 January  1981Birth place:Livingston, New JerseyCountry:US, United StatesAge:39 years",r_presidents
+Ludvík_Svoboda,"Gender:MaleDate of Birth:25 November  1895Birth place:HroznatínCountry:CZ, Czech RepublicAge:† 83 years",r_presidents
+Miloš_Zeman,"Gender:MaleBirth:*1944Country:CZ, Czech RepublicAge:75 years",r_presidents
+Edvard_Beneš,"Gender:MaleDate of Birth:28 May  1884 - 05:00hBirth place:KožlanyCountry:CZ, Czech RepublicAge:† 64 years",r_presidents
+Gustáv_Husák,"Gender:MaleDate of Birth:10 January  1913Birth place:Dúbravka-BratislavaCountry:SK, SlovakiaAge:† 78 years",r_presidents
+Klement_Gottwald,"Gender:MaleDate of Birth:23 November  1896 - 07:00hBirth place:DědiceCountry:CZ, Czech RepublicAge:† 56 years",r_presidents
+Hiroshi_Yamauchi,"Gender:MaleDate of Birth:7 November  1927Birth place:KyotoCountry:JP, JapanAge:† 85 years",r_presidents
+Heinz_Fischer,"Gender:MaleDate of Birth:9 October  1938Birth place:GrazCountry:AT, AustriaAge:81 years",r_presidents
+Max_Mosley,"Gender:MaleDate of Birth:13 April  1940Birth place:London, EnglandCountry:GB, United KingdomAge:79 years",r_presidents
+Ivan_Gašparovič,"Gender:MaleBirth:*1941Country:SK, SlovakiaAge:79 years",r_presidents
+Charles_Taylor,"Gender:MaleDate of Birth:28 January  1948Birth place:ArthingtonCountry:LR, LiberiaAge:72 years",r_presidents
+John_Paulson,"Gender:MaleDate of Birth:14 December  1955Birth place:Queens, New YorkCountry:US, United StatesAge:64 years",r_presidents
+Raúl_Castro,"Gender:MaleDate of Birth:3 June  1931Birth place:BiránCountry:CU, CubaAge:88 years",r_presidents
+Florence_Harding,"Gender:FemaleDate of Birth:15 August  1860Birth place:Marion, OhioCountry:US, United StatesAge:† 64 years",r_presidents
+Hamid_Karzai,"Gender:MaleDate of Birth:24 December  1957Birth place:KandahárCountry:AF, AfghanistanAge:62 years",r_presidents
+Adly_Mansour,"Gender:MaleDate of Birth:23 December  1945Birth place:CairoCountry:EG, EgyptAge:74 years",r_presidents
+Joseph-Désiré_Mobutu,"Gender:MaleDate of Birth:14 October  1930Birth place:LisalaCountry:CD, Democratic Republic of the CongoAge:† 66 years",r_presidents
+Mohamed_Morsi,"Gender:MaleDate of Birth:8 August  1951Birth place:Al IdwahCountry:EG, EgyptAge:68 years",r_presidents
+Pervez_Musharraf,"Gender:MaleDate of Birth:22 July  1945Birth place:New DelhiCountry:IN, IndiaAge:74 years",r_presidents
+Karl_Renner,"Gender:MaleDate of Birth:14 December  1870 - 08:10hBirth place:Dolní DunajoviceCountry:CZ, Czech RepublicAge:† 80 years",r_presidents
+Luiz_Inacio_da_Silva,"Gender:MaleDate of Birth:27 October  1945Birth place:São PauloCountry:BR, BrazilAge:74 years",r_presidents
+Lord_Burghley,"Gender:MaleDate of Birth:9 February  1905Birth place:Stamford, EnglandCountry:GB, United KingdomAge:† 76 years",r_presidents
+Ivan_Hašek,"Gender:MaleBirth:*1963Country:CZ, Czech RepublicAge:56 years",r_presidents
+Ladislav_Kuna,"Gender:MaleBirth:*1947Country:CZ, Czech RepublicAge:73 years",r_presidents
+Mahmoud_Ahmadinejad,"Gender:MaleDate of Birth:28 October  1956Birth place:GhamsarCountry:IR, IranAge:63 years",r_presidents
+Vagit_Alekperov,"Gender:MaleDate of Birth:1 September  1950Birth place:BakuCountry:AZ, AzerbaijanAge:69 years",r_presidents
+Hana_Benešová,"Gender:FemaleDate of Birth:16 July  1885Birth place:DomaslaviceCountry:CZ, Czech RepublicAge:† 89 years",r_presidents
+Lu_Guanqiu,"Gender:MaleDate of Birth:1 January  1945Birth place:HangzhouCountry:CN, ChinaAge:75 years",r_presidents
+Joseph_Bruce_Ismay,"Gender:MaleDate of Birth:12 December  1862Birth place:Crosby, EnglandCountry:GB, United KingdomAge:† 74 years",r_presidents
+Livia_Klausová,"Gender:FemaleBirth:*1943Country:SK, SlovakiaAge:76 years",r_presidents
+Herbert_Kohler_Jr,"Gender:MaleDate of Birth:20 February  1939Country:US, United StatesAge:81 years",r_presidents
+Rodrigo_Rato,"Gender:MaleDate of Birth:18 March  1949Birth place:MadridCountry:ES, SpainAge:71 years",r_presidents
+Emil_Hácha,"Gender:MaleDate of Birth:12 July  1872Birth place:Trhové SvinyCountry:CZ, Czech RepublicAge:† 72 years",r_presidents
+Horst_Köhler,"Gender:FemaleDate of Birth:22 February  1943Birth place:SkierbieszówCountry:PL, PolandAge:77 years",r_presidents
+Jozef_Tiso,"Gender:MaleDate of Birth:13 October  1887Birth place:BytčaCountry:SK, SlovakiaAge:† 59 years",r_presidents
+Filip_Vujanović,"Gender:MaleDate of Birth:1 September  1954Birth place:BelgradeCountry:RS, SerbiaAge:65 years",r_presidents
+André_Balazs,"Gender:MaleDate of Birth:31 January  1957Birth place:BudapestCountry:HU, HungaryAge:63 years",r_presidents
+Vasily_Aleksanyan,"Gender:MaleDate of Birth:15 December  1971Birth place:MoscowCountry:RU, RussiaAge:† 39 years",r_presidents
+Mustafa_Kemal_Atatürk,"Gender:MaleDate of Birth:19 May  1881Birth place:ThessalonikiCountry:GR, GreeceAge:† 57 years",r_presidents
+René_Harris,"Gender:MaleDate of Birth:11 November  1947Birth place:NauruCountry:NR, NauruAge:† 60 years",r_presidents
+Andrej_Kiska,"Gender:MaleBirth:*1963Country:SK, SlovakiaAge:57 years",r_presidents
+Václav_Klaus_Jr.,"Gender:MaleBirth:*1969Country:CZ, Czech RepublicAge:50 years",r_presidents
+Antonín_Novotný,"Gender:MaleDate of Birth:10 December  1904Birth place:PragueCountry:CZ, Czech RepublicAge:† 70 years",r_presidents

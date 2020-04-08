@@ -1,0 +1,719 @@
+name,info,occupation
+Pier_Paolo_Pasolini,"Gender:MaleDate of Birth:5 March  1922 - 06:30hBirth place:BolognaCountry:IT, ItalyAge:† 53 years",r_poets
+Bob_Dylan,"Gender:MaleDate of Birth:24 May  1941 - 21:05hBirth place:Duluth, MinnesotaCountry:US, United StatesAge:78 years",r_poets
+Jacques_Brel,"Gender:MaleDate of Birth:8 April  1929 - 03:00hBirth place:SchaerbeekCountry:BE, BelgiumAge:† 49 years",r_poets
+Vladimir_Vysotsky,"Gender:MaleDate of Birth:25 January  1938 - 09:40hBirth place:MoscowCountry:RU, RussiaAge:† 42 years",r_poets
+Leonard_Cohen,"Gender:MaleDate of Birth:21 September  1934 - 06:45hBirth place:Montreal, QuébecCountry:CA, CanadaAge:† 82 years",r_poets
+Jim_Morrison,"Gender:MaleDate of Birth:8 December  1943 - 11:55hBirth place:Melbourne Beach, FloridaCountry:US, United StatesAge:† 27 years",r_poets
+Tristan_Tzara,"Gender:MaleDate of Birth:28 April  1896 - 23:30h(gregor.)Birth place:MoineştiCountry:RO, RomaniaAge:† 67 years",r_poets
+André_Breton,"Gender:MaleDate of Birth:19 February  1896 - 22:00hBirth place:TinchebrayCountry:FR, FranceAge:† 70 years",r_poets
+Vladimir_Mayakovsky,"Gender:MaleDate of Birth:19 July  1893 - 14:36h(gregor.)Birth place:KutaisiCountry:GE, GeorgiaAge:† 36 years",r_poets
+Lou_Reed,"Gender:MaleDate of Birth:2 March  1942Birth place:Freeport, New YorkCountry:US, United StatesAge:† 71 years",r_poets
+Charles_Bukowski,"Gender:MaleDate of Birth:16 August  1920 - 22:00hBirth place:AndernachCountry:DE, GermanyAge:† 73 years",r_poets
+Jack_Kerouac,"Gender:MaleDate of Birth:12 March  1922 - 17:00hBirth place:Lowell, MassachusettsCountry:US, United StatesAge:† 47 years",r_poets
+Allen_Ginsberg,"Gender:MaleDate of Birth:3 June  1926 - 02:00hBirth place:Newark, New JerseyCountry:US, United StatesAge:† 70 years",r_poets
+Serj_Tankian,"Gender:MaleDate of Birth:21 August  1967Birth place:BeirutCountry:LB, LebanonAge:52 years",r_poets
+Alessandro_Manzoni,"Gender:MaleDate of Birth:7 March  1785 - 08:00hBirth place:MilanoCountry:IT, ItalyAge:† 88 years",r_poets
+C._S._Lewis,"Gender:MaleDate of Birth:29 November  1898Birth place:Belfast, Northern IrelandCountry:GB, United KingdomAge:† 64 years",r_poets
+Boris_Leonidovich_Pasternak,"Gender:MaleDate of Birth:10 February  1890 - 16:00hBirth place:MoscowCountry:RU, RussiaAge:† 70 years",r_poets
+Guillaume_Apollinaire,"Gender:MaleDate of Birth:26 August  1880 - 05:00hBirth place:RomeCountry:IT, ItalyAge:† 38 years",r_poets
+Thomas_Hardy,"Gender:MaleDate of Birth:2 June  1840 - 08:00hBirth place:Upper BuckhamptonCountry:GB, United KingdomAge:† 87 years",r_poets
+Edgar_Allan_Poe,"Gender:MaleDate of Birth:19 January  1809 - 01:00hBirth place:Boston, MassachusettsCountry:US, United StatesAge:† 40 years",r_poets
+Rudyard_Kipling,"Gender:MaleDate of Birth:30 December  1865 - 22:00hBirth place:MumbaiCountry:IN, IndiaAge:† 70 years",r_poets
+Robert_Louis_Stevenson,"Gender:MaleDate of Birth:13 November  1850 - 13:30hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 44 years",r_poets
+Henrik_Ibsen,"Gender:MaleDate of Birth:20 March  1828 - 14:45hBirth place:SkienCountry:NO, NorwayAge:† 78 years",r_poets
+William_Faulkner,"Gender:MaleDate of Birth:25 September  1897 - 23:00hBirth place:New AlbanyCountry:US, United StatesAge:† 64 years",r_poets
+Tennessee_Williams,"Gender:MaleDate of Birth:26 March  1911 - 02:30hBirth place:Columbus, MississippiCountry:US, United StatesAge:† 71 years",r_poets
+Jacques_Prévert,"Gender:MaleDate of Birth:4 February  1900 - 19:00hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:† 77 years",r_poets
+Victor_Hugo,"Gender:MaleDate of Birth:26 February  1802 - 22:30hBirth place:BesançonCountry:FR, FranceAge:† 83 years",r_poets
+Johann_Wolfgang_von_Goethe,"Gender:MaleDate of Birth:28 August  1749 - 12:30hBirth place:FrankfurtCountry:DE, GermanyAge:† 82 years",r_poets
+John_Updike,"Gender:MaleDate of Birth:18 March  1932 - 15:45hBirth place:ShillingtonCountry:US, United StatesAge:† 76 years",r_poets
+Alfred_de_Musset,"Gender:MaleDate of Birth:11 December  1810 - 11:00hBirth place:ParisCountry:FR, FranceAge:† 46 years",r_poets
+William_Butler_Yeats,"Gender:MaleDate of Birth:13 June  1865 - 22:40hBirth place:SandymountCountry:IE, IrelandAge:† 73 years",r_poets
+Friedrich_von_Schiller,"Gender:MaleDate of Birth:10 November  1759 - 08:00hBirth place:Marbach am NeckarCountry:DE, GermanyAge:† 45 years",r_poets
+Walter_Scott,"Gender:MaleDate of Birth:15 August  1771 - 10:00hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 61 years",r_poets
+Lord_Byron,"Gender:MaleDate of Birth:22 January  1788 - 14:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 36 years",r_poets
+Percy_Bysshe_Shelley,"Gender:MaleDate of Birth:4 August  1792 - 22:00hBirth place:Horsham, EnglandCountry:GB, United KingdomAge:† 29 years",r_poets
+Heinrich_Heine,"Gender:MaleDate of Birth:13 December  1797 - 15:20hBirth place:DüsseldorfCountry:DE, GermanyAge:† 58 years",r_poets
+Charles_Baudelaire,"Gender:MaleDate of Birth:9 April  1821 - 15:00hBirth place:ParisCountry:FR, FranceAge:† 46 years",r_poets
+Sándor_Petőfi,"Gender:MaleDate of Birth:1 January  1823 - 00:00hBirth place:KiskőrösCountry:HU, HungaryAge:† 26 years",r_poets
+Paul_Verlaine,"Gender:MaleDate of Birth:30 March  1844 - 21:00hBirth place:MetzCountry:FR, FranceAge:† 51 years",r_poets
+Paul_Claudel,"Gender:MaleDate of Birth:6 August  1868 - 04:00hBirth place:Villeneuve-sur-FèreCountry:FR, FranceAge:† 86 years",r_poets
+Filippo_Tommaso_Marinetti,"Gender:MaleDate of Birth:22 December  1876 - 12:30hBirth place:AlexandriaCountry:EG, EgyptAge:† 67 years",r_poets
+Alexander_Blok,"Gender:MaleDate of Birth:28 November  1880 - 09:30h(gregor.)Birth place:St PetersburgCountry:RU, RussiaAge:† 40 years",r_poets
+James_Joyce,"Gender:MaleDate of Birth:2 February  1882 - 06:00hBirth place:DublinCountry:IE, IrelandAge:† 58 years",r_poets
+T._S._Eliot,"Gender:MaleDate of Birth:26 September  1888 - 07:45hBirth place:St. Louis, MissouriCountry:US, United StatesAge:† 76 years",r_poets
+Neal_Cassady,"Gender:MaleDate of Birth:8 February  1926 - 02:05hBirth place:Salt Lake City, UtahCountry:US, United StatesAge:† 41 years",r_poets
+William_Blake,"Gender:MaleDate of Birth:28 November  1757 - 19:45hBirth place:London, EnglandCountry:GB, United KingdomAge:† 69 years",r_poets
+Thomas_Moore,"Gender:MaleDate of Birth:28 May  1779 - 19:00hBirth place:DublinCountry:IE, IrelandAge:† 72 years",r_poets
+Alfred_de_Vigny,"Gender:MaleDate of Birth:27 March  1797 - 22:00hBirth place:LochesCountry:FR, FranceAge:† 66 years",r_poets
+Robert_Bly,"Gender:MaleDate of Birth:23 December  1926 - 07:20hBirth place:Madison, MinnesotaCountry:US, United StatesAge:93 years",r_poets
+Robert_Browning,"Gender:MaleDate of Birth:7 May  1812 - 22:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 77 years",r_poets
+Thomas_Chatterton,"Gender:MaleDate of Birth:20 November  1752 - 06:14hBirth place:London, EnglandCountry:GB, United KingdomAge:† 17 years",r_poets
+Lawrence_Ferlinghetti,"Gender:MaleDate of Birth:24 March  1919 - 19:30hBirth place:Yonkers, New YorkCountry:US, United States",r_poets
+Kahlil_Gibran,"Gender:MaleDate of Birth:6 January  1883 - 04:00hBirth place:BcharreCountry:LB, LebanonAge:† 48 years",r_poets
+Radovan_Karadzic,"Gender:MaleDate of Birth:19 June  1945Birth place:PetnjicaCountry:ME, MontenegroAge:74 years",r_poets
+John_Keats,"Gender:MaleDate of Birth:31 October  1795Birth place:London, EnglandCountry:GB, United KingdomAge:† 25 years",r_poets
+D._H._Lawrence,"Gender:MaleDate of Birth:11 September  1885 - 09:45hBirth place:Eastwood, EnglandCountry:GB, United KingdomAge:† 44 years",r_poets
+James_Russell_Lowell,"Gender:MaleDate of Birth:22 February  1819 - 09:45hBirth place:Cambridge, MassachusettsCountry:US, United StatesAge:† 72 years",r_poets
+Gérard_de_Nerval,"Gender:MaleDate of Birth:22 May  1808 - 20:00hBirth place:ParisCountry:FR, FranceAge:† 46 years",r_poets
+Giovanni_Pascoli,"Gender:MaleDate of Birth:31 December  1855 - 18:30hBirth place:LatisanaCountry:IT, ItalyAge:† 56 years",r_poets
+D._G._Rossetti,"Gender:MaleDate of Birth:12 May  1828 - 04:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 53 years",r_poets
+Alan_Watts,"Gender:MaleDate of Birth:6 January  1915 - 06:20hBirth place:Chislehurst, EnglandCountry:GB, United KingdomAge:† 58 years",r_poets
+Sergei_Yesenin,"Gender:MaleDate of Birth:3 October  1895Birth place:KonstantinovoCountry:RU, RussiaAge:† 30 years",r_poets
+Ivan_Andrejevič_Krylov,"Gender:MaleDate of Birth:13 February  1769Birth place:MoscowCountry:RU, RussiaAge:† 75 years",r_poets
+Taras_Shevchenko,"Gender:MaleDate of Birth:9 March  1814Birth place:MoryntsiCountry:UA, UkraineAge:† 47 years",r_poets
+Zdena_Wolkerová,"Gender:FemaleDate of Birth:4 January  1879Country:CE, CZSKAge:† 75 years",r_poets
+Miguel_de_Cervantes,"Gender:MaleDate of Birth:9 October  1547(gregor.)Birth place:Alcala de HenaresCountry:ES, SpainAge:† 68 years",r_poets
+John_Betjeman,"Gender:MaleDate of Birth:28 August  1906Birth place:London, EnglandCountry:GB, United KingdomAge:† 77 years",r_poets
+Michelangelo_Buonarroti,"Gender:MaleDate of Birth:15 March  1475 - 01:45h(gregor.)Birth place:Caprese MichelangeloCountry:IT, ItalyAge:† 88 years",r_poets
+Dante_Alighieri,"Gender:MaleDate of Birth:6 June  1265 - 04:33h(gregor.)Birth place:FlorenceCountry:IT, ItalyAge:† 55 years",r_poets
+Petrarch,"Gender:MaleDate of Birth:28 July  1304 - 04:33h(gregor.)Birth place:ArezzoCountry:IT, ItalyAge:† 69 years",r_poets
+William_Shakespeare,"Gender:MaleDate of Birth:3 May  1564 - 08:30h(gregor.)Birth place:Stratford-upon-Avon, EnglandCountry:GB, United KingdomAge:† 52 years",r_poets
+Paul_Éluard,"Gender:MaleDate of Birth:14 December  1895 - 11:00hBirth place:Saint-DenisCountry:FR, FranceAge:† 56 years",r_poets
+Georges_Brassens,"Gender:MaleDate of Birth:22 October  1921 - 18:00hBirth place:SèteCountry:FR, FranceAge:† 60 years",r_poets
+Kingsley_Amis,"Gender:MaleDate of Birth:16 April  1922Birth place:London, EnglandCountry:GB, United KingdomAge:† 73 years",r_poets
+François_Mauriac,"Gender:MaleDate of Birth:11 October  1885 - 04:00hBirth place:BordeauxCountry:FR, FranceAge:† 84 years",r_poets
+Margaret_Atwood,"Gender:FemaleDate of Birth:18 November  1939 - 17:00hBirth place:Ottawa, OntarioCountry:CA, CanadaAge:80 years",r_poets
+August_Strindberg,"Gender:MaleDate of Birth:22 January  1849 - 08:00hBirth place:StockholmCountry:SE, SwedenAge:† 63 years",r_poets
+Eugène_Ionesco,"Gender:MaleDate of Birth:26 November  1909Birth place:SlatinaCountry:RO, RomaniaAge:† 84 years",r_poets
+Luigi_Pirandello,"Gender:MaleDate of Birth:28 June  1867 - 03:15hBirth place:AgrigentoCountry:IT, ItalyAge:† 69 years",r_poets
+Anatole_France,"Gender:MaleDate of Birth:16 April  1844 - 07:00hBirth place:ParisCountry:FR, FranceAge:† 80 years",r_poets
+Gottfried_August_Bürger,"Gender:MaleDate of Birth:31 December  1747 - 23:00hBirth place:MansfeldCountry:DE, GermanyAge:† 46 years",r_poets
+William_Wordsworth,"Gender:MaleDate of Birth:7 April  1770 - 22:00hBirth place:CockermouthCountry:GB, United KingdomAge:† 80 years",r_poets
+Samuel_Taylor_Coleridge,"Gender:MaleDate of Birth:21 October  1772 - 10:45hBirth place:Ottery St Mary, EnglandCountry:GB, United KingdomAge:† 61 years",r_poets
+Giacomo_Leopardi,"Gender:MaleDate of Birth:29 June  1798 - 15:00hBirth place:RecanatiCountry:IT, ItalyAge:† 38 years",r_poets
+Henry_Wadsworth_Longfellow,"Gender:MaleDate of Birth:27 February  1807 - 09:06hBirth place:Portland, MaineCountry:US, United StatesAge:† 75 years",r_poets
+Walt_Whitman,"Gender:MaleDate of Birth:31 May  1819 - 01:45hBirth place:Huntington BayCountry:US, United StatesAge:† 72 years",r_poets
+Gottfried_Keller,"Gender:MaleDate of Birth:19 July  1819 - 19:00hBirth place:ZürichCountry:CH, SwitzerlandAge:† 70 years",r_poets
+Herman_Melville,"Gender:MaleDate of Birth:1 August  1819 - 23:30hBirth place:New YorkCountry:US, United StatesAge:† 72 years",r_poets
+Paul_Heyse,"Gender:MaleDate of Birth:15 March  1830 - 09:31hBirth place:BerlinCountry:DE, GermanyAge:† 84 years",r_poets
+Frédéric_Mistral,"Gender:MaleDate of Birth:8 September  1830 - 15:00hBirth place:MaillaneCountry:FR, FranceAge:† 83 years",r_poets
+Giosue_Carducci,"Gender:MaleDate of Birth:27 July  1835 - 23:00hBirth place:Val di CastelloCountry:IT, ItalyAge:† 71 years",r_poets
+William_Dean_Howells,"Gender:MaleDate of Birth:1 March  1837 - 04:00hBirth place:Martins Ferry, OhioCountry:US, United StatesAge:† 83 years",r_poets
+Sully_Prudhomme,"Gender:MaleDate of Birth:16 March  1839 - 04:00hBirth place:ParisCountry:FR, FranceAge:† 68 years",r_poets
+Stéphane_Mallarmé,"Gender:MaleDate of Birth:18 March  1842 - 07:00hBirth place:ParisCountry:FR, FranceAge:† 56 years",r_poets
+Carl_Gustaf_Verner_von_Heidenstam,"Gender:MaleDate of Birth:6 July  1859 - 14:30hBirth place:OlshammarCountry:SE, SwedenAge:† 80 years",r_poets
+Maurice_Maeterlinck,"Gender:MaleDate of Birth:29 August  1862 - 08:30hBirth place:GhentCountry:BE, BelgiumAge:† 86 years",r_poets
+Rubén_Darío,"Gender:MaleDate of Birth:10 January  1867 - 21:30hBirth place:Ciudad DaríoCountry:NI, NicaraguaAge:† 49 years",r_poets
+Christian_Morgenstern,"Gender:MaleDate of Birth:6 May  1871 - 06:30hBirth place:MunichCountry:DE, GermanyAge:† 42 years",r_poets
+Alfred_Jarry,"Gender:MaleDate of Birth:8 September  1873 - 05:00hBirth place:LavalCountry:FR, FranceAge:† 34 years",r_poets
+Robert_Walser,"Gender:MaleDate of Birth:15 April  1878 - 15:00hBirth place:BielCountry:CH, SwitzerlandAge:† 78 years",r_poets
+Juan_Ramón_Jimenéz,"Gender:MaleDate of Birth:24 December  1881 - 23:59hBirth place:MoguerCountry:ES, SpainAge:† 76 years",r_poets
+Marie_Laurencin,"Gender:FemaleDate of Birth:31 October  1883 - 09:00hBirth place:ParisCountry:FR, FranceAge:† 72 years",r_poets
+Ezra_Pound,"Gender:MaleDate of Birth:30 October  1885 - 15:00hBirth place:HaileyCountry:US, United StatesAge:† 87 years",r_poets
+Robinson_Jeffers,"Gender:MaleDate of Birth:10 January  1887 - 10:00hBirth place:AlleghenyCountry:US, United StatesAge:† 75 years",r_poets
+Gabriela_Mistral,"Gender:FemaleDate of Birth:7 April  1889 - 04:00hBirth place:VicuñaCountry:CL, ChileAge:† 67 years",r_poets
+Nelly_Sachs,"Gender:FemaleDate of Birth:10 December  1891 - 15:30hBirth place:BerlinCountry:DE, GermanyAge:† 78 years",r_poets
+Robert_Graves,"Gender:MaleDate of Birth:24 July  1895 - 04:26hBirth place:WimbledonCountry:GB, United KingdomAge:† 90 years",r_poets
+Benjamin_Péret,"Gender:MaleDate of Birth:4 July  1899 - 11:30hBirth place:RézéCountry:FR, FranceAge:† 60 years",r_poets
+Jorge_Luis_Borges,"Gender:MaleDate of Birth:24 August  1899 - 03:30hBirth place:Buenos AiresCountry:AR, ArgentinaAge:† 86 years",r_poets
+Robert_Desnos,"Gender:MaleDate of Birth:4 July  1900 - 06:00hBirth place:ParisCountry:FR, FranceAge:† 44 years",r_poets
+Raymond_Queneau,"Gender:MaleDate of Birth:21 February  1903 - 04:00hBirth place:Le HavreCountry:FR, FranceAge:† 73 years",r_poets
+Pablo_Neruda,"Gender:MaleDate of Birth:12 July  1904 - 21:00hBirth place:ParralCountry:CL, ChileAge:† 69 years",r_poets
+Robert_Penn_Warren,"Gender:MaleDate of Birth:24 April  1905 - 07:00hBirth place:GuthrieCountry:US, United StatesAge:† 84 years",r_poets
+Dylan_Thomas,"Gender:MaleDate of Birth:27 October  1914 - 23:00hBirth place:SwanseaCountry:GB, United KingdomAge:† 39 years",r_poets
+Sophia_de_Mello_Breyner_Andresen,"Gender:FemaleDate of Birth:6 November  1919 - 11:15hBirth place:PortoCountry:PT, PortugalAge:† 84 years",r_poets
+Wislawa_Szymborska,"Gender:FemaleDate of Birth:2 July  1923 - 14:51hBirth place:Kornik, PoznanCountry:PL, PolandAge:† 88 years",r_poets
+Gary_Snyder,"Gender:MaleDate of Birth:8 May  1930 - 18:12hBirth place:San FranciscoCountry:US, United StatesAge:89 years",r_poets
+Thomas_Bernhard,"Gender:MaleDate of Birth:9 February  1931 - 20:45hBirth place:HeerlenCountry:NL, NetherlandsAge:† 58 years",r_poets
+Sylvia_Plath,"Gender:FemaleDate of Birth:27 October  1932 - 14:10hBirth place:Winthrop, MassachusettsCountry:US, United StatesAge:† 30 years",r_poets
+Bertus_Aafjes,"Gender:MaleDate of Birth:12 May  1914 - 20:00hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 78 years",r_poets
+Gerrit_Achterberg,"Gender:MaleDate of Birth:20 May  1905 - 00:30hBirth place:LangbroekCountry:NL, NetherlandsAge:† 56 years",r_poets
+Mark_Akenside,"Gender:MaleDate of Birth:20 November  1721 - 20:00h(gregor.)Birth place:Newcastle upon Tyne, EnglandCountry:GB, United KingdomAge:† 48 years",r_poets
+Castro_Alves,"Gender:MaleDate of Birth:14 March  1847 - 10:00hBirth place:MuritibaCountry:BR, BrazilAge:† 24 years",r_poets
+John_Ashbery,"Gender:MaleDate of Birth:28 July  1927 - 08:20hBirth place:Rochester, New YorkCountry:US, United StatesAge:92 years",r_poets
+W._H._Auden,"Gender:MaleDate of Birth:21 February  1907 - 23:00hBirth place:York, EnglandCountry:GB, United KingdomAge:† 66 years",r_poets
+Emile_Augier,"Gender:MaleDate of Birth:17 September  1820 - 12:00hBirth place:ValenceCountry:FR, FranceAge:† 69 years",r_poets
+Hugo_Ball,"Gender:MaleDate of Birth:22 February  1886 - 14:30hBirth place:PirmasensCountry:DE, GermanyAge:† 41 years",r_poets
+Theodore_de_Banville,"Gender:MaleDate of Birth:14 March  1823 - 21:30hBirth place:MoulinsCountry:FR, FranceAge:† 67 years",r_poets
+James_K._Baxter,"Gender:MaleDate of Birth:29 June  1926 - 21:30hBirth place:Dunedin, OtagoCountry:NZ, New ZealandAge:† 46 years",r_poets
+Shaun_Belcher,"Gender:MaleDate of Birth:28 January  1959 - 19:30hBirth place:Oxford, EnglandCountry:GB, United KingdomAge:61 years",r_poets
+Gottfried_Benn,"Gender:MaleDate of Birth:2 May  1886 - 19:30hBirth place:MansfeldCountry:DE, Germany",r_poets
+John_Berryman,"Gender:MaleDate of Birth:25 October  1914 - 11:00hBirth place:McAlester, OklahomaCountry:US, United StatesAge:† 57 years",r_poets
+Hayim_Nahman_Bialik,"Gender:MaleDate of Birth:18 January  1873 - 21:19hBirth place:ŽitomirCountry:UA, UkraineAge:† 61 years",r_poets
+Willem_Bilderdijk,"Gender:MaleDate of Birth:7 September  1756 - 04:00hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 74 years",r_poets
+Robin_Blaser,"Gender:MaleDate of Birth:18 May  1925 - 06:30hBirth place:Denver, ColoradoCountry:US, United StatesAge:† 83 years",r_poets
+Morris_Blythman,"Gender:MaleDate of Birth:25 September  1919 - 00:15hBirth place:Inverkeithing, ScotlandCountry:GB, United KingdomAge:† 61 years",r_poets
+Manuel_M._Barbosa_du_Bocage,"Gender:MaleDate of Birth:15 September  1765 - 15:00hBirth place:SetubalCountry:PT, PortugalAge:† 40 years",r_poets
+Yves_Jean_Bonnefoy,"Gender:MaleDate of Birth:24 June  1923 - 03:00hBirth place:ToursCountry:FR, France",r_poets
+Louis_Bouilhet,"Gender:MaleDate of Birth:27 May  1821 - 17:30hBirth place:Cany-BarvilleCountry:FR, FranceAge:† 48 years",r_poets
+Pierre_Boutang,"Gender:MaleDate of Birth:20 September  1916 - 07:00hBirth place:Saint-ÉtienneCountry:FR, FranceAge:† 81 years",r_poets
+Joseph_Brodsky,"Gender:MaleDate of Birth:24 May  1940 - 16:50hBirth place:Saint PetersburgCountry:RU, RussiaAge:† 55 years",r_poets
+Rupert_Brooke,"Gender:MaleDate of Birth:3 August  1887 - 19:30hBirth place:Rugby, EnglandCountry:GB, United KingdomAge:† 27 years",r_poets
+George_Mackay_Brown,"Gender:MaleDate of Birth:17 October  1921 - 09:10hBirth place:Stromness, ScotlandCountry:GB, United KingdomAge:† 74 years",r_poets
+Elizabeth_Barrett_Browning,"Gender:FemaleDate of Birth:6 March  1806 - 19:00hBirth place:Killoe, EnglandCountry:GB, United KingdomAge:† 55 years",r_poets
+Ivan_Alexejevich_Bunin,"Gender:MaleDate of Birth:22 October  1870 - 07:00hBirth place:VoronezhCountry:RU, RussiaAge:† 83 years",r_poets
+Robert_Burns,"Gender:MaleDate of Birth:25 January  1759 - 07:00hBirth place:Alloway, ScotlandCountry:GB, United KingdomAge:† 37 years",r_poets
+Dino_Campana,"Gender:MaleDate of Birth:20 August  1885 - 14:15hBirth place:MarradiCountry:IT, ItalyAge:† 46 years",r_poets
+Maurice_Careme,"Gender:MaleDate of Birth:12 May  1899 - 07:30hBirth place:WavreCountry:BE, BelgiumAge:† 78 years",r_poets
+Rosalia_de_Castro,"Gender:FemaleDate of Birth:24 February  1837 - 04:00hBirth place:Santiago de CompostelaCountry:ES, SpainAge:† 48 years",r_poets
+Jean_Cayrol,"Gender:MaleDate of Birth:6 June  1910 - 08:00hBirth place:BordeauxCountry:FR, FranceAge:† 94 years",r_poets
+Aimé_Césaire,"Gender:MaleDate of Birth:26 June  1913 - 20:00hBirth place:Basse PointeCountry:MQ, MartiniqueAge:† 94 years",r_poets
+René_Char,"Gender:MaleDate of Birth:14 June  1907 - 09:30hBirth place:L'Isle-sur-la-SorgueCountry:FR, FranceAge:† 80 years",r_poets
+Matthias_Claudius,"Gender:MaleDate of Birth:15 August  1740 - 22:30hBirth place:ReinfeldCountry:DE, GermanyAge:† 74 years",r_poets
+Clark_Coolidge,"Gender:MaleDate of Birth:26 February  1939 - 07:48hBirth place:Providence, Rhode IslandCountry:US, United StatesAge:81 years",r_poets
+Jane_Marvel_Cooper,"Gender:FemaleDate of Birth:9 October  1924 - 09:15hBirth place:Atlantic City, New JerseyCountry:US, United StatesAge:† 83 years",r_poets
+Tristan_Corbière,"Gender:MaleDate of Birth:18 July  1845 - 18:00hBirth place:MorlaixCountry:FR, FranceAge:† 29 years",r_poets
+Jayne_Cortez,"Gender:FemaleDate of Birth:10 May  1934 - 00:45hBirth place:Sierra Vista, ArizonaCountry:US, United StatesAge:† 78 years",r_poets
+Henri_Coulette,"Gender:MaleDate of Birth:11 November  1927 - 04:00hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 60 years",r_poets
+William_Cowper,"Gender:MaleDate of Birth:26 November  1731 - 03:30h(gregor.)Birth place:Berkhamsted, EnglandCountry:GB, United KingdomAge:† 68 years",r_poets
+George_Crabbe,"Gender:MaleDate of Birth:24 December  1754 - 16:00hBirth place:Aldeburgh, EnglandCountry:GB, United KingdomAge:† 77 years",r_poets
+René_Crevel,"Gender:MaleDate of Birth:10 August  1900 - 05:00hBirth place:ParisCountry:FR, FranceAge:† 34 years",r_poets
+E._E._Cummings,"Gender:MaleDate of Birth:14 October  1894 - 19:00hBirth place:Cambridge, MassachusettsCountry:US, United StatesAge:† 67 years",r_poets
+Gabriele_d'Annunzio,"Gender:MaleDate of Birth:12 March  1863 - 08:00hBirth place:PescaraCountry:IT, ItalyAge:† 74 years",r_poets
+Dannie_Abse,"Gender:MaleDate of Birth:22 September  1923 - 15:00hBirth place:Cardiff, WalesCountry:GB, United Kingdom",r_poets
+Victor_de_Laprade,"Gender:MaleDate of Birth:13 January  1812 - 02:00hBirth place:MontbrisonCountry:FR, FranceAge:† 71 years",r_poets
+Henri_Francois_de_Regnier,"Gender:MaleDate of Birth:28 December  1864 - 05:00hBirth place:HonfleurCountry:FR, FranceAge:† 71 years",r_poets
+Richard_Dehmel,"Gender:MaleDate of Birth:18 November  1863 - 03:45hBirth place:Wendisch RietzCountry:DE, GermanyAge:† 56 years",r_poets
+Marceline_Desbordes-Valmore,"Gender:FemaleDate of Birth:20 June  1786 - 05:00hBirth place:DouaiCountry:FR, France",r_poets
+Maitraye_Devi,"Gender:FemaleDate of Birth:1 September  1914 - 06:00hBirth place:KolkataCountry:IN, India",r_poets
+William_Dickey,"Gender:MaleDate of Birth:15 December  1928 - 04:30hBirth place:Bellingham, WashingtonCountry:US, United StatesAge:† 65 years",r_poets
+Emily_Dickinson,"Gender:FemaleDate of Birth:10 December  1830 - 04:40hBirth place:Amherst, MassachusettsCountry:US, United StatesAge:† 55 years",r_poets
+William_Henry_Drummond,"Gender:MaleDate of Birth:13 April  1854 - 05:10hBirth place:LeitrimCountry:IE, IrelandAge:† 52 years",r_poets
+Robert_Duncan,"Gender:MaleDate of Birth:7 January  1919 - 06:15hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:† 69 years",r_poets
+Richard_Ghormley_Eberhart,"Gender:MaleDate of Birth:5 April  1904 - 12:00hBirth place:Austin, MinnesotaCountry:US, United StatesAge:† 101 years",r_poets
+George_Economou,"Gender:MaleDate of Birth:24 September  1934 - 08:00hBirth place:Great Falls, MontanaCountry:US, United StatesAge:85 years",r_poets
+Clayton_Eshleman,"Gender:MaleDate of Birth:1 June  1935 - 10:50hBirth place:Indianapolis, IndianaCountry:US, United StatesAge:84 years",r_poets
+William_Everson,"Gender:MaleDate of Birth:10 September  1912 - 08:30hBirth place:Sacramento, CaliforniaCountry:US, United StatesAge:† 80 years",r_poets
+Jean_Ferrat,"Gender:MaleDate of Birth:26 December  1930 - 11:30hBirth place:VaucressonCountry:FR, FranceAge:† 79 years",r_poets
+Paul_Fort,"Gender:MaleDate of Birth:1 February  1872 - 06:00hBirth place:ReimsCountry:FR, FranceAge:† 88 years",r_poets
+Robert_Frost,"Gender:MaleDate of Birth:26 March  1874 - 07:00hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 88 years",r_poets
+Stefan_Anton_George,"Gender:MaleDate of Birth:12 July  1868 - 15:00hBirth place:BüdesheimCountry:DE, GermanyAge:† 65 years",r_poets
+Rene_Ghil,"Gender:MaleDate of Birth:27 September  1862 - 02:00hBirth place:TourcoingCountry:FR, FranceAge:† 62 years",r_poets
+Iwan_Gilkin,"Gender:MaleDate of Birth:7 January  1858 - 20:00hBirth place:BrusselsCountry:BE, BelgiumAge:† 66 years",r_poets
+Lea_Goldberg,"Gender:FemaleDate of Birth:28 May  1911 - 22:00hBirth place:KaliningradCountry:RU, RussiaAge:† 58 years",r_poets
+Oliver_Goldsmith,"Gender:MaleDate of Birth:21 November  1728 - 21:17hBirth place:Pallas GreanCountry:IE, IrelandAge:† 45 years",r_poets
+Edmund_Gosse,"Gender:MaleDate of Birth:21 September  1849 - 12:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 78 years",r_poets
+Guido_Gozzano,"Gender:MaleDate of Birth:19 December  1883 - 16:30hBirth place:TurinCountry:IT, ItalyAge:† 32 years",r_poets
+W._S._Graham,"Gender:MaleDate of Birth:19 November  1918 - 11:00hBirth place:Greenock, ScotlandCountry:GB, United KingdomAge:† 67 years",r_poets
+Grand_Corps_Malade,"Gender:MaleDate of Birth:31 July  1977 - 14:00hBirth place:Le Blanc-MesnilCountry:FR, FranceAge:42 years",r_poets
+Amalia_Guglielminetti,"Gender:FemaleDate of Birth:5 April  1881 - 15:00hBirth place:TurinCountry:IT, Italy",r_poets
+Nikolay_Gumilev,"Gender:MaleDate of Birth:15 April  1886 - 04:55hBirth place:KronshtadtCountry:RU, RussiaAge:† 35 years",r_poets
+Walter_Hasenclever,"Gender:MaleDate of Birth:8 July  1890 - 15:30hBirth place:AachenCountry:DE, GermanyAge:† 49 years",r_poets
+William_E._Henley,"Gender:MaleDate of Birth:23 August  1849 - 21:00hBirth place:Gloucester, EnglandCountry:GB, United KingdomAge:† 53 years",r_poets
+DuBose_Heyward,"Gender:MaleDate of Birth:31 August  1885 - 09:15hBirth place:Charleston, South CarolinaCountry:US, United StatesAge:† 54 years",r_poets
+Arno_Holz,"Gender:MaleDate of Birth:26 April  1863 - 16:00hBirth place:AugsburgCountry:DE, GermanyAge:† 66 years",r_poets
+Alfred_Edward_Housman,"Gender:MaleDate of Birth:26 March  1859 - 16:00hBirth place:Bromsgrove, EnglandCountry:GB, United KingdomAge:† 77 years",r_poets
+Richard_Huelsenbeck,"Gender:MaleDate of Birth:23 April  1892 - 21:30hBirth place:FrankenauCountry:DE, Germany",r_poets
+Ted_Hughes,"Gender:MaleDate of Birth:17 August  1930 - 01:12hBirth place:Mytholmroyd, EnglandCountry:GB, United KingdomAge:† 68 years",r_poets
+Muhammad_Iqbal,"Gender:MaleDate of Birth:9 November  1877 - 04:00hBirth place:SiālkotCountry:PK, PakistanAge:† 60 years",r_poets
+Max_Jacob,"Gender:MaleDate of Birth:12 July  1876 - 13:00hBirth place:QuimperCountry:FR, FranceAge:† 67 years",r_poets
+Pauline_Johnson,"Gender:FemaleDate of Birth:10 March  1861 - 11:55hBirth place:Brantford, OntarioCountry:CA, CanadaAge:† 51 years",r_poets
+Ronald_Johnson,"Gender:MaleDate of Birth:25 November  1935 - 15:30hBirth place:Ashland, KansasCountry:US, United StatesAge:† 62 years",r_poets
+Samuel_Johnson,"Gender:MaleDate of Birth:18 September  1709 - 15:53h(gregor.)Birth place:Lichfield, EnglandCountry:GB, United KingdomAge:† 75 years",r_poets
+Gustave_Kahn,"Gender:MaleDate of Birth:21 December  1859 - 11:00hBirth place:MetzCountry:FR, FranceAge:† 76 years",r_poets
+Erik_Axel_Karlfeldt,"Gender:MaleDate of Birth:20 June  1864 - 12:00hBirth place:FolkärnaCountry:SE, SwedenAge:† 66 years",r_poets
+Henricus_W._J._M._Keuks,"Gender:MaleDate of Birth:19 May  1883 - 16:30hBirth place:ObdamCountry:NL, NetherlandsAge:† 85 years",r_poets
+Friedrich_Gottlieb_Klopstock,"Gender:MaleDate of Birth:2 July  1724 - 12:00hBirth place:QuedlinburgCountry:DE, GermanyAge:† 78 years",r_poets
+Karl_Theodor_Körner,"Gender:MaleDate of Birth:30 September  1791 - 22:45hBirth place:DresdenCountry:DE, GermanyAge:† 21 years",r_poets
+Jiddu_Krishnamurti,"Gender:MaleDate of Birth:12 May  1895 - 00:30hBirth place:MadanapalleCountry:IN, IndiaAge:† 90 years",r_poets
+Philip_Lamantia,"Gender:MaleDate of Birth:23 October  1927 - 10:00hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 77 years",r_poets
+Else_Lasker-Schüler,"Gender:FemaleDate of Birth:11 February  1869 - 02:00hBirth place:WuppertalCountry:DE, GermanyAge:† 75 years",r_poets
+Comte_de_Lautréamont,"Gender:MaleDate of Birth:4 April  1846 - 09:00hBirth place:MontevideoCountry:UY, UruguayAge:† 24 years",r_poets
+Anthony_Lawrence,"Gender:MaleDate of Birth:27 April  1957 - 15:15hBirth place:Tamworth, New South WalesCountry:AU, AustraliaAge:62 years",r_poets
+Charles_Le_Goffic,"Gender:MaleDate of Birth:14 July  1863 - 08:00hBirth place:LannionCountry:FR, FranceAge:† 68 years",r_poets
+Edward_Lear,"Gender:MaleDate of Birth:12 May  1812 - 23:30hBirth place:HollowayCountry:GB, United KingdomAge:† 75 years",r_poets
+Nikolaus_Lenau,"Gender:MaleDate of Birth:13 August  1802 - 03:00hBirth place:NyíregyházaCountry:HU, HungaryAge:† 48 years",r_poets
+Denise_Levertov,"Gender:FemaleDate of Birth:24 October  1923 - 09:00hBirth place:Ilford, EnglandCountry:GB, United KingdomAge:† 74 years",r_poets
+Hanoch_Levin,"Gender:MaleDate of Birth:18 December  1943 - 21:00hBirth place:Tel Aviv-YafoCountry:IL, IsraelAge:† 55 years",r_poets
+Jean_Lorrain,"Gender:MaleDate of Birth:9 August  1855 - 19:00hBirth place:ParisCountry:FR, FranceAge:† 50 years",r_poets
+Dorothea_Mackellar,"Gender:FemaleDate of Birth:1 July  1885 - 02:15hBirth place:Point Piper, New South WalesCountry:AU, AustraliaAge:† 82 years",r_poets
+Edwin_Markham,"Gender:MaleDate of Birth:23 April  1852 - 06:00hBirth place:Oregon City, OregonCountry:US, United StatesAge:† 87 years",r_poets
+Marcel_Martinet,"Gender:MaleDate of Birth:22 August  1887 - 05:30hBirth place:DijonCountry:FR, France",r_poets
+Catulle_Mendes,"Gender:MaleDate of Birth:21 May  1841 - 03:00hBirth place:BordeauxCountry:FR, FranceAge:† 67 years",r_poets
+Conrad_Ferdinand_Meyer,"Gender:MaleDate of Birth:11 October  1825 - 20:15hBirth place:ZürichCountry:CH, SwitzerlandAge:† 73 years",r_poets
+Edna_St._Vincent_Millay,"Gender:FemaleDate of Birth:22 February  1892 - 06:05hBirth place:Rockland, MaineCountry:US, United StatesAge:† 58 years",r_poets
+Naomi_Mitchison,"Gender:FemaleDate of Birth:1 November  1897 - 16:55hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 101 years",r_poets
+Albert_Mockel,"Gender:MaleDate of Birth:27 December  1866 - 06:00hBirth place:LiègeCountry:BE, BelgiumAge:† 78 years",r_poets
+Eugenio_Montale,"Gender:MaleDate of Birth:12 October  1896 - 23:00hBirth place:GenoaCountry:IT, ItalyAge:† 84 years",r_poets
+Edwin_Morgan,"Gender:MaleDate of Birth:27 April  1920 - 11:30hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 90 years",r_poets
+Eduard_Mörike,"Gender:MaleDate of Birth:8 September  1804 - 11:30hBirth place:LudwigsburgCountry:DE, GermanyAge:† 70 years",r_poets
+Ada_Negri,"Gender:FemaleDate of Birth:3 February  1870 - 17:00hBirth place:LodiCountry:IT, ItalyAge:† 74 years",r_poets
+Lorine_Niedecker,"Gender:FemaleDate of Birth:11 May  1903 - 01:30hBirth place:Black HawkCountry:US, United StatesAge:† 67 years",r_poets
+Novalis,"Gender:MaleDate of Birth:2 May  1772 - 06:00hBirth place:HettstedtCountry:DE, GermanyAge:† 28 years",r_poets
+Edouard_Pailleron,"Gender:MaleDate of Birth:17 September  1829 - 23:00hBirth place:ParisCountry:FR, FranceAge:† 69 years",r_poets
+Achille_Paysant,"Gender:MaleDate of Birth:27 September  1841 - 20:00hBirth place:VillepailCountry:FR, FranceAge:† 86 years",r_poets
+Jean_Pellerin,"Gender:MaleDate of Birth:24 April  1885 - 06:00hBirth place:PontcharraCountry:FR, FranceAge:† 36 years",r_poets
+Reynolds_Price,"Gender:MaleDate of Birth:1 February  1933 - 08:00hBirth place:Macon, North CarolinaCountry:US, United StatesAge:† 77 years",r_poets
+Xavier_Privas,"Gender:MaleDate of Birth:27 September  1863 - 23:00hBirth place:LyonCountry:FR, FranceAge:† 63 years",r_poets
+Salvatore_Quasimodo,"Gender:MaleDate of Birth:20 August  1901 - 04:10hBirth place:ModicaCountry:IT, ItalyAge:† 66 years",r_poets
+Pierre_Reverdy,"Gender:MaleDate of Birth:13 September  1889 - 09:00hBirth place:NarbonneCountry:FR, FranceAge:† 70 years",r_poets
+Jehan_Rictus,"Gender:MaleDate of Birth:21 September  1867 - 08:00hBirth place:Boulogne-sur-MerCountry:FR, FranceAge:† 66 years",r_poets
+Anne_Ridler,"Gender:FemaleDate of Birth:30 July  1912 - 22:30hBirth place:Rugby, EnglandCountry:GB, United KingdomAge:† 89 years",r_poets
+James_Whitcomb_Riley,"Gender:MaleDate of Birth:7 October  1849 - 09:00hBirth place:Greenfield, IndianaCountry:US, United StatesAge:† 66 years",r_poets
+Arthur_Rimbaud,"Gender:MaleDate of Birth:20 October  1854 - 06:00hBirth place:Charleville, MarneCountry:FR, FranceAge:† 37 years",r_poets
+Maurice_Rollinat,"Gender:MaleDate of Birth:29 December  1846 - 09:00hBirth place:ChâteaurouxCountry:FR, FranceAge:† 56 years",r_poets
+William_Pitt_Root,"Gender:MaleDate of Birth:28 December  1941 - 06:40hBirth place:Austin, MinnesotaCountry:US, United StatesAge:78 years",r_poets
+Peter_Rosegger,"Gender:MaleDate of Birth:31 July  1843 - 21:00hBirth place:KrieglachCountry:AT, AustriaAge:† 74 years",r_poets
+Christina_Rossetti,"Gender:FemaleDate of Birth:5 December  1830 - 03:10hBirth place:London, EnglandCountry:GB, United KingdomAge:† 64 years",r_poets
+Edmond_Rostand,"Gender:MaleDate of Birth:1 April  1868 - 17:00hBirth place:MarseilleCountry:FR, FranceAge:† 50 years",r_poets
+Joseph_Roumanille,"Gender:MaleDate of Birth:8 August  1818 - 05:00hBirth place:Saint-Rémy-de-ProvenceCountry:FR, FranceAge:† 72 years",r_poets
+Friedrich_Rückert,"Gender:MaleDate of Birth:16 May  1788 - 06:00hBirth place:SchweinfurtCountry:DE, GermanyAge:† 77 years",r_poets
+Mário_de_Sá-Carneiro,"Gender:MaleDate of Birth:19 May  1890 - 15:00hBirth place:LisbonCountry:PT, PortugalAge:† 25 years",r_poets
+Pinchas_Sadeh,"Gender:MaleDate of Birth:17 June  1929 - 12:00hBirth place:LvivCountry:UA, UkraineAge:90 years",r_poets
+Roux_Saint-Pol,"Gender:MaleDate of Birth:15 January  1861 - 07:00hBirth place:MarseilleCountry:FR, FranceAge:† 79 years",r_poets
+Vinayak_Damodar_Savarkar,"Gender:MaleDate of Birth:28 May  1883 - 22:00hBirth place:DeolaliCountry:IN, IndiaAge:† 82 years",r_poets
+Margo_Scharten-Antink,"Gender:FemaleDate of Birth:7 September  1868 - 17:00hBirth place:ZutphenCountry:NL, NetherlandsAge:† 89 years",r_poets
+Annie_Schmidt,"Gender:FemaleDate of Birth:20 May  1911 - 09:30hBirth place:KapelleCountry:NL, NetherlandsAge:† 84 years",r_poets
+Christian_Friedrich_Daniel_Schubart,"Gender:MaleDate of Birth:24 March  1739 - 15:00hBirth place:ObersontheimCountry:DE, GermanyAge:† 52 years",r_poets
+Marcel_Schwob,"Gender:MaleDate of Birth:23 August  1867 - 09:00hBirth place:ChavilleCountry:FR, FranceAge:† 37 years",r_poets
+Cyril_Meir_Scott,"Gender:MaleDate of Birth:27 September  1879 - 03:58hBirth place:Oxton, EnglandCountry:GB, United KingdomAge:† 91 years",r_poets
+George_Seferis,"Gender:MaleDate of Birth:13 March  1900 - 01:30hBirth place:SmyrnaCountry:TR, TurkeyAge:† 71 years",r_poets
+Jorge_de_Sena,"Gender:MaleDate of Birth:2 November  1919 - 09:50hBirth place:LisbonCountry:PT, PortugalAge:† 58 years",r_poets
+Tom_Shapcott,"Gender:MaleDate of Birth:21 March  1935 - 00:45hBirth place:Ipswich, QueenslandCountry:AU, AustraliaAge:85 years",r_poets
+Reginald_Shepherd,"Gender:MaleDate of Birth:10 April  1963 - 15:03hBirth place:New York, New YorkCountry:US, United StatesAge:† 45 years",r_poets
+John_Sinclair,"Gender:MaleDate of Birth:2 October  1941 - 21:18hBirth place:Flint, MichiganCountry:US, United StatesAge:78 years",r_poets
+Leonardo_Sinisgalli,"Gender:MaleDate of Birth:9 March  1908 - 15:00hBirth place:MontemurroCountry:IT, ItalyAge:† 72 years",r_poets
+Edith_Sitwell,"Gender:FemaleDate of Birth:7 September  1887 - 13:30hBirth place:Scarborough, EnglandCountry:GB, United KingdomAge:† 77 years",r_poets
+B._F._Skinner,"Gender:MaleDate of Birth:20 March  1904 - 03:15hBirth place:Susquehanna, PennsylvaniaCountry:US, United StatesAge:† 86 years",r_poets
+Philippe_Soupault,"Gender:MaleDate of Birth:2 August  1897 - 03:00hBirth place:ChavilleCountry:FR, FranceAge:† 92 years",r_poets
+Robert_Southey,"Gender:MaleDate of Birth:12 August  1774 - 08:30hBirth place:Bristol, EnglandCountry:GB, United KingdomAge:† 68 years",r_poets
+Ernst_Stadler,"Gender:MaleDate of Birth:11 August  1883 - 23:00hBirth place:ColmarCountry:FR, FranceAge:† 31 years",r_poets
+Ann_Stanford,"Gender:FemaleDate of Birth:25 November  1916 - 18:15hBirth place:La Habra, CaliforniaCountry:US, United StatesAge:† 70 years",r_poets
+Theodor_Storm,"Gender:MaleDate of Birth:14 September  1817 - 23:30hBirth place:HusumCountry:DE, GermanyAge:† 70 years",r_poets
+Algernon_Swinburne,"Gender:MaleDate of Birth:5 April  1837 - 05:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 72 years",r_poets
+Arthur_Symons,"Gender:MaleDate of Birth:21 February  1865 - 23:00hBirth place:Milford Haven, WalesCountry:GB, United KingdomAge:† 79 years",r_poets
+Rabindranath_Tagore,"Gender:MaleDate of Birth:7 May  1861 - 04:02hBirth place:KolkataCountry:IN, IndiaAge:† 80 years",r_poets
+Shaul_Tchernichovsky,"Gender:MaleDate of Birth:20 August  1875 - 10:00h(gregor.)Birth place:Michajlovka (Zaporiz'ka Oblast)Country:UA, UkraineAge:† 68 years",r_poets
+Lord_Alfred_Tennyson,"Gender:MaleDate of Birth:6 August  1809 - 00:05hBirth place:Somersby, EnglandCountry:GB, United KingdomAge:† 83 years",r_poets
+André_Theuriet,"Gender:MaleDate of Birth:8 October  1833 - 06:30hBirth place:Marly-le-RoiCountry:FR, FranceAge:† 73 years",r_poets
+Georg_Trakl,"Gender:MaleDate of Birth:3 February  1887 - 18:30hBirth place:SalzburgCountry:AT, AustriaAge:† 27 years",r_poets
+Trilussa,"Gender:MaleDate of Birth:26 October  1871 - 05:00hBirth place:RomeCountry:IT, ItalyAge:† 79 years",r_poets
+Gael_Turnbull,"Gender:MaleDate of Birth:7 April  1928 - 10:00hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 76 years",r_poets
+Paul_Valéry,"Gender:MaleDate of Birth:30 October  1871 - 19:00hBirth place:SèteCountry:FR, FranceAge:† 73 years",r_poets
+Gilles_Vigneault,"Gender:MaleDate of Birth:27 October  1928 - 00:05hBirth place:Natashquan, Quebec, QuébecCountry:CA, CanadaAge:91 years",r_poets
+Karoline_von_Gunderode,"Gender:FemaleDate of Birth:11 February  1780 - 05:15hBirth place:KarlsruheCountry:DE, GermanyAge:† 26 years",r_poets
+August_von_Platen,"Gender:MaleDate of Birth:24 October  1796 - 22:30hBirth place:AnsbachCountry:DE, GermanyAge:† 39 years",r_poets
+Victor_von_Scheffel,"Gender:MaleDate of Birth:16 February  1826 - 15:30hBirth place:KarlsruheCountry:DE, GermanyAge:† 60 years",r_poets
+David_Wagoner,"Gender:MaleDate of Birth:5 June  1926 - 04:22hBirth place:Massillon, OhioCountry:US, United StatesAge:93 years",r_poets
+Diane_Wakoski,"Gender:FemaleDate of Birth:3 August  1937 - 00:30hBirth place:Whittier, CaliforniaCountry:US, United StatesAge:82 years",r_poets
+Lew_Welch,"Gender:MaleDate of Birth:16 August  1926 - 21:40hBirth place:Phoenix, ArizonaCountry:US, United StatesAge:† 44 years",r_poets
+Mathilde_Wesendonck,"Gender:FemaleDate of Birth:23 December  1828 - 03:15hBirth place:WuppertalCountry:DE, GermanyAge:† 73 years",r_poets
+C._K._Williams,"Gender:MaleDate of Birth:4 November  1936 - 00:21hBirth place:Newark, New JerseyCountry:US, United StatesAge:83 years",r_poets
+Edwin_Wilson,"Gender:MaleDate of Birth:27 October  1942 - 17:30hBirth place:Lismore, New South WalesCountry:AU, AustraliaAge:77 years",r_poets
+James_Arlington_Wright,"Gender:MaleDate of Birth:13 December  1927 - 14:40hBirth place:Martins Ferry, OhioCountry:US, United StatesAge:† 52 years",r_poets
+Paul_J._Zimmer,"Gender:MaleDate of Birth:18 September  1934 - 22:00hBirth place:Canton, OhioCountry:US, United StatesAge:85 years",r_poets
+Jose_Zorrilla,"Gender:MaleDate of Birth:21 February  1817 - 20:00hBirth place:ValladolidCountry:ES, SpainAge:† 75 years",r_poets
+Oskar_Kokoschka,"Gender:MaleDate of Birth:1 March  1886Birth place:Gemeinde PöchlarnCountry:AT, AustriaAge:† 93 years",r_poets
+Branwell_Brontë,"Gender:MaleDate of Birth:26 June  1817 - 03:00hBirth place:Thornton, EnglandCountry:GB, United KingdomAge:† 31 years",r_poets
+Jiří_Suchý,"Gender:MaleBirth:*1931Country:CZ, Czech RepublicAge:88 years",r_poets
+George_Voskovec,"Gender:MaleDate of Birth:19 June  1905 - 02:30hBirth place:SázavaCountry:CZ, Czech RepublicAge:† 76 years",r_poets
+Miloš_Macourek,"Gender:MaleDate of Birth:2 December  1926Birth place:KroměřížCountry:CZ, Czech RepublicAge:† 75 years",r_poets
+Olga_Scheinpflugová,"Gender:FemaleDate of Birth:3 December  1902Birth place:SlanýCountry:CZ, Czech RepublicAge:† 65 years",r_poets
+Jáchym_Topol,"Gender:MaleBirth:*1962Country:CZ, Czech RepublicAge:57 years",r_poets
+Philippe_Léotard,"Gender:MaleDate of Birth:28 August  1940 - 01:00hBirth place:NiceCountry:FR, FranceAge:† 60 years",r_poets
+Jimmy_Santiago_Baca,"Gender:MaleDate of Birth:2 January  1952Birth place:Santa Fe, New MexicoCountry:US, United StatesAge:68 years",r_poets
+Emil_Botta,"Gender:MaleDate of Birth:17 September  1911Birth place:AdjudCountry:RO, RomaniaAge:† 65 years",r_poets
+Yukio_Mishima,"Gender:MaleDate of Birth:14 January  1925 - 21:00hBirth place:TokyoCountry:JP, JapanAge:† 45 years",r_poets
+E._F._Burian,"Gender:MaleDate of Birth:11 June  1904Birth place:PilsenCountry:CZ, Czech RepublicAge:† 55 years",r_poets
+Rudolf_Medek,"Gender:MaleDate of Birth:8 January  1890Birth place:Hradec KrálovéCountry:CZ, Czech RepublicAge:† 50 years",r_poets
+Mirko_Eliáš,"Gender:MaleDate of Birth:13 August  1899Birth place:ChoceňCountry:CZ, Czech RepublicAge:† 38 years",r_poets
+Pavel_Kohout,"Gender:MaleBirth:*1928Country:CZ, Czech RepublicAge:91 years",r_poets
+Jaroslav_Seifert,"Gender:MaleDate of Birth:23 September  1901Birth place:PragueCountry:CZ, Czech RepublicAge:† 84 years",r_poets
+Egon_Bondy,"Gender:MaleDate of Birth:20 January  1930Birth place:PragueCountry:CZ, Czech RepublicAge:† 77 years",r_poets
+Forugh_Farrokhzad,"Gender:FemaleDate of Birth:5 January  1935Birth place:TehranCountry:IR, IranAge:† 32 years",r_poets
+Josef_Brukner,"Gender:MaleDate of Birth:15 February  1932Birth place:PísekCountry:CZ, Czech RepublicAge:† 82 years",r_poets
+F._X._Svoboda,"Gender:MaleDate of Birth:25 October  1860Birth place:Mníšek pod BrdyCountry:CZ, Czech RepublicAge:† 82 years",r_poets
+Jiří_Stránský,"Gender:MaleBirth:*1931Country:CZ, Czech RepublicAge:88 years",r_poets
+Francis_Picabia,"Gender:MaleDate of Birth:22 January  1879 - 11:00hBirth place:ParisCountry:FR, FranceAge:† 74 years",r_poets
+Jan_Antonín_Pitínský,"Gender:MaleBirth:*1955Country:CZ, Czech RepublicAge:64 years",r_poets
+Ivan_Martin_Jirous,"Gender:MaleDate of Birth:23 September  1944Birth place:HumpolecCountry:CZ, Czech RepublicAge:† 67 years",r_poets
+Ivo_Šmoldas,"Gender:MaleBirth:*1955Country:CZ, Czech RepublicAge:64 years",r_poets
+Karel_Kryl,"Gender:MaleDate of Birth:12 April  1944Birth place:KroměřížCountry:CZ, Czech RepublicAge:† 49 years",r_poets
+Ludvík_Kundera,"Gender:MaleDate of Birth:22 March  1920Birth place:BrnoCountry:CZ, Czech RepublicAge:† 90 years",r_poets
+Peter_Orlovsky,"Gender:MaleDate of Birth:8 July  1933Birth place:New York, New YorkCountry:US, United StatesAge:† 76 years",r_poets
+Gregory_Corso,"Gender:MaleDate of Birth:26 March  1930Birth place:New York, New YorkCountry:US, United StatesAge:† 70 years",r_poets
+Jiří_Žáček,"Gender:MaleBirth:*1945Country:CZ, Czech RepublicAge:74 years",r_poets
+Doris_Lessing,"Gender:FemaleDate of Birth:22 October  1919Birth place:KermánšáhCountry:IR, IranAge:† 94 years",r_poets
+Jiří_Dědeček,"Gender:MaleBirth:*1953Country:CZ, Czech RepublicAge:67 years",r_poets
+Vítězslav_Nezval,"Gender:MaleDate of Birth:26 May  1900Birth place:Biskoupky u TřebíčeCountry:CZ, Czech RepublicAge:† 57 years",r_poets
+Karel_Hynek_Mácha,"Gender:MaleDate of Birth:16 November  1810Birth place:PragueCountry:CZ, Czech RepublicAge:† 25 years",r_poets
+František_Hrubín,"Gender:MaleDate of Birth:17 September  1910Birth place:PragueCountry:CZ, Czech RepublicAge:† 60 years",r_poets
+Adéla_Červená,"Gender:MaleDate of Birth:1 April  1860Birth place:ChoceňCountry:CZ, Czech RepublicAge:† 80 years",r_poets
+Jiří_Šotola,"Gender:MaleDate of Birth:28 May  1924Birth place:SmidaryCountry:CZ, Czech RepublicAge:† 64 years",r_poets
+Bulat_Okudzhava,"Gender:MaleDate of Birth:9 May  1924Birth place:MoscowCountry:RU, RussiaAge:† 73 years",r_poets
+Ladislav_Meliško,"Gender:MaleDate of Birth:2 January  1952Birth place:HandlováCountry:SK, SlovakiaAge:† 61 years",r_poets
+Eva_Švankmajerová,"Gender:FemaleDate of Birth:25 September  1940Birth place:Kostelec nad Černými lesyCountry:CZ, Czech RepublicAge:† 65 years",r_poets
+Johan_Ludvig_Runeberg,"Gender:MaleDate of Birth:5 February  1804Birth place:PietasaariCountry:SE, SwedenAge:† 73 years",r_poets
+Jindřich_Hořejší,"Gender:MaleDate of Birth:25 April  1886Birth place:PragueCountry:CZ, Czech RepublicAge:† 55 years",r_poets
+Aale_Tynni,"Gender:FemaleDate of Birth:3 October  1913Birth place:KolpinoCountry:RU, RussiaAge:† 84 years",r_poets
+Václav_Kliment_Klicpera,"Gender:MaleDate of Birth:23 November  1792Birth place:Chlumec nad CidlinouCountry:CZ, Czech RepublicAge:† 66 years",r_poets
+Jan_Skácel,"Gender:MaleDate of Birth:7 February  1922Birth place:VnorovyCountry:CZ, Czech RepublicAge:† 67 years",r_poets
+Nikos_Kazantzakis,"Gender:MaleDate of Birth:18 February  1883Birth place:IraklionCountry:GR, GreeceAge:† 74 years",r_poets
+Jana_Štroblová,"Gender:FemaleBirth:*1936Country:CZ, Czech RepublicAge:83 years",r_poets
+Josef_Topol,"Gender:MaleDate of Birth:1 April  1935Birth place:Poříčí nad SázavouCountry:CZ, Czech RepublicAge:† 80 years",r_poets
+Ion_Luca_Caragiale,"Gender:MaleDate of Birth:30 January  1852Birth place:I. L. CaragialeCountry:RO, RomaniaAge:† 60 years",r_poets
+A._W._Yrjänä,"Gender:MaleDate of Birth:30 July  1967Birth place:KemiCountry:FI, FinlandAge:52 years",r_poets
+Pär_Lagerkvist,"Gender:MaleDate of Birth:23 May  1891Birth place:VäxjöCountry:SE, SwedenAge:† 83 years",r_poets
+Bertolt_Brecht,"Gender:MaleDate of Birth:10 February  1898 - 04:30hBirth place:AugsburgCountry:DE, GermanyAge:† 58 years",r_poets
+Miguel_Ángel_Asturias,"Gender:MaleDate of Birth:19 October  1899 - 10:00hBirth place:Guatemala CityCountry:GT, GuatemalaAge:† 74 years",r_poets
+Cees_Nooteboom,"Gender:MaleDate of Birth:31 July  1933 - 16:00hBirth place:Den HaagCountry:NL, NetherlandsAge:86 years",r_poets
+Jonáš_Červinka,"Gender:MaleBirth:*1986Country:CZ, Czech RepublicAge:33 years",r_poets
+Henri_Murger,"Gender:MaleDate of Birth:27 March  1822 - 04:00hBirth place:ParisCountry:FR, FranceAge:† 38 years",r_poets
+Václav_Thám,"Gender:MaleDate of Birth:26 October  1765Birth place:PragueCountry:CZ, Czech RepublicAge:† 50 years",r_poets
+Charles_Nodier,"Gender:MaleDate of Birth:29 April  1780Birth place:BesançonCountry:FR, FranceAge:† 63 years",r_poets
+Carl_Spitteler,"Gender:MaleDate of Birth:24 April  1845Birth place:LiestalCountry:CH, SwitzerlandAge:† 79 years",r_poets
+Jacinto_Benavente,"Gender:MaleDate of Birth:12 August  1866 - 22:30hBirth place:MadridCountry:ES, SpainAge:† 87 years",r_poets
+Johannes_Vilhelm_Jensen,"Gender:MaleDate of Birth:20 January  1873Birth place:Farsø, HimmerlandCountry:NO, Norway",r_poets
+Rainer_Maria_Rilke,"Gender:MaleDate of Birth:3 December  1875 - 23:50hBirth place:PragueCountry:CZ, Czech RepublicAge:† 51 years",r_poets
+Jiří_Mahen,"Gender:MaleDate of Birth:12 December  1882Birth place:ČáslavCountry:CZ, Czech RepublicAge:† 56 years",r_poets
+Karel_Hugo_Hilar,"Gender:MaleDate of Birth:5 November  1885Birth place:Sudoměřice u BechyněCountry:CZ, Czech Republic",r_poets
+André_Dhôtel,"Gender:MaleDate of Birth:1 September  1900 - 07:00hBirth place:AttignyCountry:FR, FranceAge:† 90 years",r_poets
+Langston_Hughes,"Gender:MaleDate of Birth:1 February  1902Birth place:JoplinCountry:US, United StatesAge:† 65 years",r_poets
+Rafael_Alberti,"Gender:MaleDate of Birth:16 December  1902 - 12:00hBirth place:CádizCountry:ES, SpainAge:† 96 years",r_poets
+Czeslaw_Milosz,"Gender:MaleDate of Birth:30 June  1911Birth place:SzetejnieCountry:LT, LithuaniaAge:† 93 years",r_poets
+Odysseas_Elytis,"Gender:MaleDate of Birth:2 November  1911Birth place:HeraklionCountry:GR, Greece",r_poets
+Mária_Ďuričková,"Gender:FemaleBirth:*1919Country:SK, Slovakia",r_poets
+Slavko_Janevski,"Gender:MaleDate of Birth:11 January  1920Birth place:SkopjeCountry:MK, Macedonia",r_poets
+Heiner_Müller,"Gender:MaleDate of Birth:9 January  1929 - 21:30hBirth place:EppendorfCountry:DE, GermanyAge:† 66 years",r_poets
+Hans_Magnus_Enzensberger,"Gender:MaleDate of Birth:11 November  1929Birth place:KaufbeurenCountry:DE, GermanyAge:90 years",r_poets
+Derek_Walcott,"Gender:MaleDate of Birth:23 January  1930Birth place:Sainte LucieCountry:FR, FranceAge:90 years",r_poets
+Ljuba_Štíplová,"Gender:FemaleBirth:*1930Country:CZ, Czech RepublicAge:89 years",r_poets
+Shel_Silverstein,"Gender:MaleDate of Birth:25 September  1930Birth place:Chicago, IllinoisCountry:US, United StatesAge:† 68 years",r_poets
+Józef_Fryzlewicz,"Gender:MaleDate of Birth:1 March  1932Birth place:Nowy TargCountry:PL, PolandAge:88 years",r_poets
+Wole_Soyinka,"Gender:MaleDate of Birth:13 July  1934Birth place:AbeokoutaCountry:NG, NigeriaAge:85 years",r_poets
+Seamus_Heaney,"Gender:MaleDate of Birth:13 April  1939Birth place:CastledawsonCountry:IE, IrelandAge:80 years",r_poets
+Maciej_Pietrzyk,"Gender:MaleDate of Birth:1 August  1944Birth place:WarsawCountry:PL, PolandAge:75 years",r_poets
+Linton_Kwesi_Johnson,"Gender:MaleDate of Birth:24 August  1952Birth place:ChapeltonCountry:JM, JamaicaAge:67 years",r_poets
+Přemysl_Rut,"Gender:MaleBirth:*1954Country:CZ, Czech RepublicAge:66 years",r_poets
+S._A._Griffin,"Gender:MaleDate of Birth:16 March  1954Birth place:San Antonio, TexasCountry:US, United StatesAge:66 years",r_poets
+Krzysztof_Pieczynski,"Gender:MaleDate of Birth:27 March  1957Birth place:OpoleCountry:PL, PolandAge:63 years",r_poets
+Emil_Hakl,"Gender:MaleDate of Birth:25 March  1958Country:XX, Unknown(?)Age:62 years",r_poets
+Viliam_Klimáček,"Gender:MaleBirth:*1958Country:SK, SlovakiaAge:61 years",r_poets
+Billy_Childish,"Gender:MaleDate of Birth:1 December  1959 - 08:25hBirth place:Chatham, EnglandCountry:GB, United KingdomAge:60 years",r_poets
+Dero_Goi,"Gender:MaleDate of Birth:16 April  1970Birth place:WolfsburgCountry:DE, GermanyAge:49 years",r_poets
+Marcin_Bytniewski,"Gender:MaleDate of Birth:16 January  1980Birth place:Biała PodlaskaCountry:PL, PolandAge:40 years",r_poets
+Norbert_Závodský,"Gender:MaleBirth:*1985Country:SK, SlovakiaAge:34 years",r_poets
+Stefan_Andres,"Gender:MaleDate of Birth:26 June  1906 - 08:30hBirth place:TrittenheimCountry:DE, GermanyAge:† 64 years",r_poets
+Coleman_Barks,"Gender:MaleDate of Birth:23 April  1937 - 11:58hBirth place:Chattanooga, TennesseeCountry:US, United StatesAge:82 years",r_poets
+Wendell_Berry,"Gender:MaleDate of Birth:5 August  1934 - 23:33hBirth place:New Castle, KentuckyCountry:US, United StatesAge:85 years",r_poets
+Al_Berto,"Gender:MaleDate of Birth:11 January  1948 - 13:30hBirth place:Coimbra MunicipalityCountry:PT, PortugalAge:† 49 years",r_poets
+Elizabeth_Bishop,"Gender:FemaleDate of Birth:8 February  1911Birth place:Worcester, MassachusettsCountry:US, United StatesAge:† 68 years",r_poets
+David_Boadella,"Gender:MaleDate of Birth:6 July  1931 - 23:45hBirth place:London, EnglandCountry:GB, United KingdomAge:88 years",r_poets
+Charles_Boer,"Gender:MaleDate of Birth:25 June  1939 - 09:42hBirth place:Cleveland, OhioCountry:US, United StatesAge:80 years",r_poets
+Camille_Bourniquel,"Gender:MaleDate of Birth:7 March  1918 - 14:00hBirth place:ParisCountry:FR, FranceAge:† 95 years",r_poets
+Joe_Bousquet,"Gender:MaleDate of Birth:19 March  1897 - 23:00hBirth place:NarbonneCountry:FR, FranceAge:† 53 years",r_poets
+Tom_Buchan,"Gender:MaleDate of Birth:19 June  1931 - 11:10hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:88 years",r_poets
+Rene_Guy_Cadou,"Gender:MaleDate of Birth:15 February  1920 - 22:00hBirth place:PacéCountry:FR, FranceAge:† 31 years",r_poets
+Ingo_Cesaro,"Gender:MaleDate of Birth:4 November  1941 - 09:05hBirth place:KronachCountry:DE, GermanyAge:78 years",r_poets
+John_Clare,"Gender:MaleDate of Birth:13 July  1793 - 23:40hBirth place:Hepstone, EnglandCountry:GB, United Kingdom",r_poets
+Stewart_Conn,"Gender:MaleDate of Birth:5 November  1936 - 07:30hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:83 years",r_poets
+Sergio_Corazzini,"Gender:MaleDate of Birth:6 February  1886 - 14:00hBirth place:RomeCountry:IT, ItalyAge:† 20 years",r_poets
+Wilfried_van_Craeynest,"Gender:MaleDate of Birth:9 February  1923 - 05:00hBirth place:KortrijkCountry:BE, Belgium",r_poets
+Saint-Georges_de_Bouhelier,"Gender:MaleDate of Birth:19 May  1876 - 06:00hBirth place:Rueil-MalmaisonCountry:FR, FranceAge:† 71 years",r_poets
+Walter_De_La_Mare,"Gender:MaleDate of Birth:25 April  1873 - 16:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 83 years",r_poets
+Leon_Deubel,"Gender:MaleDate of Birth:22 March  1879 - 10:30hBirth place:BelfortCountry:FR, FranceAge:† 34 years",r_poets
+Auguste_Dorchain,"Gender:MaleDate of Birth:19 March  1857 - 02:00hBirth place:CambraiCountry:FR, FranceAge:† 72 years",r_poets
+François_Fabié,"Gender:MaleDate of Birth:3 November  1846 - 03:00hBirth place:DurenqueCountry:FR, FranceAge:† 81 years",r_poets
+William_Falconer,"Gender:MaleDate of Birth:21 February  1732 - 22:39hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 236 years",r_poets
+Daisy_Fellowes,"Gender:FemaleDate of Birth:29 April  1890 - 23:30hBirth place:ParisCountry:FR, FranceAge:† 72 years",r_poets
+Carl_Fernbach-Flarsheim,"Gender:MaleDate of Birth:8 September  1921 - 20:00hBirth place:GliwiceCountry:PL, Poland",r_poets
+Lionello_Fiumi,"Gender:MaleDate of Birth:12 April  1894 - 22:45hBirth place:RoveretoCountry:IT, Italy",r_poets
+André_Frénaud,"Gender:MaleDate of Birth:26 July  1907 - 13:00hBirth place:Montceau-les-MinesCountry:FR, France",r_poets
+Leif_Färding,"Gender:MaleDate of Birth:21 May  1951 - 20:00hBirth place:GävleCountry:SE, SwedenAge:† 32 years",r_poets
+Jean_Gebser,"Gender:MaleDate of Birth:20 August  1905 - 20:15hBirth place:PoznańCountry:PL, PolandAge:† 67 years",r_poets
+Christian_Gellert,"Gender:MaleDate of Birth:4 July  1715 - 13:30hBirth place:Hainichen, SaxonyCountry:DE, GermanyAge:† 54 years",r_poets
+Ildefonso_Manuel_Gil,"Gender:MaleDate of Birth:22 January  1912 - 23:55hBirth place:ZaragozaCountry:ES, SpainAge:† 91 years",r_poets
+Fernand_Gregh,"Gender:MaleDate of Birth:14 October  1873 - 16:00hBirth place:ParisCountry:FR, France",r_poets
+Jim_Harrison,"Gender:MaleDate of Birth:11 December  1937 - 11:00hBirth place:Grayling, MichiganCountry:US, United StatesAge:† 78 years",r_poets
+Geof_Hewitt,"Gender:MaleDate of Birth:1 September  1943 - 20:40hBirth place:Glen Ridge, New JerseyCountry:US, United StatesAge:76 years",r_poets
+Jack_Holliday,"Gender:MaleDate of Birth:27 August  1959 - 19:53hBirth place:Whittier, CaliforniaCountry:US, United StatesAge:60 years",r_poets
+Adrianus_Roland_Holst,"Gender:MaleDate of Birth:23 May  1888 - 22:30hBirth place:AmsterdamCountry:NL, NetherlandsAge:† 88 years",r_poets
+Richard_Franklin_Hugo,"Gender:MaleDate of Birth:21 December  1923 - 20:00hBirth place:Seattle, WashingtonCountry:US, United StatesAge:† 58 years",r_poets
+Pierre-Jean_Jouve,"Gender:MaleDate of Birth:11 October  1887 - 11:15hBirth place:ArrasCountry:FR, FranceAge:† 88 years",r_poets
+Victor_Felix_Kinon,"Gender:MaleDate of Birth:17 March  1873 - 19:00hBirth place:TienenCountry:BE, BelgiumAge:† 80 years",r_poets
+John_Knoepfle,"Gender:MaleDate of Birth:4 February  1923 - 14:35hBirth place:Cincinnati, OhioCountry:US, United States",r_poets
+Bill_Knott,"Gender:MaleDate of Birth:17 February  1940 - 22:30hBirth place:Ithaca, MichiganCountry:US, United StatesAge:80 years",r_poets
+August_von_Kotzebue,"Gender:MaleDate of Birth:3 May  1761 - 18:00hBirth place:WeimarCountry:DE, GermanyAge:† 57 years",r_poets
+Raymond_La_Tailhede,"Gender:MaleDate of Birth:14 October  1867 - 04:00hBirth place:MoissacCountry:FR, France",r_poets
+Charles_Lamb,"Gender:MaleDate of Birth:10 February  1775 - 12:20hBirth place:London, EnglandCountry:GB, United KingdomAge:† 59 years",r_poets
+Hugues_Lapaire,"Gender:MaleDate of Birth:26 August  1869 - 07:00hBirth place:SancoinsCountry:FR, FranceAge:† 97 years",r_poets
+Leo_Larguier,"Gender:MaleDate of Birth:6 December  1878 - 02:00hBirth place:La Grand-CombeCountry:FR, France",r_poets
+Armand_Lebailly,"Gender:MaleDate of Birth:22 April  1838 - 14:00hBirth place:GavrayCountry:FR, FranceAge:† 26 years",r_poets
+Paulo_Leminski,"Gender:MaleDate of Birth:24 August  1944 - 07:00hBirth place:CuritibaCountry:BR, BrazilAge:† 44 years",r_poets
+Primo_Levi,"Gender:MaleDate of Birth:31 July  1919 - 04:00hBirth place:TurinCountry:IT, ItalyAge:† 67 years",r_poets
+Robert_Lowell,"Gender:MaleDate of Birth:1 March  1917Birth place:Boston, MassachusettsCountry:US, United StatesAge:† 60 years",r_poets
+Aki_Luostarinen,"Gender:MaleDate of Birth:26 December  1952 - 00:30hBirth place:SavonlinnaCountry:FI, FinlandAge:67 years",r_poets
+Lewis_Perry_MacAdams,"Gender:MaleDate of Birth:12 October  1944 - 07:04hBirth place:San Angelo, TexasCountry:US, United StatesAge:75 years",r_poets
+Norman_MacCaig,"Gender:MaleDate of Birth:14 November  1910 - 01:30hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:† 85 years",r_poets
+Philip_Bourke_Marston,"Gender:MaleDate of Birth:13 August  1850 - 05:04hBirth place:London, EnglandCountry:GB, United KingdomAge:† 35 years",r_poets
+Pedro_Homem_de_Mello,"Gender:MaleDate of Birth:6 September  1904 - 05:15hBirth place:PortoCountry:PT, PortugalAge:† 79 years",r_poets
+Jean_Georges_Elie_Mogin,"Gender:MaleDate of Birth:25 April  1921 - 13:00hBirth place:BrusselsCountry:BE, Belgium",r_poets
+William_Montgomerie,"Gender:MaleDate of Birth:30 May  1904 - 17:50hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 90 years",r_poets
+Teixeira_de_Pascoaes,"Gender:MaleDate of Birth:8 November  1877 - 17:00hBirth place:AmaranteCountry:PT, PortugalAge:† 75 years",r_poets
+Milorad_Pavic,"Gender:MaleDate of Birth:15 October  1929 - 08:30hBirth place:BelgradeCountry:RS, SerbiaAge:† 80 years",r_poets
+Fernando_Pessoa,"Gender:MaleDate of Birth:13 June  1888 - 15:20hBirth place:LisbonCountry:PT, PortugalAge:† 47 years",r_poets
+Donald_Petersen,"Gender:MaleDate of Birth:11 November  1928 - 14:19hBirth place:Minneapolis, MinnesotaCountry:US, United StatesAge:† 76 years",r_poets
+Alberto_Pimenta,"Gender:MaleDate of Birth:26 December  1937 - 08:30hBirth place:PortoCountry:PT, PortugalAge:82 years",r_poets
+Kenneth_Samuel_Pitchford,"Gender:MaleDate of Birth:24 January  1931 - 06:10hBirth place:Moorhead, MinnesotaCountry:US, United StatesAge:89 years",r_poets
+Francois_Ponsard,"Gender:MaleDate of Birth:1 June  1814 - 08:00hBirth place:VienneCountry:FR, FranceAge:† 53 years",r_poets
+Jean_Reboul,"Gender:MaleDate of Birth:22 January  1796 - 06:00hBirth place:NimesCountry:FR, FranceAge:† 68 years",r_poets
+Jean_Richepin,"Gender:MaleDate of Birth:4 February  1849 - 02:00hBirth place:MédéaCountry:DZ, AlgeriaAge:† 77 years",r_poets
+Jacques_Rigaut,"Gender:MaleDate of Birth:30 December  1898 - 02:00hBirth place:ParisCountry:FR, FranceAge:† 30 years",r_poets
+Maurice_Roelants,"Gender:MaleDate of Birth:19 December  1895 - 20:00hBirth place:GhentCountry:BE, BelgiumAge:† 70 years",r_poets
+Luis_Rosales,"Gender:MaleDate of Birth:31 May  1910 - 14:00hBirth place:GranadaCountry:ES, SpainAge:† 81 years",r_poets
+Larry_Jerome_Rubin,"Gender:MaleDate of Birth:14 February  1930 - 03:00hBirth place:Bayonne, New JerseyCountry:US, United StatesAge:90 years",r_poets
+José_Carlos_Ary_Dos_Santos,"Gender:MaleDate of Birth:7 December  1936 - 01:45hBirth place:LisbonCountry:PT, PortugalAge:† 47 years",r_poets
+Alexander_Scott,"Gender:MaleDate of Birth:28 November  1920 - 12:30hBirth place:Aberdeen, ScotlandCountry:GB, United KingdomAge:† 68 years",r_poets
+Frank_Scott,"Gender:MaleDate of Birth:1 August  1899 - 05:50hBirth place:Québec City, QuébecCountry:CA, CanadaAge:† 85 years",r_poets
+William_Soutar,"Gender:MaleDate of Birth:28 April  1898 - 05:15hBirth place:Perth, ScotlandCountry:GB, United KingdomAge:† 45 years",r_poets
+Lewis_Spence,"Gender:MaleDate of Birth:25 November  1874 - 15:00hBirth place:Forfarshire, ScotlandCountry:GB, United KingdomAge:† 80 years",r_poets
+Radcliffe_Squires,"Gender:MaleDate of Birth:23 May  1917 - 06:30hBirth place:Salt Lake City, UtahCountry:US, United StatesAge:† 75 years",r_poets
+Hermann_Stehr,"Gender:MaleDate of Birth:16 February  1864 - 02:00hBirth place:Bystrzyca KłodzkaCountry:PL, PolandAge:† 76 years",r_poets
+Terence_Tierney,"Gender:MaleDate of Birth:15 September  1970 - 10:40hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:49 years",r_poets
+Miguel_de_Unamuno_y_Jugo,"Gender:MaleDate of Birth:29 September  1864 - 07:18hBirth place:BilbaoCountry:ES, SpainAge:† 72 years",r_poets
+Edmond_Vandercammen,"Gender:MaleDate of Birth:8 January  1901 - 03:00hBirth place:OhainCountry:BE, Belgium",r_poets
+Robert_W._Watson,"Gender:MaleDate of Birth:26 December  1925 - 12:00hBirth place:Passaic, New JerseyCountry:US, United StatesAge:† 86 years",r_poets
+Jonathan_Chamberlain_Williams,"Gender:MaleDate of Birth:8 March  1929 - 02:15hBirth place:Asheville, North CarolinaCountry:US, United StatesAge:† 79 years",r_poets
+Yevgeny_Yevtushenko,"Gender:MaleDate of Birth:18 July  1933Birth place:ZimaCountry:RU, RussiaAge:86 years",r_poets
+Jakub_Čermák,"Gender:MaleBirth:*1986Country:CZ, Czech RepublicAge:33 years",r_poets
+Georgij_Viktorovič_Adamovič,"Gender:MaleDate of Birth:19 April  1892Birth place:MoscowCountry:RU, RussiaAge:† 79 years",r_poets
+Endre_Ady,"Gender:MaleDate of Birth:22 November  1877Birth place:Ady Endre, Satu MareCountry:RO, RomaniaAge:† 41 years",r_poets
+Chinua_Achebe,"Gender:MaleDate of Birth:16 November  1930Country:NG, NigeriaAge:89 years",r_poets
+Bella_Achmadulina,"Gender:FemaleDate of Birth:10 April  1937Birth place:MoscowCountry:RU, RussiaAge:82 years",r_poets
+Anna_Andrejevna_Achmatova,"Gender:FemaleDate of Birth:25 June  1889Birth place:OdessaCountry:UA, Ukraine",r_poets
+Conrad_Potter_Aiken,"Gender:MaleDate of Birth:5 August  1889Birth place:Savannah, GeorgiaCountry:US, United StatesAge:† 84 years",r_poets
+Michal_Ajvaz,"Gender:MaleBirth:*1949Country:CZ, Czech RepublicAge:70 years",r_poets
+Lidiya_Alexejevna_Aleksejeva,"Gender:FemaleDate of Birth:7 March  1909Country:Dvinsk, Rusko(?)Age:† 80 years",r_poets
+Vasilij_Dmitrijevič_Alexandrovskij,"Gender:MaleDate of Birth:15 January  1897Birth place:BaskakovoCountry:RU, RussiaAge:† 37 years",r_poets
+Juraj_Andričík,"Gender:MaleBirth:*1937Country:SK, SlovakiaAge:82 years",r_poets
+Peter_Andruška,"Gender:MaleBirth:*1943Country:SK, SlovakiaAge:76 years",r_poets
+Nína_Björk_Árnadóttir,"Gender:FemaleDate of Birth:7 June  1941Country:XX, Unknown(?)Age:† 58 years",r_poets
+Stanislav_Augusta,"Gender:MaleDate of Birth:2 November  1915Birth place:PelhřimovCountry:CZ, Czech RepublicAge:† 74 years",r_poets
+Michal_Babinka,"Gender:MaleDate of Birth:25 August  1927Birth place:PadinaCountry:RS, SerbiaAge:92 years",r_poets
+Věra_Bajnarová,"Gender:FemaleDate of Birth:28 May  1921Birth place:OstravaCountry:CZ, Czech RepublicAge:† 38 years",r_poets
+Dagmar_Bakalová,"Gender:FemaleBirth:*1942Country:CZ, Czech RepublicAge:77 years",r_poets
+Victor_Balaguer,"Gender:MaleDate of Birth:11 December  1824Birth place:BarcelonaCountry:ES, SpainAge:† 76 years",r_poets
+Dezider_Banga,"Gender:MaleBirth:*1939Country:SK, SlovakiaAge:81 years",r_poets
+Jakub_Bart-Ćišinski,"Gender:MaleDate of Birth:20 August  1856Birth place:Panschwitz-KuckauCountry:DE, GermanyAge:† 53 years",r_poets
+Zdeněk_Bár,"Gender:MaleDate of Birth:19 January  1904Birth place:ŠtramberkCountry:CZ, Czech Republic",r_poets
+Safvet-beg_Bašagić,"Gender:MaleDate of Birth:6 May  1870Birth place:NevesinjeCountry:BA, Bosnia and Herzegovina",r_poets
+Nura_Bazdulj_-_Hubijar,"Gender:FemaleDate of Birth:20 August  1951Birth place:MrđenovićiCountry:BA, Bosnia and HerzegovinaAge:68 years",r_poets
+Kamil_Bednář,"Gender:MaleBirth:*1912Country:CZ, Czech Republic",r_poets
+Ruy_Belo,"Gender:MaleDate of Birth:27 February  1933Birth place:São João da RibeiraCountry:PT, PortugalAge:87 years",r_poets
+Tim_Bělsky,"Gender:MaleBirth:*1970Country:CZ, Czech RepublicAge:49 years",r_poets
+Andrej_Bělyj,"Gender:MaleDate of Birth:26 October  1880Birth place:MoscowCountry:RU, Russia",r_poets
+Mario_Benedetti,"Gender:MaleDate of Birth:14 September  1920Birth place:Paso de los TorosCountry:UY, Uruguay",r_poets
+Einar_Benediktsson,"Gender:MaleDate of Birth:31 October  1864Country:XX, Unknown(?)",r_poets
+Božena_Benešová,"Gender:FemaleDate of Birth:30 November  1873Birth place:Nový JičínCountry:CZ, Czech Republic",r_poets
+Zdenka_Bergrová,"Gender:FemaleBirth:*1923Country:CZ, Czech Republic",r_poets
+Petr_Bezruč,"Gender:MaleDate of Birth:15 September  1867Birth place:OpavaCountry:CZ, Czech RepublicAge:† 90 years",r_poets
+Konstantin_Biebl,"Gender:MaleDate of Birth:26 February  1898Birth place:SlavetínCountry:CZ, Czech RepublicAge:† 53 years",r_poets
+Jan_Blahoslav_Čapek,"Gender:MaleDate of Birth:6 November  1903Birth place:Třebechovice pod OrebemCountry:CZ, Czech Republic",r_poets
+Ivan_Blatný,"Gender:MaleBirth:*1919Country:CZ, Czech Republic",r_poets
+Karel_Bodlák,"Gender:MaleDate of Birth:3 November  1903Birth place:SoběslavCountry:CZ, Czech Republic",r_poets
+Jana_Bodnárová,"Gender:FemaleBirth:*1950Country:SK, SlovakiaAge:69 years",r_poets
+Klement_Bochořák,"Gender:MaleBirth:*1910Country:CZ, Czech Republic",r_poets
+Hanuš_Bonn,"Gender:MaleBirth:*1913Country:CZ, Czech Republic",r_poets
+Ján_Botto,"Gender:MaleDate of Birth:27 January  1829Birth place:Vyšný SkálnikCountry:SK, SlovakiaAge:† 52 years",r_poets
+Alfons_Breska,"Gender:MaleDate of Birth:13 July  1873Birth place:KladnoCountry:CZ, Czech Republic",r_poets
+Ján_Brezina,"Gender:MaleBirth:*1917Country:SK, Slovakia",r_poets
+Antonín_Brousek,"Gender:MaleBirth:*1941Country:CZ, Czech RepublicAge:78 years",r_poets
+Otokar_Březina,"Gender:MaleDate of Birth:13 September  1868Birth place:PočátkyCountry:CZ, Czech RepublicAge:† 60 years",r_poets
+Vincenzo_Cardarelli,"Gender:MaleDate of Birth:1 May  1887Birth place:TarquiniaCountry:IT, Italy",r_poets
+Musa_Čazim_Čatič,"Gender:MaleDate of Birth:12 March  1878Birth place:OdžakCountry:BA, Bosnia and Herzegovina",r_poets
+Saša_Čornyj,"Gender:MaleDate of Birth:13 October  1880Birth place:OdesaCountry:LT, Lithuania",r_poets
+Samo_Chalupka,"Gender:MaleDate of Birth:27 February  1812Birth place:Horná LehotaCountry:SK, SlovakiaAge:† 71 years",r_poets
+Veselin_Chančev,"Gender:MaleDate of Birth:4 April  1919Birth place:Stara ZagoraCountry:BG, Bulgaria",r_poets
+Daniil_Charms,"Gender:MaleDate of Birth:30 December  1905Birth place:Saint PetersburgCountry:RU, Russia",r_poets
+Josef_Krasoslav_Chmelenský,"Gender:MaleDate of Birth:7 August  1800Birth place:BavorovCountry:CZ, Czech RepublicAge:† 38 years",r_poets
+Lenka_Chytilová,"Gender:FemaleDate of Birth:11 May  1952Country:XX, Unknown(?)Age:67 years",r_poets
+Henry_de_Montherlant,"Gender:MaleDate of Birth:21 April  1896Birth place:Neuilly-sur-SeineCountry:FR, France",r_poets
+Robert_de_Roquebrune,"Gender:MaleDate of Birth:29 July  1889Birth place:L'Assomption, QuébecCountry:CA, Canada",r_poets
+Jakub_Deml,"Gender:MaleDate of Birth:20 August  1878Birth place:TřebíčCountry:CZ, Czech RepublicAge:† 82 years",r_poets
+Mohammed_Dib,"Gender:MaleDate of Birth:21 July  1920Birth place:TlemcenCountry:DZ, Algeria",r_poets
+Gerardo_Diego,"Gender:MaleDate of Birth:3 October  1896 - 23:30hBirth place:SantanderCountry:ES, Spain",r_poets
+Rudolf_Dilong,"Gender:MaleDate of Birth:1 August  1905Birth place:TrstenáCountry:SK, Slovakia",r_poets
+Ivan_Diviš,"Gender:MaleDate of Birth:18 September  1924Birth place:PragueCountry:CZ, Czech RepublicAge:† 74 years",r_poets
+Mak_Dizdar,"Gender:MaleDate of Birth:17 October  1917Birth place:StolacCountry:BA, Bosnia and Herzegovina",r_poets
+Pavol_Dobšinský,"Gender:MaleDate of Birth:16 March  1828Birth place:SlavošovceCountry:SK, SlovakiaAge:† 57 years",r_poets
+Ladislav_Dvorský,"Gender:MaleBirth:*1931Country:CZ, Czech RepublicAge:88 years",r_poets
+Mihai_Eminescu,"Gender:MaleDate of Birth:15 January  1850Birth place:BotoșaniCountry:RO, Romania",r_poets
+Karla_Erbová,"Gender:FemaleBirth:*1933Country:CZ, Czech RepublicAge:86 years",r_poets
+Florbela_Espansa,"Gender:FemaleDate of Birth:8 December  1894Birth place:Vila Viçosa MunicipalityCountry:PT, Portugal",r_poets
+Tera_Fabiánová,"Gender:FemaleBirth:*1930Country:SK, SlovakiaAge:89 years",r_poets
+Rudolf_Fabry,"Gender:MaleBirth:*1915Country:SK, Slovakia",r_poets
+Miroslava_Fáčková,"Gender:FemaleBirth:*1983Country:CZ, Czech RepublicAge:36 years",r_poets
+Ahmed_Faiz,"Gender:MaleDate of Birth:13 February  1911Birth place:SiālkotCountry:PK, PakistanAge:† 73 years",r_poets
+Hanuš_Fantl,"Gender:MaleBirth:*1917Country:CZ, Czech Republic",r_poets
+Lubomír_Feldek,"Gender:MaleBirth:*1936Country:CZ, Czech RepublicAge:83 years",r_poets
+T._R._Field,"Gender:MaleDate of Birth:23 April  1891Birth place:PragueCountry:CZ, Czech RepublicAge:† 78 years",r_poets
+Otokar_Fischer,"Gender:MaleDate of Birth:20 May  1883Birth place:KolínCountry:CZ, Czech RepublicAge:† 54 years",r_poets
+Viola_Fischerová,"Gender:FemaleBirth:*1936Country:CZ, Czech RepublicAge:83 years",r_poets
+Viktor_Fischl,"Gender:MaleDate of Birth:30 June  1912Birth place:Hradec KrálovéCountry:CZ, Czech RepublicAge:† 93 years",r_poets
+Ivo_Fleischmann,"Gender:MaleBirth:*1921Country:CZ, Czech Republic",r_poets
+Miroslav_Florian,"Gender:MaleDate of Birth:10 May  1931Birth place:Kutná HoraCountry:CZ, Czech RepublicAge:† 65 years",r_poets
+Josef_Václav_Frič,"Gender:MaleDate of Birth:5 September  1829Birth place:PragueCountry:CZ, Czech RepublicAge:† 61 years",r_poets
+Emanuel_Frynta,"Gender:MaleDate of Birth:3 January  1923Birth place:SlapyCountry:CZ, Czech RepublicAge:† 52 years",r_poets
+Konstanty_Ildefons_Galczyński,"Gender:MaleDate of Birth:23 January  1905Birth place:WarsawCountry:PL, PolandAge:† 48 years",r_poets
+František_Gellner,"Gender:MaleDate of Birth:19 June  1881Birth place:Mladá BoleslavCountry:CZ, Czech RepublicAge:† 33 years",r_poets
+Adam_Georgiev,"Gender:MaleBirth:*1980Country:CZ, Czech RepublicAge:39 years",r_poets
+Karl_Adolph_Gjellerup,"Gender:MaleDate of Birth:2 June  1857Birth place:RoholteCountry:DK, DenmarkAge:† 61 years",r_poets
+Jiří_Gruša,"Gender:MaleBirth:*1938Country:CZ, Czech RepublicAge:81 years",r_poets
+Nicolás_Guillén,"Gender:MaleDate of Birth:10 July  1902 - 02:00hBirth place:CamagueyCountry:CU, CubaAge:† 87 years",r_poets
+František_Halas,"Gender:MaleDate of Birth:3 October  1901Birth place:BrnoCountry:CZ, Czech RepublicAge:† 48 years",r_poets
+Vítězslav_Hálek,"Gender:MaleDate of Birth:5 April  1835Birth place:DolínekCountry:CZ, Czech RepublicAge:† 39 years",r_poets
+Václav_Hanka,"Gender:MaleDate of Birth:10 June  1791Birth place:HořiněvesCountry:CZ, Czech RepublicAge:† 69 years",r_poets
+Marsden_Hartley,"Gender:MaleDate of Birth:4 January  1877Birth place:Lewiston, MaineCountry:US, United StatesAge:† 66 years",r_poets
+Jiřina_Hauková,"Gender:FemaleDate of Birth:27 January  1919Birth place:PřerovCountry:CZ, Czech RepublicAge:† 86 years",r_poets
+Pavel_J._Hejátko,"Gender:MaleBirth:*1975Country:CZ, Czech RepublicAge:44 years",r_poets
+Adolf_Heyduk,"Gender:MaleDate of Birth:6 June  1835Birth place:HlinskoCountry:CZ, Czech RepublicAge:† 87 years",r_poets
+Nazim_Hikmet_Ran,"Gender:MaleDate of Birth:15 January  1902Birth place:ThessalonikiCountry:GR, GreeceAge:† 61 years",r_poets
+Karel_Hlaváček,"Gender:MaleDate of Birth:24 August  1874Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Šebastián_Hněvkovský,"Gender:MaleDate of Birth:19 March  1770Birth place:ŽebrákCountry:CZ, Czech RepublicAge:† 77 years",r_poets
+Vladimír_Holan,"Gender:MaleDate of Birth:16 September  1905Birth place:PragueCountry:CZ, Czech RepublicAge:† 74 years",r_poets
+Josef_Hora,"Gender:MaleDate of Birth:8 July  1891Birth place:DobříňCountry:CZ, Czech Republic",r_poets
+Václav_Hrabě,"Gender:MaleDate of Birth:13 June  1940Birth place:LochoviceCountry:CZ, Czech RepublicAge:† 24 years",r_poets
+Pavol_Országh_Hviezdoslav,"Gender:MaleDate of Birth:2 February  1849Birth place:Vyšný KubínCountry:SK, SlovakiaAge:† 72 years",r_poets
+Gyula_Illyés,"Gender:MaleDate of Birth:2 November  1902Birth place:SárszentlõrincCountry:HU, Hungary",r_poets
+Mladen_Isaev,"Gender:MaleDate of Birth:7 June  1907Country:BG, Bulgaria",r_poets
+Czeslaw_Janczarski,"Gender:MaleDate of Birth:2 September  1911Birth place:KruszwicaCountry:PL, Poland",r_poets
+Hanna_Januszewska,"Gender:FemaleDate of Birth:20 April  1905Birth place:WarsawCountry:PL, Poland",r_poets
+Miloš_Jirko,"Gender:MaleDate of Birth:20 January  1900Birth place:NěmeticeCountry:CZ, Czech Republic",r_poets
+LeRoi_Jones,"Gender:MaleDate of Birth:7 October  1934Birth place:Newark, New JerseyCountry:US, United StatesAge:85 years",r_poets
+Emil_Juliš,"Gender:MaleBirth:*1920Country:CZ, Czech Republic",r_poets
+Josef_Kainar,"Gender:MaleBirth:*1917Country:CZ, Czech Republic",r_poets
+Zdeněk_Kalista,"Gender:MaleDate of Birth:22 July  1900Birth place:Benátky nad JizerouCountry:CZ, Czech Republic",r_poets
+Anna_Kamieňska,"Gender:FemaleDate of Birth:12 April  1920Birth place:KrasnystawCountry:PL, Poland",r_poets
+Nikolaj_Michajlovič_Karamzin,"Gender:MaleDate of Birth:12 December  1766Birth place:MikhaylovkaCountry:RU, Russia",r_poets
+Jiří_Karásek_ze_Lvovic,"Gender:MaleDate of Birth:24 January  1871Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Uladzimir_Karatkevič,"Gender:MaleDate of Birth:26 November  1930Birth place:OršaCountry:BY, BelarusAge:89 years",r_poets
+Walter_Kempowski,"Gender:MaleDate of Birth:29 April  1929Birth place:RostockCountry:DE, GermanyAge:† 78 years",r_poets
+Petr_Kien,"Gender:MaleBirth:*1919Country:CZ, Czech Republic",r_poets
+František_Matouš_Klácel,"Gender:MaleDate of Birth:7 April  1808Birth place:Česká TřebováCountry:CZ, Czech RepublicAge:† 73 years",r_poets
+Zlatko_Klátik,"Gender:MaleDate of Birth:24 January  1922Birth place:Stara PazovaCountry:RS, Serbia",r_poets
+Benjamin_Klička,"Gender:MaleDate of Birth:20 November  1897Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Josef_Knap,"Gender:MaleDate of Birth:28 July  1900Birth place:PodůlšíCountry:CZ, Czech Republic",r_poets
+Jakub_D._Kočí,"Gender:MaleBirth:*1977Country:CZ, Czech RepublicAge:43 years",r_poets
+Tibor_Kočík,"Gender:MaleBirth:*1952Country:CZ, Czech RepublicAge:67 years",r_poets
+Jiří_Kolář,"Gender:MaleBirth:*1914Country:CZ, Czech Republic",r_poets
+Jan_Kollár,"Gender:MaleDate of Birth:29 July  1793Birth place:MošovceCountry:SK, SlovakiaAge:† 58 years",r_poets
+Karel_Konrád,"Gender:MaleDate of Birth:28 March  1899Birth place:LounyCountry:CZ, Czech Republic",r_poets
+Josef_Kopta,"Gender:MaleDate of Birth:16 June  1894Birth place:LibochoviceCountry:CZ, Czech Republic",r_poets
+Josef_Kostohryz,"Gender:MaleDate of Birth:25 December  1907Birth place:KřenoviceCountry:CZ, Czech Republic",r_poets
+Jiří_Kovtun,"Gender:MaleDate of Birth:23 April  1927Birth place:HorinchovoCountry:UA, UkraineAge:92 years",r_poets
+Janko_Kráľ,"Gender:MaleDate of Birth:24 April  1822Birth place:Liptovský MikulášCountry:SK, SlovakiaAge:† 54 years",r_poets
+Eliška_Krásnohorská,"Gender:FemaleDate of Birth:18 November  1847Birth place:PragueCountry:CZ, Czech RepublicAge:† 79 years",r_poets
+J._H._Krchovský,"Gender:MaleBirth:*1960Country:CZ, Czech RepublicAge:59 years",r_poets
+Miroslav_Krleža,"Gender:MaleDate of Birth:7 July  1893Birth place:ZagrebCountry:HR, Croatia",r_poets
+František_Křelina,"Gender:MaleDate of Birth:26 July  1903Birth place:PodhradíCountry:CZ, Czech Republic",r_poets
+Jan_Křesadlo,"Gender:MaleBirth:*1926Country:CZ, Czech RepublicAge:93 years",r_poets
+Petr_Křička,"Gender:MaleDate of Birth:4 December  1884Birth place:KelčCountry:CZ, Czech Republic",r_poets
+Robert_Kubánek,"Gender:MaleBirth:*1964Country:CZ, Czech RepublicAge:56 years",r_poets
+František_Kubka,"Gender:MaleDate of Birth:4 March  1894Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Josef_Jaroslav_Langer,"Gender:MaleDate of Birth:12 November  1806Birth place:Lázne BohdanecCountry:CZ, Czech RepublicAge:† 39 years",r_poets
+Martin_Langer,"Gender:MaleBirth:*1972Country:CZ, Czech RepublicAge:47 years",r_poets
+Liz_Lochhead,"Gender:FemaleDate of Birth:26 December  1947 - 20:45hBirth place:Motherwell, ScotlandCountry:GB, United KingdomAge:72 years",r_poets
+Věra_Ludíková,"Gender:FemaleBirth:*1943Country:CZ, Czech RepublicAge:76 years",r_poets
+Emil_Boleslav_Lukáč,"Gender:MaleDate of Birth:1 November  1900Birth place:Hodruša-HámreCountry:SK, SlovakiaAge:† 78 years",r_poets
+Ludmila_Macešková,"Gender:FemaleDate of Birth:22 March  1898Birth place:LiberecCountry:CZ, Czech Republic",r_poets
+Maurice_Mooris_Maeterlinck,"Gender:MaleDate of Birth:29 July  1862Birth place:GhentCountry:BE, Belgium",r_poets
+Josef_Svatopluk_Machar,"Gender:MaleDate of Birth:29 February  1864Birth place:KolínCountry:CZ, Czech RepublicAge:† 78 years",r_poets
+Jakub_P._Malý,"Gender:MaleBirth:*1955Country:CZ, Czech RepublicAge:65 years",r_poets
+Radek_Malý,"Gender:MaleBirth:*1977Country:CZ, Czech RepublicAge:42 years",r_poets
+Osip_Mandelštam,"Gender:MaleDate of Birth:15 January  1891Birth place:WarsawCountry:PL, Poland",r_poets
+Leontina_Mašínová,"Gender:FemaleDate of Birth:16 March  1882Birth place:PilsenCountry:CZ, Czech Republic",r_poets
+Bohumil_Mathesius,"Gender:MaleDate of Birth:14 July  1888Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Rudolf_Mertlík,"Gender:MaleDate of Birth:14 May  1913Birth place:PragueCountry:CZ, Czech RepublicAge:† 72 years",r_poets
+Jaromír_Měšťan,"Gender:MaleDate of Birth:27 May  1916Birth place:PilsenCountry:CZ, Czech RepublicAge:† 49 years",r_poets
+Anne_Michaels,"Gender:FemaleDate of Birth:15 April  1958Birth place:Toronto, OntarioCountry:CA, CanadaAge:61 years",r_poets
+Oldřich_Mikulášek,"Gender:MaleDate of Birth:26 May  1910Birth place:PřerovCountry:CZ, Czech RepublicAge:† 75 years",r_poets
+Matěj_Milota_Zdirad_Polák,"Gender:MaleDate of Birth:14 February  1788Birth place:ZásmukyCountry:CZ, Czech RepublicAge:† 68 years",r_poets
+Karel_Milota,"Gender:MaleDate of Birth:16 September  1937Birth place:PragueCountry:CZ, Czech RepublicAge:† 64 years",r_poets
+Vlastimil_Milota,"Gender:MaleDate of Birth:23 December  1923Birth place:LipanyCountry:SK, SlovakiaAge:† 69 years",r_poets
+Štefan_Moravčík,"Gender:MaleBirth:*1943Country:SK, SlovakiaAge:76 years",r_poets
+Václav_Bolemír_Nebeský,"Gender:MaleDate of Birth:18 August  1818Birth place:Nový DvůrCountry:CZ, Czech RepublicAge:† 63 years",r_poets
+František_Nechvátal,"Gender:MaleDate of Birth:22 October  1905Birth place:Velký ÚjezdCountry:CZ, Czech RepublicAge:† 77 years",r_poets
+Nikolay_Nekrasov,"Gender:MaleDate of Birth:10 December  1821Birth place:NemyrivCountry:UA, UkraineAge:† 56 years",r_poets
+Jan_Neruda,"Gender:MaleDate of Birth:9 July  1834Birth place:PragueCountry:CZ, Czech RepublicAge:† 57 years",r_poets
+Stanislav_Kostka_Neumann,"Gender:MaleDate of Birth:5 June  1875Birth place:PragueCountry:CZ, Czech RepublicAge:† 72 years",r_poets
+Jožo_Nižnánsky,"Gender:MaleDate of Birth:30 August  1903Birth place:BrestovanyCountry:SK, SlovakiaAge:† 72 years",r_poets
+Zuzana_Nováková,"Gender:FemaleDate of Birth:22 February  1943Country:XX, Unknown(?)Age:77 years",r_poets
+Ladislav_Novomeský,"Gender:MaleDate of Birth:27 December  1904Birth place:BudapestCountry:HU, Hungary",r_poets
+Adam_Oehlenschläger,"Gender:MaleDate of Birth:14 November  1779Birth place:CopenhagenCountry:DK, DenmarkAge:† 70 years",r_poets
+Jiří_Orten,"Gender:MaleBirth:*1919Country:CZ, Czech Republic",r_poets
+Josef_Peterka,"Gender:MaleBirth:*1944Country:CZ, Czech RepublicAge:76 years",r_poets
+Eduard_Petiška,"Gender:MaleDate of Birth:14 May  1924Birth place:PragueCountry:CZ, Czech RepublicAge:† 63 years",r_poets
+Gustav_Pfleger_Moravský,"Gender:MaleDate of Birth:27 July  1833Birth place:KarasínCountry:CZ, Czech RepublicAge:† 42 years",r_poets
+Petr_Prouza,"Gender:MaleBirth:*1944Country:CZ, Czech RepublicAge:75 years",r_poets
+Marie_Pujmanová,"Gender:FemaleDate of Birth:8 June  1893Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Ladislav_Quis,"Gender:MaleDate of Birth:5 February  1846Birth place:ČáslavCountry:CZ, Czech Republic",r_poets
+Václav_Renč,"Gender:MaleBirth:*1911Country:CZ, Czech Republic",r_poets
+Magdalena_Dobromila_Rettigová,"Gender:FemaleDate of Birth:31 January  1785Birth place:VšeradiceCountry:CZ, Czech RepublicAge:† 60 years",r_poets
+Kenneth_Rexroth,"Gender:MaleDate of Birth:22 December  1905Birth place:South Bend, IndianaCountry:US, United States",r_poets
+Bohuslav_Reynek,"Gender:MaleDate of Birth:31 May  1892Birth place:PetrkovCountry:CZ, Czech RepublicAge:† 79 years",r_poets
+Zdeněk_Rotrekl,"Gender:MaleBirth:*1920Country:CZ, Czech Republic",r_poets
+Milan_Rúfus,"Gender:MaleBirth:*1928Country:SK, SlovakiaAge:91 years",r_poets
+Josef_Rumler,"Gender:MaleBirth:*1922Country:CZ, Czech Republic",r_poets
+Karel_Sabina,"Gender:MaleDate of Birth:29 December  1813Birth place:PragueCountry:CZ, Czech RepublicAge:† 63 years",r_poets
+Ivan_Schneedorfer,"Gender:MaleBirth:*1937Country:CZ, Czech RepublicAge:83 years",r_poets
+Ivan_Skála,"Gender:MaleBirth:*1922Country:CZ, Czech Republic",r_poets
+Petr_Skarlant,"Gender:MaleBirth:*1939Country:CZ, Czech RepublicAge:81 years",r_poets
+Josef_Václav_Sládek,"Gender:MaleDate of Birth:27 October  1845Birth place:ZbirohCountry:CZ, Czech RepublicAge:† 66 years",r_poets
+Milada_Součková,"Gender:FemaleDate of Birth:24 January  1898Birth place:PragueCountry:CZ, Czech Republic",r_poets
+Oldřich_Sova,"Gender:MaleBirth:*1923Country:CZ, Czech Republic",r_poets
+Antal_Stašek,"Gender:MaleDate of Birth:22 July  1843Birth place:StanovýCountry:CZ, Czech RepublicAge:† 88 years",r_poets
+Herma_Svozilová,"Gender:FemaleBirth:*1914Country:CZ, Czech Republic",r_poets
+Pavel_Josef_Šafařík,"Gender:MaleDate of Birth:13 May  1795Birth place:KobeliarovoCountry:SK, SlovakiaAge:† 66 years",r_poets
+Michal_Šanda,"Gender:MaleBirth:*1965Country:CZ, Czech RepublicAge:54 years",r_poets
+Karel_Šiktanc,"Gender:MaleBirth:*1928Country:CZ, Czech RepublicAge:91 years",r_poets
+Václav_Šnajdr,"Gender:MaleDate of Birth:26 September  1847Birth place:České BudějoviceCountry:CZ, Czech Republic",r_poets
+Václav_Šolc,"Gender:MaleDate of Birth:23 December  1838Birth place:SobotkaCountry:CZ, Czech RepublicAge:† 32 years",r_poets
+Sonja_Špálová,"Gender:FemaleDate of Birth:6 November  1898Birth place:Ochoz u BrnaCountry:CZ, Czech Republic",r_poets
+Fráňa_Šrámek,"Gender:MaleDate of Birth:19 January  1877Birth place:SobotkaCountry:CZ, Czech RepublicAge:† 75 years",r_poets
+Marie_Šťastná,"Gender:FemaleBirth:*1981Country:CZ, Czech RepublicAge:39 years",r_poets
+Jindřich_Štyrský,"Gender:MaleDate of Birth:11 August  1899Birth place:ČermnáCountry:CZ, Czech Republic",r_poets
+Karel_Toman,"Gender:MaleDate of Birth:25 February  1877Birth place:KokoviceCountry:CZ, Czech RepublicAge:† 69 years",r_poets
+Miloslav_Topinka,"Gender:MaleBirth:*1945Country:CZ, Czech RepublicAge:74 years",r_poets
+Josef_Váchal,"Gender:MaleDate of Birth:23 September  1884Birth place:MilavčeCountry:CZ, Czech RepublicAge:† 84 years",r_poets
+Miroslav_Válek,"Gender:MaleBirth:*1927Country:CZ, Czech RepublicAge:92 years",r_poets
+Bartoš_Vlček,"Gender:MaleDate of Birth:23 October  1897Birth place:RuždkaCountry:CZ, Czech Republic",r_poets
+Andrei_Voznesensky,"Gender:MaleDate of Birth:12 May  1933Birth place:MoscowCountry:RU, RussiaAge:86 years",r_poets
+Alena_Vrbová,"Gender:FemaleDate of Birth:3 October  1919Birth place:Starý PlzenecCountry:CZ, Czech RepublicAge:† 84 years",r_poets
+Jaroslav_Vrchlický,"Gender:MaleDate of Birth:17 February  1853Birth place:LounyCountry:CZ, Czech RepublicAge:† 59 years",r_poets
+John_Barrington_Wain,"Gender:MaleDate of Birth:14 March  1925Birth place:Barking, EnglandCountry:GB, United KingdomAge:† 69 years",r_poets
+Richard_Weiner,"Gender:MaleDate of Birth:6 November  1884Birth place:PísekCountry:CZ, Czech Republic",r_poets
+Ivan_Wernisch,"Gender:MaleBirth:*1942Country:CZ, Czech RepublicAge:77 years",r_poets
+Patrick_E._White,"Gender:MaleDate of Birth:12 May  1912Birth place:London, EnglandCountry:GB, United KingdomAge:† 78 years",r_poets
+Herman_Wildenvey,"Gender:MaleDate of Birth:20 July  1886Birth place:MjøndalenCountry:NO, NorwayAge:† 73 years",r_poets
+Ole_Wivel,"Gender:MaleDate of Birth:29 September  1921Birth place:CopenhagenCountry:DK, DenmarkAge:† 82 years",r_poets
+Jiří_Wolker,"Gender:MaleDate of Birth:29 March  1900 - 02:00hBirth place:ProstějovCountry:CZ, Czech RepublicAge:† 23 years",r_poets
+Stanislaw_Wyspiaňski,"Gender:MaleDate of Birth:15 January  1869Birth place:KrakówCountry:PL, PolandAge:† 38 years",r_poets
+Jan_Zábrana,"Gender:MaleDate of Birth:4 June  1931Birth place:HerálecCountry:CZ, Czech RepublicAge:† 53 years",r_poets
+Jan_Zahradníček,"Gender:MaleDate of Birth:17 January  1905Birth place:MastníkCountry:CZ, Czech RepublicAge:† 55 years",r_poets
+Vilém_Závada,"Gender:MaleDate of Birth:22 May  1905Birth place:Ostrava-HrabováCountry:CZ, Czech RepublicAge:† 77 years",r_poets
+Handrij_Zejler,"Gender:MaleDate of Birth:1 February  1804Birth place:BautzenCountry:DE, GermanyAge:† 68 years",r_poets
+Jan_Václav_Znojemský,"Gender:MaleBirth:*1990Country:CZ, Czech RepublicAge:29 years",r_poets
+Ľudovít_Zúbek,"Gender:MaleDate of Birth:12 July  1907Birth place:MalackyCountry:SK, SlovakiaAge:† 61 years",r_poets
+Libby_Hathorn,"Gender:FemaleDate of Birth:26 September  1943Birth place:Newcastle, New South WalesCountry:AU, AustraliaAge:76 years",r_poets
+José_Rubén_Romero,"Gender:MaleDate of Birth:25 September  1890Birth place:Las GuacamayasCountry:MX, MexicoAge:† 61 years",r_poets
+Věra_Provazníková,"Gender:FemaleBirth:*1947Country:CZ, Czech RepublicAge:73 years",r_poets
+Marina_Tsvetaeva,"Gender:FemaleDate of Birth:9 October  1892 - 00:00h(gregor.)Birth place:MoscowCountry:RU, RussiaAge:† 48 years",r_poets
+Velimir_Khlebnikov,"Gender:MaleDate of Birth:9 November  1885Birth place:TundutovoCountry:RU, RussiaAge:† 36 years",r_poets
+Pavel_Bojar,"Gender:MaleDate of Birth:18 May  1919Birth place:PragueCountry:CZ, Czech RepublicAge:† 80 years",r_poets
+Jan_Čarek,"Gender:MaleDate of Birth:29 December  1898Birth place:HeřmaňCountry:CZ, Czech RepublicAge:† 67 years",r_poets
+Martin_Sichinger,"Gender:MaleBirth:*1967Country:CZ, Czech RepublicAge:53 years",r_poets
+Štefan_Žáry,"Gender:MaleDate of Birth:12 December  1918Birth place:PonikyCountry:SK, SlovakiaAge:† 88 years",r_poets
+Joy_Davidman,"Gender:FemaleDate of Birth:18 April  1915Birth place:New York, New YorkCountry:US, United StatesAge:† 45 years",r_poets
+Néstor_Osvaldo_Perlongher,"Gender:MaleDate of Birth:24 December  1949Birth place:AvellanedaCountry:AR, ArgentinaAge:† 42 years",r_poets
+Sony_Lab'ou_Tansi,"Gender:MaleDate of Birth:5 July  1947Birth place:KinshasaCountry:CD, Democratic Republic of the CongoAge:† 47 years",r_poets
+Horst_Bienek,"Gender:MaleDate of Birth:7 April  1930Birth place:GliwiceCountry:PL, PolandAge:† 60 years",r_poets
+Dario_Bellezza,"Gender:MaleDate of Birth:5 September  1944Birth place:RomeCountry:IT, ItalyAge:† 51 years",r_poets
+Lois_Pereiro,"Gender:MaleDate of Birth:16 February  1958Birth place:Monforte de LemosCountry:ES, SpainAge:† 38 years",r_poets
+Milan_Kozelka,"Gender:MaleDate of Birth:3 November  1948Birth place:KyselkaCountry:CZ, Czech RepublicAge:† 65 years",r_poets
+Kristjan_Jaak_Peterson,"Gender:MaleDate of Birth:14 March  1801Birth place:RigaCountry:LV, LatviaAge:† 21 years",r_poets
+Anna_Akhmatova,"Gender:FemaleDate of Birth:23 June  1889Birth place:OdessaCountry:UA, UkraineAge:† 76 years",r_poets
+Aleksandr_Tvardovsky,"Gender:MaleDate of Birth:21 June  1910Birth place:ZagoryeCountry:RU, RussiaAge:† 61 years",r_poets
+Vincas_Kudirka,"Gender:MaleDate of Birth:31 December  1858Birth place:PaežeriaiCountry:LT, LithuaniaAge:† 40 years",r_poets
+Brother_Agathon,"Gender:MaleDate of Birth:22 December  1896Birth place:BucharestCountry:RO, RomaniaAge:† 65 years",r_poets
+Eliza_Acton,"Gender:FemaleDate of Birth:17 April  1799Birth place:Battle, EnglandCountry:GB, United KingdomAge:† 59 years",r_poets
+Ellen_Jilemnická,"Gender:FemaleBirth:*1946Country:CZ, Czech RepublicAge:74 years",r_poets
+Geoffrey_Grigson,"Gender:MaleDate of Birth:2 March  1905Birth place:Polperro, EnglandCountry:GB, United KingdomAge:† 80 years",r_poets
+Alfred_Lichtenstein,"Gender:MaleDate of Birth:23 August  1889Birth place:BerlinCountry:DE, GermanyAge:† 25 years",r_poets
+Franz_Janowitz,"Gender:MaleDate of Birth:28 July  1892Birth place:PoděbradyCountry:CZ, Czech RepublicAge:† 25 years",r_poets
+Josef_Boleslav_Pecka,"Gender:MaleDate of Birth:19 September  1849Birth place:PragueCountry:CZ, Czech RepublicAge:† 47 years",r_poets
+Pavel_Albieri,"Gender:MaleDate of Birth:1 August  1861Birth place:JaroměřCountry:CZ, Czech RepublicAge:† 40 years",r_poets
+Margaret_House,"Gender:FemaleDate of Birth:9 January  1943 - 19:28hBirth place:Boston, MassachusettsCountry:US, United StatesAge:† 60 years",r_poets
+Johannes_Urzidil,"Gender:MaleDate of Birth:3 February  1896 - 05:00hBirth place:PragueCountry:CZ, Czech RepublicAge:† 74 years",r_poets
+Ivan_Magor_Jirous,"Gender:MaleDate of Birth:23 September  1944Birth place:HumpolecCountry:CZ, Czech RepublicAge:† 67 years",r_poets
