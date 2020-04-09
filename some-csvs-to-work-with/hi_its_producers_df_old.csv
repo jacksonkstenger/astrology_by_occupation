@@ -1,0 +1,1001 @@
+name,info,occupation
+Bruce_Willis,"Gender:MaleDate of Birth:19 March  1955 - 18:32hBirth place:Idar-ObersteinCountry:DE, GermanyAge:65 years",r_producers
+Eddie_Murphy,"Gender:MaleDate of Birth:3 April  1961 - 13:30hBirth place:New York, New YorkCountry:US, United StatesAge:59 years",r_producers
+Ewan_McGregor,"Gender:MaleDate of Birth:31 March  1971 - 20:10hBirth place:Perth, ScotlandCountry:GB, United KingdomAge:49 years",r_producers
+Jessica_Lange,"Gender:FemaleDate of Birth:20 April  1949 - 11:00hBirth place:Cloquet, MinnesotaCountry:US, United StatesAge:70 years",r_producers
+Edward_Norton,"Gender:MaleDate of Birth:18 August  1969 - 14:00hBirth place:Boston, MassachusettsCountry:US, United StatesAge:50 years",r_producers
+Bill_Pullman,"Gender:MaleDate of Birth:17 December  1953Birth place:Hornell, New YorkCountry:US, United StatesAge:66 years",r_producers
+Will_Smith,"Gender:MaleDate of Birth:25 September  1968 - 01:46hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:51 years",r_producers
+Danny_Trejo,"Gender:MaleDate of Birth:16 May  1944Birth place:Echo Park, Los AngelesCountry:US, United StatesAge:75 years",r_producers
+Sylvester_Stallone,"Gender:MaleDate of Birth:6 July  1946 - 19:20hBirth place:New York, New YorkCountry:US, United StatesAge:73 years",r_producers
+Jean-Claude_Van_Damme,"Gender:MaleDate of Birth:18 October  1960 - 06:45hBirth place:Sint-Agatha-BerchemCountry:BE, BelgiumAge:59 years",r_producers
+William_Baldwin,"Gender:MaleDate of Birth:21 February  1963Birth place:Massapequa, New YorkCountry:US, United StatesAge:57 years",r_producers
+Clint_Eastwood,"Gender:MaleDate of Birth:31 May  1930 - 17:35hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:89 years",r_producers
+Christopher_Reeve,"Gender:MaleDate of Birth:25 September  1952 - 03:12hBirth place:New York, New YorkCountry:US, United StatesAge:† 52 years",r_producers
+Laurence_Fishburne,"Gender:MaleDate of Birth:30 July  1961Birth place:Augusta, GeorgiaCountry:US, United StatesAge:58 years",r_producers
+Bruce_Campbell,"Gender:MaleDate of Birth:22 June  1958Birth place:Royal Oak, MichiganCountry:US, United StatesAge:61 years",r_producers
+Pierce_Brosnan,"Gender:MaleDate of Birth:16 May  1953 - 12:05hBirth place:DroghedaCountry:IE, IrelandAge:66 years",r_producers
+Goldie_Hawn,"Gender:FemaleDate of Birth:21 November  1945 - 09:20hBirth place:Washington, District of ColumbiaCountry:US, United StatesAge:74 years",r_producers
+François_Truffaut,"Gender:MaleDate of Birth:6 February  1932 - 06:00hBirth place:ParisCountry:FR, FranceAge:† 52 years",r_producers
+Drew_Barrymore,"Gender:FemaleDate of Birth:22 February  1975 - 11:51hBirth place:Culver City, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Paul_Newman,"Gender:MaleDate of Birth:26 January  1925 - 06:30hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 83 years",r_producers
+Ben_Affleck,"Gender:MaleDate of Birth:15 August  1972 - 02:53hBirth place:Berkeley, CaliforniaCountry:US, United StatesAge:47 years",r_producers
+Al_Pacino,"Gender:MaleDate of Birth:25 April  1940 - 11:02hBirth place:New York, New YorkCountry:US, United StatesAge:79 years",r_producers
+Vincent_D'Onofrio,"Gender:MaleDate of Birth:30 June  1959Birth place:New York, New YorkCountry:US, United StatesAge:60 years",r_producers
+John_Cusack,"Gender:MaleDate of Birth:28 June  1966Birth place:Evanston, IllinoisCountry:US, United StatesAge:53 years",r_producers
+John_Malkovich,"Gender:MaleDate of Birth:9 December  1953 - 23:39hBirth place:Christopher, IllinoisCountry:US, United StatesAge:66 years",r_producers
+Vin_Diesel,"Gender:MaleDate of Birth:18 July  1967 - 14:30hBirth place:New York, New YorkCountry:US, United StatesAge:52 years",r_producers
+Julianne_Moore,"Gender:FemaleDate of Birth:3 December  1960 - 17:53hBirth place:Fayetteville, North CarolinaCountry:US, United StatesAge:59 years",r_producers
+Chris_Penn,"Gender:MaleDate of Birth:10 October  1965Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 40 years",r_producers
+Ben_Stiller,"Gender:MaleDate of Birth:30 November  1965 - 17:35hBirth place:New York, New YorkCountry:US, United StatesAge:54 years",r_producers
+Owen_Wilson,"Gender:MaleDate of Birth:18 November  1968Birth place:Dallas, TexasCountry:US, United StatesAge:51 years",r_producers
+Christian_Slater,"Gender:MaleDate of Birth:18 August  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Stellan_Skarsgård,"Gender:MaleDate of Birth:13 June  1951Birth place:GothenburgCountry:SE, SwedenAge:68 years",r_producers
+David_Bowie,"Gender:MaleDate of Birth:8 January  1947 - 09:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 69 years",r_producers
+Wesley_Snipes,"Gender:MaleDate of Birth:31 July  1962Birth place:Orlando, FloridaCountry:US, United StatesAge:57 years",r_producers
+Billy_Zane,"Gender:MaleDate of Birth:24 February  1966Birth place:Chicago, IllinoisCountry:US, United StatesAge:54 years",r_producers
+Jack_Nicholson,"Gender:MaleDate of Birth:22 April  1937 - 11:00hBirth place:Neptune, New JerseyCountry:US, United StatesAge:82 years",r_producers
+Michael_Keaton,"Gender:MaleDate of Birth:5 September  1951Birth place:CoraopolisCountry:US, United StatesAge:68 years",r_producers
+Robert_Duvall,"Gender:MaleDate of Birth:5 January  1931 - 05:10hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:89 years",r_producers
+Diane_Keaton,"Gender:FemaleDate of Birth:5 January  1946 - 02:49hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:74 years",r_producers
+Michael_J._Fox,"Gender:MaleDate of Birth:9 June  1961 - 00:15hBirth place:Edmonton, AlbertaCountry:CA, CanadaAge:58 years",r_producers
+Laura_Dern,"Gender:FemaleDate of Birth:10 February  1967 - 07:48hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:53 years",r_producers
+Balthazar_Getty,"Gender:MaleDate of Birth:22 January  1975 - 15:40hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Giovanni_Ribisi,"Gender:MaleDate of Birth:17 December  1974 - 20:15hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Kevin_Spacey,"Gender:MaleDate of Birth:26 July  1959Birth place:South OrangeCountry:US, United StatesAge:60 years",r_producers
+Michael_Douglas,"Gender:MaleDate of Birth:25 September  1944 - 10:30hBirth place:New Brunswick, New JerseyCountry:US, United StatesAge:75 years",r_producers
+Sean_Penn,"Gender:MaleDate of Birth:17 August  1960 - 15:17hBirth place:Burbank, CaliforniaCountry:US, United StatesAge:59 years",r_producers
+Jodie_Foster,"Gender:FemaleDate of Birth:19 November  1962 - 08:14hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:57 years",r_producers
+Forest_Whitaker,"Gender:MaleDate of Birth:15 July  1961 - 10:30hBirth place:Longview, TexasCountry:US, United StatesAge:58 years",r_producers
+Edward_James_Olmos,"Gender:MaleDate of Birth:24 February  1947 - 01:05hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:73 years",r_producers
+Tim_Curry,"Gender:MaleDate of Birth:19 April  1946 - 12:00hBirth place:Grappenhall, Warrington, EnglandCountry:GB, United KingdomAge:73 years",r_producers
+Gérard_Depardieu,"Gender:MaleDate of Birth:27 December  1948 - 08:00hBirth place:ChâteaurouxCountry:FR, FranceAge:71 years",r_producers
+Jeff_Bridges,"Gender:MaleDate of Birth:4 December  1949 - 23:58hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:70 years",r_producers
+Ryan_Phillippe,"Gender:MaleDate of Birth:10 September  1974 - 17:18hBirth place:New Castle, DelawareCountry:US, United StatesAge:45 years",r_producers
+Rene_Russo,"Gender:FemaleDate of Birth:17 February  1954Birth place:Burbank, CaliforniaCountry:US, United StatesAge:66 years",r_producers
+Tom_Hanks,"Gender:MaleDate of Birth:9 July  1956 - 11:17hBirth place:Concord, CaliforniaCountry:US, United StatesAge:63 years",r_producers
+Johnny_Depp,"Gender:MaleDate of Birth:9 June  1963 - 08:44hBirth place:Owensboro, KentuckyCountry:US, United StatesAge:56 years",r_producers
+Kevin_Bacon,"Gender:MaleDate of Birth:8 July  1958Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:61 years",r_producers
+Matthew_McConaughey,"Gender:MaleDate of Birth:4 November  1969 - 19:34hBirth place:Uvalde, TexasCountry:US, United StatesAge:50 years",r_producers
+Matt_Damon,"Gender:MaleDate of Birth:8 October  1970 - 15:22hBirth place:Boston, MassachusettsCountry:US, United StatesAge:49 years",r_producers
+Woody_Allen,"Gender:MaleDate of Birth:1 December  1935 - 22:55hBirth place:New York, New YorkCountry:US, United StatesAge:84 years",r_producers
+Alec_Baldwin,"Gender:MaleDate of Birth:3 April  1958Birth place:Massapequa, New YorkCountry:US, United StatesAge:62 years",r_producers
+Christian_Bale,"Gender:MaleDate of Birth:30 January  1974Birth place:Haverfordwest, PembrokesCountry:GB, United KingdomAge:46 years",r_producers
+Antonio_Banderas,"Gender:MaleDate of Birth:10 August  1960 - 21:00hBirth place:MálagaCountry:ES, SpainAge:59 years",r_producers
+Josh_Brolin,"Gender:MaleDate of Birth:12 February  1968 - 10:22hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:52 years",r_producers
+Billy_Crystal,"Gender:MaleDate of Birth:14 March  1948 - 07:48hBirth place:New York, New YorkCountry:US, United StatesAge:72 years",r_producers
+Danny_DeVito,"Gender:MaleDate of Birth:17 November  1944 - 10:20hBirth place:Neptune, New JerseyCountry:US, United StatesAge:75 years",r_producers
+James_Garner,"Gender:MaleDate of Birth:7 April  1928 - 18:00hBirth place:Norman, OklahomaCountry:US, United StatesAge:† 86 years",r_producers
+Richard_Gere,"Gender:MaleDate of Birth:31 August  1949 - 16:36hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:70 years",r_producers
+Gene_Hackman,"Gender:MaleDate of Birth:30 January  1930 - 07:45hBirth place:San Bernardino, CaliforniaCountry:US, United StatesAge:90 years",r_producers
+Dustin_Hoffman,"Gender:MaleDate of Birth:8 August  1937 - 17:07hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:82 years",r_producers
+Bob_Hoskins,"Gender:MaleDate of Birth:26 October  1942Birth place:Bury St Edmunds, EnglandCountry:GB, United KingdomAge:† 71 years",r_producers
+William_Hurt,"Gender:MaleDate of Birth:20 March  1950Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:70 years",r_producers
+Samuel_L._Jackson,"Gender:MaleDate of Birth:21 December  1948Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:71 years",r_producers
+Matt_LeBlanc,"Gender:MaleDate of Birth:25 July  1967 - 04:18hBirth place:Newton, MassachusettsCountry:US, United StatesAge:52 years",r_producers
+Steve_Martin,"Gender:MaleDate of Birth:14 August  1945 - 05:54hBirth place:Waco, TexasCountry:US, United StatesAge:74 years",r_producers
+Mike_Myers,"Gender:MaleDate of Birth:25 May  1963 - 12:01hBirth place:Toronto, OntarioCountry:CA, CanadaAge:56 years",r_producers
+Dennis_Quaid,"Gender:MaleDate of Birth:9 April  1954Birth place:Houston, TexasCountry:US, United StatesAge:65 years",r_producers
+David_Schwimmer,"Gender:MaleDate of Birth:2 November  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_producers
+Tom_Selleck,"Gender:MaleDate of Birth:29 January  1945 - 08:22hBirth place:Frenchtown Charter Township, MichiganCountry:US, United StatesAge:75 years",r_producers
+Gary_Sinise,"Gender:MaleDate of Birth:17 March  1955Birth place:Blue Island, IllinoisCountry:US, United StatesAge:65 years",r_producers
+Vincent_Spano,"Gender:MaleDate of Birth:18 October  1962 - 08:46hBirth place:New York, New YorkCountry:US, United StatesAge:57 years",r_producers
+John_Turturro,"Gender:MaleDate of Birth:28 February  1957Birth place:New York, New YorkCountry:US, United StatesAge:63 years",r_producers
+Jennifer_Aniston,"Gender:FemaleDate of Birth:11 February  1969 - 22:22hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:51 years",r_producers
+Sandra_Bullock,"Gender:FemaleDate of Birth:26 July  1964 - 03:15hBirth place:Arlington, VirginiaCountry:US, United StatesAge:55 years",r_producers
+Glenn_Close,"Gender:FemaleDate of Birth:19 March  1947 - 14:12hBirth place:Greenwich, ConnecticutCountry:US, United StatesAge:73 years",r_producers
+Courteney_Cox,"Gender:FemaleDate of Birth:15 June  1964 - 17:30hBirth place:Birmingham, AlabamaCountry:US, United StatesAge:55 years",r_producers
+Shannen_Doherty,"Gender:FemaleDate of Birth:12 April  1971 - 16:16hBirth place:Memphis, TennesseeCountry:US, United StatesAge:48 years",r_producers
+Elizabeth_Hurley,"Gender:FemaleDate of Birth:10 June  1965 - 06:40hBirth place:Hampshire, EnglandCountry:GB, United KingdomAge:54 years",r_producers
+Nastassja_Kinski,"Gender:FemaleDate of Birth:24 January  1961 - 00:54hBirth place:SeedorfCountry:DE, GermanyAge:59 years",r_producers
+Jennifer_Lopez,"Gender:FemaleDate of Birth:24 July  1969 - 05:49hBirth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Bette_Midler,"Gender:FemaleDate of Birth:1 December  1945 - 14:19hBirth place:Honolulu, HawaiiCountry:US, United StatesAge:74 years",r_producers
+Michelle_Pfeiffer,"Gender:FemaleDate of Birth:29 April  1958 - 08:11hBirth place:Santa Ana, CaliforniaCountry:US, United StatesAge:61 years",r_producers
+Meryl_Streep,"Gender:FemaleDate of Birth:22 June  1949 - 08:05hBirth place:Summit, New JerseyCountry:US, United StatesAge:70 years",r_producers
+Emma_Thompson,"Gender:FemaleDate of Birth:15 April  1959Birth place:LondonCountry:GB, United KingdomAge:60 years",r_producers
+Reese_Witherspoon,"Gender:FemaleDate of Birth:22 March  1976 - 14:00hBirth place:New Orleans, LouisianaCountry:US, United StatesAge:44 years",r_producers
+Warren_Beatty,"Gender:MaleDate of Birth:30 March  1937 - 17:30hBirth place:Richmond, VirginiaCountry:US, United StatesAge:83 years",r_producers
+Michael_Caine,"Gender:MaleDate of Birth:14 March  1933 - 10:10hBirth place:London, EnglandCountry:GB, United KingdomAge:87 years",r_producers
+Leonardo_DiCaprio,"Gender:MaleDate of Birth:11 November  1974 - 02:47hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Henry_Fonda,"Gender:MaleDate of Birth:16 May  1905 - 14:00hBirth place:Grand Island, NebraskaCountry:US, United StatesAge:† 77 years",r_producers
+Glenn_Ford,"Gender:MaleDate of Birth:1 May  1916 - 12:00hBirth place:Sainte-Christine, QuébecCountry:CA, CanadaAge:† 90 years",r_producers
+Peter_Falk,"Gender:MaleDate of Birth:16 September  1927Birth place:New York, New YorkCountry:US, United StatesAge:† 83 years",r_producers
+John_Garfield,"Gender:MaleDate of Birth:4 March  1913 - 19:30hBirth place:New York, New YorkCountry:US, United StatesAge:† 39 years",r_producers
+Robert_Mitchum,"Gender:MaleDate of Birth:6 August  1917 - 06:00hBirth place:Bridgeport, ConnecticutCountry:US, United StatesAge:† 79 years",r_producers
+Peter_O'Toole,"Gender:MaleDate of Birth:2 August  1932 - 00:15hBirth place:WicklowCountry:IE, IrelandAge:† 81 years",r_producers
+Jason_Priestley,"Gender:MaleDate of Birth:28 August  1969Birth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:50 years",r_producers
+Vanessa_Redgrave,"Gender:FemaleDate of Birth:30 January  1937 - 18:00hBirth place:Blackheath, EnglandCountry:GB, United KingdomAge:83 years",r_producers
+Mickey_Rooney,"Gender:MaleDate of Birth:23 September  1920 - 11:55hBirth place:New York, New YorkCountry:US, United StatesAge:† 93 years",r_producers
+Adam_Sandler,"Gender:MaleDate of Birth:9 September  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_producers
+Mark_Wahlberg,"Gender:MaleDate of Birth:5 June  1971 - 07:15hBirth place:Boston, MassachusettsCountry:US, United StatesAge:48 years",r_producers
+Joanne_Woodward,"Gender:FemaleDate of Birth:27 February  1930 - 04:00hBirth place:Thomasville, GeorgiaCountry:US, United StatesAge:90 years",r_producers
+Tobey_Maguire,"Gender:MaleDate of Birth:27 June  1975 - 08:20hBirth place:Inglewood, CaliforniaCountry:US, United StatesAge:44 years",r_producers
+Til_Schweiger,"Gender:MaleDate of Birth:19 December  1963 - 02:00hBirth place:FreiburgCountry:DE, GermanyAge:56 years",r_producers
+Vince_Vaughn,"Gender:MaleDate of Birth:28 March  1970 - 20:12hBirth place:Minneapolis, MinnesotaCountry:US, United StatesAge:50 years",r_producers
+Vincent_Cassel,"Gender:MaleDate of Birth:23 November  1966 - 22:30hBirth place:ParisCountry:FR, FranceAge:53 years",r_producers
+Frédéric_Diefenthal,"Gender:MaleDate of Birth:26 July  1968 - 12:15hBirth place:Saint-MandéCountry:FR, FranceAge:51 years",r_producers
+Geoffrey_Rush,"Gender:MaleDate of Birth:6 July  1951Birth place:Toowoomba, QueenslandCountry:AU, AustraliaAge:68 years",r_producers
+Katie_Holmes,"Gender:FemaleDate of Birth:18 December  1978 - 21:32hBirth place:Toledo, OhioCountry:US, United StatesAge:41 years",r_producers
+Patrick_Duffy,"Gender:MaleDate of Birth:17 March  1949 - 09:00hBirth place:Townsend, MontanaCountry:US, United StatesAge:71 years",r_producers
+Quentin_Tarantino,"Gender:MaleDate of Birth:27 March  1963Birth place:Knoxville, TennesseeCountry:US, United StatesAge:57 years",r_producers
+Ian_Somerhalder,"Gender:MaleDate of Birth:8 December  1978 - 09:52hBirth place:Covington, LouisianaCountry:US, United StatesAge:41 years",r_producers
+Chloë_Sevigny,"Gender:FemaleDate of Birth:18 November  1974 - 05:27hBirth place:Springfield, MassachusettsCountry:US, United StatesAge:45 years",r_producers
+Toni_Collette,"Gender:FemaleDate of Birth:1 November  1972 - 11:14hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:47 years",r_producers
+Eminem,"Gender:MaleDate of Birth:17 October  1972Birth place:St. Joseph, MissouriCountry:US, United StatesAge:47 years",r_producers
+Tori_Spelling,"Gender:FemaleDate of Birth:16 May  1973 - 01:13hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:46 years",r_producers
+Richard_Attenborough,"Gender:MaleDate of Birth:29 August  1923Birth place:Cambridge, EnglandCountry:GB, United KingdomAge:† 90 years",r_producers
+Michael_Bay,"Gender:MaleDate of Birth:17 February  1965Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:55 years",r_producers
+Frank_Capra,"Gender:MaleDate of Birth:18 May  1897 - 02:00hBirth place:BisacquinoCountry:IT, ItalyAge:† 94 years",r_producers
+Francis_Ford_Coppola,"Gender:MaleDate of Birth:7 April  1939 - 01:38hBirth place:Detroit, MichiganCountry:US, United StatesAge:81 years",r_producers
+Stanley_Kubrick,"Gender:MaleDate of Birth:26 July  1928 - 13:41hBirth place:New York, New YorkCountry:US, United StatesAge:† 70 years",r_producers
+Sidney_Lumet,"Gender:MaleDate of Birth:25 June  1924Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 86 years",r_producers
+David_Lynch,"Gender:MaleDate of Birth:20 January  1946 - 03:00hBirth place:Missoula, MontanaCountry:US, United StatesAge:74 years",r_producers
+Tony_Scott,"Gender:MaleDate of Birth:21 June  1944Birth place:Stockton-on-Tees, EnglandCountry:GB, United KingdomAge:† 68 years",r_producers
+Oliver_Stone,"Gender:MaleDate of Birth:15 September  1946 - 09:58hBirth place:New York, New YorkCountry:US, United StatesAge:73 years",r_producers
+Ashton_Kutcher,"Gender:MaleDate of Birth:7 February  1978 - 12:30hBirth place:Cedar Rapids, IowaCountry:US, United StatesAge:42 years",r_producers
+Ryan_Gosling,"Gender:MaleDate of Birth:12 November  1980 - 14:34hBirth place:London, OntarioCountry:CA, CanadaAge:39 years",r_producers
+Michael_Moore,"Gender:MaleDate of Birth:23 April  1954 - 12:45hBirth place:Davison, MichiganCountry:US, United StatesAge:65 years",r_producers
+Jennifer_Garner,"Gender:FemaleDate of Birth:17 April  1972 - 10:00hBirth place:Houston, TexasCountry:US, United StatesAge:47 years",r_producers
+Mary-Kate_Olsen,"Gender:FemaleDate of Birth:13 June  1986 - 09:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:33 years",r_producers
+Ashley_Olsen,"Gender:FemaleDate of Birth:13 June  1986 - 09:43hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:33 years",r_producers
+Pink,"Gender:FemaleDate of Birth:8 September  1979 - 15:00hBirth place:Doylestown, PennsylvaniaCountry:US, United StatesAge:40 years",r_producers
+Mariah_Carey,"Gender:FemaleDate of Birth:27 March  1970 - 07:27hBirth place:Long Island, New YorkCountry:US, United StatesAge:50 years",r_producers
+Shia_LaBeouf,"Gender:MaleDate of Birth:11 June  1986 - 00:14hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:33 years",r_producers
+Nelly_Furtado,"Gender:FemaleDate of Birth:2 December  1978 - 08:20hBirth place:Victoria, British ColumbiaCountry:CA, CanadaAge:41 years",r_producers
+Channing_Tatum,"Gender:MaleDate of Birth:26 April  1980Birth place:Cullman, AlabamaCountry:US, United StatesAge:39 years",r_producers
+Jay-Z,"Gender:MaleDate of Birth:4 December  1969 - 00:10hBirth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Shakira,"Gender:FemaleDate of Birth:2 February  1977 - 10:08hBirth place:BarranquillaCountry:CO, ColombiaAge:43 years",r_producers
+Douglas_Adams,"Gender:MaleDate of Birth:11 March  1952 - 11:10hBirth place:Cambridge, EnglandCountry:GB, United KingdomAge:† 49 years",r_producers
+Manu_Bennett,"Gender:MaleDate of Birth:10 October  1969Birth place:Rotorua, Bay Of PlentyCountry:NZ, New ZealandAge:50 years",r_producers
+Céline_Dion,"Gender:FemaleDate of Birth:30 March  1968 - 12:15hBirth place:Charlemagne, QuébecCountry:CA, CanadaAge:52 years",r_producers
+Giorgio_Moroder,"Gender:MaleDate of Birth:26 April  1940 - 02:45hBirth place:OrtiseiCountry:IT, ItalyAge:79 years",r_producers
+Melissa_Mathison,"Gender:FemaleDate of Birth:3 June  1950Birth place:Burbank, CaliforniaCountry:US, United StatesAge:† 65 years",r_producers
+Irving_Thalberg,"Gender:MaleDate of Birth:30 May  1899Birth place:New York, New YorkCountry:US, United StatesAge:† 37 years",r_producers
+Carlo_Ponti,"Gender:MaleDate of Birth:11 December  1912 - 13:00hBirth place:MagentaCountry:IT, ItalyAge:† 94 years",r_producers
+Aaron_Spelling,"Gender:MaleDate of Birth:22 April  1923 - 12:30hBirth place:Dallas, TexasCountry:US, United StatesAge:† 83 years",r_producers
+Barry_Gibb,"Gender:MaleDate of Birth:1 September  1946 - 09:00hBirth place:DouglasCountry:IM, Isle of ManAge:73 years",r_producers
+Bruno_Mars,"Gender:MaleDate of Birth:8 October  1985 - 15:42hBirth place:Honolulu, HawaiiCountry:US, United StatesAge:34 years",r_producers
+Frank_Capra_Jr.,"Gender:MaleDate of Birth:20 March  1934 - 17:44hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 73 years",r_producers
+Liam_Howlett,"Gender:MaleDate of Birth:21 August  1971Birth place:Braintree, EnglandCountry:GB, United KingdomAge:48 years",r_producers
+Tsunku,"Gender:MaleDate of Birth:29 October  1968Birth place:HigashiosakaCountry:JP, JapanAge:51 years",r_producers
+Armand_Assante,"Gender:MaleDate of Birth:4 October  1949Birth place:New York, New YorkCountry:US, United StatesAge:70 years",r_producers
+Martin_Lawrence,"Gender:MaleDate of Birth:16 April  1965Birth place:FrankfurtCountry:DE, GermanyAge:54 years",r_producers
+David_Arquette,"Gender:MaleDate of Birth:8 September  1971Birth place:Winchester, VirginiaCountry:US, United StatesAge:48 years",r_producers
+Tim_Daly,"Gender:MaleDate of Birth:1 March  1956Birth place:New York, New YorkCountry:US, United StatesAge:64 years",r_producers
+Dermot_Mulroney,"Gender:MaleDate of Birth:31 October  1963Birth place:Alexandria, VirginiaCountry:US, United StatesAge:56 years",r_producers
+Kristin_Davis,"Gender:FemaleDate of Birth:24 February  1965Birth place:Boulder, ColoradoCountry:US, United StatesAge:55 years",r_producers
+Kyra_Sedgwick,"Gender:FemaleDate of Birth:19 August  1965Birth place:New York, New YorkCountry:US, United StatesAge:54 years",r_producers
+Freddie_Prinze_Jr.,"Gender:MaleDate of Birth:8 March  1976 - 19:38hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:44 years",r_producers
+Alyssa_Milano,"Gender:FemaleDate of Birth:19 December  1972 - 07:00hBirth place:New York, New YorkCountry:US, United StatesAge:47 years",r_producers
+Christian_Clavier,"Gender:MaleDate of Birth:6 May  1952 - 12:10hBirth place:ParisCountry:FR, FranceAge:67 years",r_producers
+Anthony_Edwards,"Gender:MaleDate of Birth:19 July  1962 - 06:15hBirth place:Santa Barbara, CaliforniaCountry:US, United StatesAge:57 years",r_producers
+Roddy_McDowall,"Gender:MaleDate of Birth:17 September  1928 - 21:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 70 years",r_producers
+Ted_Danson,"Gender:MaleDate of Birth:29 December  1947 - 22:58hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:72 years",r_producers
+Rita_Wilson,"Gender:FemaleDate of Birth:26 October  1956 - 09:03hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:63 years",r_producers
+Rachael_Leigh_Cook,"Gender:FemaleDate of Birth:4 October  1979Birth place:Minneapolis, MinnesotaCountry:US, United StatesAge:40 years",r_producers
+Angela_Bassett,"Gender:FemaleDate of Birth:16 August  1958 - 19:45hBirth place:New York, New YorkCountry:US, United StatesAge:61 years",r_producers
+Stanley_Tucci,"Gender:MaleDate of Birth:11 November  1960Birth place:Peekskill, New YorkCountry:US, United StatesAge:59 years",r_producers
+Radha_Mitchell,"Gender:FemaleDate of Birth:12 November  1973Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:46 years",r_producers
+Cybill_Shepherd,"Gender:FemaleDate of Birth:18 February  1950 - 19:52hBirth place:Memphis, TennesseeCountry:US, United StatesAge:70 years",r_producers
+James_Brolin,"Gender:MaleDate of Birth:18 July  1940 - 11:10hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:79 years",r_producers
+Crispin_Glover,"Gender:MaleDate of Birth:20 April  1964 - 06:00hBirth place:New York, New YorkCountry:US, United StatesAge:55 years",r_producers
+Natasha_Richardson,"Gender:FemaleDate of Birth:11 May  1963 - 17:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 45 years",r_producers
+Andy_Kaufman,"Gender:MaleDate of Birth:17 January  1949 - 18:03hBirth place:New York, New YorkCountry:US, United StatesAge:† 35 years",r_producers
+Robert_Altman,"Gender:MaleDate of Birth:20 February  1925 - 00:01hBirth place:Kansas City, MissouriCountry:US, United StatesAge:† 81 years",r_producers
+Paul_Thomas_Anderson,"Gender:MaleDate of Birth:26 June  1970Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:49 years",r_producers
+Jean-Jacques_Annaud,"Gender:MaleDate of Birth:1 October  1943 - 21:40hBirth place:Juvisy-sur-OrgeCountry:FR, FranceAge:76 years",r_producers
+Dario_Argento,"Gender:MaleDate of Birth:7 September  1940 - 14:00hBirth place:RomeCountry:IT, ItalyAge:79 years",r_producers
+Luc_Besson,"Gender:MaleDate of Birth:18 March  1959 - 13:45hBirth place:ParisCountry:FR, FranceAge:61 years",r_producers
+Robert_Benton,"Gender:MaleDate of Birth:29 September  1932 - 18:39hBirth place:Waxahachie, TexasCountry:US, United StatesAge:87 years",r_producers
+Peter_Bogdanovich,"Gender:MaleDate of Birth:30 July  1939 - 21:50hBirth place:Kingston, New YorkCountry:US, United StatesAge:80 years",r_producers
+Luis_Buñuel,"Gender:MaleDate of Birth:22 February  1900 - 12:00hBirth place:CalandaCountry:ES, SpainAge:† 83 years",r_producers
+John_Carpenter,"Gender:MaleDate of Birth:16 January  1948 - 21:50hBirth place:Carthage, New YorkCountry:US, United StatesAge:72 years",r_producers
+Rob_Cohen,"Gender:MaleDate of Birth:12 March  1949 - 09:22hBirth place:Cornwall, New YorkCountry:US, United StatesAge:71 years",r_producers
+Roger_Corman,"Gender:MaleDate of Birth:5 April  1926 - 14:00hBirth place:Detroit, MichiganCountry:US, United StatesAge:94 years",r_producers
+Wes_Craven,"Gender:MaleDate of Birth:2 August  1939 - 16:54hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 76 years",r_producers
+Michael_Crichton,"Gender:MaleDate of Birth:23 October  1942 - 23:55hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 66 years",r_producers
+Brian_De_Palma,"Gender:MaleDate of Birth:11 September  1940 - 18:58hBirth place:Newark, New JerseyCountry:US, United StatesAge:79 years",r_producers
+D._W._Griffith,"Gender:MaleDate of Birth:22 January  1875 - 10:30hBirth place:Crestwood, KentuckyCountry:US, United StatesAge:† 73 years",r_producers
+Aki_Kaurismäki,"Gender:MaleDate of Birth:4 April  1957 - 09:12hBirth place:HelsinkiCountry:FI, FinlandAge:63 years",r_producers
+Fritz_Lang,"Gender:MaleDate of Birth:5 December  1890 - 17:00hBirth place:ViennaCountry:AT, AustriaAge:† 85 years",r_producers
+Baz_Luhrmann,"Gender:MaleDate of Birth:17 September  1962Birth place:Sydney, New South WalesCountry:AU, AustraliaAge:57 years",r_producers
+Terrence_Malick,"Gender:MaleDate of Birth:30 November  1943Birth place:Waco, TexasCountry:US, United StatesAge:76 years",r_producers
+Sam_Raimi,"Gender:MaleDate of Birth:23 October  1959Birth place:Royal Oak, MichiganCountry:US, United StatesAge:60 years",r_producers
+Rob_Reiner,"Gender:MaleDate of Birth:6 March  1947 - 19:00hBirth place:New York, New YorkCountry:US, United StatesAge:73 years",r_producers
+Bryan_Singer,"Gender:MaleDate of Birth:17 September  1965Birth place:New York, New YorkCountry:US, United StatesAge:54 years",r_producers
+Robert_Zemeckis,"Gender:MaleDate of Birth:14 May  1952Birth place:Chicago, IllinoisCountry:US, United StatesAge:67 years",r_producers
+Nancy_Meyers,"Gender:FemaleDate of Birth:8 December  1949Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:70 years",r_producers
+Cameron_Crowe,"Gender:MaleDate of Birth:13 July  1957Birth place:Palm Springs, CaliforniaCountry:US, United StatesAge:62 years",r_producers
+Ryan_O'Neal,"Gender:MaleDate of Birth:20 April  1941 - 09:34hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:78 years",r_producers
+Billy_Burke,"Gender:MaleDate of Birth:25 November  1966Birth place:Bellingham, WashingtonCountry:US, United StatesAge:53 years",r_producers
+George_Clinton,"Gender:MaleDate of Birth:22 July  1941 - 11:55hBirth place:Kannapolis, North CarolinaCountry:US, United StatesAge:78 years",r_producers
+Claude_Lelouch,"Gender:MaleDate of Birth:30 October  1937 - 21:15hBirth place:ParisCountry:FR, FranceAge:82 years",r_producers
+Trudie_Styler,"Gender:FemaleDate of Birth:6 January  1954Birth place:Bromsgrove, EnglandCountry:GB, United KingdomAge:66 years",r_producers
+Guillaume_Canet,"Gender:MaleDate of Birth:10 April  1973 - 17:55hBirth place:Boulogne-BillancourtCountry:FR, FranceAge:46 years",r_producers
+Corbin_Bleu,"Gender:MaleDate of Birth:21 February  1989Birth place:New York, New YorkCountry:US, United StatesAge:31 years",r_producers
+Bryce_Dallas_Howard,"Gender:FemaleDate of Birth:2 March  1981Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:39 years",r_producers
+Mike_Shinoda,"Gender:MaleDate of Birth:11 February  1977 - 22:42hBirth place:Agoura, CaliforniaCountry:US, United StatesAge:43 years",r_producers
+Nick_Cannon,"Gender:MaleDate of Birth:8 October  1980Birth place:San Diego, CaliforniaCountry:US, United StatesAge:39 years",r_producers
+Shania_Twain,"Gender:FemaleDate of Birth:28 August  1965 - 15:30hBirth place:Windsor, OntarioCountry:CA, CanadaAge:54 years",r_producers
+Harvey_Weinstein,"Gender:MaleDate of Birth:19 March  1952Birth place:New York, New YorkCountry:US, United StatesAge:68 years",r_producers
+Drew_Carey,"Gender:MaleDate of Birth:23 May  1958 - 19:00hBirth place:Cleveland, OhioCountry:US, United StatesAge:61 years",r_producers
+Matt_Bomer,"Gender:MaleDate of Birth:11 October  1977Birth place:Spring, TexasCountry:US, United StatesAge:42 years",r_producers
+Ashley_Tisdale,"Gender:FemaleDate of Birth:2 July  1985 - 08:20hBirth place:Deal, New JerseyCountry:US, United StatesAge:34 years",r_producers
+Leisha_Hailey,"Gender:FemaleDate of Birth:11 July  1971Birth place:OkinawaCountry:JP, JapanAge:48 years",r_producers
+Bud_Greenspan,"Gender:MaleDate of Birth:18 September  1926Birth place:New York, New YorkCountry:US, United StatesAge:† 84 years",r_producers
+Taryn_Southern,"Gender:FemaleDate of Birth:16 July  1985Birth place:Wichita, KansasCountry:US, United StatesAge:34 years",r_producers
+William_Monahan,"Gender:MaleDate of Birth:3 November  1960 - 05:20hBirth place:Boston, MassachusettsCountry:US, United StatesAge:59 years",r_producers
+Aly_Michalka,"Gender:FemaleDate of Birth:25 March  1989Birth place:Torrance, CaliforniaCountry:US, United StatesAge:31 years",r_producers
+Natalia_Ramírez,"Gender:FemaleDate of Birth:3 August  1967Birth place:BogotáCountry:CO, ColombiaAge:52 years",r_producers
+Julie_Chen,"Gender:FemaleDate of Birth:6 January  1970 - 00:10hBirth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Brian_Eno,"Gender:MaleDate of Birth:15 May  1948 - 03:50hBirth place:WoodbridgeCountry:GB, United KingdomAge:71 years",r_producers
+Vittorio_Mussolini,"Gender:MaleDate of Birth:27 September  1916 - 19:30hBirth place:MilanCountry:IT, ItalyAge:† 80 years",r_producers
+Deborah_Gibson,"Gender:FemaleDate of Birth:31 August  1970Birth place:New York, New YorkCountry:US, United StatesAge:49 years",r_producers
+Damon_Albarn,"Gender:MaleDate of Birth:23 March  1968 - 02:00hBirth place:London, EnglandCountry:GB, United KingdomAge:52 years",r_producers
+Keyshia_Cole,"Gender:FemaleDate of Birth:15 October  1981Birth place:Oakland, CaliforniaCountry:US, United StatesAge:38 years",r_producers
+Linda_Ronstadt,"Gender:FemaleDate of Birth:15 July  1946 - 17:39hBirth place:TucsonCountry:US, United StatesAge:73 years",r_producers
+Skylar_Grey,"Gender:FemaleDate of Birth:23 February  1986Birth place:MazomanieCountry:US, United StatesAge:34 years",r_producers
+Pitbull,"Gender:MaleDate of Birth:15 January  1981Birth place:Miami, FloridaCountry:US, United StatesAge:39 years",r_producers
+Robert_Stigwood,"Gender:MaleDate of Birth:16 April  1934 - 03:10hBirth place:AdelaideCountry:AU, AustraliaAge:† 81 years",r_producers
+Smokey_Robinson,"Gender:MaleDate of Birth:19 February  1940Birth place:Detroit, MichiganCountry:US, United StatesAge:80 years",r_producers
+Michael_Nesmith,"Gender:MaleDate of Birth:30 December  1942 - 11:59hBirth place:HoustonCountry:US, United StatesAge:77 years",r_producers
+Haim_Saban,"Gender:MaleDate of Birth:15 October  1944 - 12:00hBirth place:AlexandrieCountry:EG, EgyptAge:75 years",r_producers
+Georges_Beller,"Gender:MaleDate of Birth:10 May  1946 - 12:20hBirth place:ParisCountry:FR, FranceAge:73 years",r_producers
+Jimmy_Webb,"Gender:MaleDate of Birth:15 August  1946 - 08:20hBirth place:Elk CityCountry:US, United StatesAge:73 years",r_producers
+Marcheline_Bertrand,"Gender:FemaleDate of Birth:9 May  1950Birth place:Riverdale, IllinoisCountry:US, United StatesAge:† 56 years",r_producers
+Dieter_Bohlen,"Gender:MaleDate of Birth:7 February  1954Birth place:OldenburgCountry:DE, GermanyAge:66 years",r_producers
+Kate_Bush,"Gender:FemaleDate of Birth:30 July  1958Birth place:LondonCountry:GB, United KingdomAge:61 years",r_producers
+Sheena_Easton,"Gender:FemaleDate of Birth:27 April  1959 - 15:40hBirth place:BellshillCountry:GB, United KingdomAge:60 years",r_producers
+Richie_Sambora,"Gender:MaleDate of Birth:11 July  1959 - 07:33hBirth place:Perth AmboyCountry:US, United StatesAge:60 years",r_producers
+Richard_Marx,"Gender:MaleDate of Birth:16 September  1964Birth place:Chicago, IllinoisCountry:US, United StatesAge:55 years",r_producers
+Linda_Perry,"Gender:FemaleDate of Birth:15 April  1965 - 22:52hBirth place:Springfield, MassachusettsCountry:US, United StatesAge:54 years",r_producers
+Laurent_Garnier,"Gender:MaleDate of Birth:1 February  1966 - 20:05hBirth place:Boulogne BillancourtCountry:FR, FranceAge:54 years",r_producers
+Martina_Mcbride,"Gender:FemaleDate of Birth:29 July  1966 - 15:04hBirth place:Sharon, KansasCountry:US, United StatesAge:53 years",r_producers
+Lisa_Chappell,"Gender:FemaleDate of Birth:18 October  1968Birth place:Auckland, AucklandCountry:NZ, New ZealandAge:51 years",r_producers
+Aleks_Syntek,"Gender:MaleDate of Birth:29 September  1969Birth place:MeridaCountry:MX, MexicoAge:50 years",r_producers
+Butch_Walker,"Gender:MaleDate of Birth:14 November  1969Birth place:Cartersville, GeorgiaCountry:US, United StatesAge:50 years",r_producers
+Timbaland,"Gender:MaleDate of Birth:10 March  1971Birth place:Norfolk, VirginiaCountry:US, United StatesAge:49 years",r_producers
+Espen_Lind,"Gender:MaleDate of Birth:13 May  1971Birth place:OsloCountry:NO, NorwayAge:48 years",r_producers
+Ruslana_Lyzhicko,"Gender:FemaleDate of Birth:24 May  1973Birth place:LvovCountry:UA, UkraineAge:46 years",r_producers
+M._I._A.,"Gender:FemaleDate of Birth:18 July  1975Birth place:London, EnglandCountry:GB, United KingdomAge:44 years",r_producers
+Jim_Jones,"Gender:MaleDate of Birth:15 July  1976Birth place:New York, New YorkCountry:US, United StatesAge:43 years",r_producers
+Namie_Amuro,"Gender:FemaleDate of Birth:20 September  1977Birth place:NahaCountry:JP, JapanAge:42 years",r_producers
+Lil_Mo,"Gender:FemaleDate of Birth:19 November  1978 - 23:49hBirth place:New York, New YorkCountry:US, United StatesAge:41 years",r_producers
+Swizz_Beatz,"Gender:MaleDate of Birth:3 August  1978Birth place:New York, New YorkCountry:US, United StatesAge:41 years",r_producers
+Ryan_Tedder,"Gender:MaleDate of Birth:26 June  1979Birth place:Tulsa, OklahomaCountry:US, United StatesAge:40 years",r_producers
+Jay_Sean,"Gender:MaleDate of Birth:26 March  1981Birth place:Hounslow, LondonCountry:GB, United KingdomAge:39 years",r_producers
+Taio_Cruz,"Gender:MaleDate of Birth:23 April  1983Birth place:London, EnglandCountry:GB, United KingdomAge:36 years",r_producers
+Calvin_Harris,"Gender:MaleDate of Birth:17 January  1984 - 17:22hBirth place:Dumfries, ScotlandCountry:GB, United KingdomAge:36 years",r_producers
+Jacques_Bar,"Gender:MaleDate of Birth:12 September  1921 - 19:00hBirth place:ChâteaurouxCountry:FR, FranceAge:† 87 years",r_producers
+Pierquinto_Cariaggi,"Gender:MaleDate of Birth:28 September  1936 - 12:30hBirth place:StiaCountry:IT, ItalyAge:† 58 years",r_producers
+Paone_Cecchi,"Gender:MaleDate of Birth:16 September  1961 - 08:30hBirth place:RomeCountry:IT, ItalyAge:58 years",r_producers
+Bobby_Colomby,"Gender:MaleDate of Birth:20 December  1944 - 21:00hBirth place:New York, New YorkCountry:US, United StatesAge:75 years",r_producers
+Gian-Carlo_Coppola,"Gender:MaleDate of Birth:17 September  1963 - 10:08hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 22 years",r_producers
+Franco_Cristaldi,"Gender:MaleDate of Birth:3 October  1924 - 18:00hBirth place:TurinCountry:IT, ItalyAge:† 67 years",r_producers
+Ivan_Devries,"Gender:MaleDate of Birth:17 September  1909 - 17:51hBirth place:Saint-LunaireCountry:FR, FranceAge:† 87 years",r_producers
+Joel_Douglas,"Gender:MaleDate of Birth:23 January  1947 - 05:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:73 years",r_producers
+Josh_Evans,"Gender:MaleDate of Birth:16 January  1971 - 03:00hBirth place:New York, New YorkCountry:US, United StatesAge:49 years",r_producers
+Douglas_Fairbanks_Sr.,"Gender:MaleDate of Birth:23 May  1883 - 05:00hBirth place:Denver, ColoradoCountry:US, United StatesAge:† 56 years",r_producers
+Dodi_Fayed,"Gender:MaleDate of Birth:15 April  1955 - 06:45hBirth place:AlexandriaCountry:EG, EgyptAge:† 42 years",r_producers
+Kim_Fowley,"Gender:MaleDate of Birth:21 July  1939 - 21:46hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:80 years",r_producers
+M._J._Frankovich,"Gender:MaleDate of Birth:29 September  1909 - 10:00hBirth place:Bisbee, ArizonaCountry:US, United StatesAge:† 82 years",r_producers
+Charles_Fries,"Gender:MaleDate of Birth:30 September  1928 - 20:55hBirth place:Cincinnati, OhioCountry:US, United StatesAge:91 years",r_producers
+Daniel_Frohman,"Gender:MaleDate of Birth:22 August  1851 - 02:00hBirth place:Sandusky, OhioCountry:US, United StatesAge:† 89 years",r_producers
+Jack_Haley_Jr.,"Gender:MaleDate of Birth:25 October  1933 - 15:21hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 67 years",r_producers
+Ross_Hunter,"Gender:MaleDate of Birth:6 May  1920 - 03:45hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 75 years",r_producers
+André_Lamy,"Gender:MaleDate of Birth:31 October  1962 - 20:45hBirth place:IxellesCountry:BE, BelgiumAge:57 years",r_producers
+Jesse_Louis_Lasky,"Gender:MaleDate of Birth:13 September  1880 - 03:15hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 77 years",r_producers
+Jeffrey_Lurie,"Gender:MaleDate of Birth:8 September  1951 - 19:11hBirth place:Boston, MassachusettsCountry:US, United StatesAge:68 years",r_producers
+Erich_Pommer,"Gender:MaleDate of Birth:20 July  1889 - 17:45hBirth place:HildesheimCountry:DE, GermanyAge:† 76 years",r_producers
+Jack_Schwartzman,"Gender:MaleDate of Birth:22 July  1932 - 05:59hBirth place:New York, New YorkCountry:US, United StatesAge:† 61 years",r_producers
+David_O._Selznick,"Gender:MaleDate of Birth:10 May  1902 - 10:00hBirth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:† 63 years",r_producers
+Phil_Spector,"Gender:MaleDate of Birth:26 December  1939 - 14:55hBirth place:New York, New YorkCountry:US, United StatesAge:80 years",r_producers
+Mike_Todd,"Gender:MaleDate of Birth:19 June  1911 - 01:00hBirth place:Minneapolis, MinnesotaCountry:US, United StatesAge:† 46 years",r_producers
+Daniel_Toscan_du_Plantier,"Gender:MaleDate of Birth:7 April  1941 - 11:30hBirth place:ChambéryCountry:FR, FranceAge:† 61 years",r_producers
+Cecil_Womack,"Gender:MaleDate of Birth:25 September  1947 - 00:30hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 65 years",r_producers
+Novika,"Gender:FemaleDate of Birth:22 March  1974Birth place:WarsawCountry:PL, PolandAge:46 years",r_producers
+Kit_Lambert,"Gender:MaleDate of Birth:11 May  1935Birth place:London, EnglandCountry:GB, United KingdomAge:† 45 years",r_producers
+Anne_Buydens_Douglas,"Gender:FemaleDate of Birth:23 April  1919Birth place:HanoverCountry:DE, Germany",r_producers
+John_Candy,"Gender:MaleDate of Birth:31 October  1950Birth place:TorontoCountry:CA, CanadaAge:† 43 years",r_producers
+Lyle_Lovett,"Gender:MaleDate of Birth:1 November  1957Birth place:Klein, North Harris CountyCountry:US, United StatesAge:62 years",r_producers
+Cuba_Gooding_Jr.,"Gender:MaleDate of Birth:2 January  1968Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_producers
+Stephen_Dorff,"Gender:MaleDate of Birth:29 July  1973Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:46 years",r_producers
+Edward_Furlong,"Gender:MaleDate of Birth:2 August  1977Birth place:Pasadena, CaliforniaCountry:US, United StatesAge:42 years",r_producers
+Joe_Morton,"Gender:MaleDate of Birth:18 October  1947Birth place:New York, New YorkCountry:US, United StatesAge:72 years",r_producers
+Peter_Dobson,"Gender:MaleDate of Birth:19 July  1964Birth place:Red Bank, New JerseyCountry:US, United StatesAge:55 years",r_producers
+John_Savage,"Gender:MaleDate of Birth:25 August  1949Birth place:Old Bethpage, New YorkCountry:US, United StatesAge:70 years",r_producers
+Steve_Guttenberg,"Gender:MaleDate of Birth:24 August  1958Birth place:New York, New YorkCountry:US, United StatesAge:61 years",r_producers
+Peter_Berg,"Gender:MaleDate of Birth:11 March  1964Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_producers
+Mel_Brooks,"Gender:MaleDate of Birth:28 June  1926Birth place:New York, New YorkCountry:US, United StatesAge:93 years",r_producers
+Danny_Glover,"Gender:MaleDate of Birth:22 July  1946 - 17:03hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:73 years",r_producers
+Louis_Gossett_Jr.,"Gender:MaleDate of Birth:27 May  1936Birth place:New York, New YorkCountry:US, United StatesAge:83 years",r_producers
+Tom_Hulce,"Gender:MaleDate of Birth:6 December  1953Birth place:WhitewaterCountry:US, United StatesAge:66 years",r_producers
+Michael_Ironside,"Gender:MaleDate of Birth:12 February  1950Birth place:Toronto, OntarioCountry:CA, CanadaAge:70 years",r_producers
+Kirstie_Alley,"Gender:FemaleDate of Birth:12 January  1951Birth place:Wichita, KansasCountry:US, United StatesAge:69 years",r_producers
+Edward_Burns,"Gender:MaleDate of Birth:29 January  1968Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_producers
+Peter_Horton,"Gender:MaleDate of Birth:20 August  1953Birth place:Bellevue, WashingtonCountry:US, United StatesAge:66 years",r_producers
+Timothy_Hutton,"Gender:MaleDate of Birth:16 August  1960Birth place:Malibu, CaliforniaCountry:US, United StatesAge:59 years",r_producers
+Lucy_Liu,"Gender:FemaleDate of Birth:2 December  1968Birth place:New York, New YorkCountry:US, United StatesAge:51 years",r_producers
+Ving_Rhames,"Gender:MaleDate of Birth:12 May  1959Birth place:New York, New YorkCountry:US, United StatesAge:60 years",r_producers
+Eric_Stoltz,"Gender:MaleDate of Birth:30 September  1961Birth place:Whittier, CaliforniaCountry:US, United StatesAge:58 years",r_producers
+Martina_Adamcová,"Gender:FemaleBirth:*1966Country:CZ, Czech RepublicAge:53 years",r_producers
+Martin_Dejdar,"Gender:MaleBirth:*1965Country:CZ, Czech RepublicAge:55 years",r_producers
+Deana_Horváthová-Jakubisková,"Gender:FemaleBirth:*1958Country:SK, SlovakiaAge:62 years",r_producers
+Jan_P._Muchow,"Gender:MaleDate of Birth:21 June  1971Birth place:RathenowCountry:DE, GermanyAge:48 years",r_producers
+Jeff_Fahey,"Gender:MaleDate of Birth:29 November  1952Birth place:Olean, New YorkCountry:US, United StatesAge:67 years",r_producers
+Michael_Papajohn,"Gender:MaleDate of Birth:7 November  1964Birth place:Birmingham, AlabamaCountry:US, United StatesAge:55 years",r_producers
+Rob_Schneider,"Gender:MaleDate of Birth:31 October  1963Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:56 years",r_producers
+Shannon_Elizabeth,"Gender:FemaleDate of Birth:7 September  1973Birth place:Houston, TexasCountry:US, United StatesAge:46 years",r_producers
+Casper_Van_Dien,"Gender:MaleDate of Birth:18 December  1968Birth place:MiltonCountry:US, United StatesAge:51 years",r_producers
+Kevin_Smith,"Gender:MaleDate of Birth:2 August  1970Birth place:Red BankCountry:US, United StatesAge:49 years",r_producers
+Bill_Duke,"Gender:MaleDate of Birth:26 February  1943Birth place:Poughkeepsie, New YorkCountry:US, United StatesAge:77 years",r_producers
+Gina_Philips,"Gender:FemaleDate of Birth:10 May  1970Birth place:Miami Beach, FloridaCountry:US, United StatesAge:49 years",r_producers
+Patricia_Heaton,"Gender:FemaleDate of Birth:4 March  1958Birth place:Bay Village, OhioCountry:US, United StatesAge:62 years",r_producers
+Heather_Graham,"Gender:FemaleDate of Birth:29 January  1970Birth place:Milwaukee, WisconsinCountry:US, United StatesAge:50 years",r_producers
+Goran_Visnjic,"Gender:MaleDate of Birth:9 September  1972Birth place:SibenikCountry:HR, CroatiaAge:47 years",r_producers
+Craig_Sheffer,"Gender:MaleDate of Birth:23 April  1960Birth place:YorkCountry:US, United StatesAge:59 years",r_producers
+Barry_Pepper,"Gender:MaleDate of Birth:4 April  1970Birth place:Campbell RiverCountry:CA, CanadaAge:50 years",r_producers
+Deran_Sarafian,"Gender:MaleDate of Birth:17 January  1958Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:62 years",r_producers
+Bruce_Davison,"Gender:MaleDate of Birth:28 June  1946Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:73 years",r_producers
+Nichelle_Nichols,"Gender:FemaleDate of Birth:28 December  1932Birth place:RobbinsCountry:US, United StatesAge:87 years",r_producers
+Michael_Dorn,"Gender:MaleDate of Birth:9 December  1952Birth place:LulingCountry:US, United StatesAge:67 years",r_producers
+Stephen_Furst,"Gender:MaleDate of Birth:8 May  1955Birth place:Norfolk, VirginiaCountry:US, United StatesAge:64 years",r_producers
+Andrey_Konchalovskiy,"Gender:MaleDate of Birth:20 August  1937Birth place:MoscowCountry:RU, RussiaAge:82 years",r_producers
+Marlon_Wayans,"Gender:MaleDate of Birth:23 July  1972Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_producers
+Nicky_Katt,"Gender:MaleDate of Birth:11 May  1970Birth place:Jižní DakotaCountry:US, United StatesAge:49 years",r_producers
+Mary_Steenburgen,"Gender:FemaleDate of Birth:8 February  1953Birth place:NewportCountry:US, United StatesAge:67 years",r_producers
+Richard_Schiff,"Gender:MaleDate of Birth:27 May  1955Birth place:Bethesda, MarylandCountry:US, United StatesAge:64 years",r_producers
+Mathieu_Kassovitz,"Gender:MaleDate of Birth:3 August  1967 - 18:40hBirth place:ParisCountry:FR, FranceAge:52 years",r_producers
+Jamie_Kennedy,"Gender:MaleDate of Birth:25 May  1970Birth place:Upper Darby, PennsylvaniaCountry:US, United StatesAge:49 years",r_producers
+Loren_Avedon,"Gender:MaleDate of Birth:30 July  1962Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:57 years",r_producers
+Jada_Pinkett_Smith,"Gender:FemaleDate of Birth:18 September  1971Birth place:Baltimore, MarylandCountry:US, United StatesAge:48 years",r_producers
+Joan_Chen,"Gender:FemaleDate of Birth:26 April  1961Birth place:ShanghaiCountry:CN, ChinaAge:58 years",r_producers
+John_Forsythe,"Gender:MaleDate of Birth:29 January  1918Birth place:Penns GroveCountry:US, United StatesAge:† 92 years",r_producers
+Dee_Wallace-Stone,"Gender:FemaleDate of Birth:14 December  1948Birth place:Kansas City, MissouriCountry:US, United StatesAge:71 years",r_producers
+Xander_Berkeley,"Gender:MaleDate of Birth:16 December  1955Birth place:New York, New YorkCountry:US, United StatesAge:64 years",r_producers
+Josh_Lucas,"Gender:MaleDate of Birth:20 June  1971Birth place:Little Rock, ArkansasCountry:US, United StatesAge:48 years",r_producers
+Jeremy_Piven,"Gender:MaleDate of Birth:26 July  1965Birth place:New York, New YorkCountry:US, United StatesAge:54 years",r_producers
+Mekhi_Phifer,"Gender:MaleDate of Birth:29 December  1974Birth place:New York, New YorkCountry:US, United StatesAge:45 years",r_producers
+Dennis_Haysbert,"Gender:MaleDate of Birth:2 June  1954Birth place:San Mateo, CaliforniaCountry:US, United StatesAge:65 years",r_producers
+Jesse_Bradford,"Gender:MaleDate of Birth:28 May  1979Birth place:Norwalk, ConnecticutCountry:US, United StatesAge:40 years",r_producers
+Martin_Brest,"Gender:MaleDate of Birth:8 August  1951Birth place:New York, New YorkCountry:US, United StatesAge:68 years",r_producers
+James_L._Brooks,"Gender:MaleDate of Birth:9 May  1940Birth place:BrooklynCountry:US, United StatesAge:79 years",r_producers
+Chris_Columbus,"Gender:MaleDate of Birth:10 September  1958Birth place:SpanglerCountry:US, United StatesAge:61 years",r_producers
+Stanley_Donen,"Gender:MaleDate of Birth:13 April  1924Birth place:Columbia, South CarolinaCountry:US, United States",r_producers
+Richard_Donner,"Gender:MaleDate of Birth:24 April  1930Birth place:New York, New YorkCountry:US, United StatesAge:89 years",r_producers
+Griffin_Dunne,"Gender:MaleDate of Birth:8 June  1955Birth place:New York, New YorkCountry:US, United StatesAge:64 years",r_producers
+George_Eastman,"Gender:MaleDate of Birth:16 August  1942Birth place:GenoaCountry:IT, ItalyAge:77 years",r_producers
+Nora_Ephron,"Gender:FemaleDate of Birth:19 May  1941Birth place:New YorkCountry:US, United StatesAge:† 71 years",r_producers
+Peter_Farrelly,"Gender:MaleDate of Birth:17 December  1956Birth place:PhoenixvilleCountry:US, United StatesAge:63 years",r_producers
+Bobby_Farrelly,"Gender:MaleDate of Birth:17 June  1958Birth place:Cumberland, Rhode IslandCountry:US, United StatesAge:61 years",r_producers
+Stephen_Frears,"Gender:MaleDate of Birth:20 June  1941Birth place:Leicester, EnglandCountry:GB, United KingdomAge:78 years",r_producers
+Jun_Fukuda,"Gender:MaleDate of Birth:17 February  1923Birth place:MandžuskoCountry:CN, ChinaAge:† 77 years",r_producers
+Werner_Herzog,"Gender:MaleDate of Birth:5 September  1942Birth place:MunichCountry:DE, GermanyAge:77 years",r_producers
+Michael_Hoffman,"Gender:MaleDate of Birth:30 November  1956Birth place:HavajCountry:US, United StatesAge:63 years",r_producers
+Mick_Jackson,"Gender:MaleDate of Birth:4 October  1943Birth place:Aveley, EnglandCountry:GB, United KingdomAge:76 years",r_producers
+Spike_Jonze,"Gender:MaleDate of Birth:22 October  1969Birth place:Silver Spring, MarylandCountry:US, United StatesAge:50 years",r_producers
+Richard_Marquand,"Gender:MaleDate of Birth:17 April  1938Birth place:Cardiff, WalesCountry:GB, United KingdomAge:† 49 years",r_producers
+Peter_Markle,"Gender:MaleDate of Birth:24 September  1952Birth place:DanvilleCountry:US, United StatesAge:67 years",r_producers
+Penny_Marshall,"Gender:FemaleDate of Birth:15 October  1943 - 09:32hBirth place:New York, New YorkCountry:US, United StatesAge:76 years",r_producers
+John_McTiernan,"Gender:MaleDate of Birth:8 January  1951Birth place:Albany, New YorkCountry:US, United StatesAge:69 years",r_producers
+Mike_Nichols,"Gender:MaleDate of Birth:6 November  1931Birth place:BerlinCountry:DE, GermanyAge:† 83 years",r_producers
+Franc_Roddam,"Gender:MaleDate of Birth:29 April  1946Birth place:Norton, EnglandCountry:GB, United KingdomAge:73 years",r_producers
+Robert_Rodriguez,"Gender:MaleDate of Birth:20 June  1968Birth place:San Antonio, TexasCountry:US, United StatesAge:51 years",r_producers
+Ken_Russell,"Gender:MaleDate of Birth:3 July  1927 - 00:05hBirth place:Southampton, EnglandCountry:GB, United KingdomAge:† 84 years",r_producers
+Barbet_Schroeder,"Gender:MaleDate of Birth:26 August  1941Birth place:TehranCountry:IR, IranAge:78 years",r_producers
+Jim_Sheridan,"Gender:MaleDate of Birth:6 February  1949Birth place:DublinCountry:IE, IrelandAge:71 years",r_producers
+Stephen_Sommers,"Gender:MaleDate of Birth:20 March  1962Birth place:Indianapolis, IndianaCountry:US, United StatesAge:58 years",r_producers
+Bertrand_Tavernier,"Gender:MaleDate of Birth:25 April  1941 - 08:00hBirth place:LyonCountry:FR, FranceAge:78 years",r_producers
+Jon_Turteltaub,"Gender:MaleDate of Birth:8 August  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_producers
+Mario_Van_Peebles,"Gender:MaleDate of Birth:15 January  1957Birth place:Mexico CityCountry:MX, MexicoAge:63 years",r_producers
+Gus_Van_Sant,"Gender:MaleDate of Birth:24 July  1952 - 03:15hBirth place:Louisville, KentuckyCountry:US, United StatesAge:67 years",r_producers
+Henry_Winkler,"Gender:MaleDate of Birth:30 October  1945 - 12:51hBirth place:New York, New YorkCountry:US, United StatesAge:74 years",r_producers
+John_Woo,"Gender:MaleDate of Birth:1 May  1946Birth place:GuangzhouCountry:CN, ChinaAge:73 years",r_producers
+William_Wyler,"Gender:MaleDate of Birth:1 July  1902 - 17:00hBirth place:MulhouseCountry:FR, FranceAge:† 79 years",r_producers
+Fred_Zinnemann,"Gender:MaleDate of Birth:29 April  1907Birth place:ViennaCountry:AT, AustriaAge:† 89 years",r_producers
+Jaroslav_Soukup,"Gender:MaleBirth:*1946Country:CZ, Czech RepublicAge:73 years",r_producers
+Lawrence_Kasdan,"Gender:MaleDate of Birth:14 January  1949Birth place:Miami, FloridaCountry:US, United StatesAge:71 years",r_producers
+Jean-Pierre_Jeunet,"Gender:MaleDate of Birth:3 September  1953 - 12:20hBirth place:RoanneCountry:FR, FranceAge:66 years",r_producers
+Frank_Marshall,"Gender:MaleDate of Birth:13 September  1946Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:73 years",r_producers
+Ivan_Reitman,"Gender:MaleBirth:*1946Country:SK, SlovakiaAge:73 years",r_producers
+Michael_Caton-Jones,"Gender:MaleDate of Birth:15 October  1957Birth place:BroxburnCountry:GB, United KingdomAge:62 years",r_producers
+Alfonso_Cuarón,"Gender:MaleDate of Birth:28 November  1961Birth place:Mexico CityCountry:MX, MexicoAge:58 years",r_producers
+Wes_Anderson,"Gender:MaleDate of Birth:1 May  1969Birth place:Houston, TexasCountry:US, United StatesAge:50 years",r_producers
+Gary_Ross,"Gender:MaleDate of Birth:3 November  1956Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:63 years",r_producers
+Francis_Veber,"Gender:MaleDate of Birth:28 July  1937 - 08:15hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:82 years",r_producers
+Yves_Simoneau,"Gender:MaleDate of Birth:28 October  1955Birth place:Québec City, QuébecCountry:CA, CanadaAge:64 years",r_producers
+Jake_Kasdan,"Gender:MaleDate of Birth:28 October  1974Birth place:Detroit, MichiganCountry:US, United StatesAge:45 years",r_producers
+Boaz_Yakin,"Gender:MaleDate of Birth:20 June  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_producers
+Doug_Liman,"Gender:MaleDate of Birth:24 July  1965Birth place:New York, New YorkCountry:US, United StatesAge:54 years",r_producers
+John_Lasseter,"Gender:MaleDate of Birth:12 January  1957Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:63 years",r_producers
+F._Gary_Gray,"Gender:MaleDate of Birth:17 July  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Barry_Sonnenfeld,"Gender:MaleDate of Birth:1 April  1953Birth place:New York, New YorkCountry:US, United StatesAge:67 years",r_producers
+Ted_Demme,"Gender:MaleDate of Birth:26 October  1963Birth place:New York, New YorkCountry:US, United StatesAge:† 38 years",r_producers
+Jocelyn_Moorhouse,"Gender:FemaleDate of Birth:4 September  1960Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:59 years",r_producers
+Shekhar_Kapur,"Gender:MaleDate of Birth:6 December  1945Birth place:LahoreCountry:PK, PakistanAge:74 years",r_producers
+Jim_Kouf,"Gender:MaleDate of Birth:24 July  1951Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:68 years",r_producers
+Albert_Hughes,"Gender:MaleDate of Birth:1 April  1972Birth place:Detroit, MichiganCountry:US, United StatesAge:48 years",r_producers
+Allen_Hughes,"Gender:MaleDate of Birth:1 April  1972Birth place:Detroit, MichiganCountry:US, United StatesAge:48 years",r_producers
+Jonathan_Mostow,"Gender:MaleDate of Birth:28 November  1961Birth place:WoodbridgeCountry:US, United StatesAge:58 years",r_producers
+Adam_Shankman,"Gender:MaleDate of Birth:27 November  1964Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:55 years",r_producers
+Fridrik_Thór_Fridriksson,"Gender:MaleDate of Birth:12 May  1953Birth place:ReykjavíkCountry:IS, IcelandAge:66 years",r_producers
+Jean-Marie_Poiré,"Gender:MaleDate of Birth:10 July  1945 - 20:42hBirth place:ParisCountry:FR, FranceAge:74 years",r_producers
+Cédric_Klapisch,"Gender:MaleDate of Birth:4 September  1961 - 06:55hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:58 years",r_producers
+Chris_Weitz,"Gender:MaleDate of Birth:30 November  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Shunji_Iwai,"Gender:MaleDate of Birth:24 January  1963Birth place:SendaiCountry:JP, JapanAge:57 years",r_producers
+Mira_Nair,"Gender:FemaleDate of Birth:15 October  1957Birth place:Rourkela, OrissaCountry:IN, IndiaAge:62 years",r_producers
+Richard_Brooks,"Gender:MaleDate of Birth:18 May  1912Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 79 years",r_producers
+Dan_Svátek,"Gender:MaleBirth:*1975Country:CZ, Czech RepublicAge:44 years",r_producers
+Callie_Khouri,"Gender:FemaleDate of Birth:27 November  1957Birth place:San Antonio, TexasCountry:US, United StatesAge:62 years",r_producers
+Juliusz_Machulski,"Gender:MaleDate of Birth:10 March  1955Birth place:OlsztynCountry:PL, PolandAge:65 years",r_producers
+Yimou_Zhang,"Gender:MaleDate of Birth:14 November  1951Birth place:Si-anCountry:CN, ChinaAge:68 years",r_producers
+Stephen_Gaghan,"Gender:MaleDate of Birth:6 May  1965Birth place:Louisville, KentuckyCountry:US, United StatesAge:54 years",r_producers
+Russ_Meyer,"Gender:MaleDate of Birth:21 March  1922Birth place:Oakland, CaliforniaCountry:US, United StatesAge:† 82 years",r_producers
+David_Mamet,"Gender:MaleDate of Birth:30 November  1947Birth place:Chicago, IllinoisCountry:US, United StatesAge:72 years",r_producers
+Marc_Forster,"Gender:MaleDate of Birth:30 November  1969Birth place:IllertissenCountry:DE, GermanyAge:50 years",r_producers
+Jeremiah_S._Chechik,"Gender:MaleDate of Birth:27 June  1955Birth place:Montreal, QuébecCountry:CA, CanadaAge:64 years",r_producers
+Betty_Thomas,"Gender:FemaleDate of Birth:27 July  1947 - 03:45hBirth place:St. Louis, MissouriCountry:US, United StatesAge:72 years",r_producers
+David_M._Evans,"Gender:MaleDate of Birth:20 October  1962Birth place:Wilkes BarreCountry:US, United StatesAge:57 years",r_producers
+Rodman_Flender,"Gender:MaleDate of Birth:9 June  1962Birth place:New York, New YorkCountry:US, United StatesAge:57 years",r_producers
+Peter_Fleischmann,"Gender:MaleDate of Birth:26 July  1937Birth place:ZweibrückenCountry:DE, GermanyAge:82 years",r_producers
+Sean_Hayes,"Gender:MaleDate of Birth:26 June  1970Birth place:Glen EllynCountry:US, United StatesAge:49 years",r_producers
+Michael_Landes,"Gender:MaleDate of Birth:18 September  1972Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_producers
+Jennifer_Westfeldt,"Gender:FemaleDate of Birth:2 February  1970Birth place:GuilfordCountry:US, United StatesAge:50 years",r_producers
+Valerie_Mahaffey,"Gender:FemaleDate of Birth:16 June  1953Birth place:SumatraCountry:ID, IndonesiaAge:66 years",r_producers
+Maeve_Quinlan,"Gender:FemaleDate of Birth:16 November  1964Birth place:Chicago, IllinoisCountry:US, United StatesAge:55 years",r_producers
+Tony_Todd,"Gender:MaleDate of Birth:4 December  1954 - 15:30hBirth place:Washington, District of ColumbiaCountry:US, United StatesAge:65 years",r_producers
+Tommy_O'Haver,"Gender:MaleDate of Birth:24 October  1968Birth place:Indianapolis, IndianaCountry:US, United StatesAge:51 years",r_producers
+Peter_Ustinov,"Gender:MaleDate of Birth:16 April  1921 - 11:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 82 years",r_producers
+Marek_Probosz,"Gender:MaleDate of Birth:24 March  1959Birth place:ZoryCountry:PL, PolandAge:61 years",r_producers
+Nicoletta_Braschi,"Gender:FemaleDate of Birth:19 April  1960 - 21:45hBirth place:CesenaCountry:IT, ItalyAge:59 years",r_producers
+Joe_Mantegna,"Gender:MaleDate of Birth:13 November  1947Birth place:Chicago, IllinoisCountry:US, United StatesAge:72 years",r_producers
+Reneé_O'Connor,"Gender:FemaleDate of Birth:15 February  1971 - 11:42hBirth place:Katy, TexasCountry:US, United StatesAge:49 years",r_producers
+Eddie_Griffin,"Gender:MaleDate of Birth:15 July  1968Birth place:Kansas City, MissouriCountry:US, United StatesAge:51 years",r_producers
+Alexander_Payne,"Gender:MaleDate of Birth:10 February  1961Birth place:Omaha, NebraskaCountry:US, United StatesAge:59 years",r_producers
+Chris_Wedge,"Gender:MaleDate of Birth:20 March  1957Birth place:Binghamton, New YorkCountry:US, United StatesAge:63 years",r_producers
+Sam_Elliott,"Gender:MaleDate of Birth:9 August  1944Birth place:Sacramento, CaliforniaCountry:US, United StatesAge:75 years",r_producers
+Johnny_Knoxville,"Gender:MaleDate of Birth:11 March  1971 - 04:19hBirth place:Knoxville, TennesseeCountry:US, United StatesAge:49 years",r_producers
+John_C._McGinley,"Gender:MaleDate of Birth:3 August  1959Birth place:New York, New YorkCountry:US, United StatesAge:60 years",r_producers
+Kane_Hodder,"Gender:MaleDate of Birth:8 April  1955Birth place:Auburn, CaliforniaCountry:US, United StatesAge:65 years",r_producers
+Eddie_Izzard,"Gender:MaleDate of Birth:7 February  1962 - 19:30hBirth place:AdenCountry:YE, YemenAge:58 years",r_producers
+Ben_Cross,"Gender:MaleDate of Birth:16 December  1947Birth place:London, EnglandCountry:GB, United KingdomAge:72 years",r_producers
+Priscilla_Presley,"Gender:FemaleDate of Birth:24 May  1945 - 22:40hBirth place:New York, New YorkCountry:US, United StatesAge:74 years",r_producers
+James_Keach,"Gender:MaleDate of Birth:7 December  1947Birth place:Savannah, GeorgiaCountry:US, United StatesAge:72 years",r_producers
+Dan_Futterman,"Gender:MaleDate of Birth:8 June  1967Birth place:Silver Spring, MarylandCountry:US, United StatesAge:52 years",r_producers
+Keenen_Ivory_Wayans,"Gender:MaleDate of Birth:8 June  1958Birth place:New York, New YorkCountry:US, United StatesAge:61 years",r_producers
+Ken_Annakin,"Gender:MaleDate of Birth:10 August  1914Birth place:Beverley, YorkshireCountry:GB, United KingdomAge:† 94 years",r_producers
+James_Burrows,"Gender:MaleDate of Birth:30 December  1940Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:79 years",r_producers
+William_Smith,"Gender:MaleDate of Birth:24 March  1933Birth place:Columbia, MissouriCountry:US, United StatesAge:87 years",r_producers
+Robert_Clarke,"Gender:MaleDate of Birth:1 June  1920Birth place:Oklahoma City, OklahomaCountry:US, United StatesAge:† 85 years",r_producers
+Nathan_Lane,"Gender:MaleDate of Birth:3 February  1956 - 14:29hBirth place:Jersey City, New JerseyCountry:US, United StatesAge:64 years",r_producers
+Donal_Logue,"Gender:MaleDate of Birth:27 February  1966Birth place:Ottawa, OntarioCountry:CA, CanadaAge:54 years",r_producers
+Amy_Brenneman,"Gender:FemaleDate of Birth:22 June  1964 - 15:36hBirth place:New London, ConnecticutCountry:US, United StatesAge:55 years",r_producers
+David_Spade,"Gender:MaleDate of Birth:22 July  1964 - 23:34hBirth place:Birmingham, MichiganCountry:US, United StatesAge:55 years",r_producers
+Carla_Gugino,"Gender:FemaleDate of Birth:29 August  1971Birth place:Sarasota, FloridaCountry:US, United StatesAge:48 years",r_producers
+Holly_Marie_Combs,"Gender:FemaleDate of Birth:3 December  1973 - 21:44hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:46 years",r_producers
+Sergiu_Nicolaescu,"Gender:MaleDate of Birth:13 April  1930Birth place:Târgu-Jiu, GorjCountry:RO, RomaniaAge:† 82 years",r_producers
+Noah_Wyle,"Gender:MaleDate of Birth:4 June  1971 - 08:13hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:48 years",r_producers
+Jack_Wagner,"Gender:MaleDate of Birth:3 October  1959Birth place:WashingtonCountry:US, United StatesAge:60 years",r_producers
+Heather_Locklear,"Gender:FemaleDate of Birth:25 September  1961 - 17:40hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:58 years",r_producers
+Dave_Chappelle,"Gender:MaleDate of Birth:24 August  1973Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:46 years",r_producers
+Kim_Coates,"Gender:MaleDate of Birth:2 January  1959Birth place:Saskatoon, SaskatchewanCountry:CA, CanadaAge:61 years",r_producers
+Alan_Arkin,"Gender:MaleDate of Birth:26 March  1934 - 04:17hBirth place:New York, New YorkCountry:US, United StatesAge:86 years",r_producers
+Alexis_Arquette,"Gender:MaleDate of Birth:28 July  1969 - 19:00hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:50 years",r_producers
+Georges_Corraface,"Gender:MaleDate of Birth:7 December  1952Birth place:ParisCountry:FR, FranceAge:67 years",r_producers
+Al_Adamson,"Gender:MaleDate of Birth:25 July  1929Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 66 years",r_producers
+Damian_Lewis,"Gender:MaleDate of Birth:11 February  1971Birth place:St John's Wood, LondonCountry:GB, United KingdomAge:49 years",r_producers
+Donnie_Wahlberg,"Gender:MaleDate of Birth:17 August  1969 - 21:45hBirth place:Boston, MassachusettsCountry:US, United StatesAge:50 years",r_producers
+Candice_Bergen,"Gender:FemaleDate of Birth:9 May  1946 - 21:52hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:73 years",r_producers
+Ruben_Santiago-Hudson,"Gender:MaleDate of Birth:24 November  1956Birth place:Lackawanna, New YorkCountry:US, United StatesAge:63 years",r_producers
+Mervyn_LeRoy,"Gender:MaleDate of Birth:15 October  1900Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 86 years",r_producers
+Corbin_Bernsen,"Gender:MaleDate of Birth:7 September  1954 - 20:40hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:65 years",r_producers
+Dean_Cain,"Gender:MaleDate of Birth:31 July  1966Birth place:Mount ClemensCountry:US, United StatesAge:53 years",r_producers
+Seth_Green,"Gender:MaleDate of Birth:8 February  1974Birth place:Overbrook Park, West PhiladelphiaCountry:US, United StatesAge:46 years",r_producers
+Fred_Savage,"Gender:MaleDate of Birth:9 July  1976 - 10:25hBirth place:Highland Park, IllinoisCountry:US, United StatesAge:43 years",r_producers
+Matthew_Lillard,"Gender:MaleDate of Birth:24 January  1970Birth place:Lansing, MichiganCountry:US, United StatesAge:50 years",r_producers
+Pat_Hingle,"Gender:MaleDate of Birth:19 July  1924Birth place:Denver, ColoradoCountry:US, United StatesAge:† 84 years",r_producers
+Fabrizio_Rongione,"Gender:MaleDate of Birth:3 March  1973 - 16:25hBirth place:EtterbeekCountry:BE, BelgiumAge:47 years",r_producers
+Rodney_Dangerfield,"Gender:MaleDate of Birth:22 November  1921Birth place:Babylon, New YorkCountry:US, United StatesAge:† 82 years",r_producers
+Ma_Wu,"Gender:MaleDate of Birth:18 August  1942Birth place:TianjinCountry:CN, ChinaAge:† 71 years",r_producers
+Justin_Bartha,"Gender:MaleDate of Birth:21 July  1978Birth place:West Bloomfield Township, MichiganCountry:US, United StatesAge:41 years",r_producers
+Richard_Curtis,"Gender:MaleDate of Birth:8 November  1956Birth place:Nový ZélandCountry:NZ, New ZealandAge:63 years",r_producers
+Mark_Keller,"Gender:MaleDate of Birth:5 May  1965Birth place:Überlingen am BodenseeCountry:DE, GermanyAge:54 years",r_producers
+Élodie_Bouchez,"Gender:FemaleDate of Birth:5 April  1973 - 19:50hBirth place:MontreuilCountry:FR, FranceAge:47 years",r_producers
+Jason_Connery,"Gender:MaleDate of Birth:11 January  1963 - 22:00hBirth place:London, EnglandCountry:GB, United KingdomAge:57 years",r_producers
+Ian_McShane,"Gender:MaleDate of Birth:29 September  1942 - 03:00hBirth place:Blackburn, EnglandCountry:GB, United KingdomAge:77 years",r_producers
+Robert_Young,"Gender:MaleDate of Birth:22 February  1907 - 22:00hBirth place:Chicago Heights, IllinoisCountry:US, United StatesAge:† 91 years",r_producers
+Jacques_Villeret,"Gender:MaleDate of Birth:6 February  1951 - 19:30hBirth place:ToursCountry:FR, FranceAge:† 53 years",r_producers
+Kenneth_Anger,"Gender:MaleDate of Birth:3 February  1927 - 01:55hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:93 years",r_producers
+Peter_Mullan,"Gender:MaleDate of Birth:2 November  1959Birth place:Peterhead, ScotlandCountry:GB, United KingdomAge:60 years",r_producers
+Andrew_Stanton,"Gender:MaleDate of Birth:3 December  1965Birth place:Boston, MassachusettsCountry:US, United StatesAge:54 years",r_producers
+Bent_Hamer,"Gender:MaleDate of Birth:18 December  1956Birth place:SandefjordCountry:NO, NorwayAge:63 years",r_producers
+Ed_O'Ross,"Gender:MaleDate of Birth:4 July  1946Birth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:73 years",r_producers
+Brad_Bird,"Gender:MaleDate of Birth:11 September  1957Birth place:Kalispell, MontanaCountry:US, United StatesAge:62 years",r_producers
+Paul_Rudd,"Gender:MaleDate of Birth:6 April  1969Birth place:Passaic, New JerseyCountry:US, United StatesAge:51 years",r_producers
+Mark_Damon,"Gender:MaleDate of Birth:22 April  1933Birth place:Chicago, IllinoisCountry:US, United StatesAge:86 years",r_producers
+Randal_Kleiser,"Gender:MaleDate of Birth:20 July  1946Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:73 years",r_producers
+Barclay_Hope,"Gender:MaleDate of Birth:25 February  1958Birth place:Toronto, OntarioCountry:CA, CanadaAge:62 years",r_producers
+Courtney_Solomon,"Gender:MaleDate of Birth:1 September  1971Birth place:Toronto, OntarioCountry:CA, CanadaAge:48 years",r_producers
+Mark_Waters,"Gender:MaleDate of Birth:30 June  1964Birth place:Wyandotte, MichiganCountry:US, United StatesAge:55 years",r_producers
+Andrew_Adamson,"Gender:MaleDate of Birth:1 December  1966Birth place:Auckland, AucklandCountry:NZ, New ZealandAge:53 years",r_producers
+Brian_Robbins,"Gender:MaleDate of Birth:22 November  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_producers
+Marc_Blucas,"Gender:MaleDate of Birth:11 January  1972Birth place:ButlerCountry:US, United StatesAge:48 years",r_producers
+David_Moscow,"Gender:MaleDate of Birth:14 November  1974Birth place:New York, New YorkCountry:US, United StatesAge:45 years",r_producers
+Catherine_Hardwicke,"Gender:FemaleDate of Birth:21 October  1955Birth place:McAllen, TexasCountry:US, United StatesAge:64 years",r_producers
+Robert_Wagner,"Gender:MaleDate of Birth:10 February  1930 - 01:45hBirth place:Detroit, MichiganCountry:US, United StatesAge:90 years",r_producers
+Richard_Norton,"Gender:MaleDate of Birth:6 January  1950Birth place:AustrálieCountry:AU, AustraliaAge:70 years",r_producers
+Mike_Epps,"Gender:MaleDate of Birth:18 November  1970Birth place:Indianapolis, IndianaCountry:US, United StatesAge:49 years",r_producers
+Tom_Green,"Gender:MaleDate of Birth:30 July  1971Birth place:PembrokeCountry:CA, CanadaAge:48 years",r_producers
+Victoria_Tennant,"Gender:FemaleDate of Birth:30 September  1950 - 08:00hBirth place:London, EnglandCountry:GB, United KingdomAge:69 years",r_producers
+Mariska_Hargitay,"Gender:FemaleDate of Birth:23 January  1964 - 05:58hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:56 years",r_producers
+Cerina_Vincent,"Gender:FemaleDate of Birth:7 February  1979Birth place:Las Vegas, NevadaCountry:US, United StatesAge:41 years",r_producers
+Julia_Sweeney,"Gender:FemaleDate of Birth:10 October  1959 - 06:13hBirth place:Spokane, WashingtonCountry:US, United StatesAge:60 years",r_producers
+Ed_Solomon,"Gender:MaleDate of Birth:15 September  1960Birth place:Saratoga, CaliforniaCountry:US, United StatesAge:59 years",r_producers
+Nick_Mancuso,"Gender:MaleDate of Birth:29 May  1948 - 02:00hBirth place:MammolaCountry:IT, ItalyAge:71 years",r_producers
+Ron_Nyswaner,"Gender:MaleDate of Birth:5 October  1956Birth place:ClarksvilleCountry:US, United StatesAge:63 years",r_producers
+Jack_Smight,"Gender:MaleDate of Birth:9 March  1925Birth place:Minneapolis, MinnesotaCountry:US, United StatesAge:† 78 years",r_producers
+Lance_Bass,"Gender:MaleDate of Birth:4 May  1979 - 13:20hBirth place:Laurel, MississippiCountry:US, United StatesAge:40 years",r_producers
+Robert_Cavanah,"Gender:MaleDate of Birth:20 December  1965Birth place:EdinburghCountry:GB, United KingdomAge:54 years",r_producers
+Joseph_Cross,"Gender:MaleDate of Birth:28 May  1986Birth place:Newark, New JerseyCountry:US, United StatesAge:33 years",r_producers
+Santiago_Segura,"Gender:MaleDate of Birth:17 July  1965Birth place:MadridCountry:ES, SpainAge:54 years",r_producers
+Catherine_Oxenberg,"Gender:FemaleDate of Birth:22 September  1961 - 00:28hBirth place:New York, New YorkCountry:US, United StatesAge:58 years",r_producers
+Corinne_Touzet,"Gender:FemaleDate of Birth:21 December  1959 - 19:00hBirth place:OrthezCountry:FR, FranceAge:60 years",r_producers
+Reggie_Bannister,"Gender:MaleDate of Birth:29 September  1945Birth place:Long Beach, CaliforniaCountry:US, United StatesAge:74 years",r_producers
+Will_Ferrell,"Gender:MaleDate of Birth:16 July  1967 - 10:09hBirth place:Newport Beach, CaliforniaCountry:US, United StatesAge:52 years",r_producers
+Melissa_Joan_Hart,"Gender:FemaleDate of Birth:18 April  1976 - 13:30hBirth place:Sayville, New YorkCountry:US, United StatesAge:43 years",r_producers
+Marilu_Henner,"Gender:FemaleDate of Birth:6 April  1952Birth place:Chicago, IllinoisCountry:US, United StatesAge:68 years",r_producers
+Amanda_Tapping,"Gender:FemaleDate of Birth:28 August  1965Birth place:Rochford, EssexCountry:GB, United KingdomAge:54 years",r_producers
+David_Boreanaz,"Gender:MaleDate of Birth:16 May  1969Birth place:Buffalo, New YorkCountry:US, United StatesAge:50 years",r_producers
+Ken_Davitian,"Gender:MaleDate of Birth:19 June  1953Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:66 years",r_producers
+Timothy_Olyphant,"Gender:MaleDate of Birth:20 May  1968Birth place:Honolulu, HawaiiCountry:US, United StatesAge:51 years",r_producers
+Joyce_Chopra,"Gender:FemaleDate of Birth:27 October  1936Country:XX, Unknown(?)Age:83 years",r_producers
+John_Allen_Nelson,"Gender:MaleDate of Birth:28 August  1959Birth place:San Antonio, TexasCountry:US, United StatesAge:60 years",r_producers
+Gerard_Butler,"Gender:MaleDate of Birth:13 November  1969 - 05:21hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:50 years",r_producers
+Topher_Grace,"Gender:MaleDate of Birth:19 July  1978 - 03:56hBirth place:New York, New YorkCountry:US, United StatesAge:41 years",r_producers
+Neil_Mandt,"Gender:MaleDate of Birth:25 August  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+"P._Diddy,_Puff_Daddy","Gender:MaleDate of Birth:4 November  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Taye_Diggs,"Gender:MaleDate of Birth:2 January  1971Birth place:Rochester, New YorkCountry:US, United StatesAge:49 years",r_producers
+Ted_Jan_Roberts,"Gender:MaleDate of Birth:24 September  1979Country:US, United StatesAge:40 years",r_producers
+Brian_Kerwin,"Gender:MaleDate of Birth:25 October  1949Birth place:Chicago, IllinoisCountry:US, United StatesAge:70 years",r_producers
+Katherine_Heigl,"Gender:FemaleDate of Birth:24 November  1978Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:41 years",r_producers
+Cedric_the_Entertainer,"Gender:MaleDate of Birth:24 April  1964Birth place:Jefferson City, MissouriCountry:US, United StatesAge:55 years",r_producers
+Jerry_Ciccoritti,"Gender:MaleDate of Birth:5 August  1956Birth place:Toronto, OntarioCountry:CA, CanadaAge:63 years",r_producers
+Kim_Henkel,"Gender:MaleDate of Birth:19 January  1946Birth place:VirginiaCountry:US, United StatesAge:74 years",r_producers
+Michael_McDonald,"Gender:MaleDate of Birth:31 December  1964Birth place:Fullerton, CaliforniaCountry:US, United StatesAge:55 years",r_producers
+Jean_Smart,"Gender:FemaleDate of Birth:13 September  1951Birth place:Seattle, WashingtonCountry:US, United StatesAge:68 years",r_producers
+Paul_Gross,"Gender:MaleDate of Birth:30 April  1959Birth place:Calgary, AlbertaCountry:CA, CanadaAge:60 years",r_producers
+Tim_Reid,"Gender:MaleDate of Birth:19 December  1944Birth place:Norfolk, VirginiaCountry:US, United StatesAge:75 years",r_producers
+Steve_Bacic,"Gender:MaleDate of Birth:13 March  1965Birth place:LisičićCountry:HR, CroatiaAge:55 years",r_producers
+Bob_Balaban,"Gender:MaleDate of Birth:16 August  1945Birth place:Chicago, IllinoisCountry:US, United StatesAge:74 years",r_producers
+Gary_Hudson,"Gender:MaleDate of Birth:26 March  1956Birth place:Newport News, VirginiaCountry:US, United StatesAge:64 years",r_producers
+Dean_McDermott,"Gender:MaleDate of Birth:16 November  1966Birth place:Toronto, OntarioCountry:CA, CanadaAge:53 years",r_producers
+Andy_Serkis,"Gender:MaleDate of Birth:20 April  1964Birth place:Ruislip, LondonCountry:GB, United KingdomAge:55 years",r_producers
+Diego_Luna,"Gender:MaleDate of Birth:29 December  1979Birth place:Mexico CityCountry:MX, MexicoAge:40 years",r_producers
+John_Stamos,"Gender:MaleDate of Birth:19 August  1963Birth place:CypressCountry:US, United StatesAge:56 years",r_producers
+Wesley_Strick,"Gender:MaleDate of Birth:11 February  1954Birth place:New York, New YorkCountry:US, United StatesAge:66 years",r_producers
+Deidre_Hall,"Gender:FemaleDate of Birth:31 October  1947 - 03:56hBirth place:Milwaukee, WisconsinCountry:US, United StatesAge:72 years",r_producers
+Christine_Lakin,"Gender:FemaleDate of Birth:25 January  1979Birth place:Dallas, TexasCountry:US, United StatesAge:41 years",r_producers
+Jon_Cryer,"Gender:MaleDate of Birth:16 April  1965Birth place:New York, New YorkCountry:US, United StatesAge:54 years",r_producers
+Charles_Napier,"Gender:MaleDate of Birth:12 April  1936Birth place:ScottsvilleCountry:US, United StatesAge:† 75 years",r_producers
+Michael_Damian,"Gender:MaleDate of Birth:26 April  1962 - 08:35hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:57 years",r_producers
+Lizzy_Caplan,"Gender:FemaleDate of Birth:30 June  1982 - 06:14hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:37 years",r_producers
+Ben_Mendelsohn,"Gender:MaleDate of Birth:3 April  1969Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:51 years",r_producers
+Luke_Goss,"Gender:MaleDate of Birth:29 September  1968 - 18:11hBirth place:Lewisham, EnglandCountry:GB, United KingdomAge:51 years",r_producers
+Sage_Stallone,"Gender:MaleDate of Birth:5 May  1976Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 36 years",r_producers
+Joe_Don_Baker,"Gender:MaleDate of Birth:12 February  1936 - 06:00hBirth place:Groesbeck, TexasCountry:US, United StatesAge:84 years",r_producers
+Bo_Hopkins,"Gender:MaleDate of Birth:2 February  1942Birth place:Greenville, South CarolinaCountry:US, United StatesAge:78 years",r_producers
+Dedee_Pfeiffer,"Gender:FemaleDate of Birth:1 January  1964Birth place:Midway CityCountry:US, United StatesAge:56 years",r_producers
+Hall_Bartlett,"Gender:MaleDate of Birth:27 November  1922Birth place:Kansas City, MissouriCountry:US, United StatesAge:† 70 years",r_producers
+Joanna_Lumley,"Gender:FemaleDate of Birth:1 May  1946 - 19:30hBirth place:SrinagarCountry:IN, IndiaAge:73 years",r_producers
+Todd_Allen,"Gender:MaleDate of Birth:9 December  1960Birth place:San Diego, CaliforniaCountry:US, United StatesAge:59 years",r_producers
+Norberto_Barba,"Gender:MaleDate of Birth:12 September  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_producers
+Vincent_Kok,"Gender:MaleDate of Birth:15 August  1965Birth place:HongkongCountry:HK, Hong KongAge:54 years",r_producers
+Fred_Williamson,"Gender:MaleDate of Birth:5 March  1938Birth place:Gary, IndianaCountry:US, United StatesAge:82 years",r_producers
+Eric_Balfour,"Gender:MaleDate of Birth:24 April  1977Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:42 years",r_producers
+Juan_José_Jusid,"Gender:MaleDate of Birth:28 September  1941Birth place:Buenos AiresCountry:AR, ArgentinaAge:78 years",r_producers
+Johnathon_Schaech,"Gender:MaleDate of Birth:10 September  1969Birth place:EdgewoodCountry:US, United StatesAge:50 years",r_producers
+Pamela_Bach-Hasselhoff,"Gender:FemaleDate of Birth:16 October  1963Birth place:Tulsa, OklahomaCountry:US, United StatesAge:56 years",r_producers
+Rawson_Marshall_Thurber,"Gender:MaleDate of Birth:9 February  1975Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Adrian_Grenier,"Gender:MaleDate of Birth:10 July  1976Birth place:New York, New YorkCountry:US, United StatesAge:43 years",r_producers
+Angelo_Badalamenti,"Gender:MaleDate of Birth:22 March  1937Birth place:New York, New YorkCountry:US, United StatesAge:83 years",r_producers
+Zach_Braff,"Gender:MaleDate of Birth:6 April  1975Birth place:South Orange, New JerseyCountry:US, United StatesAge:45 years",r_producers
+Samuel_Le_Bihan,"Gender:MaleDate of Birth:2 November  1965 - 03:30hBirth place:AvranchesCountry:FR, FranceAge:54 years",r_producers
+Xzibit,"Gender:MaleDate of Birth:18 September  1974Birth place:Detroit, MichiganCountry:US, United StatesAge:45 years",r_producers
+Frank_Miller,"Gender:MaleDate of Birth:27 January  1957Birth place:OlneyCountry:US, United StatesAge:63 years",r_producers
+Robert_Rusler,"Gender:MaleDate of Birth:20 September  1965Birth place:Fort Wayne, IndianaCountry:US, United StatesAge:54 years",r_producers
+Douglas_Spain,"Gender:MaleDate of Birth:15 April  1974Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Amanda_Burton,"Gender:FemaleDate of Birth:10 October  1956Birth place:BallougryCountry:GB, United KingdomAge:63 years",r_producers
+Matej_Mináč,"Gender:MaleBirth:*1961Country:SK, SlovakiaAge:59 years",r_producers
+J._J._Abrams,"Gender:MaleDate of Birth:27 June  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_producers
+Paul_Feig,"Gender:MaleDate of Birth:17 September  1962Birth place:Royal Oak, MichiganCountry:US, United StatesAge:57 years",r_producers
+Bernie_Mac,"Gender:MaleDate of Birth:5 October  1957Birth place:Chicago, IllinoisCountry:US, United StatesAge:† 50 years",r_producers
+W._D._Richter,"Gender:MaleDate of Birth:7 December  1945Birth place:New Britain, ConnecticutCountry:US, United StatesAge:74 years",r_producers
+Heather_Matarazzo,"Gender:FemaleDate of Birth:10 November  1982Birth place:New York, New YorkCountry:US, United StatesAge:37 years",r_producers
+Michelle_Monaghan,"Gender:FemaleDate of Birth:23 March  1976Birth place:WinthropCountry:US, United StatesAge:44 years",r_producers
+Bruno_Chiche,"Gender:MaleDate of Birth:7 August  1966Birth place:ParisCountry:FR, FranceAge:53 years",r_producers
+Paulo_Costanzo,"Gender:MaleDate of Birth:21 September  1978Birth place:Brampton, OntarioCountry:CA, CanadaAge:41 years",r_producers
+Theo_van_Gogh,"Gender:MaleDate of Birth:23 July  1957 - 12:12hBirth place:The HagueCountry:NL, NetherlandsAge:† 47 years",r_producers
+Nigel_Marven,"Gender:MaleDate of Birth:27 November  1960Birth place:BarnetCountry:GB, United KingdomAge:59 years",r_producers
+Matthew_Vaughn,"Gender:MaleDate of Birth:7 March  1971Birth place:London, EnglandCountry:GB, United KingdomAge:49 years",r_producers
+Terry_George,"Gender:MaleDate of Birth:20 December  1952Birth place:Belfast, Northern IrelandCountry:GB, United KingdomAge:67 years",r_producers
+Kenya_Moore,"Gender:FemaleDate of Birth:24 January  1971Birth place:Detroit, MichiganCountry:US, United StatesAge:49 years",r_producers
+Terrence_Howard,"Gender:MaleDate of Birth:11 March  1969Birth place:Chicago, IllinoisCountry:US, United StatesAge:51 years",r_producers
+Julian_McMahon,"Gender:MaleDate of Birth:27 July  1968 - 10:20hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:51 years",r_producers
+Enrique_Murciano,"Gender:MaleDate of Birth:9 July  1973Birth place:Miami, FloridaCountry:US, United StatesAge:46 years",r_producers
+Peter_Onorati,"Gender:MaleDate of Birth:13 May  1954Birth place:BoontonCountry:US, United StatesAge:65 years",r_producers
+Leigh_Whannell,"Gender:MaleDate of Birth:17 January  1977Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:43 years",r_producers
+Giuliana_Gamba,"Gender:FemaleDate of Birth:26 November  1949 - 20:00hBirth place:PesaroCountry:IT, ItalyAge:70 years",r_producers
+Jiří_Chlumský,"Gender:MaleBirth:*1958Country:CZ, Czech RepublicAge:61 years",r_producers
+Adam_Brody,"Gender:MaleDate of Birth:15 December  1979Birth place:San Diego, CaliforniaCountry:US, United StatesAge:40 years",r_producers
+Ron_Canada,"Gender:MaleDate of Birth:3 May  1949Birth place:New York, New YorkCountry:US, United StatesAge:70 years",r_producers
+Steve_Coogan,"Gender:MaleDate of Birth:14 October  1965Birth place:ManchesterCountry:GB, United KingdomAge:54 years",r_producers
+Allen_Covert,"Gender:MaleDate of Birth:13 October  1964Birth place:Palm Beach CountyCountry:US, United StatesAge:55 years",r_producers
+Ramon_Estevez,"Gender:MaleDate of Birth:7 August  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_producers
+Kevin_Hart,"Gender:MaleDate of Birth:3 July  1980Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:39 years",r_producers
+John_Hawkes,"Gender:MaleDate of Birth:11 September  1959Birth place:Alexandria, MinnesotaCountry:US, United StatesAge:60 years",r_producers
+Michael_B._Jordan,"Gender:MaleDate of Birth:9 February  1987Birth place:Santa Ana, CaliforniaCountry:US, United StatesAge:33 years",r_producers
+Norm_MacDonald,"Gender:MaleDate of Birth:17 October  1963Birth place:QuébecCountry:CA, CanadaAge:56 years",r_producers
+Kal_Penn,"Gender:MaleDate of Birth:23 April  1977Birth place:Montclair, New JerseyCountry:US, United StatesAge:42 years",r_producers
+Deon_Richmond,"Gender:MaleDate of Birth:2 April  1978Birth place:New York, New YorkCountry:US, United StatesAge:42 years",r_producers
+Andrew_Kevin_Walker,"Gender:MaleDate of Birth:14 August  1964Birth place:Altoona, PennsylvaniaCountry:US, United StatesAge:55 years",r_producers
+Tom_Welling,"Gender:MaleDate of Birth:26 April  1977Birth place:New York, New YorkCountry:US, United StatesAge:42 years",r_producers
+Dolly_Buster,"Gender:FemaleBirth:*1969Country:CZ, Czech RepublicAge:50 years",r_producers
+Robinne_Lee,"Gender:FemaleDate of Birth:16 July  1974Birth place:Mount Vernon, New YorkCountry:US, United StatesAge:45 years",r_producers
+Amy_Pietz,"Gender:FemaleDate of Birth:6 March  1969 - 20:33hBirth place:Milwaukee, WisconsinCountry:US, United StatesAge:51 years",r_producers
+Sarah_Silverman,"Gender:FemaleDate of Birth:1 December  1970 - 06:30hBirth place:Bedford, New HampshireCountry:US, United StatesAge:49 years",r_producers
+Gary_David_Goldberg,"Gender:MaleDate of Birth:25 June  1944Birth place:New York, New YorkCountry:US, United StatesAge:† 68 years",r_producers
+Scott_Foley,"Gender:MaleDate of Birth:15 July  1972Birth place:Kansas City, KansasCountry:US, United StatesAge:47 years",r_producers
+Mark_Gatiss,"Gender:MaleDate of Birth:17 October  1966Birth place:Darlington, EnglandCountry:GB, United KingdomAge:53 years",r_producers
+Jakob_Schäuffelen,"Gender:MaleDate of Birth:19 September  1967Birth place:MunichCountry:DE, GermanyAge:52 years",r_producers
+Shawn_Wayans,"Gender:MaleDate of Birth:19 January  1971Birth place:New York, New YorkCountry:US, United StatesAge:49 years",r_producers
+Jim_Wise,"Gender:MaleDate of Birth:30 July  1964Birth place:Santa Monica, CaliforniaCountry:US, United StatesAge:55 years",r_producers
+Carlos_Reygadas,"Gender:MaleDate of Birth:10 October  1971Birth place:Mexico CityCountry:MX, MexicoAge:48 years",r_producers
+Judd_Apatow,"Gender:MaleDate of Birth:6 December  1967Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_producers
+Steve_Carell,"Gender:MaleDate of Birth:16 August  1962 - 08:59hBirth place:Concord, MassachusettsCountry:US, United StatesAge:57 years",r_producers
+Andrew_Divoff,"Gender:MaleDate of Birth:2 July  1955Birth place:San TomeCountry:VE, VenezuelaAge:64 years",r_producers
+Srdan_Golubovic,"Gender:MaleDate of Birth:24 August  1972Birth place:BelgradeCountry:RS, SerbiaAge:47 years",r_producers
+Jesse_James,"Gender:MaleDate of Birth:14 September  1989Birth place:Palm Springs, CaliforniaCountry:US, United StatesAge:30 years",r_producers
+Sara_Gilbert,"Gender:FemaleDate of Birth:29 January  1975 - 15:07hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Devon_Gummersall,"Gender:MaleDate of Birth:15 October  1978Birth place:DurangoCountry:US, United StatesAge:41 years",r_producers
+Christian_Keiber,"Gender:MaleDate of Birth:26 February  1970Birth place:WilmingtonCountry:US, United StatesAge:50 years",r_producers
+Alex_O'Loughlin,"Gender:MaleDate of Birth:24 August  1976Birth place:Sydney, New South WalesCountry:AU, AustraliaAge:43 years",r_producers
+William_L._Petersen,"Gender:MaleDate of Birth:21 February  1953Birth place:Evanston, IllinoisCountry:US, United StatesAge:67 years",r_producers
+Leslie_Bibb,"Gender:FemaleDate of Birth:17 November  1974Birth place:BismarckCountry:US, United StatesAge:45 years",r_producers
+Marcel_Bystroň,"Gender:MaleBirth:*1968Country:CZ, Czech RepublicAge:52 years",r_producers
+Pedro_Armendáriz,"Gender:MaleDate of Birth:9 May  1912Birth place:Mexico CityCountry:MX, MexicoAge:† 51 years",r_producers
+Paul_Dano,"Gender:MaleDate of Birth:19 June  1984Birth place:WiltonCountry:US, United StatesAge:35 years",r_producers
+Rachel_Miner,"Gender:FemaleDate of Birth:29 July  1980 - 00:27hBirth place:New York, New YorkCountry:US, United StatesAge:39 years",r_producers
+Cylk_Cozart,"Gender:MaleDate of Birth:1 February  1957Birth place:Knoxville, TennesseeCountry:US, United StatesAge:63 years",r_producers
+Caroline_Aaron,"Gender:FemaleDate of Birth:7 August  1952Birth place:Richmond, VirginiaCountry:US, United StatesAge:67 years",r_producers
+Danielle_Panabaker,"Gender:FemaleDate of Birth:19 September  1987Birth place:Statesboro, GeorgiaCountry:US, United StatesAge:32 years",r_producers
+Stephen_Bridgewater,"Gender:MaleDate of Birth:24 August  1953Birth place:Hutchinson, KansasCountry:US, United StatesAge:66 years",r_producers
+Joel_Edgerton,"Gender:MaleDate of Birth:23 June  1974Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:45 years",r_producers
+Don_E._FauntLeRoy,"Gender:MaleDate of Birth:5 May  1953Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:66 years",r_producers
+Rhett_Giles,"Gender:MaleDate of Birth:27 August  1973Birth place:Adelaide Hills, South AustraliaCountry:AU, AustraliaAge:46 years",r_producers
+Michael_Patrick_King,"Gender:MaleDate of Birth:14 September  1954Birth place:Scranton, PennsylvaniaCountry:US, United StatesAge:65 years",r_producers
+Lauren_Cohan,"Gender:FemaleDate of Birth:7 January  1982Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:38 years",r_producers
+Patrice_Fisher,"Gender:FemaleDate of Birth:5 January  1978Country:XX, Unknown(?)Age:42 years",r_producers
+Pato_Hoffmann,"Gender:MaleDate of Birth:23 August  1956Birth place:La PazCountry:BO, BoliviaAge:63 years",r_producers
+Jack_Edward_Sawyers,"Gender:MaleDate of Birth:24 September  1967Birth place:Bridgeton, New JerseyCountry:US, United StatesAge:52 years",r_producers
+Andy_Nyman,"Gender:MaleDate of Birth:13 April  1966Birth place:Leicester, EnglandCountry:GB, United KingdomAge:53 years",r_producers
+Jason_Reitman,"Gender:MaleDate of Birth:19 October  1977Birth place:Montreal, QuébecCountry:CA, CanadaAge:42 years",r_producers
+Martha_Fiennes,"Gender:FemaleDate of Birth:5 February  1965Birth place:London, EnglandCountry:GB, United KingdomAge:55 years",r_producers
+Guel_Arraes,"Gender:MaleDate of Birth:12 December  1953Birth place:RecifeCountry:BR, BrazilAge:66 years",r_producers
+Alastair_Fothergill,"Gender:MaleDate of Birth:10 April  1960Country:XX, Unknown(?)Age:59 years",r_producers
+Brian_Tee,"Gender:MaleDate of Birth:15 March  1977Birth place:OkinawaCountry:JP, JapanAge:43 years",r_producers
+Subhash_Ghai,"Gender:MaleDate of Birth:24 January  1945Birth place:Nagpur divisionCountry:IN, IndiaAge:75 years",r_producers
+Tony_Gilroy,"Gender:MaleDate of Birth:11 September  1956Birth place:New York, New YorkCountry:US, United StatesAge:63 years",r_producers
+Ricky_Gervais,"Gender:MaleDate of Birth:25 June  1961Birth place:Reading, EnglandCountry:GB, United KingdomAge:58 years",r_producers
+Stephen_Merchant,"Gender:MaleDate of Birth:24 November  1974Birth place:Bristol, EnglandCountry:GB, United KingdomAge:45 years",r_producers
+Martin_Hofmann,"Gender:MaleBirth:*1978Country:CZ, Czech RepublicAge:42 years",r_producers
+J._Michael_Straczynski,"Gender:MaleDate of Birth:17 July  1954Birth place:Paterson, New JerseyCountry:US, United StatesAge:65 years",r_producers
+Shawn_Ashmore,"Gender:MaleDate of Birth:7 October  1979Birth place:RichmondCountry:CA, CanadaAge:40 years",r_producers
+Edoardo_Ballerini,"Gender:MaleDate of Birth:20 March  1970Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:50 years",r_producers
+Robert_Ben_Garant,"Gender:MaleDate of Birth:14 September  1970Birth place:CookevilleCountry:US, United StatesAge:49 years",r_producers
+John_Ortiz,"Gender:MaleDate of Birth:23 May  1968Birth place:New York, New YorkCountry:US, United StatesAge:51 years",r_producers
+Christian_Camargo,"Gender:MaleDate of Birth:7 July  1971Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_producers
+Patricia_Wettig,"Gender:FemaleDate of Birth:4 December  1951Birth place:Cincinnati, OhioCountry:US, United StatesAge:68 years",r_producers
+Lennie_Overgaard,"Gender:MaleDate of Birth:11 September  1983Birth place:VejleCountry:DK, DenmarkAge:36 years",r_producers
+Zack_Ward,"Gender:MaleDate of Birth:31 August  1970Birth place:Toronto, OntarioCountry:CA, CanadaAge:49 years",r_producers
+Bradley_Cooper,"Gender:MaleDate of Birth:5 January  1975 - 05:09hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:45 years",r_producers
+Greg_Grunberg,"Gender:MaleDate of Birth:11 July  1966Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:53 years",r_producers
+Jay_Leno,"Gender:MaleDate of Birth:28 April  1950 - 02:03hBirth place:New Rochelle, New YorkCountry:US, United StatesAge:69 years",r_producers
+Natalia_Tena,"Gender:FemaleDate of Birth:1 November  1984Birth place:London, EnglandCountry:GB, United KingdomAge:35 years",r_producers
+April_Scott,"Gender:FemaleDate of Birth:29 January  1979Birth place:Poplar BluffCountry:US, United StatesAge:41 years",r_producers
+Kevin_James,"Gender:MaleDate of Birth:26 April  1965Birth place:Stony Brook, New YorkCountry:US, United StatesAge:54 years",r_producers
+Jan_Tománek,"Gender:MaleBirth:*1978Country:CZ, Czech RepublicAge:42 years",r_producers
+Romano_Orzari,"Gender:MaleDate of Birth:12 November  1964Country:XX, Unknown(?)Age:55 years",r_producers
+Melissa_McCarthy,"Gender:FemaleDate of Birth:26 August  1970Birth place:PlainfieldCountry:US, United StatesAge:49 years",r_producers
+Simon_Reynolds,"Gender:MaleDate of Birth:11 April  1969Birth place:Toronto, OntarioCountry:CA, CanadaAge:50 years",r_producers
+Jose_Pablo_Cantillo,"Gender:MaleDate of Birth:30 March  1979Birth place:MarshfieldCountry:US, United StatesAge:41 years",r_producers
+Reece_Thompson,"Gender:MaleDate of Birth:22 November  1988Birth place:Morden, ManitobaCountry:CA, CanadaAge:31 years",r_producers
+David_Oyelowo,"Gender:MaleDate of Birth:1 April  1976Birth place:Oxford, EnglandCountry:GB, United KingdomAge:44 years",r_producers
+Zach_Helm,"Gender:MaleDate of Birth:21 January  1975Birth place:Santa Clara, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Colin_Ferguson,"Gender:MaleDate of Birth:22 July  1972Birth place:Montreal, QuébecCountry:CA, CanadaAge:47 years",r_producers
+Nebojša_Glogovac,"Gender:MaleDate of Birth:30 August  1969Birth place:Trebinje, Republika SrpskaCountry:BA, Bosnia and HerzegovinaAge:50 years",r_producers
+Viktor_Tauš,"Gender:MaleBirth:*1973Country:CZ, Czech RepublicAge:46 years",r_producers
+Michael_Chiklis,"Gender:MaleDate of Birth:30 August  1963 - 15:08hBirth place:Lowell, MassachusettsCountry:US, United StatesAge:56 years",r_producers
+Idris_Elba,"Gender:MaleDate of Birth:6 September  1972Birth place:London, EnglandCountry:GB, United KingdomAge:47 years",r_producers
+Jerry_Weintraub,"Gender:MaleDate of Birth:26 September  1937Birth place:New York, New YorkCountry:US, United StatesAge:† 77 years",r_producers
+Alex_Hardcastle,"Gender:MaleDate of Birth:19 November  1972Birth place:BerkshireCountry:GB, United KingdomAge:47 years",r_producers
+Rachel_Nichols,"Gender:FemaleDate of Birth:8 January  1980Birth place:AugustaCountry:US, United StatesAge:40 years",r_producers
+Donald_Faison,"Gender:MaleDate of Birth:22 June  1974Birth place:New York, New YorkCountry:US, United StatesAge:45 years",r_producers
+Judy_Reyes,"Gender:FemaleDate of Birth:5 November  1967Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_producers
+Griff_Furst,"Gender:MaleDate of Birth:17 September  1981Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:38 years",r_producers
+Wanda_Sykes,"Gender:FemaleDate of Birth:7 March  1964Birth place:Portsmouth, VirginiaCountry:US, United StatesAge:56 years",r_producers
+Jon_Hamm,"Gender:MaleDate of Birth:10 March  1971Birth place:St. Louis, MissouriCountry:US, United StatesAge:49 years",r_producers
+Jemaine_Clement,"Gender:MaleDate of Birth:10 January  1974Birth place:WairarapaCountry:NZ, New ZealandAge:46 years",r_producers
+Lucas_Grabeel,"Gender:MaleDate of Birth:23 November  1984Birth place:Springfield, MissouriCountry:US, United StatesAge:35 years",r_producers
+Christian_Campbell,"Gender:MaleDate of Birth:12 May  1972Birth place:Toronto, OntarioCountry:CA, CanadaAge:47 years",r_producers
+Walton_Goggins,"Gender:MaleDate of Birth:10 November  1971Birth place:BirminghamCountry:US, United StatesAge:48 years",r_producers
+Charlotte_Roche,"Gender:FemaleDate of Birth:18 March  1978Birth place:London, EnglandCountry:GB, United KingdomAge:42 years",r_producers
+Tara_Platt,"Gender:FemaleDate of Birth:18 June  1980Birth place:Fairfax, VirginiaCountry:US, United StatesAge:39 years",r_producers
+David_Burtka,"Gender:MaleDate of Birth:29 May  1975Birth place:Dearborn, MichiganCountry:US, United StatesAge:44 years",r_producers
+Pooja_Kumar,"Gender:FemaleDate of Birth:4 February  1977Birth place:St. Louis, MissouriCountry:US, United StatesAge:43 years",r_producers
+Chad_Allen,"Gender:MaleDate of Birth:5 June  1974 - 18:02hBirth place:Cerritos, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Nick_Zano,"Gender:MaleDate of Birth:8 March  1978Birth place:Nutley, New JerseyCountry:US, United StatesAge:42 years",r_producers
+Matt_Battaglia,"Gender:MaleDate of Birth:25 September  1965Birth place:Tallahassee, FloridaCountry:US, United StatesAge:54 years",r_producers
+Josh_Lowell,"Gender:MaleDate of Birth:25 September  1972Country:XX, Unknown(?)Age:47 years",r_producers
+Monta_Bell,"Gender:MaleDate of Birth:5 February  1891Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:† 66 years",r_producers
+Jeff_Dunham,"Gender:MaleDate of Birth:18 April  1962Birth place:Dallas, TexasCountry:US, United StatesAge:57 years",r_producers
+Dennis_Burkley,"Gender:MaleDate of Birth:10 September  1945Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 67 years",r_producers
+Erin_Cardillo,"Gender:FemaleDate of Birth:17 February  1977Birth place:White Plains, New YorkCountry:US, United StatesAge:43 years",r_producers
+James_Devoti,"Gender:MaleDate of Birth:15 July  1979Birth place:Merrick, New YorkCountry:US, United StatesAge:40 years",r_producers
+Bradley_Stryker,"Gender:MaleDate of Birth:29 June  1977Birth place:Eugene, OregonCountry:US, United StatesAge:42 years",r_producers
+Tricia_O'Kelley,"Gender:FemaleDate of Birth:26 September  1968Birth place:Melrose, MassachusettsCountry:US, United StatesAge:51 years",r_producers
+Julie_Gonzalo,"Gender:FemaleDate of Birth:9 September  1981Birth place:Buenos AiresCountry:AR, ArgentinaAge:38 years",r_producers
+Paul_Wesley,"Gender:MaleDate of Birth:23 July  1982Birth place:New Brunswick, New JerseyCountry:US, United StatesAge:37 years",r_producers
+Jon_Foster,"Gender:MaleDate of Birth:3 August  1984Birth place:Boston, MassachusettsCountry:US, United StatesAge:35 years",r_producers
+Alan_Ball,"Gender:MaleDate of Birth:13 May  1957Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:62 years",r_producers
+Glenn_Morshower,"Gender:MaleDate of Birth:24 April  1959Birth place:Dallas, TexasCountry:US, United StatesAge:60 years",r_producers
+Mark_Duplass,"Gender:MaleDate of Birth:7 December  1976Birth place:New Orleans, LouisianaCountry:US, United StatesAge:43 years",r_producers
+Gary_Graham,"Gender:MaleDate of Birth:6 June  1950Birth place:Long Beach, CaliforniaCountry:US, United StatesAge:69 years",r_producers
+Brian_Thompson,"Gender:MaleDate of Birth:28 August  1959Birth place:EllensburgCountry:US, United StatesAge:60 years",r_producers
+Kevin_Rankin,"Gender:MaleDate of Birth:18 April  1976Birth place:Baton Rouge, LouisianaCountry:US, United StatesAge:43 years",r_producers
+Amy_Redford,"Gender:FemaleDate of Birth:22 October  1970Country:XX, Unknown(?)Age:49 years",r_producers
+Mark_Feuerstein,"Gender:MaleDate of Birth:8 June  1971Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_producers
+Sherman_Alexie,"Gender:MaleDate of Birth:7 October  1966Birth place:WellpinitCountry:US, United StatesAge:53 years",r_producers
+Ed_Gass-Donnelly,"Gender:MaleDate of Birth:17 August  1977Birth place:Toronto, OntarioCountry:CA, CanadaAge:42 years",r_producers
+Julian_Barratt,"Gender:MaleDate of Birth:4 May  1968Birth place:Leeds, EnglandCountry:GB, United KingdomAge:51 years",r_producers
+Tahmoh_Penikett,"Gender:MaleDate of Birth:20 May  1975Birth place:WhitehorseCountry:CA, CanadaAge:44 years",r_producers
+Clem_Maloney,"Gender:MaleDate of Birth:13 May  1966Birth place:AustrálieCountry:AU, AustraliaAge:53 years",r_producers
+Joe_Eszterhas,"Gender:MaleDate of Birth:23 November  1944Birth place:CsákánydoroszlóCountry:HU, HungaryAge:75 years",r_producers
+Tanner_Beard,"Gender:MaleDate of Birth:16 September  1984Birth place:Snyder, TexasCountry:US, United StatesAge:35 years",r_producers
+Camille_Anderson,"Gender:FemaleDate of Birth:12 March  1977Birth place:Dallas, TexasCountry:US, United StatesAge:43 years",r_producers
+Monique_Gabriela_Curnen,"Gender:FemaleDate of Birth:7 September  1977Birth place:Jackson, IowaCountry:US, United StatesAge:42 years",r_producers
+Ondřej_Soukup,"Gender:MaleBirth:*1951Country:CZ, Czech RepublicAge:68 years",r_producers
+Tommy_'Tiny'_Lister,"Gender:MaleDate of Birth:24 June  1958Birth place:Compton, CaliforniaCountry:US, United StatesAge:61 years",r_producers
+Frida_Farrell,"Gender:FemaleDate of Birth:27 December  1979Birth place:ŠvédskoCountry:SE, SwedenAge:40 years",r_producers
+Zak_Santiago,"Gender:MaleDate of Birth:3 January  1981Birth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:39 years",r_producers
+Gene_Roddenberry,"Gender:MaleDate of Birth:19 August  1921 - 01:35hBirth place:El Paso, TexasCountry:US, United StatesAge:† 70 years",r_producers
+Rachel_Dratch,"Gender:FemaleDate of Birth:22 February  1966Birth place:Cambridge, MassachusettsCountry:US, United StatesAge:54 years",r_producers
+Lars_Ulrich,"Gender:MaleDate of Birth:26 December  1963Birth place:GentofteCountry:DK, DenmarkAge:56 years",r_producers
+Simon_MacCorkindale,"Gender:MaleDate of Birth:12 February  1952 - 15:00hBirth place:Cambridge, EnglandCountry:GB, United KingdomAge:† 58 years",r_producers
+Tiësto,"Gender:MaleDate of Birth:17 January  1969Birth place:BredaCountry:NL, NetherlandsAge:51 years",r_producers
+Ernie_Lively,"Gender:MaleDate of Birth:29 January  1947Birth place:Baltimore, MarylandCountry:US, United StatesAge:73 years",r_producers
+Deanna_Russo,"Gender:FemaleDate of Birth:17 October  1979Birth place:Newark, New JerseyCountry:US, United StatesAge:40 years",r_producers
+James_Carville,"Gender:MaleDate of Birth:25 October  1944Birth place:CarvilleCountry:US, United StatesAge:75 years",r_producers
+Misha_Collins,"Gender:MaleDate of Birth:20 August  1974 - 00:12hBirth place:Boston, MassachusettsCountry:US, United StatesAge:45 years",r_producers
+Andre_Royo,"Gender:MaleDate of Birth:18 July  1968Birth place:New York, New YorkCountry:US, United StatesAge:51 years",r_producers
+Joe_Shaw,"Gender:MaleDate of Birth:15 November  1972Birth place:London, EnglandCountry:GB, United KingdomAge:47 years",r_producers
+Jason_Ritter,"Gender:MaleDate of Birth:17 February  1980Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:40 years",r_producers
+Dingdong_Dantes,"Gender:MaleDate of Birth:2 August  1980 - 10:50hBirth place:Quezon CityCountry:PH, PhilippinesAge:39 years",r_producers
+Katie_Boland,"Gender:FemaleDate of Birth:14 February  1988Birth place:Toronto, OntarioCountry:CA, CanadaAge:32 years",r_producers
+Nick_Swardson,"Gender:MaleDate of Birth:9 October  1976Birth place:Minneapolis, MinnesotaCountry:US, United StatesAge:43 years",r_producers
+Arndt_Schwering-Sohnrey,"Gender:MaleDate of Birth:6 November  1972Country:XX, Unknown(?)Age:47 years",r_producers
+Brett_Cullen,"Gender:MaleDate of Birth:26 August  1956Birth place:Houston, TexasCountry:US, United StatesAge:63 years",r_producers
+Donna_D'Errico,"Gender:FemaleDate of Birth:30 March  1968Birth place:Dothan, AlabamaCountry:US, United StatesAge:52 years",r_producers
+Grant_Heslov,"Gender:MaleDate of Birth:15 May  1963Birth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:56 years",r_producers
+Jimmi_Simpson,"Gender:MaleDate of Birth:21 November  1975Birth place:HackettstownCountry:US, United StatesAge:44 years",r_producers
+A._D._Miles,"Gender:MaleDate of Birth:8 November  1971Birth place:Severní KarolínaCountry:US, United StatesAge:48 years",r_producers
+Chris_J._Johnson,"Gender:MaleDate of Birth:29 August  1977Birth place:StonehamCountry:US, United StatesAge:42 years",r_producers
+Bill_Maher,"Gender:MaleDate of Birth:20 January  1956 - 22:32hBirth place:New York, New YorkCountry:US, United StatesAge:64 years",r_producers
+Giselle_Fernandez,"Gender:FemaleDate of Birth:15 May  1961Birth place:Mexico CityCountry:MX, MexicoAge:58 years",r_producers
+Francis_Renaud,"Gender:MaleDate of Birth:27 September  1967 - 05:10hBirth place:ThionvilleCountry:FR, FranceAge:52 years",r_producers
+Sharon_Osbourne,"Gender:FemaleDate of Birth:9 October  1952Birth place:LondonCountry:GB, United KingdomAge:67 years",r_producers
+Jack_Benny,"Gender:MaleDate of Birth:14 February  1894 - 04:04hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 80 years",r_producers
+Brenda_Song,"Gender:FemaleDate of Birth:27 March  1988Birth place:Carmichael, CaliforniaCountry:US, United StatesAge:32 years",r_producers
+Alexander_Armstrong,"Gender:MaleDate of Birth:14 August  1970Birth place:London, EnglandCountry:GB, United KingdomAge:49 years",r_producers
+Johann_Urb,"Gender:MaleDate of Birth:24 January  1977Birth place:TallinnCountry:EE, EstoniaAge:43 years",r_producers
+Andrew_Daly,"Gender:MaleDate of Birth:15 April  1971Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_producers
+Matt_Lucas,"Gender:MaleDate of Birth:5 March  1974Birth place:London, EnglandCountry:GB, United KingdomAge:46 years",r_producers
+Christopher_Miller,"Gender:MaleDate of Birth:23 September  1975Birth place:Everett, WashingtonCountry:US, United StatesAge:44 years",r_producers
+Tomáš_Magnusek,"Gender:MaleBirth:*1984Country:CZ, Czech RepublicAge:35 years",r_producers
+Eduardo_Verástegui,"Gender:MaleDate of Birth:21 May  1974Birth place:Ciudad Mante, Tamaulipas, MexicoCountry:MX, MexicoAge:45 years",r_producers
+Thomas_Lennon,"Gender:MaleDate of Birth:9 August  1970 - 14:00hBirth place:Chicago, IllinoisCountry:US, United StatesAge:49 years",r_producers
+Devon_Bostick,"Gender:MaleDate of Birth:13 November  1991Birth place:Morden, ManitobaCountry:CA, CanadaAge:28 years",r_producers
+Michael_Hitchcock,"Gender:MaleDate of Birth:28 July  1958Birth place:Defiance, OhioCountry:US, United StatesAge:61 years",r_producers
+John_Legend,"Gender:MaleDate of Birth:28 December  1978Birth place:Springfield, OhioCountry:US, United StatesAge:41 years",r_producers
+Richard_Harding_Gardner,"Gender:MaleDate of Birth:18 September  1949Birth place:GodalmingCountry:GB, United KingdomAge:70 years",r_producers
+James_Arnold_Taylor,"Gender:MaleDate of Birth:22 July  1969Birth place:Santa Barbara, CaliforniaCountry:US, United StatesAge:50 years",r_producers
+Lee_'Scratch'_Perry,"Date of Birth:20 March  1936Birth place:KendalCountry:JM, JamaicaAge:84 years",r_producers
+Chris_Elliott,"Gender:MaleDate of Birth:31 May  1960Birth place:New York, New YorkCountry:US, United StatesAge:59 years",r_producers
+Sharlto_Copley,"Gender:MaleDate of Birth:27 November  1973Birth place:JohannesburgCountry:ZA, South AfricaAge:46 years",r_producers
+Tamara_Gorski,"Gender:FemaleDate of Birth:21 November  1968Birth place:Winnipeg Beach, ManitobaCountry:CA, CanadaAge:51 years",r_producers
+Taylor_Negron,"Gender:MaleDate of Birth:1 August  1957Birth place:Glendale, CaliforniaCountry:US, United StatesAge:† 57 years",r_producers
+Michal_Waszyński,"Gender:MaleDate of Birth:29 September  1904Birth place:KovelCountry:UA, UkraineAge:† 60 years",r_producers
+Demetri_Martin,"Gender:MaleDate of Birth:25 May  1973Birth place:New York, New YorkCountry:US, United StatesAge:46 years",r_producers
+Christof_Arnold,"Gender:MaleDate of Birth:8 July  1970Birth place:Schwäbisch-GmündCountry:DE, GermanyAge:49 years",r_producers
+Devin_Ratray,"Gender:MaleDate of Birth:11 January  1977Birth place:New York, New YorkCountry:US, United StatesAge:43 years",r_producers
+Vincent_Dietschy,"Gender:MaleDate of Birth:21 September  1964Country:FR, FranceAge:55 years",r_producers
+Adam_Carolla,"Gender:MaleDate of Birth:27 May  1964Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:55 years",r_producers
+Sebastian_Deyle,"Gender:MaleDate of Birth:26 November  1977 - 04:48hBirth place:Bad FriedrichshallCountry:DE, GermanyAge:42 years",r_producers
+David_Cross,"Gender:MaleDate of Birth:4 April  1964Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:56 years",r_producers
+Haley_Webb,"Gender:FemaleDate of Birth:25 November  1985Birth place:WoodbridgeCountry:US, United StatesAge:34 years",r_producers
+David_Henrie,"Gender:MaleDate of Birth:11 July  1989Birth place:Mission Viejo, CaliforniaCountry:US, United StatesAge:30 years",r_producers
+Nikki_Ziering,"Gender:FemaleDate of Birth:9 August  1971 - 13:39hBirth place:Norwalk, CaliforniaCountry:US, United StatesAge:48 years",r_producers
+Colleen_Haskell,"Gender:FemaleDate of Birth:6 December  1976Birth place:Bethesda, MarylandCountry:US, United StatesAge:43 years",r_producers
+Lisa_Ann_Walter,"Gender:FemaleDate of Birth:3 August  1963Birth place:Silver Spring, MarylandCountry:US, United StatesAge:56 years",r_producers
+Travis_Schuldt,"Gender:MaleDate of Birth:18 September  1974Birth place:Topeka, KansasCountry:US, United StatesAge:45 years",r_producers
+James_Faulkner,"Gender:MaleDate of Birth:18 July  1948Birth place:London, EnglandCountry:GB, United KingdomAge:71 years",r_producers
+Dylan_Bruno,"Gender:MaleDate of Birth:6 September  1972Birth place:Milford, ConnecticutCountry:US, United StatesAge:47 years",r_producers
+Fan_Bingbing,"Gender:FemaleDate of Birth:16 September  1981Birth place:QingdaoCountry:CN, ChinaAge:38 years",r_producers
+Rafal_Wieczynski,"Gender:MaleDate of Birth:22 September  1968Birth place:WarsawCountry:PL, PolandAge:51 years",r_producers
+Max_Ryan,"Gender:MaleDate of Birth:1 February  1967Birth place:Bolton, EnglandCountry:GB, United KingdomAge:53 years",r_producers
+Quinton_Aaron,"Gender:MaleDate of Birth:15 August  1984Birth place:New York, New YorkCountry:US, United StatesAge:35 years",r_producers
+Jeff_Garlin,"Gender:MaleDate of Birth:5 June  1962Birth place:Chicago, IllinoisCountry:US, United StatesAge:57 years",r_producers
+Çağan_Irmak,"Gender:MaleDate of Birth:4 April  1970Birth place:IzmirCountry:TR, TurkeyAge:50 years",r_producers
+Meredith_Scott_Lynn,"Gender:FemaleDate of Birth:8 March  1970Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_producers
+Sebastián_Zurita,"Gender:MaleDate of Birth:22 November  1986Birth place:Mexico CityCountry:MX, MexicoAge:33 years",r_producers
+Peter_McCauley,"Gender:MaleDate of Birth:8 March  1950Birth place:Nový ZélandCountry:NZ, New ZealandAge:70 years",r_producers
+Petr_Kotvald,"Gender:MaleBirth:*1959Country:CZ, Czech RepublicAge:60 years",r_producers
+Erinn_Hayes,"Gender:FemaleDate of Birth:25 May  1976Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:43 years",r_producers
+Roman_Holý,"Gender:MaleBirth:*1966Country:CZ, Czech RepublicAge:54 years",r_producers
+Don_Keith_Opper,"Gender:MaleDate of Birth:1 January  1949Birth place:Chicago, IllinoisCountry:US, United StatesAge:71 years",r_producers
+Dan_Haggerty,"Gender:MaleDate of Birth:19 November  1941Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 74 years",r_producers
+Conan_O'Brien,"Gender:MaleDate of Birth:18 April  1963 - 13:48hBirth place:BostonCountry:US, United StatesAge:56 years",r_producers
+Kirsten_Vangsness,"Gender:FemaleDate of Birth:7 July  1972Birth place:Santa Monica, CaliforniaCountry:US, United StatesAge:47 years",r_producers
+Sarah_Hyland,"Gender:FemaleDate of Birth:24 November  1990Birth place:New York, New YorkCountry:US, United StatesAge:29 years",r_producers
+Janusz_Zaorski,"Gender:MaleDate of Birth:19 September  1947Birth place:WarsawCountry:PL, PolandAge:72 years",r_producers
+Marie-Anne_Chazel,"Gender:FemaleDate of Birth:19 September  1951 - 17:00hBirth place:GapCountry:FR, FranceAge:68 years",r_producers
+Joseph_Morgan,"Gender:MaleDate of Birth:16 May  1981Birth place:WalesCountry:GB, United KingdomAge:38 years",r_producers
+Abhay_Deol,"Gender:MaleDate of Birth:15 March  1976Birth place:ChandigarhCountry:IN, IndiaAge:44 years",r_producers
+Simon_Curtis,"Gender:MaleDate of Birth:11 March  1960Birth place:London, EnglandCountry:GB, United KingdomAge:60 years",r_producers
+Michael_J._Saul,"Gender:MaleDate of Birth:29 January  1956Birth place:Columbus, OhioCountry:US, United StatesAge:64 years",r_producers
+Kool_Shen,"Gender:MaleDate of Birth:9 February  1966 - 09:17hBirth place:ParisCountry:FR, FranceAge:54 years",r_producers
+Kat_Graham,"Gender:FemaleDate of Birth:5 September  1989Birth place:GenevaCountry:CH, SwitzerlandAge:30 years",r_producers
+Harald_Kloser,"Gender:MaleDate of Birth:9 July  1956Birth place:HardCountry:AT, AustriaAge:63 years",r_producers
+Sophie_Fiennes,"Gender:FemaleDate of Birth:12 February  1967Birth place:IpswichCountry:GB, United KingdomAge:53 years",r_producers
+Vince_Jolivette,"Gender:MaleDate of Birth:11 December  1971Birth place:Hamilton, OhioCountry:US, United StatesAge:48 years",r_producers
+Michel_Magne,"Gender:MaleDate of Birth:20 March  1930 - 20:00hBirth place:LisieuxCountry:FR, FranceAge:† 54 years",r_producers
+Manolo_Cardona,"Gender:MaleDate of Birth:25 April  1977Birth place:PopayanCountry:CO, ColombiaAge:42 years",r_producers
+Tracy_Pollan,"Gender:FemaleDate of Birth:22 June  1960Birth place:New York, New YorkCountry:US, United StatesAge:59 years",r_producers
+Josh_Gad,"Gender:MaleDate of Birth:23 February  1981Birth place:Florida City, FloridaCountry:US, United StatesAge:39 years",r_producers
+Geoff_Stults,"Gender:MaleDate of Birth:15 December  1977Birth place:Detroit, MichiganCountry:US, United StatesAge:42 years",r_producers
+Tyler_Hynes,"Gender:MaleDate of Birth:6 May  1986Birth place:Toronto, OntarioCountry:CA, CanadaAge:33 years",r_producers
+Ken_Olandt,"Gender:MaleDate of Birth:22 April  1958Birth place:Richmond, CaliforniaCountry:US, United StatesAge:61 years",r_producers
+Lynda_Boyd,"Gender:FemaleDate of Birth:28 January  1965Birth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:55 years",r_producers
+BT,"Gender:MaleDate of Birth:4 October  1970Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:49 years",r_producers
+Robert_Pralgo,"Gender:MaleDate of Birth:4 June  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_producers
+Julián_Mateos,"Gender:MaleDate of Birth:15 January  1938Birth place:Robledillo de TrujilloCountry:ES, SpainAge:† 58 years",r_producers
+David_Dencik,"Gender:MaleDate of Birth:31 October  1974Birth place:ŠvédskoCountry:SE, SwedenAge:45 years",r_producers
+Randy_J._Goodwin,"Gender:MaleDate of Birth:24 December  1967Birth place:Omaha, NebraskaCountry:US, United StatesAge:52 years",r_producers
+Stefan_Kurt,"Gender:MaleDate of Birth:22 October  1959Birth place:BernCountry:CH, SwitzerlandAge:60 years",r_producers
+George_Harris,"Gender:MaleDate of Birth:20 October  1949Birth place:GrenadaCountry:IN, IndiaAge:70 years",r_producers
+Ad_Bol,"Gender:MaleDate of Birth:8 December  1970Birth place:RoosendaalCountry:NL, NetherlandsAge:49 years",r_producers
+Bianca_Bree,"Gender:FemaleDate of Birth:17 October  1990Country:XX, Unknown(?)Age:29 years",r_producers
+Clare_Carey,"Gender:FemaleDate of Birth:11 June  1967Birth place:ZimbabweCountry:ZW, ZimbabweAge:52 years",r_producers
+Marissa_Garrison,"Gender:FemaleDate of Birth:18 September  1979Birth place:Islip, New YorkCountry:US, United StatesAge:40 years",r_producers
+Talan_Torriero,"Gender:MaleDate of Birth:2 November  1986Birth place:Orange, CaliforniaCountry:US, United StatesAge:33 years",r_producers
+Brit_Marling,"Gender:FemaleDate of Birth:7 August  1982Birth place:Chicago, IllinoisCountry:US, United StatesAge:37 years",r_producers
+Yuri_Lowenthal,"Gender:MaleDate of Birth:5 March  1971Birth place:Alliance, OhioCountry:US, United StatesAge:49 years",r_producers
+Radim_Hladík_Sr.,"Gender:MaleBirth:*1946Country:CZ, Czech RepublicAge:73 years",r_producers
+Petr_Novotný,"Gender:MaleBirth:*1949Country:CZ, Czech RepublicAge:70 years",r_producers
+Aaron_Sorkin,"Gender:MaleDate of Birth:9 June  1961Birth place:New York, New YorkCountry:US, United StatesAge:58 years",r_producers
+Soundarya_Rajinikanth,"Gender:FemaleDate of Birth:20 September  1984Birth place:ChennaiCountry:IN, IndiaAge:35 years",r_producers
+P._Ramlee,"Gender:MaleDate of Birth:22 March  1929Birth place:George TownCountry:MY, MalaysiaAge:† 44 years",r_producers
+Mehmet_Günsür,"Gender:MaleDate of Birth:8 May  1975Birth place:IstanbulCountry:TR, TurkeyAge:44 years",r_producers
+Scot_Armstrong,"Gender:MaleDate of Birth:22 September  1970Country:US, United StatesAge:49 years",r_producers
+Chris_Henchy,"Gender:MaleDate of Birth:23 March  1964Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_producers
+Tomoyuki_Tanaka,"Gender:MaleDate of Birth:26 April  1910Birth place:KashiwaraCountry:JP, JapanAge:† 86 years",r_producers
+Turhan_Bey,"Gender:MaleDate of Birth:30 March  1922Birth place:ViennaCountry:AT, AustriaAge:† 90 years",r_producers
+Joe_Lo_Truglio,"Gender:MaleDate of Birth:2 December  1970Birth place:New York, New YorkCountry:US, United StatesAge:49 years",r_producers
+Simon_Kinberg,"Gender:MaleDate of Birth:2 August  1973Birth place:London, EnglandCountry:GB, United KingdomAge:46 years",r_producers
+Suzi_Lorraine,"Gender:FemaleDate of Birth:15 February  1978Country:XX, Unknown(?)Age:42 years",r_producers
+Regen_Wilson,"Gender:MaleDate of Birth:24 September  1975Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:44 years",r_producers
+Chad_Hayes,"Gender:MaleDate of Birth:21 April  1961Birth place:Portland, OregonCountry:US, United StatesAge:58 years",r_producers
+Carey_Hayes,"Gender:MaleDate of Birth:21 April  1961Birth place:Portland, OregonCountry:US, United StatesAge:58 years",r_producers
+Nar_Williams,"Date of Birth:3 February  1976Birth place:Cincinnati, OhioCountry:US, United StatesAge:44 years",r_producers
+Darin_Cooper,"Gender:MaleDate of Birth:15 April  1966Birth place:OakleyCountry:US, United StatesAge:53 years",r_producers
+Suki_Kaiser,"Gender:FemaleDate of Birth:2 October  1967Birth place:BangkokCountry:TH, ThailandAge:52 years",r_producers
+Datari_Turner,"Gender:MaleDate of Birth:2 April  1979Birth place:Oakland, CaliforniaCountry:US, United StatesAge:41 years",r_producers
+Rick_Rubin,"Gender:MaleDate of Birth:10 March  1963Birth place:New York, New YorkCountry:US, United StatesAge:57 years",r_producers
+Eugenio_Derbez,"Gender:MaleDate of Birth:2 September  1962Birth place:Mexico CityCountry:MX, MexicoAge:57 years",r_producers
+Fernanda_Andrade,"Gender:FemaleDate of Birth:8 March  1984Birth place:São PauloCountry:BR, BrazilAge:36 years",r_producers
+Chris_Wheeler,"Gender:MaleDate of Birth:18 September  1968Birth place:JohannesburgCountry:ZA, South AfricaAge:† 40 years",r_producers
+Margot_Robbie,"Gender:FemaleDate of Birth:2 July  1990Birth place:Gold Coast, QueenslandCountry:AU, AustraliaAge:29 years",r_producers
+Christian_Fechner,"Gender:MaleDate of Birth:26 July  1944 - 15:00hBirth place:AgenCountry:FR, FranceAge:† 64 years",r_producers
+Alain_Poiré,"Gender:MaleDate of Birth:13 February  1917 - 04:00hBirth place:ParisCountry:FR, FranceAge:† 82 years",r_producers
+Bryan_D._Hopkins,"Gender:MaleDate of Birth:28 January  1976Birth place:Dayton, OhioCountry:US, United StatesAge:44 years",r_producers
+Dustin_Lance_Black,"Gender:MaleDate of Birth:10 June  1974Birth place:Sacramento, CaliforniaCountry:US, United StatesAge:45 years",r_producers
+Deke_Anderson,"Gender:MaleDate of Birth:26 March  1959Birth place:Reno, NevadaCountry:US, United StatesAge:61 years",r_producers
+Jackie_Long,"Gender:MaleDate of Birth:23 October  1981Birth place:Pasadena, CaliforniaCountry:US, United StatesAge:38 years",r_producers
+Steven_Martini,"Gender:MaleDate of Birth:17 June  1975Birth place:New York, New YorkCountry:US, United StatesAge:44 years",r_producers
+Marta_Kauffman,"Gender:FemaleDate of Birth:21 September  1956Country:US, United StatesAge:63 years",r_producers
+Chayan_Sarkar,"Gender:MaleDate of Birth:24 July  1972Birth place:KolkataCountry:IN, IndiaAge:47 years",r_producers
+Sascha_Konietzko,"Gender:MaleDate of Birth:21 June  1961Birth place:HamburgCountry:DE, GermanyAge:58 years",r_producers
+Willy_Rozier,"Gender:MaleDate of Birth:27 June  1901Birth place:TalenceCountry:FR, FranceAge:† 81 years",r_producers
+Hernán_Sáez,"Gender:MaleDate of Birth:14 September  1978Birth place:HaedoCountry:AR, ArgentinaAge:41 years",r_producers
+Holly_Beavon,"Gender:FemaleDate of Birth:22 November  1971Country:US, United StatesAge:48 years",r_producers
+Brian_Baumgartner,"Gender:MaleDate of Birth:29 November  1972Birth place:Atlanta, GeorgiaCountry:US, United StatesAge:47 years",r_producers
+Mindy_Kaling,"Gender:FemaleDate of Birth:24 June  1979 - 04:10hBirth place:Cambridge, MassachusettsCountry:US, United StatesAge:40 years",r_producers
+Ivor_Wood,"Gender:MaleDate of Birth:4 May  1932Birth place:Leeds, EnglandCountry:GB, United KingdomAge:† 72 years",r_producers
+Paul_Lieberstein,"Gender:MaleDate of Birth:22 February  1967Birth place:Westport, ConnecticutCountry:US, United StatesAge:53 years",r_producers
+Oscar_Nuñez,"Gender:MaleDate of Birth:18 November  1958Birth place:KubaCountry:CU, CubaAge:61 years",r_producers
+Ric_Reitz,"Gender:MaleDate of Birth:8 September  1955Birth place:Rochester, New YorkCountry:US, United StatesAge:64 years",r_producers
+Hoot_Gibson,"Gender:MaleDate of Birth:6 August  1892Birth place:Tekamah, NebraskaCountry:US, United StatesAge:† 70 years",r_producers
+Sanny_Van_Heteren,"Gender:FemaleDate of Birth:9 June  1977Birth place:Winsen an der LuheCountry:DE, GermanyAge:42 years",r_producers
+Tom_Schanley,"Gender:MaleDate of Birth:5 May  1961Birth place:Jackson, IowaCountry:US, United StatesAge:58 years",r_producers
+Simon_Barry,"Gender:MaleDate of Birth:25 September  1966Birth place:London, EnglandCountry:GB, United KingdomAge:53 years",r_producers
+John_Campbell-Mac,"Gender:MaleDate of Birth:16 January  1973Birth place:London, EnglandCountry:GB, United KingdomAge:47 years",r_producers
+Daniel_Fikejz,"Gender:MaleBirth:*1954Country:CZ, Czech RepublicAge:65 years",r_producers
+Regis_Philbin,"Gender:MaleDate of Birth:25 August  1931Birth place:New YorkCountry:US, United StatesAge:88 years",r_producers
+Caitriona_Balfe,"Gender:FemaleDate of Birth:4 October  1979Birth place:MonaghanCountry:IE, IrelandAge:40 years",r_producers
+Rafael_Amaya,"Gender:MaleDate of Birth:28 February  1977Birth place:Sonora   MexicoCountry:MX, MexicoAge:43 years",r_producers
+Justine_Priestley,"Gender:FemaleDate of Birth:28 August  1969Birth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:50 years",r_producers
+Jacob_Whitley,"Gender:MaleDate of Birth:26 September  1991Country:US, United StatesAge:28 years",r_producers
+Lo_Bosworth,"Gender:FemaleDate of Birth:29 September  1986Birth place:Laguna Beach, CaliforniaCountry:US, United StatesAge:33 years",r_producers
+Mike_Birbiglia,"Gender:MaleDate of Birth:20 June  1978 - 07:20hBirth place:WorcesterCountry:US, United StatesAge:41 years",r_producers
+Jack_Plotnick,"Gender:MaleDate of Birth:30 October  1968Birth place:Columbus, OhioCountry:US, United StatesAge:51 years",r_producers
+Matthew_Ashford,"Gender:MaleDate of Birth:29 January  1960 - 06:37hBirth place:DavenportCountry:US, United StatesAge:60 years",r_producers
+Igor_Galo,"Gender:MaleDate of Birth:5 December  1948Birth place:CuprijaCountry:RS, SerbiaAge:71 years",r_producers
+Noah_Segan,"Gender:MaleDate of Birth:5 October  1983Birth place:New York, New YorkCountry:US, United StatesAge:36 years",r_producers
+Juliet_Rylance,"Gender:FemaleDate of Birth:26 July  1979Birth place:London, EnglandCountry:GB, United KingdomAge:40 years",r_producers
+Marc_Guggenheim,"Gender:MaleDate of Birth:24 September  1970Birth place:New York, New YorkCountry:US, United StatesAge:49 years",r_producers
+Matt_Winston,"Gender:MaleDate of Birth:3 February  1970Country:US, United StatesAge:50 years",r_producers
+Sean_Michaels,"Gender:MaleDate of Birth:20 February  1958Birth place:New York, New YorkCountry:US, United StatesAge:62 years",r_producers
+Buddy_Dolan,"Gender:MaleDate of Birth:1 July  1964Birth place:StuttgartCountry:DE, GermanyAge:55 years",r_producers
+PSY,"Gender:MaleDate of Birth:31 December  1977Birth place:SeoulCountry:KR, South KoreaAge:42 years",r_producers
+Stuart_Blumberg,"Gender:MaleDate of Birth:19 July  1969Country:XX, Unknown(?)Age:50 years",r_producers
+Matthew_Currie_Holmes,"Gender:MaleDate of Birth:26 May  1974Birth place:North Bay, OntarioCountry:CA, CanadaAge:45 years",r_producers
+Delia_Ephron,"Gender:FemaleDate of Birth:12 July  1944Birth place:New York, New YorkCountry:US, United StatesAge:75 years",r_producers
+Mark_Boal,"Gender:MaleDate of Birth:23 January  1973Birth place:New York, New YorkCountry:US, United StatesAge:47 years",r_producers
+Magnus_Fiennes,"Gender:MaleDate of Birth:21 November  1965Birth place:AnglieCountry:GB, United KingdomAge:54 years",r_producers
+Brad_Leo_Lyon,"Gender:MaleDate of Birth:26 February  1982Birth place:Flint, MichiganCountry:US, United StatesAge:38 years",r_producers
+JB_Smoove,"Gender:MaleDate of Birth:16 December  1964Birth place:Plymouth, North CarolinaCountry:US, United StatesAge:55 years",r_producers
+Masiela_Lusha,"Gender:FemaleDate of Birth:23 October  1985Birth place:Okres TiranëCountry:AL, AlbaniaAge:34 years",r_producers
+Lubomir_Levitski,"Gender:MaleDate of Birth:17 September  1980Birth place:VerkhovynaCountry:UA, UkraineAge:39 years",r_producers
+Jordan_Houston,"Gender:MaleDate of Birth:5 April  1975Birth place:Memphis, TennesseeCountry:US, United StatesAge:45 years",r_producers
+Jeffrey_Katzenberg,"Gender:MaleDate of Birth:21 December  1950Birth place:New York, New YorkCountry:US, United StatesAge:69 years",r_producers
+Abby_Mann,"Gender:MaleDate of Birth:1 December  1927Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 80 years",r_producers
+Dimi_Nakov,"Gender:MaleDate of Birth:22 September  1979Birth place:SofiaCountry:BG, BulgariaAge:40 years",r_producers
+Paul_Henning,"Gender:MaleDate of Birth:16 September  1911Birth place:Independence, MissouriCountry:US, United StatesAge:† 93 years",r_producers
+Robert_Wyler,"Gender:MaleDate of Birth:25 September  1900Birth place:MühlhausenCountry:DE, GermanyAge:† 70 years",r_producers
+Bret_McCormick,"Gender:MaleDate of Birth:29 September  1958Country:US, United StatesAge:61 years",r_producers
+Mackenzie_Gray,"Gender:MaleDate of Birth:22 November  1957Birth place:Toronto, OntarioCountry:CA, CanadaAge:62 years",r_producers
+David_Foster,"Gender:MaleDate of Birth:1 November  1949Birth place:Victoria, British ColumbiaCountry:CA, CanadaAge:70 years",r_producers
+Marcio_Garcia,"Gender:MaleDate of Birth:17 April  1970Birth place:Rio de JaneiroCountry:BR, BrazilAge:49 years",r_producers
+Matthan_Harris,"Gender:MaleDate of Birth:23 September  1986Birth place:Fort Worth, TexasCountry:US, United StatesAge:33 years",r_producers
+Kristyn_Benedyk,"Gender:FemaleDate of Birth:17 September  1980Birth place:Winfield, IllinoisCountry:US, United StatesAge:39 years",r_producers
+Cory_Krueckeberg,"Gender:MaleDate of Birth:15 September  1974Birth place:Fort Wayne, IndianaCountry:US, United StatesAge:45 years",r_producers
+T._J._Shanks,"Gender:MaleDate of Birth:14 November  1974Birth place:Kalamunda, Western AustraliaCountry:AU, AustraliaAge:45 years",r_producers
+Eddie_Velez,"Gender:MaleDate of Birth:4 June  1958Birth place:New York, New YorkCountry:US, United StatesAge:61 years",r_producers
+Lisa_Darr,"Gender:FemaleDate of Birth:21 April  1963Birth place:Chicago, IllinoisCountry:US, United StatesAge:56 years",r_producers
+Rusty_Nelson,"Gender:MaleDate of Birth:4 June  1957Birth place:Abington, PennsylvaniaCountry:US, United StatesAge:62 years",r_producers
+Jerry_Bruckheimer,"Gender:MaleDate of Birth:21 September  1945Birth place:Detroit, MichiganCountry:US, United StatesAge:74 years",r_producers
+Josef_Melen,"Gender:MaleBirth:*1973Country:CZ, Czech RepublicAge:46 years",r_producers
+Julie_Brown,"Gender:FemaleDate of Birth:31 August  1954Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:65 years",r_producers
+Gary_Valentine,"Gender:MaleDate of Birth:22 November  1961Birth place:New York, New YorkCountry:US, United StatesAge:58 years",r_producers
+Ron_Newcomb,"Gender:MaleDate of Birth:29 January  1973Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:47 years",r_producers
+Kiran_Rao,"Gender:FemaleDate of Birth:7 November  1973Birth place:BengaluruCountry:IN, IndiaAge:46 years",r_producers
+Gideon_Emery,"Gender:MaleDate of Birth:12 September  1972Birth place:WindsorCountry:GB, United KingdomAge:47 years",r_producers
+J._Cole,"Gender:MaleDate of Birth:28 January  1985Birth place:FrankfurtCountry:DE, GermanyAge:35 years",r_producers
+Jason_Derulo,"Gender:MaleDate of Birth:21 September  1989Birth place:Miami, FloridaCountry:US, United StatesAge:30 years",r_producers
+Jovial_Bob_Stine,"Gender:MaleDate of Birth:8 October  1943Birth place:Columbus, OhioCountry:US, United StatesAge:76 years",r_producers
+John_Oliver,"Gender:MaleDate of Birth:23 April  1977Birth place:Birmingham, EnglandCountry:GB, United KingdomAge:42 years",r_producers
+Lee_Batchler,"Gender:MaleDate of Birth:22 November  1950Birth place:Jackson, IowaCountry:US, United StatesAge:69 years",r_producers
+Kyösti_Varesvuo,"Gender:MaleDate of Birth:22 November  1932Birth place:KiikoinenCountry:FI, FinlandAge:87 years",r_producers
+Kyle_Saylors,"Gender:MaleDate of Birth:20 June  1973Birth place:Greenville, TexasCountry:US, United StatesAge:46 years",r_producers
+R._F._Rodriguez,"Gender:MaleDate of Birth:6 May  1982Birth place:Sacramento, CaliforniaCountry:US, United StatesAge:37 years",r_producers
+Sheldon_Leonard,"Gender:MaleDate of Birth:22 February  1907Birth place:New York, New YorkCountry:US, United StatesAge:† 89 years",r_producers
+Pentti_Helanne,"Gender:MaleDate of Birth:16 September  1934Birth place:KotkaCountry:FI, FinlandAge:† 75 years",r_producers
+Felix_Solis,"Gender:MaleDate of Birth:17 September  1971Birth place:New York, New YorkCountry:US, United StatesAge:48 years",r_producers
+Bryan_Brown,"Gender:MaleDate of Birth:23 June  1947 - 08:45hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:72 years",r_producers
+Corey_Yuen,"Gender:MaleDate of Birth:6 September  1951Birth place:Hong KongCountry:GB, United KingdomAge:68 years",r_producers
+Arash_T._Riahi,"Gender:MaleDate of Birth:22 August  1972Birth place:MashhadCountry:IR, IranAge:47 years",r_producers
+Jason_Hughes,"Gender:MaleDate of Birth:8 March  1971Birth place:PorthcawlCountry:GB, United KingdomAge:49 years",r_producers
+W._G._Fay,"Gender:MaleDate of Birth:12 November  1872Birth place:DublinCountry:IE, IrelandAge:† 74 years",r_producers
+Gilbert_M._Anderson,"Gender:MaleDate of Birth:21 March  1880Birth place:Little Rock, ArkansasCountry:US, United StatesAge:† 90 years",r_producers
+Johannes_Meyer,"Gender:MaleDate of Birth:28 May  1884Birth place:HolstebroCountry:DK, DenmarkAge:† 88 years",r_producers
+Matty_Kemp,"Gender:MaleDate of Birth:10 September  1907Birth place:New York, New YorkCountry:US, United StatesAge:† 92 years",r_producers
+Martin_Jente,"Gender:MaleDate of Birth:6 January  1909Birth place:GörlitzCountry:DE, GermanyAge:† 87 years",r_producers

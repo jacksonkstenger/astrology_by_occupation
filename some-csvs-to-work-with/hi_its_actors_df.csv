@@ -1,0 +1,1001 @@
+name,info,occupation
+Mel_Gibson,"Gender:MaleDate of Birth:3 January  1956 - 16:45hBirth place:Peekskill, New YorkCountry:US, United StatesAge:64 years",r_actors
+Sharon_Stone,"Gender:FemaleDate of Birth:10 March  1958 - 17:55hBirth place:Meadville, PennsylvaniaCountry:US, United StatesAge:62 years",r_actors
+Bruce_Willis,"Gender:MaleDate of Birth:19 March  1955 - 18:32hBirth place:Idar-ObersteinCountry:DE, GermanyAge:65 years",r_actors
+Julia_Roberts,"Gender:FemaleDate of Birth:28 October  1967 - 00:16hBirth place:Atlanta, GeorgiaCountry:US, United StatesAge:52 years",r_actors
+Brad_Pitt,"Gender:MaleDate of Birth:18 December  1963 - 06:31hBirth place:Shawnee, OklahomaCountry:US, United StatesAge:56 years",r_actors
+Eddie_Murphy,"Gender:MaleDate of Birth:3 April  1961 - 13:30hBirth place:New York, New YorkCountry:US, United StatesAge:59 years",r_actors
+Peter_Jackson,"Gender:MaleDate of Birth:31 October  1961 - 18:45hBirth place:Porirua, WellingtonCountry:NZ, New ZealandAge:58 years",r_actors
+Denzel_Washington,"Gender:MaleDate of Birth:28 December  1954 - 00:09hBirth place:Mount Vernon, New YorkCountry:US, United StatesAge:65 years",r_actors
+Ethan_Hawke,"Gender:MaleDate of Birth:6 November  1970Birth place:Austin, TexasCountry:US, United StatesAge:49 years",r_actors
+Ewan_McGregor,"Gender:MaleDate of Birth:31 March  1971 - 20:10hBirth place:Perth, ScotlandCountry:GB, United KingdomAge:49 years",r_actors
+Liam_Neeson,"Gender:MaleDate of Birth:7 June  1952 - 21:55hBirth place:BallymenaCountry:IE, IrelandAge:67 years",r_actors
+Jessica_Lange,"Gender:FemaleDate of Birth:20 April  1949 - 11:00hBirth place:Cloquet, MinnesotaCountry:US, United StatesAge:70 years",r_actors
+Edward_Norton,"Gender:MaleDate of Birth:18 August  1969 - 14:00hBirth place:Boston, MassachusettsCountry:US, United StatesAge:50 years",r_actors
+Bill_Pullman,"Gender:MaleDate of Birth:17 December  1953Birth place:Hornell, New YorkCountry:US, United StatesAge:66 years",r_actors
+Bill_Paxton,"Gender:MaleDate of Birth:17 May  1955Birth place:Fort Worth, TexasCountry:US, United StatesAge:64 years",r_actors
+Jeremy_Irons,"Gender:MaleDate of Birth:19 September  1948 - 02:00hBirth place:Cowes, EnglandCountry:GB, United KingdomAge:71 years",r_actors
+Maggie_Smith,"Gender:FemaleDate of Birth:28 December  1934Birth place:Ilford, EssexCountry:GB, United KingdomAge:85 years",r_actors
+Nicole_Kidman,"Gender:FemaleDate of Birth:20 June  1967 - 15:15hBirth place:Honolulu, HawaiiCountry:US, United StatesAge:52 years",r_actors
+Penélope_Cruz,"Gender:FemaleDate of Birth:28 April  1974 - 07:00hBirth place:AlcobendasCountry:ES, SpainAge:45 years",r_actors
+Judi_Dench,"Gender:FemaleDate of Birth:9 December  1934 - 19:55hBirth place:York, EnglandCountry:GB, United KingdomAge:85 years",r_actors
+Tommy_Lee_Jones,"Gender:MaleDate of Birth:15 September  1946 - 22:00hBirth place:San Saba, TexasCountry:US, United StatesAge:73 years",r_actors
+Will_Smith,"Gender:MaleDate of Birth:25 September  1968 - 01:46hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:51 years",r_actors
+Kevin_Kline,"Gender:MaleDate of Birth:24 October  1947 - 09:11hBirth place:St. Louis, MissouriCountry:US, United StatesAge:72 years",r_actors
+Cheech_Marin,"Gender:MaleDate of Birth:13 July  1946 - 13:00hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:73 years",r_actors
+Danny_Trejo,"Gender:MaleDate of Birth:16 May  1944Birth place:Echo Park, Los AngelesCountry:US, United StatesAge:75 years",r_actors
+George_Clooney,"Gender:MaleDate of Birth:6 May  1961 - 02:58hBirth place:Lexington, KentuckyCountry:US, United StatesAge:58 years",r_actors
+Andy_Garcia,"Gender:MaleDate of Birth:12 April  1956Birth place:HavanaCountry:CU, CubaAge:63 years",r_actors
+Sylvester_Stallone,"Gender:MaleDate of Birth:6 July  1946 - 19:20hBirth place:New York, New YorkCountry:US, United StatesAge:73 years",r_actors
+Arnold_Schwarzenegger,"Gender:MaleDate of Birth:30 July  1947 - 04:10hBirth place:GrazCountry:AT, AustriaAge:72 years",r_actors
+Jean-Claude_Van_Damme,"Gender:MaleDate of Birth:18 October  1960 - 06:45hBirth place:Sint-Agatha-BerchemCountry:BE, BelgiumAge:59 years",r_actors
+Dolph_Lundgren,"Gender:MaleDate of Birth:3 November  1957Birth place:StockholmCountry:SE, SwedenAge:62 years",r_actors
+Jackie_Chan,"Gender:MaleDate of Birth:7 April  1954 - 09:45hBirth place:Hong KongCountry:HK, Hong KongAge:66 years",r_actors
+Yun-Fat_Chow,"Gender:MaleDate of Birth:18 May  1955Birth place:ostrov LammaCountry:HK, Hong KongAge:64 years",r_actors
+Donnie_Yen,"Gender:MaleDate of Birth:27 July  1963Birth place:GuangzhouCountry:CN, ChinaAge:56 years",r_actors
+William_Baldwin,"Gender:MaleDate of Birth:21 February  1963Birth place:Massapequa, New YorkCountry:US, United StatesAge:57 years",r_actors
+Daniel_Baldwin,"Gender:MaleDate of Birth:5 October  1960Birth place:Massapequa, New YorkCountry:US, United StatesAge:59 years",r_actors
+Clint_Eastwood,"Gender:MaleDate of Birth:31 May  1930 - 17:35hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:89 years",r_actors
+Adam_Baldwin,"Gender:MaleDate of Birth:27 February  1962Birth place:Chicago, IllinoisCountry:US, United StatesAge:58 years",r_actors
+Stephen_Baldwin,"Gender:MaleDate of Birth:12 May  1966Birth place:Massapequa, New YorkCountry:US, United StatesAge:53 years",r_actors
+Christopher_Reeve,"Gender:MaleDate of Birth:25 September  1952 - 03:12hBirth place:New York, New YorkCountry:US, United StatesAge:† 52 years",r_actors
+Keanu_Reeves,"Gender:MaleDate of Birth:2 September  1964 - 05:41hBirth place:BeirutCountry:LB, LebanonAge:55 years",r_actors
+Laurence_Fishburne,"Gender:MaleDate of Birth:30 July  1961Birth place:Augusta, GeorgiaCountry:US, United StatesAge:58 years",r_actors
+Bruce_Campbell,"Gender:MaleDate of Birth:22 June  1958Birth place:Royal Oak, MichiganCountry:US, United StatesAge:61 years",r_actors
+Boris_Karloff,"Gender:MaleDate of Birth:23 November  1887 - 10:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 81 years",r_actors
+Bela_Lugosi,"Gender:MaleDate of Birth:20 October  1882 - 15:30hBirth place:KisszállásCountry:HU, HungaryAge:† 73 years",r_actors
+Harrison_Ford,"Gender:MaleDate of Birth:13 July  1942 - 11:41hBirth place:Chicago Heights, IllinoisCountry:US, United StatesAge:77 years",r_actors
+Jude_Law,"Gender:MaleDate of Birth:29 December  1972 - 06:00hBirth place:London, EnglandCountry:GB, United KingdomAge:47 years",r_actors
+Sam_Neill,"Gender:MaleDate of Birth:14 September  1947Birth place:OmaghCountry:IE, IrelandAge:72 years",r_actors
+Richard_Dreyfuss,"Gender:MaleDate of Birth:29 October  1947 - 18:07hBirth place:New York, New YorkCountry:US, United StatesAge:72 years",r_actors
+Roy_Scheider,"Gender:MaleDate of Birth:10 November  1932Birth place:City of Orange, New JerseyCountry:US, United StatesAge:† 75 years",r_actors
+Sean_Connery,"Gender:MaleDate of Birth:25 August  1930 - 18:05hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:89 years",r_actors
+Meg_Ryan,"Gender:FemaleDate of Birth:19 November  1961 - 10:36hBirth place:Fairfield, ConnecticutCountry:US, United StatesAge:58 years",r_actors
+Orlando_Bloom,"Gender:MaleDate of Birth:13 January  1977 - 09:15hBirth place:Canterbury, EnglandCountry:GB, United KingdomAge:43 years",r_actors
+Cate_Blanchett,"Gender:FemaleDate of Birth:14 May  1969 - 06:40hBirth place:Melbourne, VictoriaCountry:AU, AustraliaAge:50 years",r_actors
+Linda_Hamilton,"Gender:FemaleDate of Birth:26 September  1956Birth place:Salisbury, MarylandCountry:US, United StatesAge:63 years",r_actors
+Pierce_Brosnan,"Gender:MaleDate of Birth:16 May  1953 - 12:05hBirth place:DroghedaCountry:IE, IrelandAge:66 years",r_actors
+Goldie_Hawn,"Gender:FemaleDate of Birth:21 November  1945 - 09:20hBirth place:Washington, District of ColumbiaCountry:US, United StatesAge:74 years",r_actors
+Renée_Zellweger,"Gender:FemaleDate of Birth:25 April  1969 - 14:41hBirth place:Baytown, TexasCountry:US, United StatesAge:50 years",r_actors
+Hugh_Jackman,"Gender:MaleDate of Birth:12 October  1968 - 13:00hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:51 years",r_actors
+William_Atherton,"Gender:MaleDate of Birth:30 July  1947 - 15:43hBirth place:New Haven, ConnecticutCountry:US, United StatesAge:72 years",r_actors
+Tom_Cruise,"Gender:MaleDate of Birth:3 July  1962 - 15:06hBirth place:Syracuse, New YorkCountry:US, United StatesAge:57 years",r_actors
+Ian_McKellen,"Gender:MaleDate of Birth:25 May  1939 - 21:30hBirth place:Burnley, EnglandCountry:GB, United KingdomAge:80 years",r_actors
+François_Truffaut,"Gender:MaleDate of Birth:6 February  1932 - 06:00hBirth place:ParisCountry:FR, FranceAge:† 52 years",r_actors
+Teri_Garr,"Gender:FemaleDate of Birth:11 December  1944 - 09:30hBirth place:Lakewood, OhioCountry:US, United StatesAge:75 years",r_actors
+Dan_Aykroyd,"Gender:MaleDate of Birth:1 July  1952Birth place:Ottawa, OntarioCountry:CA, CanadaAge:67 years",r_actors
+Ned_Beatty,"Gender:MaleDate of Birth:6 July  1937 - 13:00hBirth place:Louisville, KentuckyCountry:US, United StatesAge:82 years",r_actors
+John_Belushi,"Gender:MaleDate of Birth:25 January  1949 - 05:12hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 33 years",r_actors
+Christopher_Lee,"Gender:MaleDate of Birth:27 May  1922 - 14:45hBirth place:London, EnglandCountry:GB, United KingdomAge:† 93 years",r_actors
+Karen_Allen,"Gender:FemaleDate of Birth:5 October  1951 - 10:11hBirth place:Carrollton, IllinoisCountry:US, United StatesAge:68 years",r_actors
+Peter_Coyote,"Gender:MaleDate of Birth:10 October  1941Birth place:New York, New YorkCountry:US, United StatesAge:78 years",r_actors
+Drew_Barrymore,"Gender:FemaleDate of Birth:22 February  1975 - 11:51hBirth place:Culver City, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Whoopi_Goldberg,"Gender:FemaleDate of Birth:13 November  1955 - 12:48hBirth place:New York, New YorkCountry:US, United StatesAge:64 years",r_actors
+Morgan_Freeman,"Gender:MaleDate of Birth:1 June  1937 - 02:00hBirth place:Memphis, TennesseeCountry:US, United StatesAge:82 years",r_actors
+Paul_Newman,"Gender:MaleDate of Birth:26 January  1925 - 06:30hBirth place:Cleveland, OhioCountry:US, United StatesAge:† 83 years",r_actors
+Ben_Affleck,"Gender:MaleDate of Birth:15 August  1972 - 02:53hBirth place:Berkeley, CaliforniaCountry:US, United StatesAge:47 years",r_actors
+Steve_Buscemi,"Gender:MaleDate of Birth:13 December  1957Birth place:New York, New YorkCountry:US, United StatesAge:62 years",r_actors
+Will_Patton,"Gender:MaleDate of Birth:14 June  1954Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:65 years",r_actors
+Liv_Tyler,"Gender:FemaleDate of Birth:1 July  1977 - 06:08hBirth place:Portland, MaineCountry:US, United StatesAge:42 years",r_actors
+Robert_De_Niro,"Gender:MaleDate of Birth:17 August  1943 - 03:00hBirth place:New York, New YorkCountry:US, United StatesAge:76 years",r_actors
+Al_Pacino,"Gender:MaleDate of Birth:25 April  1940 - 11:02hBirth place:New York, New YorkCountry:US, United StatesAge:79 years",r_actors
+Val_Kilmer,"Gender:MaleDate of Birth:31 December  1959 - 07:58hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:60 years",r_actors
+Carrie-Anne_Moss,"Gender:FemaleDate of Birth:21 August  1967 - 16:05hBirth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:52 years",r_actors
+Hugo_Weaving,"Gender:MaleDate of Birth:4 April  1960Birth place:IbadanCountry:NG, NigeriaAge:60 years",r_actors
+Tim_Robbins,"Gender:MaleDate of Birth:16 October  1958 - 02:12hBirth place:West Covina, CaliforniaCountry:US, United StatesAge:61 years",r_actors
+Greta_Scacchi,"Gender:FemaleDate of Birth:18 February  1960 - 11:15hBirth place:MilanCountry:IT, ItalyAge:60 years",r_actors
+Fred_Ward,"Gender:MaleDate of Birth:30 December  1942 - 09:23hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:77 years",r_actors
+Vincent_D'Onofrio,"Gender:MaleDate of Birth:30 June  1959Birth place:New York, New YorkCountry:US, United StatesAge:60 years",r_actors
+Sydney_Pollack,"Gender:MaleDate of Birth:1 July  1934 - 16:30hBirth place:Lafayette, IndianaCountry:US, United StatesAge:† 73 years",r_actors
+Ed_Harris,"Gender:MaleDate of Birth:28 November  1950 - 05:32hBirth place:Englewood Cliffs, New JerseyCountry:US, United StatesAge:69 years",r_actors
+Kurt_Russell,"Gender:MaleDate of Birth:17 March  1951 - 10:42hBirth place:Springfield, MassachusettsCountry:US, United StatesAge:69 years",r_actors
+Russell_Crowe,"Gender:MaleDate of Birth:7 April  1964 - 02:00hBirth place:Wellington, WellingtonCountry:NZ, New ZealandAge:56 years",r_actors
+Nicolas_Cage,"Gender:MaleDate of Birth:7 January  1964 - 05:30hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:56 years",r_actors
+John_Travolta,"Gender:MaleDate of Birth:18 February  1954 - 14:53hBirth place:Englewood Cliffs, New JerseyCountry:US, United StatesAge:66 years",r_actors
+Elisabeth_Shue,"Gender:FemaleDate of Birth:6 October  1963Birth place:Wilmington, DelawareCountry:US, United StatesAge:56 years",r_actors
+Gary_Busey,"Gender:MaleDate of Birth:29 June  1944 - 11:50hBirth place:Baytown, TexasCountry:US, United StatesAge:75 years",r_actors
+Tom_Arnold,"Gender:MaleDate of Birth:6 March  1959 - 00:50hBirth place:Ottumwa, IowaCountry:US, United StatesAge:61 years",r_actors
+Jamie_Lee_Curtis,"Gender:FemaleDate of Birth:22 November  1958 - 08:37hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:61 years",r_actors
+Tony_Curtis,"Gender:MaleDate of Birth:3 June  1925 - 09:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 85 years",r_actors
+John_Cusack,"Gender:MaleDate of Birth:28 June  1966Birth place:Evanston, IllinoisCountry:US, United StatesAge:53 years",r_actors
+John_Malkovich,"Gender:MaleDate of Birth:9 December  1953 - 23:39hBirth place:Christopher, IllinoisCountry:US, United StatesAge:66 years",r_actors
+Cameron_Diaz,"Gender:FemaleDate of Birth:30 August  1972 - 02:53hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:47 years",r_actors
+Jeff_Goldblum,"Gender:MaleDate of Birth:22 October  1952 - 23:00hBirth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:67 years",r_actors
+Anjelica_Huston,"Gender:FemaleDate of Birth:8 July  1951 - 18:29hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:68 years",r_actors
+Jack_Lemmon,"Gender:MaleDate of Birth:8 February  1925 - 14:00hBirth place:Waltham, MassachusettsCountry:US, United StatesAge:† 76 years",r_actors
+Vin_Diesel,"Gender:MaleDate of Birth:18 July  1967 - 14:30hBirth place:New York, New YorkCountry:US, United StatesAge:52 years",r_actors
+Andie_MacDowell,"Gender:FemaleDate of Birth:21 April  1958Birth place:Gaffney, South CarolinaCountry:US, United StatesAge:61 years",r_actors
+Malcolm_McDowell,"Gender:MaleDate of Birth:13 June  1943Birth place:Leeds, YorkshireCountry:GB, United KingdomAge:76 years",r_actors
+Peter_Stormare,"Gender:MaleDate of Birth:27 August  1953Birth place:KumlaCountry:SE, SwedenAge:66 years",r_actors
+Nick_Nolte,"Gender:MaleDate of Birth:8 February  1941 - 10:40hBirth place:Omaha, NebraskaCountry:US, United StatesAge:79 years",r_actors
+Burt_Reynolds,"Gender:MaleDate of Birth:11 February  1936 - 12:10hBirth place:Lansing, MichiganCountry:US, United StatesAge:† 82 years",r_actors
+Susan_Sarandon,"Gender:FemaleDate of Birth:4 October  1946 - 14:25hBirth place:New York, New YorkCountry:US, United StatesAge:73 years",r_actors
+Rod_Steiger,"Gender:MaleDate of Birth:12 April  1925Birth place:Westhampton, New YorkCountry:US, United StatesAge:† 77 years",r_actors
+Patrick_Swayze,"Gender:MaleDate of Birth:18 August  1952 - 08:10hBirth place:Houston, TexasCountry:US, United StatesAge:† 57 years",r_actors
+Julianne_Moore,"Gender:FemaleDate of Birth:3 December  1960 - 17:53hBirth place:Fayetteville, North CarolinaCountry:US, United StatesAge:59 years",r_actors
+Anne_Archer,"Gender:FemaleDate of Birth:24 August  1947 - 01:35hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:72 years",r_actors
+Kevin_Costner,"Gender:MaleDate of Birth:18 January  1955 - 21:40hBirth place:Lynwood, CaliforniaCountry:US, United StatesAge:65 years",r_actors
+Jennifer_Jason_Leigh,"Gender:FemaleDate of Birth:5 February  1962 - 12:33hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:58 years",r_actors
+Chris_Penn,"Gender:MaleDate of Birth:10 October  1965Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 40 years",r_actors
+Michael_Madsen,"Gender:MaleDate of Birth:25 September  1957Birth place:Chicago, IllinoisCountry:US, United StatesAge:62 years",r_actors
+Robert_Downey_Jr.,"Gender:MaleDate of Birth:4 April  1965 - 13:10hBirth place:New York, New YorkCountry:US, United StatesAge:55 years",r_actors
+Kenneth_Branagh,"Gender:MaleDate of Birth:10 December  1960 - 16:50hBirth place:Belfast, Northern IrelandCountry:GB, United KingdomAge:59 years",r_actors
+Frances_McDormand,"Gender:FemaleDate of Birth:23 June  1957Birth place:Chicago, IllinoisCountry:US, United StatesAge:62 years",r_actors
+Christopher_Walken,"Gender:MaleDate of Birth:31 March  1943Birth place:QueensCountry:US, United StatesAge:77 years",r_actors
+Ben_Stiller,"Gender:MaleDate of Birth:30 November  1965 - 17:35hBirth place:New York, New YorkCountry:US, United StatesAge:54 years",r_actors
+Owen_Wilson,"Gender:MaleDate of Birth:18 November  1968Birth place:Dallas, TexasCountry:US, United StatesAge:51 years",r_actors
+Milla_Jovovich,"Gender:FemaleDate of Birth:17 December  1975 - 17:15hBirth place:KievCountry:UA, UkraineAge:44 years",r_actors
+David_Duchovny,"Gender:MaleDate of Birth:7 August  1960Birth place:New YorkCountry:US, United StatesAge:59 years",r_actors
+Christian_Slater,"Gender:MaleDate of Birth:18 August  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_actors
+Jon_Voight,"Gender:MaleDate of Birth:29 December  1938 - 11:50hBirth place:Yonkers, New YorkCountry:US, United StatesAge:81 years",r_actors
+Stellan_Skarsgård,"Gender:MaleDate of Birth:13 June  1951Birth place:GothenburgCountry:SE, SwedenAge:68 years",r_actors
+Natalie_Portman,"Gender:FemaleDate of Birth:9 June  1981 - 15:42hBirth place:JerusalemCountry:IL, IsraelAge:38 years",r_actors
+Wesley_Snipes,"Gender:MaleDate of Birth:31 July  1962Birth place:Orlando, FloridaCountry:US, United StatesAge:57 years",r_actors
+Winona_Ryder,"Gender:FemaleDate of Birth:29 October  1971 - 11:00hBirth place:Rochester, MinnesotaCountry:US, United StatesAge:48 years",r_actors
+Billy_Zane,"Gender:MaleDate of Birth:24 February  1966Birth place:Chicago, IllinoisCountry:US, United StatesAge:54 years",r_actors
+Kristin_Scott_Thomas,"Gender:FemaleDate of Birth:24 May  1960Birth place:Redruth, EnglandCountry:GB, United KingdomAge:59 years",r_actors
+Elijah_Wood,"Gender:MaleDate of Birth:29 January  1981 - 06:46hBirth place:Cedar Rapids, IowaCountry:US, United StatesAge:39 years",r_actors
+Viggo_Mortensen,"Gender:MaleDate of Birth:20 October  1958Birth place:New York, New YorkCountry:US, United StatesAge:61 years",r_actors
+Sean_Astin,"Gender:MaleDate of Birth:25 February  1971 - 18:32hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:49 years",r_actors
+Sean_Bean,"Gender:MaleDate of Birth:17 April  1959Birth place:Sheffield, EnglandCountry:GB, United KingdomAge:60 years",r_actors
+Ian_Holm,"Gender:MaleDate of Birth:12 September  1931 - 02:00hBirth place:Ilford, EnglandCountry:GB, United KingdomAge:88 years",r_actors
+Sigourney_Weaver,"Gender:FemaleDate of Birth:8 October  1949 - 18:15hBirth place:New York, New YorkCountry:US, United StatesAge:70 years",r_actors
+Kate_Winslet,"Gender:FemaleDate of Birth:5 October  1975 - 07:15hBirth place:Reading, EnglandCountry:GB, United KingdomAge:44 years",r_actors
+Chris_O'Donnell,"Gender:MaleDate of Birth:26 June  1970Birth place:Winnetka, IllinoisCountry:US, United StatesAge:49 years",r_actors
+Uma_Thurman,"Gender:FemaleDate of Birth:29 April  1970 - 13:51hBirth place:Boston, MassachusettsCountry:US, United StatesAge:49 years",r_actors
+Alicia_Silverstone,"Gender:FemaleDate of Birth:4 October  1976 - 15:44hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:43 years",r_actors
+Jack_Nicholson,"Gender:MaleDate of Birth:22 April  1937 - 11:00hBirth place:Neptune, New JerseyCountry:US, United StatesAge:82 years",r_actors
+Tony_Perkins,"Gender:MaleDate of Birth:4 April  1932Birth place:New York, New YorkCountry:US, United StatesAge:† 60 years",r_actors
+Michael_Keaton,"Gender:MaleDate of Birth:5 September  1951Birth place:CoraopolisCountry:US, United StatesAge:68 years",r_actors
+Kim_Basinger,"Gender:FemaleDate of Birth:8 December  1953 - 11:04hBirth place:Athens, GeorgiaCountry:US, United StatesAge:66 years",r_actors
+Sissy_Spacek,"Gender:FemaleDate of Birth:25 December  1949 - 00:03hBirth place:Quitman, TexasCountry:US, United StatesAge:70 years",r_actors
+John_Gavin,"Gender:MaleDate of Birth:8 April  1931 - 00:30hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 86 years",r_actors
+Martin_Balsam,"Gender:MaleDate of Birth:4 November  1919 - 14:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 76 years",r_actors
+Janet_Leigh,"Gender:FemaleDate of Birth:6 July  1927 - 14:15hBirth place:Merced Falls, CaliforniaCountry:US, United StatesAge:† 77 years",r_actors
+James_Stewart,"Gender:MaleDate of Birth:20 May  1908 - 00:10hBirth place:Indiana, PennsylvaniaCountry:US, United StatesAge:† 89 years",r_actors
+Kim_Novak,"Gender:FemaleDate of Birth:13 February  1933 - 06:13hBirth place:Chicago Heights, IllinoisCountry:US, United StatesAge:87 years",r_actors
+Orson_Welles,"Gender:MaleDate of Birth:6 May  1915 - 07:00hBirth place:Kenosha, WisconsinCountry:US, United StatesAge:† 70 years",r_actors
+Joseph_Cotten,"Gender:MaleDate of Birth:15 May  1905 - 07:00hBirth place:Petersburg, VirginiaCountry:US, United StatesAge:† 88 years",r_actors
+Ben_Kingsley,"Gender:MaleDate of Birth:31 December  1943Birth place:Scarborough, YorkshireCountry:GB, United KingdomAge:76 years",r_actors
+Ralph_Fiennes,"Gender:MaleDate of Birth:22 December  1962Birth place:Ipswich, EnglandCountry:GB, United KingdomAge:57 years",r_actors
+Robert_Duvall,"Gender:MaleDate of Birth:5 January  1931 - 05:10hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:89 years",r_actors
+Diane_Keaton,"Gender:FemaleDate of Birth:5 January  1946 - 02:49hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:74 years",r_actors
+Bob_Gunton,"Gender:MaleDate of Birth:15 November  1945 - 12:44hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:74 years",r_actors
+William_Sadler,"Gender:MaleDate of Birth:13 April  1950Birth place:Buffalo, New YorkCountry:US, United StatesAge:69 years",r_actors
+Michael_J._Fox,"Gender:MaleDate of Birth:9 June  1961 - 00:15hBirth place:Edmonton, AlbertaCountry:CA, CanadaAge:58 years",r_actors
+Jack_Nance,"Gender:MaleDate of Birth:21 December  1943 - 01:14hBirth place:Boston, MassachusettsCountry:US, United StatesAge:† 53 years",r_actors
+Anthony_Hopkins,"Gender:MaleDate of Birth:31 December  1937 - 09:15hBirth place:Port Talbot, WalesCountry:GB, United KingdomAge:82 years",r_actors
+John_Hurt,"Gender:MaleDate of Birth:22 January  1940 - 17:30hBirth place:Shirebrook, EnglandCountry:GB, United KingdomAge:80 years",r_actors
+Anne_Bancroft,"Gender:FemaleDate of Birth:17 September  1931 - 11:50hBirth place:Bronxdale, New YorkCountry:US, United StatesAge:† 73 years",r_actors
+Kyle_MacLachlan,"Gender:MaleDate of Birth:22 February  1959 - 15:04hBirth place:Yakima, WashingtonCountry:US, United StatesAge:61 years",r_actors
+Virginia_Madsen,"Gender:FemaleDate of Birth:11 September  1961 - 12:00hBirth place:Chicago, IllinoisCountry:US, United StatesAge:58 years",r_actors
+Isabella_Rossellini,"Gender:FemaleDate of Birth:18 June  1952 - 18:07hBirth place:RomeCountry:IT, ItalyAge:67 years",r_actors
+Dennis_Hopper,"Gender:MaleDate of Birth:17 May  1936 - 20:45hBirth place:Dodge City, KansasCountry:US, United StatesAge:† 74 years",r_actors
+Laura_Dern,"Gender:FemaleDate of Birth:10 February  1967 - 07:48hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:53 years",r_actors
+Dean_Stockwell,"Gender:MaleDate of Birth:5 March  1936 - 21:42hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:84 years",r_actors
+Willem_Dafoe,"Gender:MaleDate of Birth:22 July  1955 - 19:30hBirth place:Appleton, WisconsinCountry:US, United StatesAge:64 years",r_actors
+Diane_Ladd,"Gender:FemaleDate of Birth:29 November  1935 - 02:10hBirth place:Meridian, MississippiCountry:US, United StatesAge:84 years",r_actors
+Harry_Dean_Stanton,"Gender:MaleDate of Birth:14 July  1926 - 13:30hBirth place:West Irvine, KentuckyCountry:US, United StatesAge:† 91 years",r_actors
+Patricia_Arquette,"Gender:FemaleDate of Birth:8 April  1968 - 11:55hBirth place:Chicago, IllinoisCountry:US, United StatesAge:52 years",r_actors
+Balthazar_Getty,"Gender:MaleDate of Birth:22 January  1975 - 15:40hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Robert_Blake,"Gender:MaleDate of Birth:18 September  1933 - 08:30hBirth place:Nutley, New JerseyCountry:US, United StatesAge:86 years",r_actors
+Richard_Pryor,"Gender:MaleDate of Birth:1 December  1940 - 13:02hBirth place:Peoria Heights, IllinoisCountry:US, United StatesAge:† 65 years",r_actors
+Giovanni_Ribisi,"Gender:MaleDate of Birth:17 December  1974 - 20:15hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Naomi_Watts,"Gender:FemaleDate of Birth:28 September  1968 - 11:00hBirth place:Shoreham-by-Sea, EnglandCountry:GB, United KingdomAge:51 years",r_actors
+Charles_Dance,"Gender:MaleDate of Birth:10 October  1946Birth place:Redditch, EnglandCountry:GB, United KingdomAge:73 years",r_actors
+Lance_Henriksen,"Gender:MaleDate of Birth:5 May  1940Birth place:New York, New YorkCountry:US, United StatesAge:79 years",r_actors
+Gwyneth_Paltrow,"Gender:FemaleDate of Birth:27 September  1972 - 17:25hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:47 years",r_actors
+Kevin_Spacey,"Gender:MaleDate of Birth:26 July  1959Birth place:South OrangeCountry:US, United StatesAge:60 years",r_actors
+Michael_Douglas,"Gender:MaleDate of Birth:25 September  1944 - 10:30hBirth place:New Brunswick, New JerseyCountry:US, United StatesAge:75 years",r_actors
+Sean_Penn,"Gender:MaleDate of Birth:17 August  1960 - 15:17hBirth place:Burbank, CaliforniaCountry:US, United StatesAge:59 years",r_actors
+Helena_Bonham_Carter,"Gender:FemaleDate of Birth:26 May  1966Birth place:London, EnglandCountry:GB, United KingdomAge:53 years",r_actors
+Meat_Loaf,"Gender:MaleDate of Birth:27 September  1947 - 16:23hBirth place:Dallas, TexasCountry:US, United StatesAge:72 years",r_actors
+Jodie_Foster,"Gender:FemaleDate of Birth:19 November  1962 - 08:14hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:57 years",r_actors
+Kristen_Stewart,"Gender:FemaleDate of Birth:9 April  1990 - 09:21hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:29 years",r_actors
+Forest_Whitaker,"Gender:MaleDate of Birth:15 July  1961 - 10:30hBirth place:Longview, TexasCountry:US, United StatesAge:58 years",r_actors
+Jared_Leto,"Gender:MaleDate of Birth:26 December  1971 - 00:00hBirth place:Bossier City, LouisianaCountry:US, United StatesAge:48 years",r_actors
+Keith_Carradine,"Gender:MaleDate of Birth:8 August  1949 - 00:47hBirth place:Modesto, CaliforniaCountry:US, United StatesAge:70 years",r_actors
+Albert_Finney,"Gender:MaleDate of Birth:9 May  1936Birth place:Pendleton, EnglandCountry:GB, United KingdomAge:† 82 years",r_actors
+Harvey_Keitel,"Gender:MaleDate of Birth:13 May  1939Birth place:New York, New YorkCountry:US, United StatesAge:80 years",r_actors
+Tom_Skerritt,"Gender:MaleDate of Birth:25 August  1933 - 06:56hBirth place:Detroit, MichiganCountry:US, United StatesAge:86 years",r_actors
+Rutger_Hauer,"Gender:MaleDate of Birth:23 January  1944 - 18:18hBirth place:BreukelenCountry:NL, NetherlandsAge:† 75 years",r_actors
+Sean_Young,"Gender:FemaleDate of Birth:20 November  1959 - 10:46hBirth place:Louisville, KentuckyCountry:US, United StatesAge:60 years",r_actors
+Daryl_Hannah,"Gender:FemaleDate of Birth:3 December  1960 - 15:30hBirth place:Chicago Heights, IllinoisCountry:US, United StatesAge:59 years",r_actors
+Edward_James_Olmos,"Gender:MaleDate of Birth:24 February  1947 - 01:05hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:73 years",r_actors
+Tim_Curry,"Gender:MaleDate of Birth:19 April  1946 - 12:00hBirth place:Grappenhall, Warrington, EnglandCountry:GB, United KingdomAge:73 years",r_actors
+Kate_Capshaw,"Gender:FemaleDate of Birth:3 November  1953 - 22:00hBirth place:Fort Worth, TexasCountry:US, United StatesAge:66 years",r_actors
+Geena_Davis,"Gender:FemaleDate of Birth:21 January  1956 - 00:06hBirth place:Wareham, MassachusettsCountry:US, United StatesAge:64 years",r_actors
+Gérard_Depardieu,"Gender:MaleDate of Birth:27 December  1948 - 08:00hBirth place:ChâteaurouxCountry:FR, FranceAge:71 years",r_actors
+Tchéky_Karyo,"Gender:MaleDate of Birth:4 October  1953 - 20:45hBirth place:IstanbulCountry:TR, TurkeyAge:66 years",r_actors
+Frank_Langella,"Gender:MaleDate of Birth:1 January  1938 - 09:26hBirth place:Bayonne, New JerseyCountry:US, United StatesAge:82 years",r_actors
+Jeff_Bridges,"Gender:MaleDate of Birth:4 December  1949 - 23:58hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:70 years",r_actors
+Ryan_Phillippe,"Gender:MaleDate of Birth:10 September  1974 - 17:18hBirth place:New Castle, DelawareCountry:US, United StatesAge:45 years",r_actors
+Demi_Moore,"Gender:FemaleDate of Birth:11 November  1962 - 14:16hBirth place:Roswell, New MexicoCountry:US, United StatesAge:57 years",r_actors
+Jim_Caviezel,"Gender:MaleDate of Birth:26 September  1968 - 11:14hBirth place:Mount Vernon, WashingtonCountry:US, United StatesAge:51 years",r_actors
+Joaquin_Phoenix,"Gender:MaleDate of Birth:28 October  1974Birth place:San JuanCountry:US, United StatesAge:45 years",r_actors
+Connie_Nielsen,"Gender:FemaleDate of Birth:3 July  1965Birth place:EllingCountry:DK, DenmarkAge:54 years",r_actors
+Oliver_Reed,"Gender:MaleDate of Birth:13 February  1938 - 01:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 61 years",r_actors
+Richard_Harris,"Gender:MaleDate of Birth:1 October  1930 - 11:20hBirth place:LimerickCountry:IE, IrelandAge:† 72 years",r_actors
+Derek_Jacobi,"Gender:MaleDate of Birth:22 October  1938 - 04:00hBirth place:London, EnglandCountry:GB, United KingdomAge:81 years",r_actors
+Gary_Oldman,"Gender:MaleDate of Birth:21 March  1958 - 10:56hBirth place:London, EnglandCountry:GB, United KingdomAge:62 years",r_actors
+Ray_Liotta,"Gender:MaleDate of Birth:18 December  1954 - 06:07hBirth place:Newark, New JerseyCountry:US, United StatesAge:65 years",r_actors
+Josh_Hartnett,"Gender:MaleDate of Birth:21 July  1978Birth place:San Francisco, CaliforniaCountry:US, United StatesAge:41 years",r_actors
+Eric_Bana,"Gender:MaleDate of Birth:9 August  1968Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:51 years",r_actors
+Sam_Shepard,"Gender:MaleDate of Birth:5 November  1943 - 15:45hBirth place:Fort Sheridan, IllinoisCountry:US, United StatesAge:† 73 years",r_actors
+Ewen_Bremner,"Gender:MaleDate of Birth:11 December  1970 - 19:34hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:49 years",r_actors
+William_Fichtner,"Gender:MaleDate of Birth:27 November  1956 - 21:20hBirth place:East Meadow, New YorkCountry:US, United StatesAge:63 years",r_actors
+Jim_Carrey,"Gender:MaleDate of Birth:17 January  1962 - 02:30hBirth place:Newmarket, OntarioCountry:CA, CanadaAge:58 years",r_actors
+David_Morse,"Gender:MaleDate of Birth:11 October  1953 - 22:38hBirth place:Beverly, MassachusettsCountry:US, United StatesAge:66 years",r_actors
+Greg_Kinnear,"Gender:MaleDate of Birth:17 June  1963 - 15:21hBirth place:Logansport, IndianaCountry:US, United StatesAge:56 years",r_actors
+Kathy_Bates,"Gender:FemaleDate of Birth:28 June  1948 - 11:12hBirth place:Memphis, TennesseeCountry:US, United StatesAge:71 years",r_actors
+Jennifer_Connelly,"Gender:FemaleDate of Birth:12 December  1970Birth place:New York, New YorkCountry:US, United StatesAge:49 years",r_actors
+Rene_Russo,"Gender:FemaleDate of Birth:17 February  1954Birth place:Burbank, CaliforniaCountry:US, United StatesAge:66 years",r_actors
+Tom_Hanks,"Gender:MaleDate of Birth:9 July  1956 - 11:17hBirth place:Concord, CaliforniaCountry:US, United StatesAge:63 years",r_actors
+Johnny_Depp,"Gender:MaleDate of Birth:9 June  1963 - 08:44hBirth place:Owensboro, KentuckyCountry:US, United StatesAge:56 years",r_actors
+Hugh_Grant,"Gender:MaleDate of Birth:9 September  1960Birth place:London, EnglandCountry:GB, United KingdomAge:59 years",r_actors
+Kevin_Bacon,"Gender:MaleDate of Birth:8 July  1958Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:61 years",r_actors
+Matthew_McConaughey,"Gender:MaleDate of Birth:4 November  1969 - 19:34hBirth place:Uvalde, TexasCountry:US, United StatesAge:50 years",r_actors
+Michael_Clarke_Duncan,"Gender:MaleDate of Birth:10 December  1957Birth place:Chicago, IllinoisCountry:US, United StatesAge:† 54 years",r_actors
+Matt_Damon,"Gender:MaleDate of Birth:8 October  1970 - 15:22hBirth place:Boston, MassachusettsCountry:US, United StatesAge:49 years",r_actors
+Charlize_Theron,"Gender:FemaleDate of Birth:7 August  1975 - 08:23hBirth place:BenoniCountry:ZA, South AfricaAge:44 years",r_actors
+Linda_Blair,"Gender:FemaleDate of Birth:22 January  1959 - 11:15hBirth place:St. Louis, MissouriCountry:US, United StatesAge:61 years",r_actors
+Peter_Cushing,"Gender:MaleDate of Birth:26 May  1913 - 07:00hBirth place:Kenley, EnglandCountry:GB, United KingdomAge:† 81 years",r_actors
+Woody_Allen,"Gender:MaleDate of Birth:1 December  1935 - 22:55hBirth place:New York, New YorkCountry:US, United StatesAge:84 years",r_actors
+Don_Ameche,"Gender:MaleDate of Birth:31 May  1908 - 19:00hBirth place:Kenosha, WisconsinCountry:US, United StatesAge:† 85 years",r_actors
+Rowan_Atkinson,"Gender:MaleDate of Birth:6 January  1955Birth place:Consett, EnglandCountry:GB, United KingdomAge:65 years",r_actors
+Alec_Baldwin,"Gender:MaleDate of Birth:3 April  1958Birth place:Massapequa, New YorkCountry:US, United StatesAge:62 years",r_actors
+Christian_Bale,"Gender:MaleDate of Birth:30 January  1974Birth place:Haverfordwest, PembrokesCountry:GB, United KingdomAge:46 years",r_actors
+Antonio_Banderas,"Gender:MaleDate of Birth:10 August  1960 - 21:00hBirth place:MálagaCountry:ES, SpainAge:59 years",r_actors
+Robert_Beltran,"Gender:MaleDate of Birth:19 November  1953 - 23:26hBirth place:Bakersfield, CaliforniaCountry:US, United StatesAge:66 years",r_actors
+Dirk_Benedict,"Gender:MaleDate of Birth:1 March  1945 - 08:47hBirth place:Helena, MontanaCountry:US, United StatesAge:75 years",r_actors
+Bruce_Boxleitner,"Gender:MaleDate of Birth:12 May  1950 - 04:42hBirth place:Elgin, IllinoisCountry:US, United StatesAge:69 years",r_actors
+Stephen_Boyd,"Gender:MaleDate of Birth:4 July  1931 - 15:30hBirth place:WhitehouseCountry:IE, IrelandAge:† 45 years",r_actors
+Marlon_Brando,"Gender:MaleDate of Birth:3 April  1924 - 23:00hBirth place:Omaha, NebraskaCountry:US, United StatesAge:† 80 years",r_actors
+Beau_Bridges,"Gender:MaleDate of Birth:9 December  1941 - 03:56hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:78 years",r_actors
+Lloyd_Bridges,"Gender:MaleDate of Birth:15 January  1913 - 10:45hBirth place:San Leandro, CaliforniaCountry:US, United StatesAge:† 85 years",r_actors
+Josh_Brolin,"Gender:MaleDate of Birth:12 February  1968 - 10:22hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:52 years",r_actors
+Charles_Bronson,"Gender:MaleDate of Birth:3 November  1921 - 11:00hBirth place:Ehrenfeld, PennsylvaniaCountry:US, United StatesAge:† 81 years",r_actors
+Albert_Brooks,"Gender:MaleDate of Birth:22 July  1947 - 03:00hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:72 years",r_actors
+Yul_Brynner,"Gender:MaleDate of Birth:11 July  1920 - 06:15hBirth place:VladivostokCountry:RU, RussiaAge:† 65 years",r_actors
+Gabriel_Byrne,"Gender:MaleDate of Birth:12 May  1950 - 03:00hBirth place:DublinCountry:IE, IrelandAge:69 years",r_actors
+James_Caan,"Gender:MaleDate of Birth:26 March  1940 - 22:31hBirth place:Bronxdale, New YorkCountry:US, United StatesAge:80 years",r_actors
+David_Carradine,"Gender:MaleDate of Birth:8 December  1936 - 12:00hBirth place:Hollywood Beach, CaliforniaCountry:US, United StatesAge:† 72 years",r_actors
+Dana_Carvey,"Gender:MaleDate of Birth:2 June  1955 - 12:45hBirth place:Missoula, MontanaCountry:US, United StatesAge:64 years",r_actors
+Charlie_Chaplin,"Gender:MaleDate of Birth:16 April  1889 - 20:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 88 years",r_actors
+Chevy_Chase,"Gender:MaleDate of Birth:8 October  1943 - 08:19hBirth place:New York, New YorkCountry:US, United StatesAge:76 years",r_actors
+James_Coburn,"Gender:MaleDate of Birth:31 August  1928 - 20:15hBirth place:Laurel, NebraskaCountry:US, United StatesAge:† 74 years",r_actors
+Richard_Crenna,"Gender:MaleDate of Birth:30 November  1926 - 16:14hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 76 years",r_actors
+Billy_Crystal,"Gender:MaleDate of Birth:14 March  1948 - 07:48hBirth place:New York, New YorkCountry:US, United StatesAge:72 years",r_actors
+Macaulay_Culkin,"Gender:MaleDate of Birth:26 August  1980Birth place:New York, New YorkCountry:US, United StatesAge:39 years",r_actors
+Daniel_Day-Lewis,"Gender:MaleDate of Birth:29 April  1957 - 00:47hBirth place:London, EnglandCountry:GB, United KingdomAge:62 years",r_actors
+Benicio_Del_Toro,"Gender:MaleDate of Birth:19 February  1967Birth place:SanturceCountry:US, United StatesAge:53 years",r_actors
+Bruce_Dern,"Gender:MaleDate of Birth:4 June  1936 - 03:11hBirth place:Chicago Heights, IllinoisCountry:US, United StatesAge:83 years",r_actors
+Danny_DeVito,"Gender:MaleDate of Birth:17 November  1944 - 10:20hBirth place:Neptune, New JerseyCountry:US, United StatesAge:75 years",r_actors
+Matt_Dillon,"Gender:MaleDate of Birth:18 February  1964 - 06:05hBirth place:New Rochelle, New YorkCountry:US, United StatesAge:56 years",r_actors
+Peter_Fonda,"Gender:MaleDate of Birth:23 February  1940 - 12:09hBirth place:New York, New YorkCountry:US, United StatesAge:† 79 years",r_actors
+James_Garner,"Gender:MaleDate of Birth:7 April  1928 - 18:00hBirth place:Norman, OklahomaCountry:US, United StatesAge:† 86 years",r_actors
+Richard_Gere,"Gender:MaleDate of Birth:31 August  1949 - 16:36hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:70 years",r_actors
+John_Goodman,"Gender:MaleDate of Birth:20 June  1952Birth place:St. Louis, MissouriCountry:US, United StatesAge:67 years",r_actors
+David_Graf,"Gender:MaleDate of Birth:16 April  1950 - 10:45hBirth place:Lancaster, OhioCountry:US, United StatesAge:† 50 years",r_actors
+Alec_Guinness,"Gender:MaleDate of Birth:2 April  1914 - 05:45hBirth place:London, EnglandCountry:GB, United KingdomAge:† 86 years",r_actors
+Gene_Hackman,"Gender:MaleDate of Birth:30 January  1930 - 07:45hBirth place:San Bernardino, CaliforniaCountry:US, United StatesAge:90 years",r_actors
+Mark_Hamill,"Gender:MaleDate of Birth:25 September  1951 - 14:43hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:68 years",r_actors
+Harry_Hamlin,"Gender:MaleDate of Birth:30 October  1951 - 01:48hBirth place:Pasadena, CaliforniaCountry:US, United StatesAge:68 years",r_actors
+Woody_Harrelson,"Gender:MaleDate of Birth:23 July  1961Birth place:Midland, TexasCountry:US, United StatesAge:58 years",r_actors
+Charlton_Heston,"Gender:MaleDate of Birth:4 October  1923 - 07:55hBirth place:Evanston, IllinoisCountry:US, United StatesAge:† 84 years",r_actors
+Dustin_Hoffman,"Gender:MaleDate of Birth:8 August  1937 - 17:07hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:82 years",r_actors
+Paul_Hogan,"Gender:MaleDate of Birth:8 October  1939 - 09:30hBirth place:Lightning Ridge, New South WalesCountry:AU, AustraliaAge:80 years",r_actors
+Bob_Hoskins,"Gender:MaleDate of Birth:26 October  1942Birth place:Bury St Edmunds, EnglandCountry:GB, United KingdomAge:† 71 years",r_actors
+William_Hurt,"Gender:MaleDate of Birth:20 March  1950Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:70 years",r_actors
+Samuel_L._Jackson,"Gender:MaleDate of Birth:21 December  1948Birth place:Washington, District of ColumbiaCountry:US, United StatesAge:71 years",r_actors
+Don_Johnson,"Gender:MaleDate of Birth:15 December  1949 - 22:30hBirth place:Flat Creek, MissouriCountry:US, United StatesAge:70 years",r_actors
+James_Earl_Jones,"Gender:MaleDate of Birth:17 January  1931 - 06:05hBirth place:Arkabutla, MississippiCountry:US, United StatesAge:89 years",r_actors
+Martin_Landau,"Gender:MaleDate of Birth:20 June  1928 - 00:01hBirth place:New York, New YorkCountry:US, United StatesAge:† 89 years",r_actors
+Matt_LeBlanc,"Gender:MaleDate of Birth:25 July  1967 - 04:18hBirth place:Newton, MassachusettsCountry:US, United StatesAge:52 years",r_actors
+Steve_Martin,"Gender:MaleDate of Birth:14 August  1945 - 05:54hBirth place:Waco, TexasCountry:US, United StatesAge:74 years",r_actors
+Patrick_McGoohan,"Gender:MaleDate of Birth:19 March  1928 - 04:31hBirth place:New York, New YorkCountry:US, United StatesAge:† 80 years",r_actors
+Dudley_Moore,"Gender:MaleDate of Birth:19 April  1935 - 18:30hBirth place:Dagenham, EnglandCountry:GB, United KingdomAge:† 66 years",r_actors
+Bill_Murray,"Gender:MaleDate of Birth:21 September  1950Birth place:WilmetteCountry:US, United StatesAge:69 years",r_actors
+Mike_Myers,"Gender:MaleDate of Birth:25 May  1963 - 12:01hBirth place:Toronto, OntarioCountry:CA, CanadaAge:56 years",r_actors
+Leonard_Nimoy,"Gender:MaleDate of Birth:26 March  1931 - 20:30hBirth place:Boston, MassachusettsCountry:US, United StatesAge:† 83 years",r_actors
+Matthew_Perry,"Gender:MaleDate of Birth:19 August  1969 - 04:47hBirth place:North Adams, MassachusettsCountry:US, United StatesAge:50 years",r_actors
+Joe_Pesci,"Gender:MaleDate of Birth:9 February  1943 - 11:45hBirth place:Newark, New JerseyCountry:US, United StatesAge:77 years",r_actors
+River_Phoenix,"Gender:MaleDate of Birth:23 August  1970 - 12:03hBirth place:Madras, OregonCountry:US, United StatesAge:† 23 years",r_actors
+Christopher_Plummer,"Gender:MaleDate of Birth:13 December  1929Birth place:Toronto, OntarioCountry:CA, CanadaAge:90 years",r_actors
+Sidney_Poitier,"Gender:MaleDate of Birth:20 February  1927 - 21:00hBirth place:Miami Beach, FloridaCountry:US, United StatesAge:93 years",r_actors
+Dennis_Quaid,"Gender:MaleDate of Birth:9 April  1954Birth place:Houston, TexasCountry:US, United StatesAge:65 years",r_actors
+Anthony_Quinn,"Gender:MaleDate of Birth:23 April  1915 - 11:00hBirth place:ChihuahuaCountry:MX, MexicoAge:† 86 years",r_actors
+Robert_Redford,"Gender:MaleDate of Birth:18 August  1936 - 20:02hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:83 years",r_actors
+Judge_Reinhold,"Gender:MaleDate of Birth:21 May  1957 - 17:30hBirth place:Wilmington, MassachusettsCountry:US, United StatesAge:62 years",r_actors
+Jean_Reno,"Gender:MaleDate of Birth:30 July  1948 - 05:00hBirth place:CasablancaCountry:MA, MoroccoAge:71 years",r_actors
+Alan_Rickman,"Gender:MaleDate of Birth:21 February  1946Birth place:London, EnglandCountry:GB, United KingdomAge:† 69 years",r_actors
+Tim_Roth,"Gender:MaleDate of Birth:14 May  1961Birth place:London, EnglandCountry:GB, United KingdomAge:58 years",r_actors
+Mickey_Rourke,"Gender:MaleDate of Birth:16 September  1952 - 23:17hBirth place:Schenectady, New YorkCountry:US, United StatesAge:67 years",r_actors
+David_Schwimmer,"Gender:MaleDate of Birth:2 November  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_actors
+Steven_Seagal,"Gender:MaleDate of Birth:10 April  1952 - 13:54hBirth place:Lansing, MichiganCountry:US, United StatesAge:67 years",r_actors
+George_Segal,"Gender:MaleDate of Birth:13 February  1934 - 04:40hBirth place:Great Neck, New YorkCountry:US, United StatesAge:86 years",r_actors
+Tom_Selleck,"Gender:MaleDate of Birth:29 January  1945 - 08:22hBirth place:Frenchtown Charter Township, MichiganCountry:US, United StatesAge:75 years",r_actors
+Peter_Sellers,"Gender:MaleDate of Birth:8 September  1925 - 06:00hBirth place:Southsea, EnglandCountry:GB, United KingdomAge:† 54 years",r_actors
+William_Shatner,"Gender:MaleDate of Birth:22 March  1931 - 04:00hBirth place:Montreal, QuébecCountry:CA, CanadaAge:89 years",r_actors
+Charlie_Sheen,"Gender:MaleDate of Birth:3 September  1965 - 22:48hBirth place:New York, New YorkCountry:US, United StatesAge:54 years",r_actors
+Martin_Sheen,"Gender:MaleDate of Birth:3 August  1940 - 20:03hBirth place:Dayton, OhioCountry:US, United StatesAge:79 years",r_actors
+Gary_Sinise,"Gender:MaleDate of Birth:17 March  1955Birth place:Blue Island, IllinoisCountry:US, United StatesAge:65 years",r_actors
+Vincent_Spano,"Gender:MaleDate of Birth:18 October  1962 - 08:46hBirth place:New York, New YorkCountry:US, United StatesAge:57 years",r_actors
+Terence_Stamp,"Gender:MaleDate of Birth:22 July  1938 - 11:58hBirth place:London, EnglandCountry:GB, United KingdomAge:81 years",r_actors
+David_Strathairn,"Gender:MaleDate of Birth:26 January  1949 - 02:37hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:71 years",r_actors
+Donald_Sutherland,"Gender:MaleDate of Birth:17 July  1935 - 11:30hBirth place:Saint John, New BrunswickCountry:CA, CanadaAge:84 years",r_actors
+Kiefer_Sutherland,"Gender:MaleDate of Birth:21 December  1966 - 09:00hBirth place:London, EnglandCountry:GB, United KingdomAge:53 years",r_actors
+John_Turturro,"Gender:MaleDate of Birth:28 February  1957Birth place:New York, New YorkCountry:US, United StatesAge:63 years",r_actors
+Max_von_Sydow,"Gender:MaleDate of Birth:10 April  1929Birth place:LundCountry:SE, SwedenAge:† 90 years",r_actors
+John_Wayne,"Gender:MaleDate of Birth:26 May  1907 - 09:56hBirth place:Winterset, IowaCountry:US, United StatesAge:† 72 years",r_actors
+Peter_Weller,"Gender:MaleDate of Birth:24 June  1947 - 04:47hBirth place:Stevens Point, WisconsinCountry:US, United StatesAge:72 years",r_actors
+Robin_Williams,"Gender:MaleDate of Birth:21 July  1951 - 13:34hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 63 years",r_actors
+James_Woods,"Gender:MaleDate of Birth:18 April  1947 - 11:30hBirth place:Vernal, UtahCountry:US, United StatesAge:72 years",r_actors
+Isabelle_Adjani,"Gender:FemaleDate of Birth:27 June  1955 - 01:00hBirth place:ParisCountry:FR, FranceAge:64 years",r_actors
+Jennifer_Aniston,"Gender:FemaleDate of Birth:11 February  1969 - 22:22hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:51 years",r_actors
+Rosanna_Arquette,"Gender:FemaleDate of Birth:10 August  1959 - 16:45hBirth place:New York, New YorkCountry:US, United StatesAge:60 years",r_actors
+Halle_Berry,"Gender:FemaleDate of Birth:14 August  1966 - 23:59hBirth place:Cleveland, OhioCountry:US, United StatesAge:53 years",r_actors
+Lisa_Bonet,"Gender:FemaleDate of Birth:16 November  1967 - 20:51hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:52 years",r_actors
+Sandra_Bullock,"Gender:FemaleDate of Birth:26 July  1964 - 03:15hBirth place:Arlington, VirginiaCountry:US, United StatesAge:55 years",r_actors
+Geraldine_Chaplin,"Gender:FemaleDate of Birth:31 July  1944 - 23:14hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:75 years",r_actors
+Cher,"Gender:FemaleDate of Birth:20 May  1946 - 07:25hBirth place:El Centro, CaliforniaCountry:US, United StatesAge:73 years",r_actors
+Glenn_Close,"Gender:FemaleDate of Birth:19 March  1947 - 14:12hBirth place:Greenwich, ConnecticutCountry:US, United StatesAge:73 years",r_actors
+Courteney_Cox,"Gender:FemaleDate of Birth:15 June  1964 - 17:30hBirth place:Birmingham, AlabamaCountry:US, United StatesAge:55 years",r_actors
+Joan_Cusack,"Gender:FemaleDate of Birth:11 October  1962 - 11:00hBirth place:New York, New YorkCountry:US, United StatesAge:57 years",r_actors
+Rebecca_De_Mornay,"Gender:FemaleDate of Birth:29 August  1959Birth place:Santa Rosa, CaliforniaCountry:US, United StatesAge:60 years",r_actors
+Catherine_Deneuve,"Gender:FemaleDate of Birth:22 October  1943 - 13:35hBirth place:ParisCountry:FR, FranceAge:76 years",r_actors
+Shannen_Doherty,"Gender:FemaleDate of Birth:12 April  1971 - 16:16hBirth place:Memphis, TennesseeCountry:US, United StatesAge:48 years",r_actors
+Faye_Dunaway,"Gender:FemaleDate of Birth:14 January  1941 - 20:15hBirth place:Bascom, FloridaCountry:US, United StatesAge:79 years",r_actors
+Erika_Eleniak,"Gender:FemaleDate of Birth:29 September  1969Birth place:Glendale, CaliforniaCountry:US, United StatesAge:50 years",r_actors
+Sally_Field,"Gender:FemaleDate of Birth:6 November  1946 - 04:23hBirth place:Pasadena, CaliforniaCountry:US, United StatesAge:73 years",r_actors
+Carrie_Fisher,"Gender:FemaleDate of Birth:21 October  1956 - 12:49hBirth place:San Jose, CaliforniaCountry:US, United StatesAge:63 years",r_actors
+Tara_Fitzgerald,"Gender:FemaleDate of Birth:18 September  1967Birth place:London, EnglandCountry:GB, United KingdomAge:52 years",r_actors
+Bridget_Fonda,"Gender:FemaleDate of Birth:27 January  1964 - 03:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:56 years",r_actors
+Jennifer_Grey,"Gender:FemaleDate of Birth:26 March  1960 - 11:30hBirth place:New York, New YorkCountry:US, United StatesAge:60 years",r_actors
+Marcia_Gay_Harden,"Gender:FemaleDate of Birth:14 August  1959 - 02:55hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:60 years",r_actors
+Barbara_Hershey,"Gender:FemaleDate of Birth:5 February  1948 - 10:01hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:72 years",r_actors
+Whitney_Houston,"Gender:FemaleDate of Birth:9 August  1963 - 20:55hBirth place:Newark, New JerseyCountry:US, United StatesAge:† 48 years",r_actors
+Helen_Hunt,"Gender:FemaleDate of Birth:15 June  1963 - 12:55hBirth place:Culver City, CaliforniaCountry:US, United StatesAge:56 years",r_actors
+Elizabeth_Hurley,"Gender:FemaleDate of Birth:10 June  1965 - 06:40hBirth place:Hampshire, EnglandCountry:GB, United KingdomAge:54 years",r_actors
+Angelina_Jolie,"Gender:FemaleDate of Birth:4 June  1975 - 09:09hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:44 years",r_actors
+Nastassja_Kinski,"Gender:FemaleDate of Birth:24 January  1961 - 00:54hBirth place:SeedorfCountry:DE, GermanyAge:59 years",r_actors
+Linda_Kozlowski,"Gender:FemaleDate of Birth:7 January  1958Birth place:Fairfield, ConnecticutCountry:US, United StatesAge:62 years",r_actors
+Lisa_Kudrow,"Gender:FemaleDate of Birth:30 July  1963 - 04:37hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:56 years",r_actors
+Angela_Lansbury,"Gender:FemaleDate of Birth:16 October  1925 - 00:45hBirth place:London, EnglandCountry:GB, United Kingdom",r_actors
+Juliette_Lewis,"Gender:FemaleDate of Birth:21 June  1973 - 04:50hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:46 years",r_actors
+Jennifer_Lopez,"Gender:FemaleDate of Birth:24 July  1969 - 05:49hBirth place:New York, New YorkCountry:US, United StatesAge:50 years",r_actors
+Shirley_MacLaine,"Gender:FemaleDate of Birth:24 April  1934 - 15:57hBirth place:Richmond Beach, VirginiaCountry:US, United StatesAge:85 years",r_actors
+Sophie_Marceau,"Gender:FemaleDate of Birth:17 November  1966 - 02:30hBirth place:ParisCountry:FR, FranceAge:53 years",r_actors
+Kelly_McGillis,"Gender:FemaleDate of Birth:9 July  1957 - 15:47hBirth place:Burbank, CaliforniaCountry:US, United StatesAge:62 years",r_actors
+Bette_Midler,"Gender:FemaleDate of Birth:1 December  1945 - 14:19hBirth place:Honolulu, HawaiiCountry:US, United StatesAge:74 years",r_actors
+Helen_Mirren,"Gender:FemaleDate of Birth:26 July  1945 - 02:00hBirth place:Chiswick, London, EnglandCountry:GB, United KingdomAge:74 years",r_actors
+Paige_O'Hara,"Gender:FemaleDate of Birth:10 May  1956Birth place:Fort Lauderdale, FloridaCountry:US, United StatesAge:63 years",r_actors
+Julia_Ormond,"Gender:FemaleDate of Birth:4 January  1965Birth place:EpsomCountry:GB, United KingdomAge:55 years",r_actors
+Sarah_Jessica_Parker,"Gender:FemaleDate of Birth:25 March  1965 - 09:00hBirth place:Nelsonville, OhioCountry:US, United StatesAge:55 years",r_actors
+Michelle_Pfeiffer,"Gender:FemaleDate of Birth:29 April  1958 - 08:11hBirth place:Santa Ana, CaliforniaCountry:US, United StatesAge:61 years",r_actors
+Christina_Ricci,"Gender:FemaleDate of Birth:12 February  1980 - 18:30hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:40 years",r_actors
+Miranda_Richardson,"Gender:FemaleDate of Birth:3 March  1958Birth place:Southport, EnglandCountry:GB, United KingdomAge:62 years",r_actors
+Molly_Ringwald,"Gender:FemaleDate of Birth:18 February  1968 - 14:07hBirth place:Roseville, CaliforniaCountry:US, United StatesAge:52 years",r_actors
+Jane_Seymour,"Gender:FemaleDate of Birth:15 February  1951Birth place:Hillington, EnglandCountry:GB, United KingdomAge:69 years",r_actors
+Meryl_Streep,"Gender:FemaleDate of Birth:22 June  1949 - 08:05hBirth place:Summit, New JerseyCountry:US, United StatesAge:70 years",r_actors
+Emma_Thompson,"Gender:FemaleDate of Birth:15 April  1959Birth place:LondonCountry:GB, United KingdomAge:60 years",r_actors
+Lea_Thompson,"Gender:FemaleDate of Birth:31 May  1961 - 15:56hBirth place:Rochester, MinnesotaCountry:US, United StatesAge:58 years",r_actors
+Meg_Tilly,"Gender:FemaleDate of Birth:14 February  1960 - 02:03hBirth place:Long Beach, CaliforniaCountry:US, United StatesAge:60 years",r_actors
+Kathleen_Turner,"Gender:FemaleDate of Birth:19 June  1954Birth place:Springfield, MissouriCountry:US, United StatesAge:65 years",r_actors
+Debra_Winger,"Gender:FemaleDate of Birth:16 May  1955 - 17:15hBirth place:Columbus, OhioCountry:US, United StatesAge:64 years",r_actors
+Reese_Witherspoon,"Gender:FemaleDate of Birth:22 March  1976 - 14:00hBirth place:New Orleans, LouisianaCountry:US, United StatesAge:44 years",r_actors
+Catherine_Zeta-Jones,"Gender:FemaleDate of Birth:25 September  1969 - 14:40hBirth place:Swansea, WalesCountry:GB, United KingdomAge:50 years",r_actors
+Alan_Alda,"Gender:MaleDate of Birth:28 January  1936 - 05:07hBirth place:New York, New YorkCountry:US, United StatesAge:84 years",r_actors
+Julie_Andrews,"Gender:FemaleDate of Birth:1 October  1935 - 06:00hBirth place:Walton-on-Thames, EnglandCountry:GB, United KingdomAge:84 years",r_actors
+Fred_Astaire,"Gender:MaleDate of Birth:10 May  1899 - 21:16hBirth place:Omaha, NebraskaCountry:US, United StatesAge:† 88 years",r_actors
+Lauren_Bacall,"Gender:FemaleDate of Birth:16 September  1924 - 02:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 89 years",r_actors
+Fairuza_Balk,"Gender:FemaleDate of Birth:21 May  1974 - 09:30hBirth place:Point Reyes Station, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Brigitte_Bardot,"Gender:FemaleDate of Birth:28 September  1934 - 13:15hBirth place:ParisCountry:FR, FranceAge:85 years",r_actors
+Jean-Marc_Barr,"Gender:MaleDate of Birth:27 September  1960 - 17:05hBirth place:BitburgCountry:DE, GermanyAge:59 years",r_actors
+Jack_Barrymore,"Gender:MaleDate of Birth:14 February  1882 - 00:10hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 60 years",r_actors
+Lionel_Barrymore,"Gender:MaleDate of Birth:12 April  1878 - 19:00hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 76 years",r_actors
+Warren_Beatty,"Gender:MaleDate of Birth:30 March  1937 - 17:30hBirth place:Richmond, VirginiaCountry:US, United StatesAge:83 years",r_actors
+Roberto_Benigni,"Gender:MaleDate of Birth:27 October  1952 - 13:00hBirth place:Castiglion FiorentinoCountry:IT, ItalyAge:67 years",r_actors
+Ingrid_Bergman,"Gender:FemaleDate of Birth:29 August  1915 - 03:30hBirth place:StockholmCountry:SE, SwedenAge:† 67 years",r_actors
+Dirk_Bogarde,"Gender:MaleDate of Birth:28 March  1921 - 08:30hBirth place:Twickenham, EnglandCountry:GB, United KingdomAge:† 78 years",r_actors
+Humphrey_Bogart,"Gender:MaleDate of Birth:25 December  1899 - 13:30hBirth place:New York, New YorkCountry:US, United StatesAge:† 57 years",r_actors
+Charles_Boyer,"Gender:MaleDate of Birth:28 August  1899 - 17:15hBirth place:FigeacCountry:FR, FranceAge:† 78 years",r_actors
+Richard_Burton,"Gender:MaleDate of Birth:10 November  1925 - 15:00hBirth place:Pontrhydyfen, WalesCountry:GB, United KingdomAge:† 58 years",r_actors
+James_Cagney,"Gender:MaleDate of Birth:17 July  1899 - 09:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 86 years",r_actors
+Michael_Caine,"Gender:MaleDate of Birth:14 March  1933 - 10:10hBirth place:London, EnglandCountry:GB, United KingdomAge:87 years",r_actors
+Julie_Christie,"Gender:FemaleDate of Birth:14 April  1941 - 12:00hBirth place:ShillongCountry:IN, IndiaAge:78 years",r_actors
+John_Cleese,"Gender:MaleDate of Birth:27 October  1939 - 03:15hBirth place:Weston-super-Mare, EnglandCountry:GB, United KingdomAge:80 years",r_actors
+Montgomery_Clift,"Gender:MaleDate of Birth:17 October  1920 - 02:30hBirth place:Omaha, NebraskaCountry:US, United StatesAge:† 45 years",r_actors
+Claudette_Colbert,"Gender:FemaleDate of Birth:13 September  1903 - 08:00hBirth place:Saint-MandéCountry:FR, FranceAge:† 92 years",r_actors
+Ronald_Colman,"Gender:MaleDate of Birth:9 February  1891 - 18:00hBirth place:Richmond, EnglandCountry:GB, United KingdomAge:† 67 years",r_actors
+Gary_Cooper,"Gender:MaleDate of Birth:7 May  1901 - 05:45hBirth place:Helena, MontanaCountry:US, United StatesAge:† 60 years",r_actors
+Joan_Crawford,"Gender:FemaleDate of Birth:23 March  1906Birth place:San Antonio, TexasCountry:US, United StatesAge:† 71 years",r_actors
+Bing_Crosby,"Gender:MaleDate of Birth:3 May  1903 - 16:00hBirth place:Tacoma, WashingtonCountry:US, United StatesAge:† 74 years",r_actors
+Bette_Davis,"Gender:FemaleDate of Birth:5 April  1908 - 21:00hBirth place:Andover, MassachusettsCountry:US, United StatesAge:† 81 years",r_actors
+Sammy_Davis_Jr.,"Gender:MaleDate of Birth:8 December  1925 - 13:20hBirth place:New York, New YorkCountry:US, United StatesAge:† 64 years",r_actors
+Doris_Day,"Gender:FemaleDate of Birth:3 April  1922 - 16:30hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 97 years",r_actors
+James_Dean,"Gender:MaleDate of Birth:8 February  1931 - 09:00hBirth place:Marion, IndianaCountry:US, United StatesAge:† 24 years",r_actors
+Olivia_de_Havilland,"Gender:FemaleDate of Birth:1 July  1916 - 10:30hBirth place:TokyoCountry:JP, Japan",r_actors
+Leonardo_DiCaprio,"Gender:MaleDate of Birth:11 November  1974 - 02:47hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Marlene_Dietrich,"Gender:FemaleDate of Birth:27 December  1901 - 21:15hBirth place:BerlinCountry:DE, GermanyAge:† 90 years",r_actors
+Kirk_Douglas,"Gender:MaleDate of Birth:9 December  1916 - 10:15hBirth place:Amsterdam, New YorkCountry:US, United StatesAge:† 103 years",r_actors
+Michael_Dudikoff,"Gender:MaleDate of Birth:8 October  1954 - 12:00hBirth place:Redondo Beach, CaliforniaCountry:US, United StatesAge:65 years",r_actors
+Deanna_Durbin,"Gender:FemaleDate of Birth:4 December  1921 - 14:00hBirth place:Winnipeg Beach, ManitobaCountry:CA, CanadaAge:† 91 years",r_actors
+Nelson_Eddy,"Gender:MaleDate of Birth:29 June  1901 - 21:55hBirth place:Providence, Rhode IslandCountry:US, United StatesAge:† 65 years",r_actors
+Mia_Farrow,"Gender:FemaleDate of Birth:9 February  1945 - 11:27hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:75 years",r_actors
+Alice_Faye,"Gender:FemaleDate of Birth:5 May  1912 - 00:05hBirth place:New York, New YorkCountry:US, United StatesAge:† 86 years",r_actors
+W._C._Fields,"Gender:MaleDate of Birth:29 January  1879 - 16:45hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 67 years",r_actors
+Peter_Finch,"Gender:MaleDate of Birth:28 September  1916 - 14:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 60 years",r_actors
+Errol_Flynn,"Gender:MaleDate of Birth:20 June  1909 - 02:25hBirth place:Hobart, TasmaniaCountry:AU, AustraliaAge:† 50 years",r_actors
+Henry_Fonda,"Gender:MaleDate of Birth:16 May  1905 - 14:00hBirth place:Grand Island, NebraskaCountry:US, United StatesAge:† 77 years",r_actors
+Jane_Fonda,"Gender:FemaleDate of Birth:21 December  1937 - 09:14hBirth place:New York, New YorkCountry:US, United StatesAge:82 years",r_actors
+Joan_Fontaine,"Gender:FemaleDate of Birth:22 October  1917 - 06:00hBirth place:TokyoCountry:JP, JapanAge:† 96 years",r_actors
+Glenn_Ford,"Gender:MaleDate of Birth:1 May  1916 - 12:00hBirth place:Sainte-Christine, QuébecCountry:CA, CanadaAge:† 90 years",r_actors
+Peter_Falk,"Gender:MaleDate of Birth:16 September  1927Birth place:New York, New YorkCountry:US, United StatesAge:† 83 years",r_actors
+Clark_Gable,"Gender:MaleDate of Birth:1 February  1901 - 05:30hBirth place:Cadiz, OhioCountry:US, United StatesAge:† 59 years",r_actors
+Greta_Garbo,"Gender:FemaleDate of Birth:18 September  1905 - 19:30hBirth place:StockholmCountry:SE, SwedenAge:† 84 years",r_actors
+Ava_Gardner,"Gender:FemaleDate of Birth:24 December  1922 - 19:10hBirth place:Boon Hill, North CarolinaCountry:US, United StatesAge:† 67 years",r_actors
+John_Garfield,"Gender:MaleDate of Birth:4 March  1913 - 19:30hBirth place:New York, New YorkCountry:US, United StatesAge:† 39 years",r_actors
+Judy_Garland,"Gender:FemaleDate of Birth:10 June  1922 - 06:00hBirth place:Grand Rapids, MinnesotaCountry:US, United StatesAge:† 47 years",r_actors
+Lillian_Gish,"Gender:FemaleDate of Birth:14 October  1896 - 03:30hBirth place:Springfield, OhioCountry:US, United StatesAge:† 96 years",r_actors
+Betty_Grable,"Gender:FemaleDate of Birth:18 December  1916 - 21:40hBirth place:St. Louis, MissouriCountry:US, United StatesAge:† 56 years",r_actors
+Cary_Grant,"Gender:MaleDate of Birth:18 January  1904 - 01:07hBirth place:Bristol, EnglandCountry:GB, United KingdomAge:† 82 years",r_actors
+Melanie_Griffith,"Gender:FemaleDate of Birth:9 August  1957 - 23:49hBirth place:New York, New YorkCountry:US, United StatesAge:62 years",r_actors
+John_Hannah,"Gender:MaleDate of Birth:23 April  1962 - 14:30hBirth place:East KilbrideCountry:GB, United KingdomAge:57 years",r_actors
+Jean_Harlow,"Gender:FemaleDate of Birth:3 March  1911 - 19:40hBirth place:Kansas City, MissouriCountry:US, United StatesAge:† 26 years",r_actors
+Rex_Harrison,"Gender:MaleDate of Birth:5 March  1908 - 05:00hBirth place:Huyton, EnglandCountry:GB, United KingdomAge:† 82 years",r_actors
+David_Hasselhoff,"Gender:MaleDate of Birth:17 July  1952 - 06:20hBirth place:Baltimore Corner, MarylandCountry:US, United StatesAge:67 years",r_actors
+Teri_Hatcher,"Gender:FemaleDate of Birth:8 December  1964 - 21:11hBirth place:Palo Alto, CaliforniaCountry:US, United StatesAge:55 years",r_actors
+Helen_Hayes,"Gender:FemaleDate of Birth:10 October  1900 - 03:25hBirth place:Washington, District of ColumbiaCountry:US, United StatesAge:† 92 years",r_actors
+Susan_Hayward,"Gender:FemaleDate of Birth:30 June  1917 - 16:01hBirth place:New York, New YorkCountry:US, United StatesAge:† 57 years",r_actors
+Rita_Hayworth,"Gender:FemaleDate of Birth:17 October  1918 - 19:22hBirth place:New York, New YorkCountry:US, United StatesAge:† 68 years",r_actors
+Audrey_Hepburn,"Gender:FemaleDate of Birth:4 May  1929 - 03:00hBirth place:IxellesCountry:BE, BelgiumAge:† 63 years",r_actors
+Katharine_Hepburn,"Gender:FemaleDate of Birth:12 May  1907 - 17:47hBirth place:Hartford, ConnecticutCountry:US, United StatesAge:† 96 years",r_actors
+William_Holden,"Gender:MaleDate of Birth:17 April  1918 - 17:00hBirth place:O'Fallon, IllinoisCountry:US, United StatesAge:† 63 years",r_actors
+Bob_Hope,"Gender:MaleDate of Birth:29 May  1903 - 15:36hBirth place:London, EnglandCountry:GB, United KingdomAge:† 100 years",r_actors
+Rock_Hudson,"Gender:MaleDate of Birth:17 November  1925 - 02:15hBirth place:Winnetka, IllinoisCountry:US, United StatesAge:† 59 years",r_actors
+Al_Jolson,"Gender:MaleDate of Birth:7 June  1886 - 12:00hBirth place:SeredžiusCountry:LT, LithuaniaAge:† 64 years",r_actors
+Jennifer_Jones,"Gender:FemaleDate of Birth:2 March  1919 - 17:10hBirth place:Tulsa, OklahomaCountry:US, United StatesAge:† 90 years",r_actors
+Ashley_Judd,"Gender:FemaleDate of Birth:19 April  1968 - 13:12hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:51 years",r_actors
+Danny_Kaye,"Gender:MaleDate of Birth:18 January  1911 - 12:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 76 years",r_actors
+Buster_Keaton,"Gender:MaleDate of Birth:4 October  1895 - 03:00hBirth place:Lawrence, KansasCountry:US, United StatesAge:† 70 years",r_actors
+Ruby_Keeler,"Gender:FemaleDate of Birth:25 August  1904 - 04:00hBirth place:Halifax, Nova ScotiaCountry:CA, CanadaAge:† 88 years",r_actors
+Gene_Kelly,"Gender:MaleDate of Birth:23 August  1912 - 07:00hBirth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:† 83 years",r_actors
+Grace_Kelly,"Gender:FemaleDate of Birth:12 November  1929 - 05:31hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 52 years",r_actors
+Deborah_Kerr,"Gender:FemaleDate of Birth:30 September  1921 - 07:40hBirth place:Helensburgh, ScotlandCountry:GB, United KingdomAge:† 86 years",r_actors
+Alan_Ladd,"Gender:MaleDate of Birth:3 September  1913 - 08:15hBirth place:Hot Springs, ArkansasCountry:US, United StatesAge:† 50 years",r_actors
+Hedy_Kiesler,"Gender:FemaleDate of Birth:9 November  1914 - 19:30hBirth place:ViennaCountry:AT, AustriaAge:† 85 years",r_actors
+Burt_Lancaster,"Gender:MaleDate of Birth:2 November  1913 - 09:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 80 years",r_actors
+Charles_Laughton,"Gender:MaleDate of Birth:1 July  1899 - 06:00hBirth place:Scarborough, EnglandCountry:GB, United KingdomAge:† 63 years",r_actors
+Bruce_Lee,"Gender:MaleDate of Birth:27 November  1940 - 07:12hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 32 years",r_actors
+Vivien_Leigh,"Gender:FemaleDate of Birth:5 November  1913 - 17:16hBirth place:DarjeelingCountry:IN, IndiaAge:† 53 years",r_actors
+Jerry_Lewis,"Gender:MaleDate of Birth:16 March  1926 - 12:15hBirth place:Newark, New JerseyCountry:US, United StatesAge:94 years",r_actors
+Jet_Li,"Gender:MaleDate of Birth:26 April  1963Birth place:BeijingCountry:CN, ChinaAge:56 years",r_actors
+Carole_Lombard,"Gender:FemaleDate of Birth:6 October  1908 - 15:30hBirth place:Fort Wayne, IndianaCountry:US, United StatesAge:† 33 years",r_actors
+Sophia_Loren,"Gender:FemaleDate of Birth:20 September  1934 - 14:10hBirth place:RomeCountry:IT, ItalyAge:85 years",r_actors
+Myrna_Loy,"Gender:FemaleDate of Birth:2 August  1905 - 21:00hBirth place:Radersburg, MontanaCountry:US, United StatesAge:† 88 years",r_actors
+Ida_Lupino,"Gender:FemaleDate of Birth:4 February  1918 - 23:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 77 years",r_actors
+Jeanette_MacDonald,"Gender:FemaleDate of Birth:18 June  1901 - 06:58hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 63 years",r_actors
+Fredric_March,"Gender:MaleDate of Birth:31 August  1897 - 08:00hBirth place:Racine, WisconsinCountry:US, United StatesAge:† 77 years",r_actors
+Marcello_Mastroianni,"Gender:MaleDate of Birth:26 September  1924 - 12:15hBirth place:Fontana LiriCountry:IT, ItalyAge:† 72 years",r_actors
+Victor_Mature,"Gender:MaleDate of Birth:29 January  1913 - 18:00hBirth place:Louisville, KentuckyCountry:US, United StatesAge:† 86 years",r_actors
+Paul_Mazursky,"Gender:MaleDate of Birth:25 April  1930 - 00:10hBirth place:New York, New YorkCountry:US, United StatesAge:† 84 years",r_actors
+Joel_McCrea,"Gender:MaleDate of Birth:5 November  1905 - 07:00hBirth place:South Pasadena, CaliforniaCountry:US, United StatesAge:† 84 years",r_actors
+Steve_McQueen,"Gender:MaleDate of Birth:24 March  1930 - 12:15hBirth place:Indianapolis, IndianaCountry:US, United StatesAge:† 50 years",r_actors
+Toshirô_Mifune,"Gender:MaleDate of Birth:1 April  1920Birth place:QingdaoCountry:CN, ChinaAge:† 77 years",r_actors
+Hayley_Mills,"Gender:FemaleDate of Birth:18 April  1946 - 23:40hBirth place:London, EnglandCountry:GB, United KingdomAge:73 years",r_actors
+Liza_Minnelli,"Gender:FemaleDate of Birth:12 March  1946 - 07:58hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:74 years",r_actors
+Robert_Mitchum,"Gender:MaleDate of Birth:6 August  1917 - 06:00hBirth place:Bridgeport, ConnecticutCountry:US, United StatesAge:† 79 years",r_actors
+Alfred_Molina,"Gender:MaleDate of Birth:24 May  1953Birth place:London, EnglandCountry:GB, United KingdomAge:66 years",r_actors
+Marilyn_Monroe,"Gender:FemaleDate of Birth:1 June  1926 - 09:30hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 36 years",r_actors
+Maria_Montez,"Gender:FemaleDate of Birth:6 June  1920 - 20:00hBirth place:BarahonaCountry:DO, Dominican RepublicAge:† 31 years",r_actors
+Paul_Muni,"Gender:MaleDate of Birth:22 September  1895 - 05:00hBirth place:LvivCountry:UA, UkraineAge:† 71 years",r_actors
+Leslie_Nielsen,"Gender:MaleDate of Birth:11 February  1926 - 05:00hBirth place:Regina, SaskatchewanCountry:CA, CanadaAge:† 84 years",r_actors
+Chuck_Norris,"Gender:MaleDate of Birth:10 March  1940 - 03:00hBirth place:Ryan, OklahomaCountry:US, United StatesAge:80 years",r_actors
+Maureen_O'Hara,"Gender:FemaleDate of Birth:17 August  1920 - 23:50hBirth place:RanelaghCountry:IE, IrelandAge:† 95 years",r_actors
+Laurence_Olivier,"Gender:MaleDate of Birth:22 May  1907 - 05:00hBirth place:Dorking, EnglandCountry:GB, United KingdomAge:† 82 years",r_actors
+Peter_O'Toole,"Gender:MaleDate of Birth:2 August  1932 - 00:15hBirth place:WicklowCountry:IE, IrelandAge:† 81 years",r_actors
+Vanessa_Paradis,"Gender:FemaleDate of Birth:22 December  1972 - 05:10hBirth place:Saint-Maur-des-FossésCountry:FR, FranceAge:47 years",r_actors
+Gregory_Peck,"Gender:MaleDate of Birth:5 April  1916 - 08:00hBirth place:La Jolla Amago, CaliforniaCountry:US, United StatesAge:† 87 years",r_actors
+Vincent_Perez,"Gender:MaleDate of Birth:10 June  1964 - 21:58hBirth place:LausanneCountry:CH, SwitzerlandAge:55 years",r_actors
+Mary_Pickford,"Gender:FemaleDate of Birth:8 April  1892 - 02:30hBirth place:Toronto, OntarioCountry:CA, CanadaAge:† 87 years",r_actors
+Guy_Pearce,"Gender:MaleDate of Birth:5 October  1967 - 16:15hBirth place:Ely, EnglandCountry:GB, United KingdomAge:52 years",r_actors
+Dick_Powell,"Gender:MaleDate of Birth:14 November  1904 - 14:00hBirth place:Mountain View, ArkansasCountry:US, United StatesAge:† 58 years",r_actors
+Tyrone_Power,"Gender:MaleDate of Birth:5 May  1914 - 17:30hBirth place:Cincinnati, OhioCountry:US, United StatesAge:† 44 years",r_actors
+Robert_Preston,"Gender:MaleDate of Birth:8 June  1918 - 12:00hBirth place:Newton, MassachusettsCountry:US, United StatesAge:† 68 years",r_actors
+Vincent_Price,"Gender:MaleDate of Birth:27 May  1911 - 00:40hBirth place:St. Louis, MissouriCountry:US, United StatesAge:† 82 years",r_actors
+Jason_Priestley,"Gender:MaleDate of Birth:28 August  1969Birth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:50 years",r_actors
+Vanessa_Redgrave,"Gender:FemaleDate of Birth:30 January  1937 - 18:00hBirth place:Blackheath, EnglandCountry:GB, United KingdomAge:83 years",r_actors
+Debbie_Reynolds,"Gender:FemaleDate of Birth:1 April  1932 - 17:49hBirth place:El Paso, TexasCountry:US, United StatesAge:88 years",r_actors
+Edward_G._Robinson,"Gender:MaleDate of Birth:12 December  1893 - 06:00hBirth place:BucharestCountry:RO, RomaniaAge:† 79 years",r_actors
+Ginger_Rogers,"Gender:FemaleDate of Birth:16 July  1911 - 02:18hBirth place:Independence, MissouriCountry:US, United StatesAge:† 83 years",r_actors
+Mickey_Rooney,"Gender:MaleDate of Birth:23 September  1920 - 11:55hBirth place:New York, New YorkCountry:US, United StatesAge:† 93 years",r_actors
+Jane_Russell,"Gender:FemaleDate of Birth:21 June  1921 - 06:15hBirth place:Bemidji, MinnesotaCountry:US, United StatesAge:† 89 years",r_actors
+Rosalind_Russell,"Gender:FemaleDate of Birth:4 June  1907 - 16:15hBirth place:Waterbury, ConnecticutCountry:US, United StatesAge:† 69 years",r_actors
+Adam_Sandler,"Gender:MaleDate of Birth:9 September  1966Birth place:New York, New YorkCountry:US, United StatesAge:53 years",r_actors
+George_C._Scott,"Gender:MaleDate of Birth:18 October  1927 - 23:30hBirth place:Wise, VirginiaCountry:US, United StatesAge:† 71 years",r_actors
+Norma_Shearer,"Gender:FemaleDate of Birth:10 August  1900 - 10:00hBirth place:Montreal, QuébecCountry:CA, CanadaAge:† 82 years",r_actors
+Jean_Simmons,"Gender:FemaleDate of Birth:31 January  1929 - 20:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 80 years",r_actors
+Frank_Sinatra,"Gender:MaleDate of Birth:12 December  1915 - 03:00hBirth place:Hoboken, New JerseyCountry:US, United StatesAge:† 82 years",r_actors
+Barbara_Stanwyck,"Gender:FemaleDate of Birth:16 July  1907 - 08:55hBirth place:New York, New YorkCountry:US, United StatesAge:† 82 years",r_actors
+Barbra_Streisand,"Gender:FemaleDate of Birth:24 April  1942 - 05:08hBirth place:New York, New YorkCountry:US, United StatesAge:77 years",r_actors
+Elizabeth_Taylor,"Gender:FemaleDate of Birth:27 February  1932 - 02:30hBirth place:London, EnglandCountry:GB, United KingdomAge:† 79 years",r_actors
+Robert_Taylor,"Gender:MaleDate of Birth:5 August  1911 - 07:00hBirth place:Filley, NebraskaCountry:US, United StatesAge:† 57 years",r_actors
+Shirley_Temple,"Gender:FemaleDate of Birth:23 April  1928 - 21:00hBirth place:Santa Monica, CaliforniaCountry:US, United StatesAge:† 85 years",r_actors
+Gene_Tierney,"Gender:FemaleDate of Birth:19 November  1920 - 17:15hBirth place:New York, New YorkCountry:US, United StatesAge:† 70 years",r_actors
+Spencer_Tracy,"Gender:MaleDate of Birth:5 April  1900 - 01:57hBirth place:Milwaukee, WisconsinCountry:US, United StatesAge:† 67 years",r_actors
+Lana_Turner,"Gender:FemaleDate of Birth:8 February  1921 - 12:30hBirth place:Wallace, IdahoCountry:US, United StatesAge:† 74 years",r_actors
+Liv_Ullmann,"Gender:FemaleDate of Birth:16 December  1938 - 19:20hBirth place:TokyoCountry:JP, JapanAge:81 years",r_actors
+Rudolph_Valentino,"Gender:MaleDate of Birth:6 May  1895 - 15:00hBirth place:CastellanetaCountry:IT, ItalyAge:† 31 years",r_actors
+Mark_Wahlberg,"Gender:MaleDate of Birth:5 June  1971 - 07:15hBirth place:Boston, MassachusettsCountry:US, United StatesAge:48 years",r_actors
+Raquel_Welch,"Gender:FemaleDate of Birth:5 September  1940 - 14:04hBirth place:Chicago Heights, IllinoisCountry:US, United StatesAge:79 years",r_actors
+Mae_West,"Gender:FemaleDate of Birth:17 August  1892 - 22:30hBirth place:New York, New YorkCountry:US, United StatesAge:† 88 years",r_actors
+Richard_Widmark,"Gender:MaleDate of Birth:26 December  1914 - 12:45hBirth place:Sunrise, MinnesotaCountry:US, United StatesAge:† 93 years",r_actors
+Gene_Wilder,"Gender:MaleDate of Birth:11 June  1933 - 03:50hBirth place:Milwaukee, WisconsinCountry:US, United StatesAge:86 years",r_actors
+Natalie_Wood,"Gender:FemaleDate of Birth:20 July  1938 - 11:16hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:† 43 years",r_actors
+Joanne_Woodward,"Gender:FemaleDate of Birth:27 February  1930 - 04:00hBirth place:Thomasville, GeorgiaCountry:US, United StatesAge:90 years",r_actors
+Jane_Wyman,"Gender:FemaleDate of Birth:5 January  1917 - 01:00hBirth place:St. Joseph, MissouriCountry:US, United StatesAge:† 90 years",r_actors
+Loretta_Young,"Gender:FemaleDate of Birth:6 January  1913 - 15:30hBirth place:Salt Lake City, UtahCountry:US, United StatesAge:† 87 years",r_actors
+Rudolf_Hrušínský_nejst.,"Gender:MaleDate of Birth:14 April  1897Birth place:LibocCountry:UH, RAUHAge:† 58 years",r_actors
+Vlasta_Burian,"Gender:MaleDate of Birth:9 April  1891Birth place:LiberecCountry:CZ, Czech RepublicAge:† 70 years",r_actors
+Josef_Laufer,"Gender:MaleDate of Birth:11 August  1939Birth place:Les Sables-d'OlonneCountry:FR, FranceAge:80 years",r_actors
+Jan_Tříska,"Gender:MaleDate of Birth:4 November  1936Birth place:PragueCountry:CZ, Czech RepublicAge:† 80 years",r_actors
+Alessandra_Martines,"Gender:FemaleDate of Birth:19 September  1963 - 12:30hBirth place:RomeCountry:IT, ItalyAge:56 years",r_actors
+Bill_Cosby,"Gender:MaleDate of Birth:12 July  1937 - 15:00hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:82 years",r_actors
+Pamela_Anderson,"Gender:FemaleDate of Birth:1 July  1967 - 04:08hBirth place:Ladysmith, British ColumbiaCountry:CA, CanadaAge:52 years",r_actors
+Hilary_Swank,"Gender:FemaleDate of Birth:30 July  1974 - 17:28hBirth place:Lincoln, NebraskaCountry:US, United StatesAge:45 years",r_actors
+Mira_Sorvino,"Gender:FemaleDate of Birth:28 September  1967Birth place:Tenafly, New JerseyCountry:US, United StatesAge:52 years",r_actors
+Tippi_Hedren,"Gender:FemaleDate of Birth:19 January  1930 - 06:35hBirth place:New Ulm, MinnesotaCountry:US, United StatesAge:90 years",r_actors
+Michelle_Yeoh,"Gender:FemaleDate of Birth:6 August  1962Birth place:IpohCountry:MY, MalaysiaAge:57 years",r_actors
+Tobey_Maguire,"Gender:MaleDate of Birth:27 June  1975 - 08:20hBirth place:Inglewood, CaliforniaCountry:US, United StatesAge:44 years",r_actors
+Kirsten_Dunst,"Gender:FemaleDate of Birth:30 April  1982 - 13:00hBirth place:Point Pleasant, New JerseyCountry:US, United StatesAge:37 years",r_actors
+James_Franco,"Gender:MaleDate of Birth:19 April  1978 - 19:40hBirth place:Palo Alto, CaliforniaCountry:US, United StatesAge:41 years",r_actors
+Jennifer_Love_Hewitt,"Gender:FemaleDate of Birth:21 February  1979 - 22:48hBirth place:Waco, TexasCountry:US, United StatesAge:41 years",r_actors
+Jennifer_Coolidge,"Gender:FemaleDate of Birth:1 June  1961 - 13:09hBirth place:Boston, MassachusettsCountry:US, United StatesAge:58 years",r_actors
+Tara_Reid,"Gender:FemaleDate of Birth:8 November  1975 - 03:15hBirth place:Wyckoff, New JerseyCountry:US, United StatesAge:44 years",r_actors
+Christopher_Lambert,"Gender:MaleDate of Birth:29 March  1957 - 11:43hBirth place:Manhasset, New YorkCountry:US, United StatesAge:63 years",r_actors
+Rachel_Weisz,"Gender:FemaleDate of Birth:7 March  1970Birth place:London, EnglandCountry:GB, United KingdomAge:50 years",r_actors
+Ice_Cube,"Gender:MaleDate of Birth:15 June  1969Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:50 years",r_actors
+Til_Schweiger,"Gender:MaleDate of Birth:19 December  1963 - 02:00hBirth place:FreiburgCountry:DE, GermanyAge:56 years",r_actors
+Michael_York,"Gender:MaleDate of Birth:27 March  1942 - 05:05hBirth place:Fulmer, EnglandCountry:GB, United KingdomAge:78 years",r_actors
+Richard_Chamberlain,"Gender:MaleDate of Birth:31 March  1934 - 18:20hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:86 years",r_actors
+Timothy_Dalton,"Gender:MaleDate of Birth:21 March  1946Birth place:Colwyn Bay, WalesCountry:GB, United KingdomAge:74 years",r_actors
+Roger_Moore,"Gender:MaleDate of Birth:14 October  1927 - 00:45hBirth place:London, EnglandCountry:GB, United KingdomAge:† 89 years",r_actors
+Brooke_Shields,"Gender:FemaleDate of Birth:31 May  1965 - 13:45hBirth place:New York, New YorkCountry:US, United StatesAge:54 years",r_actors
+Salma_Hayek,"Gender:FemaleDate of Birth:2 September  1966Birth place:CoatzacoalcosCountry:MX, MexicoAge:53 years",r_actors
+Joan_Allen,"Gender:FemaleDate of Birth:20 August  1956 - 00:45hBirth place:Rochelle, IllinoisCountry:US, United StatesAge:63 years",r_actors
+Richard_Dean_Anderson,"Gender:MaleDate of Birth:23 January  1950 - 13:05hBirth place:Minneapolis, MinnesotaCountry:US, United StatesAge:70 years",r_actors
+Juliette_Binoche,"Gender:FemaleDate of Birth:9 March  1964 - 12:25hBirth place:ParisCountry:FR, FranceAge:56 years",r_actors
+Heath_Ledger,"Gender:MaleDate of Birth:4 April  1979 - 06:30hBirth place:Perth, Western AustraliaCountry:AU, AustraliaAge:† 28 years",r_actors
+Emily_Watson,"Gender:FemaleDate of Birth:14 January  1967Birth place:London, EnglandCountry:GB, United KingdomAge:53 years",r_actors
+Brandon_Lee,"Gender:MaleDate of Birth:1 February  1965 - 05:48hBirth place:Oakland, CaliforniaCountry:US, United StatesAge:† 28 years",r_actors
+Louis_de_Funès,"Gender:MaleDate of Birth:31 July  1914 - 01:00hBirth place:CourbevoieCountry:FR, FranceAge:† 68 years",r_actors
+Jeremy_Northam,"Gender:MaleDate of Birth:1 December  1961Birth place:Cambridge, EnglandCountry:GB, United KingdomAge:58 years",r_actors
+Roman_Polanski,"Gender:MaleDate of Birth:18 August  1933 - 10:30hBirth place:ParisCountry:FR, FranceAge:86 years",r_actors
+Kate_Hudson,"Gender:FemaleDate of Birth:19 April  1979 - 10:51hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:40 years",r_actors
+Monica_Bellucci,"Gender:FemaleDate of Birth:30 September  1964 - 14:30hBirth place:Città di CastelloCountry:IT, ItalyAge:55 years",r_actors
+Colin_Firth,"Gender:MaleDate of Birth:10 September  1960 - 11:30hBirth place:Grayshott, EnglandCountry:GB, United KingdomAge:59 years",r_actors
+Jean-Paul_Belmondo,"Gender:MaleDate of Birth:9 April  1933 - 09:00hBirth place:Neuilly-sur-SeineCountry:FR, FranceAge:86 years",r_actors
+Alain_Delon,"Gender:MaleDate of Birth:8 November  1935 - 03:25hBirth place:SceauxCountry:FR, FranceAge:84 years",r_actors
+Pierre_Richard,"Gender:MaleDate of Birth:16 August  1934 - 04:30hBirth place:ValenciennesCountry:FR, FranceAge:85 years",r_actors
+Vince_Vaughn,"Gender:MaleDate of Birth:28 March  1970 - 20:12hBirth place:Minneapolis, MinnesotaCountry:US, United StatesAge:50 years",r_actors
+Lino_Ventura,"Gender:MaleDate of Birth:14 July  1919 - 09:30hBirth place:ParmaCountry:IT, ItalyAge:† 68 years",r_actors
+Ornella_Muti,"Gender:FemaleDate of Birth:9 March  1955 - 18:40hBirth place:RomeCountry:IT, ItalyAge:65 years",r_actors
+Claudia_Cardinale,"Gender:FemaleDate of Birth:15 April  1938 - 06:30hBirth place:TunisCountry:TN, TunisiaAge:81 years",r_actors
+Vincent_Cassel,"Gender:MaleDate of Birth:23 November  1966 - 22:30hBirth place:ParisCountry:FR, FranceAge:53 years",r_actors
+Patrick_Stewart,"Gender:MaleDate of Birth:13 July  1940Birth place:Mirfield, EnglandCountry:GB, United KingdomAge:79 years",r_actors
+Pierre_Brice,"Gender:MaleDate of Birth:6 February  1929 - 10:30hBirth place:BrestCountry:FR, FranceAge:† 86 years",r_actors
+Lex_Barker,"Gender:MaleDate of Birth:8 May  1919 - 11:15hBirth place:Rye, New YorkCountry:US, United StatesAge:† 54 years",r_actors
+Terence_Hill,"Gender:MaleDate of Birth:29 March  1939 - 15:05hBirth place:VeniceCountry:IT, ItalyAge:81 years",r_actors
+Bud_Spencer,"Gender:MaleDate of Birth:31 October  1929 - 03:20hBirth place:NaplesCountry:IT, ItalyAge:† 86 years",r_actors
+Frédéric_Diefenthal,"Gender:MaleDate of Birth:26 July  1968 - 12:15hBirth place:Saint-MandéCountry:FR, FranceAge:51 years",r_actors
+Carmen_Electra,"Gender:FemaleDate of Birth:20 April  1972 - 00:27hBirth place:Cincinnati, OhioCountry:US, United StatesAge:47 years",r_actors
+Aaliyah,"Gender:FemaleDate of Birth:16 January  1979 - 08:43hBirth place:New York, New YorkCountry:US, United StatesAge:† 22 years",r_actors
+Daniel_Radcliffe,"Gender:MaleDate of Birth:23 July  1989Birth place:London, EnglandCountry:GB, United KingdomAge:30 years",r_actors
+Rupert_Grint,"Gender:MaleDate of Birth:24 August  1988Birth place:Stevenage, EnglandCountry:GB, United KingdomAge:31 years",r_actors
+Emma_Watson,"Gender:FemaleDate of Birth:15 April  1990 - 18:00hBirth place:ParisCountry:FR, FranceAge:29 years",r_actors
+Audrey_Tautou,"Gender:FemaleDate of Birth:9 August  1976 - 09:55hBirth place:BeaumontCountry:FR, FranceAge:43 years",r_actors
+Geoffrey_Rush,"Gender:MaleDate of Birth:6 July  1951Birth place:Toowoomba, QueenslandCountry:AU, AustraliaAge:68 years",r_actors
+Franco_Nero,"Gender:MaleDate of Birth:23 November  1941 - 22:30hBirth place:San ProsperoCountry:IT, ItalyAge:78 years",r_actors
+Katie_Holmes,"Gender:FemaleDate of Birth:18 December  1978 - 21:32hBirth place:Toledo, OhioCountry:US, United StatesAge:41 years",r_actors
+Michael_Byrne,"Gender:MaleDate of Birth:7 November  1943Birth place:London, EnglandCountry:GB, United KingdomAge:76 years",r_actors
+Hans_Matheson,"Gender:MaleDate of Birth:7 August  1975 - 14:10hBirth place:Stornoway, ScotlandCountry:GB, United KingdomAge:44 years",r_actors
+Patrick_Duffy,"Gender:MaleDate of Birth:17 March  1949 - 09:00hBirth place:Townsend, MontanaCountry:US, United StatesAge:71 years",r_actors
+Brent_Spiner,"Gender:MaleDate of Birth:2 February  1949Birth place:Houston, TexasCountry:US, United StatesAge:71 years",r_actors
+Eric_Idle,"Gender:MaleDate of Birth:29 March  1943 - 13:20hBirth place:South Shields, EnglandCountry:GB, United KingdomAge:77 years",r_actors
+Jean_Cocteau,"Gender:MaleDate of Birth:5 July  1889 - 01:00hBirth place:Maisons-LaffitteCountry:FR, FranceAge:† 74 years",r_actors
+Neve_Campbell,"Gender:FemaleDate of Birth:3 October  1973Birth place:Guelph, OntarioCountry:CA, CanadaAge:46 years",r_actors
+Britney_Spears,"Gender:FemaleDate of Birth:2 December  1981 - 01:30hBirth place:Kentwood, LouisianaCountry:US, United StatesAge:38 years",r_actors
+Anne_Hathaway,"Gender:FemaleDate of Birth:12 November  1982 - 09:00hBirth place:New York, New YorkCountry:US, United StatesAge:37 years",r_actors
+Klaus_Kinski,"Gender:MaleDate of Birth:18 October  1926 - 21:30hBirth place:SopotyCountry:PL, PolandAge:† 65 years",r_actors
+Brian_Cox,"Gender:MaleDate of Birth:1 June  1946 - 14:15hBirth place:Dundee, ScotlandCountry:GB, United KingdomAge:73 years",r_actors
+Ian_Somerhalder,"Gender:MaleDate of Birth:8 December  1978 - 09:52hBirth place:Covington, LouisianaCountry:US, United StatesAge:41 years",r_actors
+Jamie_Foxx,"Gender:MaleDate of Birth:13 December  1967Birth place:Terrell, TexasCountry:US, United StatesAge:52 years",r_actors
+Paul_Walker,"Gender:MaleDate of Birth:12 September  1973 - 06:38hBirth place:Glendale, CaliforniaCountry:US, United StatesAge:† 40 years",r_actors
+Brittany_Murphy,"Gender:FemaleDate of Birth:10 November  1977 - 00:18hBirth place:Atlanta, GeorgiaCountry:US, United StatesAge:† 32 years",r_actors
+Keira_Knightley,"Gender:FemaleDate of Birth:26 March  1985Birth place:Teddington, MiddlesexCountry:GB, United KingdomAge:35 years",r_actors
+Björk,"Gender:FemaleDate of Birth:21 November  1965 - 07:50hBirth place:ReykjavíkCountry:IS, IcelandAge:54 years",r_actors
+Colin_Farrell,"Gender:MaleDate of Birth:31 May  1976 - 23:45hBirth place:CastleknockCountry:IE, IrelandAge:43 years",r_actors
+Jean_Gabin,"Gender:MaleDate of Birth:17 May  1904 - 02:00hBirth place:ParisCountry:FR, FranceAge:† 72 years",r_actors
+DMX,"Gender:MaleDate of Birth:18 December  1970Birth place:Baltimore, MarylandCountry:US, United StatesAge:49 years",r_actors
+Madonna,"Gender:FemaleDate of Birth:16 August  1958 - 07:05hBirth place:Bay City, MichiganCountry:US, United StatesAge:61 years",r_actors
+Elliott_Gould,"Gender:MaleDate of Birth:29 August  1938 - 00:25hBirth place:New York, New YorkCountry:US, United StatesAge:81 years",r_actors
+Telly_Savalas,"Gender:MaleDate of Birth:20 January  1924 - 05:00hBirth place:Garden City Park, New YorkCountry:US, United StatesAge:† 70 years",r_actors
+Karen_Black,"Gender:FemaleDate of Birth:1 July  1939 - 05:00hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 74 years",r_actors
+Stephen_Rea,"Gender:MaleDate of Birth:31 October  1946Birth place:Belfast, Northern IrelandCountry:GB, United KingdomAge:73 years",r_actors
+Kris_Kristofferson,"Gender:MaleDate of Birth:22 June  1936 - 15:30hBirth place:Brownsville, TexasCountry:US, United StatesAge:83 years",r_actors
+Omar_Sharif,"Gender:MaleDate of Birth:10 April  1932 - 17:30hBirth place:AlexandriaCountry:EG, EgyptAge:† 83 years",r_actors
+Oleg_Menshikov,"Gender:MaleDate of Birth:8 November  1960 - 06:00hBirth place:SerpuchovCountry:RU, RussiaAge:59 years",r_actors
+Chloë_Sevigny,"Gender:FemaleDate of Birth:18 November  1974 - 05:27hBirth place:Springfield, MassachusettsCountry:US, United StatesAge:45 years",r_actors
+Vittorio_De_Sica,"Gender:MaleDate of Birth:7 July  1901 - 11:00hBirth place:SoraCountry:IT, ItalyAge:† 73 years",r_actors
+Agnieszka_Holland,"Gender:FemaleDate of Birth:28 November  1948Birth place:WarsawCountry:PL, PolandAge:71 years",r_actors
+Toni_Collette,"Gender:FemaleDate of Birth:1 November  1972 - 11:14hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:47 years",r_actors
+James_Marsden,"Gender:MaleDate of Birth:18 September  1973Birth place:Stillwater, OklahomaCountry:US, United StatesAge:46 years",r_actors
+Jessica_Biel,"Gender:FemaleDate of Birth:3 March  1982 - 00:56hBirth place:Ely, MinnesotaCountry:US, United StatesAge:38 years",r_actors
+Anny_Duperey,"Gender:FemaleDate of Birth:28 June  1947 - 08:55hBirth place:RouenCountry:FR, FranceAge:72 years",r_actors
+Brigitte_Nielsen,"Gender:FemaleDate of Birth:15 July  1963 - 06:20hBirth place:CopenhagenCountry:DK, DenmarkAge:56 years",r_actors
+Luke_Perry,"Gender:MaleDate of Birth:11 October  1965Birth place:Mansfield, OhioCountry:US, United StatesAge:† 53 years",r_actors
+Michael_Palin,"Gender:MaleDate of Birth:5 May  1943 - 11:45hBirth place:Sheffield, EnglandCountry:GB, United KingdomAge:76 years",r_actors
+Nicholas_Clay,"Gender:MaleDate of Birth:18 September  1946Birth place:London, EnglandCountry:GB, United KingdomAge:† 53 years",r_actors
+Isabelle_Huppert,"Gender:FemaleDate of Birth:16 March  1953 - 02:40hBirth place:ParisCountry:FR, FranceAge:67 years",r_actors
+Paul_Bettany,"Gender:MaleDate of Birth:27 May  1971Birth place:London, EnglandCountry:GB, United KingdomAge:48 years",r_actors
+Jessica_Alba,"Gender:FemaleDate of Birth:28 April  1981 - 13:51hBirth place:Pomona, CaliforniaCountry:US, United StatesAge:38 years",r_actors
+Scarlett_Johansson,"Gender:FemaleDate of Birth:22 November  1984 - 07:00hBirth place:New York, New YorkCountry:US, United StatesAge:35 years",r_actors
+Annie_Girardot,"Gender:FemaleDate of Birth:25 October  1931 - 02:20hBirth place:ParisCountry:FR, FranceAge:† 79 years",r_actors
+Coluche,"Gender:MaleDate of Birth:28 October  1944 - 18:20hBirth place:ParisCountry:FR, FranceAge:† 41 years",r_actors
+Horst_Buchholz,"Gender:MaleDate of Birth:4 December  1933 - 05:04hBirth place:BerlinCountry:DE, GermanyAge:† 69 years",r_actors
+Jaime_Pressly,"Gender:FemaleDate of Birth:30 July  1977Birth place:KinstonCountry:US, United StatesAge:42 years",r_actors
+Ruth_Gordon,"Gender:FemaleDate of Birth:30 October  1896 - 05:15hBirth place:Quincy, MassachusettsCountry:US, United StatesAge:† 88 years",r_actors
+Eminem,"Gender:MaleDate of Birth:17 October  1972Birth place:St. Joseph, MissouriCountry:US, United StatesAge:47 years",r_actors
+Tori_Spelling,"Gender:FemaleDate of Birth:16 May  1973 - 01:13hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:46 years",r_actors
+Cindy_Crawford,"Gender:FemaleDate of Birth:20 February  1966 - 14:08hBirth place:DeKalb, IllinoisCountry:US, United StatesAge:54 years",r_actors
+Jason_Statham,"Gender:MaleDate of Birth:26 July  1967Birth place:London, EnglandCountry:GB, United KingdomAge:52 years",r_actors
+Iain_Glen,"Gender:MaleDate of Birth:24 June  1961 - 19:10hBirth place:Edinburgh, ScotlandCountry:GB, United KingdomAge:58 years",r_actors
+Simon_Baker,"Gender:MaleDate of Birth:30 July  1969Birth place:Launceston, TasmaniaCountry:AU, AustraliaAge:50 years",r_actors
+Terry_Jones,"Gender:MaleDate of Birth:1 February  1942 - 11:00hBirth place:Colwyn Bay, WalesCountry:GB, United KingdomAge:78 years",r_actors
+Courtney_Love,"Gender:FemaleDate of Birth:9 July  1964 - 14:08hBirth place:San Francisco, CaliforniaCountry:US, United StatesAge:55 years",r_actors
+Kevin_Sorbo,"Gender:MaleDate of Birth:24 September  1958 - 07:48hBirth place:Mound, MinnesotaCountry:US, United StatesAge:61 years",r_actors
+Jon_Bon_Jovi,"Gender:MaleDate of Birth:2 March  1962 - 20:45hBirth place:Rahway, New JerseyCountry:US, United StatesAge:58 years",r_actors
+Hulk_Hogan,"Gender:MaleDate of Birth:11 August  1953 - 06:13hBirth place:Augusta, GeorgiaCountry:US, United StatesAge:66 years",r_actors
+Daniel_Craig,"Gender:MaleDate of Birth:2 March  1968Birth place:Chester, EnglandCountry:GB, United KingdomAge:52 years",r_actors
+Oliver_Hardy,"Gender:MaleDate of Birth:18 January  1892 - 09:02hBirth place:Harlem, GeorgiaCountry:US, United StatesAge:† 65 years",r_actors
+Pedro_Almodóvar,"Gender:MaleDate of Birth:24 September  1951 - 22:00hBirth place:Calzada de CalatravaCountry:ES, SpainAge:68 years",r_actors
+Richard_Attenborough,"Gender:MaleDate of Birth:29 August  1923Birth place:Cambridge, EnglandCountry:GB, United KingdomAge:† 90 years",r_actors
+Clive_Barker,"Gender:MaleDate of Birth:5 October  1952 - 01:00hBirth place:Liverpool, EnglandCountry:GB, United KingdomAge:67 years",r_actors
+Michael_Bay,"Gender:MaleDate of Birth:17 February  1965Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:55 years",r_actors
+Ingmar_Bergman,"Gender:MaleDate of Birth:14 July  1918 - 03:00hBirth place:UppsalaCountry:SE, SwedenAge:† 89 years",r_actors
+Bernardo_Bertolucci,"Gender:MaleDate of Birth:16 March  1941 - 19:25hBirth place:ParmaCountry:IT, ItalyAge:† 77 years",r_actors
+Danny_Boyle,"Gender:MaleDate of Birth:20 October  1956Birth place:Manchester, EnglandCountry:GB, United KingdomAge:63 years",r_actors
+Tim_Burton,"Gender:MaleDate of Birth:25 August  1958 - 23:49hBirth place:Burbank, CaliforniaCountry:US, United StatesAge:61 years",r_actors
+Frank_Capra,"Gender:MaleDate of Birth:18 May  1897 - 02:00hBirth place:BisacquinoCountry:IT, ItalyAge:† 94 years",r_actors
+Joel_Coen,"Gender:MaleDate of Birth:29 November  1954Birth place:Minneapolis, MinnesotaCountry:US, United StatesAge:65 years",r_actors
+Roland_Emmerich,"Gender:MaleDate of Birth:10 November  1955Birth place:StuttgartCountry:DE, GermanyAge:64 years",r_actors
+Federico_Fellini,"Gender:MaleDate of Birth:20 January  1920 - 21:00hBirth place:RiminiCountry:IT, ItalyAge:† 73 years",r_actors
+Peter_Greenaway,"Gender:MaleDate of Birth:5 April  1942Birth place:Newport, WalesCountry:GB, United KingdomAge:78 years",r_actors
+Alfred_Hitchcock,"Gender:MaleDate of Birth:13 August  1899 - 20:00hBirth place:London, EnglandCountry:GB, United KingdomAge:† 80 years",r_actors
+James_Ivory,"Gender:MaleDate of Birth:7 June  1928Birth place:Berkeley, CaliforniaCountry:US, United StatesAge:91 years",r_actors
+Jim_Jarmusch,"Gender:MaleDate of Birth:22 January  1953 - 19:15hBirth place:Akron, OhioCountry:US, United StatesAge:67 years",r_actors
+Akira_Kurosawa,"Gender:MaleDate of Birth:23 March  1910 - 12:00hBirth place:TokyoCountry:JP, JapanAge:† 88 years",r_actors
+Emir_Kusturica,"Gender:MaleDate of Birth:24 November  1954Birth place:SarajevoCountry:BA, Bosnia and HerzegovinaAge:65 years",r_actors
+George_Lucas,"Gender:MaleDate of Birth:14 May  1944 - 05:40hBirth place:Modesto, CaliforniaCountry:US, United StatesAge:75 years",r_actors
+Sidney_Lumet,"Gender:MaleDate of Birth:25 June  1924Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:† 86 years",r_actors
+Michael_Mann,"Gender:MaleDate of Birth:5 February  1943 - 00:45hBirth place:Chicago, IllinoisCountry:US, United StatesAge:77 years",r_actors
+Christopher_Nolan,"Gender:MaleDate of Birth:30 July  1970Birth place:London, EnglandCountry:GB, United KingdomAge:49 years",r_actors
+Joel_Schumacher,"Gender:MaleDate of Birth:29 August  1939Birth place:New York, New YorkCountry:US, United StatesAge:80 years",r_actors
+Martin_Scorsese,"Gender:MaleDate of Birth:17 November  1942 - 00:24hBirth place:New York, New YorkCountry:US, United StatesAge:77 years",r_actors
+Ridley_Scott,"Gender:MaleDate of Birth:30 November  1937Birth place:South Shields, EnglandCountry:GB, United KingdomAge:82 years",r_actors
+Tony_Scott,"Gender:MaleDate of Birth:21 June  1944Birth place:Stockton-on-Tees, EnglandCountry:GB, United KingdomAge:† 68 years",r_actors
+Steven_Spielberg,"Gender:MaleDate of Birth:18 December  1946 - 18:16hBirth place:Cincinnati, OhioCountry:US, United StatesAge:73 years",r_actors
+Oliver_Stone,"Gender:MaleDate of Birth:15 September  1946 - 09:58hBirth place:New York, New YorkCountry:US, United StatesAge:73 years",r_actors
+Giuseppe_Tornatore,"Gender:MaleDate of Birth:27 March  1956 - 13:00hBirth place:BagheriaCountry:IT, ItalyAge:64 years",r_actors
+Luchino_Visconti,"Gender:MaleDate of Birth:2 November  1906 - 19:30hBirth place:MilanCountry:IT, ItalyAge:† 69 years",r_actors
+Lana_Wachowski,"Gender:MaleDate of Birth:21 June  1965Birth place:Chicago, IllinoisCountry:US, United StatesAge:54 years",r_actors
+Guillermo_del_Toro,"Gender:MaleDate of Birth:9 October  1964Birth place:GuadalajaraCountry:MX, MexicoAge:55 years",r_actors
+Nikita_Mikhalkov,"Gender:MaleDate of Birth:21 October  1945Birth place:MoscowCountry:RU, RussiaAge:74 years",r_actors
+Walt_Disney,"Gender:MaleDate of Birth:5 December  1901 - 00:35hBirth place:Chicago, IllinoisCountry:US, United StatesAge:† 65 years",r_actors
+Andrei_Tarkovsky,"Gender:MaleDate of Birth:4 April  1932 - 01:21hBirth place:ZavrazhyeCountry:RU, RussiaAge:† 54 years",r_actors
+Tom_Tykwer,"Gender:MaleDate of Birth:23 May  1965Birth place:WuppertalCountry:DE, GermanyAge:54 years",r_actors
+Michael_Haneke,"Gender:MaleDate of Birth:23 March  1942Birth place:MunichCountry:DE, GermanyAge:78 years",r_actors
+Franco_Zeffirelli,"Gender:MaleDate of Birth:12 February  1923 - 12:00hBirth place:FlorenceCountry:IT, Italy",r_actors
+Jean-Luc_Godard,"Gender:MaleDate of Birth:3 December  1930 - 02:00hBirth place:ParisCountry:FR, FranceAge:89 years",r_actors
+Andy_Warhol,"Gender:MaleDate of Birth:6 August  1928 - 06:30hBirth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:† 58 years",r_actors
+Michel_Gondry,"Gender:MaleDate of Birth:8 May  1963 - 09:45hBirth place:VersaillesCountry:FR, FranceAge:56 years",r_actors
+Mike_Newell,"Gender:MaleDate of Birth:28 March  1942Birth place:St Albans, EnglandCountry:GB, United KingdomAge:78 years",r_actors
+Fran_Drescher,"Gender:FemaleDate of Birth:30 September  1957 - 07:28hBirth place:New York, New YorkCountry:US, United StatesAge:62 years",r_actors
+Romy_Schneider,"Gender:FemaleDate of Birth:23 September  1938 - 22:00hBirth place:ViennaCountry:AT, AustriaAge:† 43 years",r_actors
+Dean_Martin,"Gender:MaleDate of Birth:7 June  1917 - 23:55hBirth place:Steubenville, OhioCountry:US, United StatesAge:† 78 years",r_actors
+Rupert_Graves,"Gender:MaleDate of Birth:30 June  1963Birth place:Weston-super-Mare, EnglandCountry:GB, United KingdomAge:56 years",r_actors
+Darren_Aronofsky,"Gender:MaleDate of Birth:12 February  1969 - 09:30hBirth place:New York, New YorkCountry:US, United StatesAge:51 years",r_actors
+Ashton_Kutcher,"Gender:MaleDate of Birth:7 February  1978 - 12:30hBirth place:Cedar Rapids, IowaCountry:US, United StatesAge:42 years",r_actors
+Adrien_Brody,"Gender:MaleDate of Birth:14 April  1973 - 15:30hBirth place:New York, New YorkCountry:US, United StatesAge:46 years",r_actors
+Karl_Urban,"Gender:MaleDate of Birth:7 June  1972Birth place:Wellington, WellingtonCountry:NZ, New ZealandAge:47 years",r_actors
+Peter_Facinelli,"Gender:MaleDate of Birth:26 November  1973Birth place:New York, New YorkCountry:US, United StatesAge:46 years",r_actors
+Eva_Mendes,"Gender:FemaleDate of Birth:5 March  1974Birth place:Houston, TexasCountry:US, United StatesAge:46 years",r_actors
+Selma_Blair,"Gender:FemaleDate of Birth:23 June  1972Birth place:Southfield, MichiganCountry:US, United StatesAge:47 years",r_actors
+Philip_Seymour_Hoffman,"Gender:MaleDate of Birth:23 July  1967 - 02:39hBirth place:Fairport, New YorkCountry:US, United StatesAge:† 46 years",r_actors
+Ice-T,"Gender:MaleDate of Birth:16 February  1958Birth place:Newark, New JerseyCountry:US, United StatesAge:62 years",r_actors
+Richard_Boone,"Gender:MaleDate of Birth:18 June  1917 - 05:30hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 63 years",r_actors
+Ioan_Gruffudd,"Gender:MaleDate of Birth:6 October  1973Birth place:Cardiff, WalesCountry:GB, United KingdomAge:46 years",r_actors
+Trey_Parker,"Gender:MaleDate of Birth:19 October  1969Birth place:Conifer, ColoradoCountry:US, United StatesAge:50 years",r_actors
+Louis_J._Gasnier,"Gender:MaleDate of Birth:15 September  1875 - 08:00hBirth place:ParisCountry:FR, FranceAge:† 87 years",r_actors
+Javier_Bardem,"Gender:MaleDate of Birth:1 March  1969 - 21:30hBirth place:Las Palmas de Gran CanariaCountry:ES, SpainAge:51 years",r_actors
+Matt_Stone,"Gender:MaleDate of Birth:26 May  1971Birth place:Houston, TexasCountry:US, United StatesAge:48 years",r_actors
+David_Suchet,"Gender:MaleDate of Birth:2 May  1946Birth place:London, EnglandCountry:GB, United KingdomAge:73 years",r_actors
+Brendan_Gleeson,"Gender:MaleDate of Birth:29 March  1955Birth place:DublinCountry:IE, IrelandAge:65 years",r_actors
+Peter_Dinklage,"Gender:MaleDate of Birth:11 June  1969Birth place:Morristown, New JerseyCountry:US, United StatesAge:50 years",r_actors
+Lucy_Lawless,"Gender:FemaleDate of Birth:29 March  1968 - 06:25hBirth place:Auckland, AucklandCountry:NZ, New ZealandAge:52 years",r_actors
+Ryan_Gosling,"Gender:MaleDate of Birth:12 November  1980 - 14:34hBirth place:London, OntarioCountry:CA, CanadaAge:39 years",r_actors
+Jon_Hall,"Gender:MaleDate of Birth:26 February  1915 - 22:00hBirth place:Fresno Crossing, CaliforniaCountry:US, United StatesAge:† 64 years",r_actors
+Queen_Latifah,"Gender:FemaleDate of Birth:18 March  1970 - 08:02hBirth place:Newark, New JerseyCountry:US, United StatesAge:50 years",r_actors
+Gael_García_Bernal,"Gender:MaleDate of Birth:30 November  1978Birth place:GuadalajaraCountry:MX, MexicoAge:41 years",r_actors
+Hilary_Duff,"Gender:FemaleDate of Birth:28 September  1987 - 15:56hBirth place:Houston, TexasCountry:US, United StatesAge:32 years",r_actors
+Nigel_Terry,"Gender:MaleDate of Birth:15 August  1945Birth place:Bristol, EnglandCountry:GB, United KingdomAge:† 69 years",r_actors
+Cherie_Lunghi,"Gender:FemaleDate of Birth:4 April  1952Birth place:London, EnglandCountry:GB, United KingdomAge:68 years",r_actors
+Jennifer_Garner,"Gender:FemaleDate of Birth:17 April  1972 - 10:00hBirth place:Houston, TexasCountry:US, United StatesAge:47 years",r_actors
+Thalía,"Gender:FemaleDate of Birth:26 August  1971 - 19:30hBirth place:Mexico CityCountry:MX, MexicoAge:48 years",r_actors
+Bourvil,"Gender:MaleDate of Birth:27 July  1917 - 11:30hBirth place:Prétot-VicquemareCountry:FR, FranceAge:† 53 years",r_actors
+Paul_McCartney,"Gender:MaleDate of Birth:18 June  1942 - 02:00hBirth place:Liverpool, EnglandCountry:GB, United KingdomAge:77 years",r_actors
+Ringo_Starr,"Gender:MaleDate of Birth:7 July  1940 - 00:05hBirth place:Liverpool, EnglandCountry:GB, United KingdomAge:79 years",r_actors
+Jonny_Lee_Miller,"Gender:MaleDate of Birth:15 November  1972Birth place:Kingston, EnglandCountry:GB, United KingdomAge:47 years",r_actors
+Romane_Bohringer,"Gender:FemaleDate of Birth:14 August  1973 - 12:00hBirth place:Pont-Sainte-MaxenceCountry:FR, FranceAge:46 years",r_actors
+Nicol_Williamson,"Gender:MaleDate of Birth:14 September  1936 - 04:45hBirth place:Hamilton, ScotlandCountry:GB, United KingdomAge:† 75 years",r_actors
+Tyra_Banks,"Gender:FemaleDate of Birth:4 December  1973 - 19:13hBirth place:Inglewood, CaliforniaCountry:US, United StatesAge:46 years",r_actors
+Mary-Kate_Olsen,"Gender:FemaleDate of Birth:13 June  1986 - 09:45hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:33 years",r_actors
+Ashley_Olsen,"Gender:FemaleDate of Birth:13 June  1986 - 09:43hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:33 years",r_actors
+Janet_Jackson,"Gender:FemaleDate of Birth:16 May  1966 - 19:00hBirth place:Gary, IndianaCountry:US, United StatesAge:53 years",r_actors
+Calista_Flockhart,"Gender:FemaleDate of Birth:11 November  1964 - 09:06hBirth place:Freeport, IllinoisCountry:US, United StatesAge:55 years",r_actors
+Brian_Austin_Green,"Gender:MaleDate of Birth:15 July  1973 - 11:36hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:46 years",r_actors
+Jake_Gyllenhaal,"Gender:MaleDate of Birth:19 December  1980 - 20:08hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:39 years",r_actors
+Dolores_del_Rio,"Gender:FemaleDate of Birth:3 August  1904 - 06:45hBirth place:DurangoCountry:MX, MexicoAge:† 78 years",r_actors
+Frank_Lloyd,"Gender:MaleDate of Birth:23 September  1886 - 18:00hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:† 73 years",r_actors
+Wallace_Beery,"Gender:MaleDate of Birth:1 April  1886 - 14:47hBirth place:Kansas City, MissouriCountry:US, United StatesAge:† 63 years",r_actors
+Pink,"Gender:FemaleDate of Birth:8 September  1979 - 15:00hBirth place:Doylestown, PennsylvaniaCountry:US, United StatesAge:40 years",r_actors
+Barbara_La_Marr,"Gender:FemaleDate of Birth:28 July  1896 - 23:35hBirth place:Yakima, WashingtonCountry:US, United StatesAge:† 29 years",r_actors
+Jennie_Garth,"Gender:FemaleDate of Birth:3 April  1972Birth place:Urbana, IllinoisCountry:US, United StatesAge:48 years",r_actors
+Rob_Zombie,"Gender:MaleDate of Birth:12 January  1965 - 16:44hBirth place:Haverhill, MassachusettsCountry:US, United StatesAge:55 years",r_actors
+Serge_Gainsbourg,"Gender:MaleDate of Birth:2 April  1928 - 04:55hBirth place:ParisCountry:FR, FranceAge:† 62 years",r_actors
+Jane_Birkin,"Gender:FemaleDate of Birth:14 December  1946 - 15:00hBirth place:London, EnglandCountry:GB, United KingdomAge:73 years",r_actors
+Geoffrey_Lewis,"Gender:MaleDate of Birth:31 July  1935Birth place:San Diego, CaliforniaCountry:US, United StatesAge:† 79 years",r_actors
+Eli_Wallach,"Gender:MaleDate of Birth:7 December  1915Birth place:New York, New YorkCountry:US, United StatesAge:† 98 years",r_actors
+Jeanne_Moreau,"Gender:FemaleDate of Birth:23 January  1928 - 11:15hBirth place:ParisCountry:FR, FranceAge:† 89 years",r_actors
+Jonathan_Rhys_Meyers,"Gender:MaleDate of Birth:27 July  1977 - 19:25hBirth place:DublinCountry:IE, IrelandAge:42 years",r_actors
+Albert_Dupontel,"Gender:MaleDate of Birth:11 January  1961 - 20:50hBirth place:Saint-Germain-en-LayeCountry:FR, FranceAge:59 years",r_actors
+Antonio_De_Curtis,"Gender:MaleDate of Birth:15 February  1898 - 07:00hBirth place:NaplesCountry:IT, ItalyAge:† 69 years",r_actors
+Bruno_Ganz,"Gender:MaleDate of Birth:22 March  1941Birth place:ZürichCountry:CH, SwitzerlandAge:† 77 years",r_actors
+Daniel_Prévost,"Gender:MaleDate of Birth:20 October  1939 - 20:20hBirth place:GarchesCountry:FR, FranceAge:80 years",r_actors
+Mark_Margolis,"Gender:MaleDate of Birth:26 November  1939Birth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:80 years",r_actors
+Anny_Ondra,"Gender:FemaleDate of Birth:15 May  1902Birth place:TarnovCountry:PL, PolandAge:† 84 years",r_actors
+Sylvia_Sidney,"Gender:FemaleDate of Birth:8 August  1910 - 15:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 88 years",r_actors
+Alexandra_Paul,"Gender:FemaleDate of Birth:29 July  1963Birth place:New York, New YorkCountry:US, United StatesAge:56 years",r_actors
+Sonny_Shin'ichi_Chiba,"Gender:MaleDate of Birth:23 January  1939Birth place:FukuokaCountry:JP, JapanAge:81 years",r_actors
+Tom_Waits,"Gender:MaleDate of Birth:7 December  1949 - 07:25hBirth place:Pomona, CaliforniaCountry:US, United StatesAge:70 years",r_actors
+Natalia_Oreiro,"Gender:FemaleDate of Birth:19 May  1977Birth place:MontevideoCountry:UY, UruguayAge:42 years",r_actors
+Johnny_Hallyday,"Gender:MaleDate of Birth:15 June  1943 - 13:00hBirth place:ParisCountry:FR, FranceAge:† 74 years",r_actors
+Snoop_Dogg,"Gender:MaleDate of Birth:20 October  1971 - 18:20hBirth place:Long Beach, CaliforniaCountry:US, United StatesAge:48 years",r_actors
+Phil_Collins,"Gender:MaleDate of Birth:30 January  1951 - 00:05hBirth place:London, EnglandCountry:GB, United KingdomAge:69 years",r_actors
+Beyoncé_Knowles,"Gender:FemaleDate of Birth:4 September  1981 - 10:00hBirth place:Houston, TexasCountry:US, United StatesAge:38 years",r_actors
+Chris_Evans,"Gender:MaleDate of Birth:13 June  1981 - 18:16hBirth place:Sudbury, MassachusettsCountry:US, United StatesAge:38 years",r_actors
+Stephen_Gyllenhaal,"Gender:MaleDate of Birth:4 October  1949Birth place:Cleveland, OhioCountry:US, United StatesAge:70 years",r_actors
+Mariah_Carey,"Gender:FemaleDate of Birth:27 March  1970 - 07:27hBirth place:Long Island, New YorkCountry:US, United StatesAge:50 years",r_actors
+Truman_Capote,"Gender:MaleDate of Birth:30 September  1924 - 15:00hBirth place:New Orleans, LouisianaCountry:US, United StatesAge:† 59 years",r_actors
+Clive_Owen,"Gender:MaleDate of Birth:3 October  1964Birth place:Keresley, EnglandCountry:GB, United KingdomAge:55 years",r_actors
+The_Rock_-_Dwayne_Johnson,"Gender:MaleDate of Birth:2 May  1972 - 18:02hBirth place:San Leandro, CaliforniaCountry:US, United StatesAge:47 years",r_actors
+Anna_Friel,"Gender:FemaleDate of Birth:12 July  1976Birth place:Rochdale, EnglandCountry:GB, United KingdomAge:43 years",r_actors
+Claudia_Schiffer,"Gender:FemaleDate of Birth:25 August  1970 - 12:10hBirth place:RheinbergCountry:DE, GermanyAge:49 years",r_actors
+Lee_Van_Cleef,"Gender:MaleDate of Birth:9 January  1925 - 05:00hBirth place:Somerville, New JerseyCountry:US, United StatesAge:† 64 years",r_actors
+Shion_Sono,"Gender:MaleDate of Birth:18 December  1961Birth place:ToyokawaCountry:JP, JapanAge:58 years",r_actors
+Stephen_Blackehart,"Gender:MaleDate of Birth:1 December  1967Birth place:New York, New YorkCountry:US, United StatesAge:52 years",r_actors
+Anna_Chlumsky,"Gender:FemaleDate of Birth:3 December  1980Birth place:Chicago, IllinoisCountry:US, United StatesAge:39 years",r_actors
+Janusz_Kaminski,"Gender:MaleDate of Birth:27 June  1959Birth place:ZiebiceCountry:PL, PolandAge:60 years",r_actors
+Charles_Aznavour,"Gender:MaleDate of Birth:22 May  1924 - 00:15hBirth place:ParisCountry:FR, FranceAge:† 94 years",r_actors
+Jeff_Chandler,"Gender:MaleDate of Birth:5 December  1918 - 11:00hBirth place:New York, New YorkCountry:US, United StatesAge:† 42 years",r_actors
+Diane_Kruger,"Gender:FemaleDate of Birth:15 July  1976Birth place:AlgermissenCountry:DE, GermanyAge:43 years",r_actors
+Lindsay_Lohan,"Gender:FemaleDate of Birth:2 July  1986 - 04:40hBirth place:New York, New YorkCountry:US, United StatesAge:33 years",r_actors
+Paz_Vega,"Gender:FemaleDate of Birth:2 January  1976Birth place:SevilleCountry:ES, SpainAge:44 years",r_actors
+Mos_Def,"Gender:MaleDate of Birth:11 December  1973Birth place:New York, New YorkCountry:US, United StatesAge:46 years",r_actors
+Eric_Douglas,"Gender:MaleDate of Birth:21 June  1958 - 08:21hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:† 46 years",r_actors
+Anita_Ekberg,"Gender:FemaleDate of Birth:29 September  1931Birth place:MalmöCountry:SE, SwedenAge:† 83 years",r_actors
+Jacques_Brel,"Gender:MaleDate of Birth:8 April  1929 - 03:00hBirth place:SchaerbeekCountry:BE, BelgiumAge:† 49 years",r_actors
+Peter_Sarsgaard,"Gender:MaleDate of Birth:7 March  1971Birth place:Scott Air Force Base, IllinoisCountry:US, United StatesAge:49 years",r_actors
+Édith_Piaf,"Gender:FemaleDate of Birth:19 December  1915 - 05:00hBirth place:ParisCountry:FR, FranceAge:† 47 years",r_actors
+Stan_Lee,"Gender:MaleDate of Birth:28 December  1922Birth place:New York, New YorkCountry:US, United StatesAge:† 95 years",r_actors
+Peter_Vaughan,"Gender:MaleDate of Birth:4 April  1923Birth place:Wem, EnglandCountry:GB, United Kingdom",r_actors
+Eva_Green,"Gender:FemaleDate of Birth:5 July  1980 - 10:05hBirth place:ParisCountry:FR, FranceAge:39 years",r_actors
+Usher,"Gender:MaleDate of Birth:14 October  1978 - 04:00hBirth place:Dallas, TexasCountry:US, United StatesAge:41 years",r_actors
+Tyrese_Gibson,"Gender:MaleDate of Birth:30 December  1978 - 02:25hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:41 years",r_actors
+Rosario_Dawson,"Gender:FemaleDate of Birth:9 May  1979Birth place:New York, New YorkCountry:US, United StatesAge:40 years",r_actors
+Hugh_Laurie,"Gender:MaleDate of Birth:11 June  1959Birth place:Oxford, EnglandCountry:GB, United KingdomAge:60 years",r_actors
+Ryan_Reynolds,"Gender:MaleDate of Birth:23 October  1976 - 04:30hBirth place:Vancouver, British ColumbiaCountry:CA, CanadaAge:43 years",r_actors
+Chris_Isaak,"Gender:MaleDate of Birth:26 June  1956 - 22:49hBirth place:Stockton, CaliforniaCountry:US, United StatesAge:63 years",r_actors
+Shia_LaBeouf,"Gender:MaleDate of Birth:11 June  1986 - 00:14hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:33 years",r_actors
+Ken_Watanabe,"Gender:MaleDate of Birth:21 October  1959Birth place:NiigataCountry:JP, JapanAge:60 years",r_actors
+Marion_Cotillard,"Gender:FemaleDate of Birth:30 September  1975 - 04:50hBirth place:ParisCountry:FR, FranceAge:44 years",r_actors
+Florence_Lawrence,"Gender:FemaleDate of Birth:2 January  1886Birth place:Hamilton, OntarioCountry:CA, CanadaAge:† 52 years",r_actors
+Rosamund_Pike,"Gender:FemaleDate of Birth:27 January  1979Birth place:London, EnglandCountry:GB, United KingdomAge:41 years",r_actors
+Bryan_Adams,"Gender:MaleDate of Birth:5 November  1959Birth place:Kingston, OntarioCountry:CA, CanadaAge:60 years",r_actors
+Lenny_Kravitz,"Gender:MaleDate of Birth:26 May  1964 - 22:11hBirth place:New York, New YorkCountry:US, United StatesAge:55 years",r_actors
+Heidi_Klum,"Gender:FemaleDate of Birth:1 June  1973 - 11:00hBirth place:Bergisch GladbachCountry:DE, GermanyAge:46 years",r_actors
+Dolly_Parton,"Gender:FemaleDate of Birth:19 January  1946 - 20:25hBirth place:Sevierville, TennesseeCountry:US, United StatesAge:74 years",r_actors
+Gwen_Stefani,"Gender:FemaleDate of Birth:3 October  1969 - 10:23hBirth place:Fullerton, CaliforniaCountry:US, United StatesAge:50 years",r_actors
+Nick_Cave,"Gender:MaleDate of Birth:22 September  1957Birth place:Wangaratta, VictoriaCountry:AU, AustraliaAge:62 years",r_actors
+Jacques_Dutronc,"Gender:MaleDate of Birth:28 April  1943 - 05:00hBirth place:ParisCountry:FR, FranceAge:76 years",r_actors
+Béla_Tarr,"Gender:MaleDate of Birth:21 July  1955Birth place:PécsCountry:HU, HungaryAge:64 years",r_actors
+John_McEnroe,"Gender:MaleDate of Birth:16 February  1959 - 22:30hBirth place:WiesbadenCountry:DE, GermanyAge:61 years",r_actors
+Robbie_Williams,"Gender:MaleDate of Birth:13 February  1974 - 17:40hBirth place:Stoke-on-Trent, EnglandCountry:GB, United KingdomAge:46 years",r_actors
+Peggy_Lee,"Gender:FemaleDate of Birth:26 May  1920 - 12:45hBirth place:Devils Lake, North DakotaCountry:US, United StatesAge:† 81 years",r_actors
+Joseph_Gordon-Levitt,"Gender:MaleDate of Birth:17 February  1981 - 08:08hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:39 years",r_actors
+Rocco_Siffredi,"Gender:MaleDate of Birth:4 May  1964 - 11:30hBirth place:LancianoCountry:IT, ItalyAge:55 years",r_actors
+Marie_Laforêt,"Gender:FemaleDate of Birth:5 October  1939 - 04:00hBirth place:Soulac-sur-MerCountry:FR, FranceAge:† 80 years",r_actors
+Shaquille_O'Neal,"Gender:MaleDate of Birth:6 March  1972 - 08:00hBirth place:Newark, New YorkCountry:US, United StatesAge:48 years",r_actors
+Vladimir_Vysotsky,"Gender:MaleDate of Birth:25 January  1938 - 09:40hBirth place:MoscowCountry:RU, RussiaAge:† 42 years",r_actors
+Kylie_Minogue,"Gender:FemaleDate of Birth:28 May  1968 - 11:00hBirth place:Melbourne, VictoriaCountry:AU, AustraliaAge:51 years",r_actors
+Simon_Pegg,"Gender:MaleDate of Birth:14 February  1970Birth place:GloucesterCountry:GB, United KingdomAge:50 years",r_actors
+Ben_Foster,"Gender:MaleDate of Birth:29 October  1980 - 20:13hBirth place:Newton, MassachusettsCountry:US, United StatesAge:39 years",r_actors
+Salvador_Dalí,"Gender:MaleDate of Birth:11 May  1904 - 08:45hBirth place:FigueresCountry:ES, SpainAge:† 84 years",r_actors
+Charlie_Hunnam,"Gender:MaleDate of Birth:10 April  1980 - 10:06hBirth place:Newcastle upon Tyne, EnglandCountry:GB, United KingdomAge:39 years",r_actors
+Michael_Nyqvist,"Gender:MaleDate of Birth:8 November  1960Birth place:StockholmCountry:SE, SwedenAge:† 56 years",r_actors
+Mila_Kunis,"Gender:FemaleDate of Birth:14 August  1983 - 17:00hBirth place:ČernivciCountry:UA, UkraineAge:36 years",r_actors
+Rupert_Friend,"Gender:MaleDate of Birth:1 October  1981Birth place:Oxford, EnglandCountry:GB, United KingdomAge:38 years",r_actors
+Auguste_Lumière,"Gender:MaleDate of Birth:19 October  1862 - 15:30hBirth place:BesançonCountry:FR, FranceAge:† 91 years",r_actors
+Sacha_Baron_Cohen,"Gender:MaleDate of Birth:13 October  1971Birth place:London, EnglandCountry:GB, United KingdomAge:48 years",r_actors
+Leonard_Cohen,"Gender:MaleDate of Birth:21 September  1934 - 06:45hBirth place:Montreal, QuébecCountry:CA, CanadaAge:† 82 years",r_actors
+Simon_Cowell,"Gender:MaleDate of Birth:7 October  1959Birth place:Brighton, EnglandCountry:GB, United KingdomAge:60 years",r_actors
+Method_Man,"Gender:MaleDate of Birth:1 April  1971Birth place:New York, New YorkCountry:US, United StatesAge:49 years",r_actors
+RZA,"Gender:MaleDate of Birth:5 July  1969Birth place:New York, New YorkCountry:US, United StatesAge:50 years",r_actors
+Iggy_Pop,"Gender:MaleDate of Birth:21 April  1947 - 11:34hBirth place:Muskegon, MichiganCountry:US, United StatesAge:72 years",r_actors
+Justin_Timberlake,"Gender:MaleDate of Birth:31 January  1981 - 18:30hBirth place:Memphis, TennesseeCountry:US, United StatesAge:39 years",r_actors
+Margaux_Hemingway,"Gender:FemaleDate of Birth:16 February  1955 - 09:15hBirth place:Portland, OregonCountry:US, United StatesAge:† 41 years",r_actors
+Paris_Hilton,"Gender:FemaleDate of Birth:17 February  1981 - 02:30hBirth place:New York, New YorkCountry:US, United StatesAge:39 years",r_actors
+Channing_Tatum,"Gender:MaleDate of Birth:26 April  1980Birth place:Cullman, AlabamaCountry:US, United StatesAge:39 years",r_actors
+Dick_Van_Dyke,"Gender:MaleDate of Birth:13 December  1925Birth place:West Plains, MissouriCountry:US, United States",r_actors
+Tom_Hardy,"Gender:MaleDate of Birth:15 September  1977Birth place:London, EnglandCountry:GB, United KingdomAge:42 years",r_actors
+James_McAvoy,"Gender:MaleDate of Birth:21 April  1979 - 17:25hBirth place:Glasgow, ScotlandCountry:GB, United KingdomAge:40 years",r_actors
+Michael_Jackson,"Gender:MaleDate of Birth:29 August  1958 - 19:33hBirth place:Gary, IndianaCountry:US, United StatesAge:† 50 years",r_actors
+Jamie_Oliver,"Gender:MaleDate of Birth:27 May  1975 - 16:35hBirth place:South Ockendon, EnglandCountry:GB, United KingdomAge:44 years",r_actors
+Jessica_Simpson,"Gender:FemaleDate of Birth:10 July  1980 - 16:00hBirth place:Abilene, TexasCountry:US, United StatesAge:39 years",r_actors
+Natalie_Imbruglia,"Gender:FemaleDate of Birth:4 February  1975Birth place:Sydney, New South WalesCountry:AU, AustraliaAge:45 years",r_actors
+50_Cent,"Gender:MaleDate of Birth:6 July  1975Birth place:New York, New YorkCountry:US, United StatesAge:44 years",r_actors
+JoJo,"Gender:FemaleDate of Birth:20 December  1990 - 10:41hBirth place:Brattleboro, VermontCountry:US, United StatesAge:29 years",r_actors
+Steven_Tyler,"Gender:MaleDate of Birth:26 March  1948Birth place:New York, New YorkCountry:US, United StatesAge:72 years",r_actors
+Gilbert_Bécaud,"Gender:MaleDate of Birth:24 October  1927 - 23:00hBirth place:ToulonCountry:FR, FranceAge:† 74 years",r_actors
+Alice_Cooper,"Gender:MaleDate of Birth:4 February  1948 - 22:33hBirth place:Frenchtown Charter Township, MichiganCountry:US, United StatesAge:72 years",r_actors
+Miley_Cyrus,"Gender:FemaleDate of Birth:23 November  1992 - 16:19hBirth place:Nashville, TennesseeCountry:US, United StatesAge:27 years",r_actors
+Kajol,"Gender:FemaleDate of Birth:5 August  1974 - 20:21hBirth place:MumbaiCountry:IN, IndiaAge:45 years",r_actors
+Nico,"Gender:FemaleDate of Birth:16 October  1938 - 17:30hBirth place:CologneCountry:DE, GermanyAge:† 49 years",r_actors
+Steve_Austin,"Gender:MaleDate of Birth:18 December  1964Birth place:Austin, TexasCountry:US, United StatesAge:55 years",r_actors
+Cliff_Richard,"Gender:MaleDate of Birth:14 October  1940 - 21:10hBirth place:LaknaúCountry:IN, IndiaAge:79 years",r_actors
+Glen_Hansard,"Gender:MaleDate of Birth:21 April  1970Birth place:DublinCountry:IE, IrelandAge:49 years",r_actors
+Olga_Kurylenko,"Gender:FemaleDate of Birth:14 November  1979Birth place:KievCountry:UA, UkraineAge:40 years",r_actors
+Dita_Von_Teese,"Gender:FemaleDate of Birth:28 September  1972Birth place:Rochester, MichiganCountry:US, United StatesAge:47 years",r_actors
+Olivia_Wilde,"Gender:FemaleDate of Birth:10 March  1984Birth place:New York, New YorkCountry:US, United StatesAge:36 years",r_actors
+Megan_Fox,"Gender:FemaleDate of Birth:16 May  1986 - 00:35hBirth place:Oak Ridge, TennesseeCountry:US, United StatesAge:33 years",r_actors
+Fergie,"Gender:FemaleDate of Birth:27 March  1975 - 13:24hBirth place:Whittier, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Christina_Aguilera,"Gender:FemaleDate of Birth:18 December  1980 - 10:46hBirth place:New York, New YorkCountry:US, United StatesAge:39 years",r_actors
+Zac_Efron,"Gender:MaleDate of Birth:18 October  1987 - 13:22hBirth place:San Luis Obispo, CaliforniaCountry:US, United StatesAge:32 years",r_actors
+Jamie_Draven,"Gender:MaleDate of Birth:14 May  1979Birth place:Wythenshawe, EnglandCountry:GB, United KingdomAge:40 years",r_actors
+Alicia_Keys,"Gender:FemaleDate of Birth:25 January  1981 - 03:30hBirth place:New York, New YorkCountry:US, United StatesAge:39 years",r_actors
+Verne_Troyer,"Gender:MaleDate of Birth:1 January  1969Birth place:Sturgis Township, MichiganCountry:US, United StatesAge:† 49 years",r_actors
+Nikolaj_Coster-Waldau,"Gender:MaleDate of Birth:27 July  1970Birth place:HolstebroCountry:DK, DenmarkAge:49 years",r_actors
+Chris_Hemsworth,"Gender:MaleDate of Birth:11 August  1983Birth place:Melbourne, VictoriaCountry:AU, AustraliaAge:36 years",r_actors
+Robert_Pattinson,"Gender:MaleDate of Birth:13 May  1986 - 08:32hBirth place:London, EnglandCountry:GB, United KingdomAge:33 years",r_actors
+Will._i._am,"Gender:MaleDate of Birth:15 March  1975 - 01:16hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:45 years",r_actors
+Michèle_Morgan,"Gender:FemaleDate of Birth:29 February  1920 - 09:20hBirth place:Neuilly-sur-SeineCountry:FR, France",r_actors
+Bruce_Dickinson,"Gender:MaleDate of Birth:7 August  1958Birth place:WorksopCountry:GB, United KingdomAge:61 years",r_actors
+Chris_Pratt,"Gender:MaleDate of Birth:21 June  1979 - 16:31hBirth place:Virginia, MinnesotaCountry:US, United StatesAge:40 years",r_actors
+Enrique_Iglesias,"Gender:MaleDate of Birth:8 May  1975 - 20:17hBirth place:MadridCountry:ES, SpainAge:44 years",r_actors
+Game,"Gender:MaleDate of Birth:29 November  1979Birth place:Compton, CaliforniaCountry:US, United StatesAge:40 years",r_actors
+Michael_Fassbender,"Gender:MaleDate of Birth:2 April  1977 - 00:30hBirth place:HeidelbergCountry:DE, GermanyAge:43 years",r_actors
+Léa_Seydoux,"Gender:FemaleDate of Birth:1 July  1985 - 10:30hBirth place:ParisCountry:FR, FranceAge:34 years",r_actors
+Melanie_C.,"Gender:FemaleDate of Birth:12 January  1974 - 21:32hBirth place:Widnes, EnglandCountry:GB, United KingdomAge:46 years",r_actors
+Willie_Nelson,"Gender:MaleDate of Birth:30 April  1933 - 00:30hBirth place:Abbott, TexasCountry:US, United StatesAge:86 years",r_actors
+Sofía_Vergara,"Gender:FemaleDate of Birth:10 July  1972Birth place:BarranquillaCountry:CO, ColombiaAge:47 years",r_actors
+Manu_Bennett,"Gender:MaleDate of Birth:10 October  1969Birth place:Rotorua, Bay Of PlentyCountry:NZ, New ZealandAge:50 years",r_actors
+Demi_Lovato,"Gender:FemaleDate of Birth:20 August  1992 - 14:34hBirth place:Albuquerque, New MexicoCountry:US, United StatesAge:27 years",r_actors
+Joe_Jonas,"Gender:MaleDate of Birth:15 August  1989 - 09:58hBirth place:Casa Grande, ArizonaCountry:US, United StatesAge:30 years",r_actors
+Nick_Jonas,"Gender:MaleDate of Birth:16 September  1992 - 03:39hBirth place:Dallas, TexasCountry:US, United StatesAge:27 years",r_actors
+Tony_Hawk,"Gender:MaleDate of Birth:12 May  1968 - 03:12hBirth place:San Diego, CaliforniaCountry:US, United StatesAge:51 years",r_actors
+Selena_Gomez,"Gender:FemaleDate of Birth:22 July  1992 - 07:19hBirth place:Grand Prairie, TexasCountry:US, United StatesAge:27 years",r_actors
+Rihanna,"Gender:FemaleDate of Birth:20 February  1988 - 08:50hBirth place:Saint MichaelCountry:BB, BarbadosAge:32 years",r_actors
+Jesse_McCartney,"Gender:MaleDate of Birth:9 April  1987Birth place:New York, New YorkCountry:US, United StatesAge:32 years",r_actors
+Bear_Grylls,"Gender:MaleDate of Birth:7 June  1974 - 18:00hBirth place:Bembridge, EnglandCountry:GB, United KingdomAge:45 years",r_actors
+Josh_Groban,"Gender:MaleDate of Birth:27 February  1981 - 16:13hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:39 years",r_actors
+Wyclef_Jean,"Gender:MaleDate of Birth:17 October  1969Birth place:Port-au-PrinceCountry:HT, HaitiAge:50 years",r_actors
+Michael_Hutchence,"Gender:MaleDate of Birth:22 January  1960 - 05:00hBirth place:Sydney, New South WalesCountry:AU, AustraliaAge:† 37 years",r_actors
+Tom_Hiddleston,"Gender:MaleDate of Birth:9 February  1981Birth place:London, EnglandCountry:GB, United KingdomAge:39 years",r_actors
+Jennifer_Lawrence,"Gender:FemaleDate of Birth:15 August  1990 - 20:17hBirth place:Louisville, KentuckyCountry:US, United StatesAge:29 years",r_actors
+Monika_Načeva,"Gender:FemaleDate of Birth:27 June  1966Birth place:BulgariaCountry:BG, BulgariaAge:53 years",r_actors
+Céline_Dion,"Gender:FemaleDate of Birth:30 March  1968 - 12:15hBirth place:Charlemagne, QuébecCountry:CA, CanadaAge:52 years",r_actors
+Carl_Sagan,"Gender:MaleDate of Birth:9 November  1934 - 17:05hBirth place:New York, New YorkCountry:US, United StatesAge:† 62 years",r_actors
+Paul_Meurisse,"Gender:MaleDate of Birth:21 December  1912 - 22:00hBirth place:DunkirkCountry:FR, FranceAge:† 66 years",r_actors
+Benedict_Cumberbatch,"Gender:MaleDate of Birth:19 July  1976 - 12:00hBirth place:Hammersmith a Fulham, EnglandCountry:GB, United KingdomAge:43 years",r_actors
+Anife_Vyskočilová,"Gender:FemaleDate of Birth:12 March  1974Birth place:DeliormanCountry:BG, BulgariaAge:46 years",r_actors
+Eva_Braun,"Gender:FemaleDate of Birth:6 February  1912 - 00:30hBirth place:MunichCountry:DE, GermanyAge:† 33 years",r_actors
+Paul_Anka,"Gender:MaleDate of Birth:30 July  1941Birth place:Ottawa, OntarioCountry:CA, CanadaAge:78 years",r_actors
+Chris_Brown,"Gender:MaleDate of Birth:5 May  1989 - 12:30hBirth place:Tappahannock, VirginiaCountry:US, United StatesAge:30 years",r_actors
+Taylor_Swift,"Gender:FemaleDate of Birth:13 December  1989 - 08:36hBirth place:Reading, PennsylvaniaCountry:US, United StatesAge:30 years",r_actors
+Noomi_Rapace,"Gender:FemaleDate of Birth:28 December  1979Birth place:HudiksvallCountry:SE, SwedenAge:40 years",r_actors
+Lady_Gaga,"Gender:FemaleDate of Birth:28 March  1986 - 09:53hBirth place:New York, Lenox Hill HospitalCountry:US, United StatesAge:34 years",r_actors
+Mike_Patton,"Gender:MaleDate of Birth:27 January  1968 - 02:30hBirth place:Arcata, CaliforniaCountry:US, United StatesAge:52 years",r_actors
+Niki_Lauda,"Gender:MaleDate of Birth:22 February  1949 - 11:02hBirth place:ViennaCountry:AT, AustriaAge:† 70 years",r_actors
+Billie_Joe_Armstrong,"Gender:MaleDate of Birth:17 February  1972Birth place:Oakland, CaliforniaCountry:US, United StatesAge:48 years",r_actors
+Ivanka_Trump,"Gender:FemaleDate of Birth:30 October  1981Birth place:New York, New YorkCountry:US, United StatesAge:38 years",r_actors
+Justin_Bieber,"Gender:MaleDate of Birth:1 March  1994 - 00:56hBirth place:Stratford, OntarioCountry:CA, CanadaAge:26 years",r_actors
+Adam_Lambert,"Gender:MaleDate of Birth:29 January  1982 - 22:40hBirth place:Indianapolis, IndianaCountry:US, United StatesAge:38 years",r_actors
+Kim_Kardashian,"Gender:FemaleDate of Birth:21 October  1980 - 10:46hBirth place:Los Angeles, CaliforniaCountry:US, United StatesAge:39 years",r_actors
+Nicole_Scherzinger,"Gender:FemaleDate of Birth:29 June  1978 - 11:05hBirth place:Honolulu, HawaiiCountry:US, United StatesAge:41 years",r_actors
+Lil'_Wayne,"Gender:MaleDate of Birth:27 September  1982Birth place:New Orleans, LouisianaCountry:US, United StatesAge:37 years",r_actors
+Drake,"Gender:MaleDate of Birth:24 October  1986 - 02:31hBirth place:Toronto, OntarioCountry:CA, CanadaAge:33 years",r_actors
+Ariana_Grande,"Gender:FemaleDate of Birth:26 June  1993 - 21:16hBirth place:Boca Raton, FloridaCountry:US, United StatesAge:26 years",r_actors
+Nancy_Reagan,"Gender:FemaleDate of Birth:6 July  1921 - 13:18hBirth place:New York, New YorkCountry:US, United StatesAge:† 94 years",r_actors
+Suzi_Quatro,"Gender:FemaleDate of Birth:3 June  1950 - 13:40hBirth place:Detroit BeachCountry:US, United StatesAge:69 years",r_actors
+Colton_Haynes,"Gender:MaleDate of Birth:13 July  1988Birth place:Wichita, KansasCountry:US, United StatesAge:31 years",r_actors
+Annette_Funicello,"Gender:FemaleDate of Birth:22 October  1942 - 22:10hBirth place:UticaCountry:US, United StatesAge:† 70 years",r_actors
+Gia_Scala,"Gender:FemaleDate of Birth:3 March  1934Birth place:Liverpool, EnglandCountry:GB, United KingdomAge:† 38 years",r_actors
+Leonard_Bernstein,"Gender:MaleDate of Birth:25 August  1918 - 13:00hBirth place:Lawrence, MassachusettsCountry:US, United StatesAge:† 72 years",r_actors
+Mario_Carotenuto,"Gender:MaleDate of Birth:29 June  1915 - 23:59hBirth place:RomeCountry:IT, ItalyAge:† 79 years",r_actors
+Asa_Akira,"Gender:FemaleDate of Birth:2 January  1986Birth place:New York, New YorkCountry:US, United StatesAge:34 years",r_actors
+Vitali_Klitschko,"Gender:MaleDate of Birth:19 July  1971Birth place:BelovodskoeCountry:KG, KyrgyzstanAge:48 years",r_actors
+Ricky_Martin,"Gender:MaleDate of Birth:24 December  1971 - 17:00hBirth place:Hato ReyCountry:US, United StatesAge:48 years",r_actors
+Josef_Kajetán_Tyl,"Gender:MaleDate of Birth:4 February  1808Birth place:Kutná HoraCountry:CZ, Czech RepublicAge:† 48 years",r_actors
+Nacho_Vidal,"Gender:MaleDate of Birth:30 December  1973Birth place:BarcelonaCountry:ES, SpainAge:46 years",r_actors
+Manuel_Ferrara,"Gender:MaleDate of Birth:1 November  1975Birth place:GagnyCountry:FR, FranceAge:44 years",r_actors
+Lyle_Talbot,"Gender:MaleDate of Birth:8 February  1902Birth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:† 94 years",r_actors
+Lana_Del_Rey,"Gender:FemaleDate of Birth:21 June  1985 - 16:47hBirth place:New York, New YorkCountry:US, United StatesAge:34 years",r_actors
+George_Cole,"Gender:MaleDate of Birth:22 April  1925 - 11:00hBirth place:Tooting, LondonCountry:GB, United KingdomAge:† 90 years",r_actors
+Julia_Child,"Gender:FemaleDate of Birth:15 August  1912 - 23:30hBirth place:PasadenaCountry:US, United StatesAge:† 91 years",r_actors
+Leo_Houlding,"Gender:MaleDate of Birth:28 July  1980Birth place:Velká BritánieCountry:GB, United KingdomAge:39 years",r_actors
+Rita_Ora,"Gender:FemaleDate of Birth:26 November  1990Birth place:PristinaCountry:XK, KosovoAge:29 years",r_actors
+Nick_Carter,"Gender:MaleDate of Birth:28 January  1980 - 20:00hBirth place:MayvilleCountry:US, United StatesAge:40 years",r_actors
+Mr._Pete,"Gender:MaleDate of Birth:30 January  1980Birth place:Las Vegas, NevadaCountry:US, United StatesAge:40 years",r_actors
+Kelly_Osbourne,"Gender:FemaleDate of Birth:27 October  1984 - 20:00hBirth place:London, EnglandCountry:GB, United KingdomAge:35 years",r_actors
+Lech_Walesa,"Gender:MaleDate of Birth:29 September  1943 - 03:30hBirth place:PopowoCountry:PL, PolandAge:76 years",r_actors
+Domenico_Martucci,"Gender:MaleDate of Birth:8 July  1976Birth place:NaplesCountry:IT, ItalyAge:43 years",r_actors
+Ciara,"Gender:FemaleDate of Birth:25 October  1985Birth place:Austin, TexasCountry:US, United StatesAge:34 years",r_actors
+Lily_Allen,"Gender:FemaleDate of Birth:2 May  1985Birth place:London, EnglandCountry:GB, United KingdomAge:34 years",r_actors
+Carlo_Ponti,"Gender:MaleDate of Birth:11 December  1912 - 13:00hBirth place:MagentaCountry:IT, ItalyAge:† 94 years",r_actors
+Aaron_Spelling,"Gender:MaleDate of Birth:22 April  1923 - 12:30hBirth place:Dallas, TexasCountry:US, United StatesAge:† 83 years",r_actors
+Gloria_Vanderbilt,"Gender:FemaleDate of Birth:20 February  1924 - 09:55hBirth place:New York, New YorkCountry:US, United States",r_actors
+Marty_Robbins,"Gender:MaleDate of Birth:26 September  1925 - 21:55hBirth place:Glendale, ArizonaCountry:US, United StatesAge:† 57 years",r_actors
+John_Mayall,"Gender:MaleDate of Birth:29 November  1933 - 07:30hBirth place:Macclesfield, CheshireCountry:GB, United KingdomAge:86 years",r_actors
+Debbie_Harry,"Gender:FemaleDate of Birth:1 July  1945 - 16:00hBirth place:Miami, FloridaCountry:US, United StatesAge:74 years",r_actors
+Michael_Bolton,"Gender:MaleDate of Birth:26 February  1953 - 01:32hBirth place:New HavenCountry:US, United StatesAge:67 years",r_actors
+Paul_Vogt,"Gender:MaleDate of Birth:16 December  1964Birth place:Buffalo, New YorkCountry:US, United StatesAge:55 years",r_actors
+Sophie_Dahl,"Gender:FemaleDate of Birth:15 September  1977Birth place:London, EnglandCountry:GB, United KingdomAge:42 years",r_actors
+Amerie,"Gender:FemaleDate of Birth:12 January  1978 - 08:08hBirth place:Boston, MassachusettsCountry:US, United StatesAge:42 years",r_actors
+Ali_Amiri,"Gender:MaleDate of Birth:29 February  1980Birth place:TehranCountry:IR, IranAge:40 years",r_actors
+Heidi_Montag,"Gender:FemaleDate of Birth:15 September  1986Birth place:Crested ButteCountry:US, United StatesAge:33 years",r_actors
+Walter_Darré,"Gender:MaleDate of Birth:14 July  1895 - 17:28hBirth place:Buenos AiresCountry:AR, ArgentinaAge:† 58 years",r_actors
+Fabian_Forte,"Gender:MaleDate of Birth:6 February  1943 - 06:56hBirth place:Philadelphia, PennsylvaniaCountry:US, United StatesAge:77 years",r_actors
+Jason_Gould,"Gender:MaleDate of Birth:29 December  1966 - 14:58hBirth place:New York, New YorkCountry:US, United StatesAge:53 years",r_actors
+John_F._Kennedy_Jr.,"Gender:MaleDate of Birth:25 November  1960 - 00:22hBirth place:Washington, District of ColumbiaCountry:US, United StatesAge:† 38 years",r_actors
+Lee_Radziwill,"Gender:FemaleDate of Birth:3 March  1933 - 17:46hBirth place:New York, New YorkCountry:US, United StatesAge:87 years",r_actors
+Zabine,"Gender:FemaleDate of Birth:1 January  1974 - 22:45hBirth place:KufsteinCountry:AT, AustriaAge:46 years",r_actors
+Donyale_Luna,"Gender:FemaleDate of Birth:31 August  1945Birth place:Detroit, MichiganCountry:US, United StatesAge:† 33 years",r_actors
+Johnny_Sins,"Gender:MaleDate of Birth:31 December  1978Birth place:Pittsburgh, PennsylvaniaCountry:US, United StatesAge:41 years",r_actors
+Frenchy,"Gender:FemaleDate of Birth:21 September  1975Birth place:ParisCountry:FR, FranceAge:44 years",r_actors
+Coco_Austin,"Gender:FemaleDate of Birth:17 March  1979Birth place:Rancho Palos Verdes, CaliforniaCountry:US, United StatesAge:41 years",r_actors
+Papa_Wemba,"Gender:MaleDate of Birth:14 June  1949Birth place:LubefuCountry:CD, Democratic Republic of the CongoAge:† 66 years",r_actors
+Haley_Joel_Osment,"Gender:MaleDate of Birth:10 April  1988Birth place:Los Angeles, CaliforniaCountry:US, United StatesAge:31 years",r_actors
+John_Rhys-Davies,"Gender:MaleDate of Birth:5 May  1944Birth place:Salisbury, EnglandCountry:GB, United KingdomAge:75 years",r_actors
+Treat_Williams,"Gender:MaleDate of Birth:1 December  1951Birth place:RowaytonCountry:US, United StatesAge:68 years",r_actors
+Peter_Gallagher,"Gender:MaleDate of Birth:19 August  1955Birth place:Armonk, New YorkCountry:US, United StatesAge:64 years",r_actors
+Mary_Elizabeth_Mastrantonio,"Gender:FemaleDate of Birth:17 November  1958Birth place:LombardCountry:US, United StatesAge:61 years",r_actors
+Armin_Mueller-Stahl,"Gender:MaleDate of Birth:17 December  1930Birth place:SovetskCountry:RU, RussiaAge:89 years",r_actors
+Armand_Assante,"Gender:MaleDate of Birth:4 October  1949Birth place:New York, New YorkCountry:US, United StatesAge:70 years",r_actors
+Martin_Lawrence,"Gender:MaleDate of Birth:16 April  1965Birth place:FrankfurtCountry:DE, GermanyAge:54 years",r_actors
+David_Arquette,"Gender:MaleDate of Birth:8 September  1971Birth place:Winchester, VirginiaCountry:US, United StatesAge:48 years",r_actors
+Tim_Daly,"Gender:MaleDate of Birth:1 March  1956Birth place:New York, New YorkCountry:US, United StatesAge:64 years",r_actors
+Jeff_Daniels,"Gender:MaleDate of Birth:19 February  1955Birth place:Athens, GeorgiaCountry:US, United StatesAge:65 years",r_actors
+Hector_Elizondo,"Gender:MaleDate of Birth:22 December  1936Birth place:New York, New YorkCountry:US, United StatesAge:83 years",r_actors
+Cary_Elwes,"Gender:MaleDate of Birth:26 October  1962Birth place:London, EnglandCountry:GB, United KingdomAge:57 years",r_actors
+John_Lithgow,"Gender:MaleDate of Birth:19 October  1945Birth place:Rochester, New YorkCountry:US, United StatesAge:74 years",r_actors
+Jon_Lovitz,"Gender:MaleDate of Birth:21 July  1957Birth place:TarzanaCountry:US, United StatesAge:62 years",r_actors
+Dermot_Mulroney,"Gender:MaleDate of Birth:31 October  1963Birth place:Alexandria, VirginiaCountry:US, United StatesAge:56 years",r_actors
+Lou_Diamond_Phillips,"Gender:MaleDate of Birth:17 February  1962 - 17:17hBirth place:Subic Bay Freeport ZoneCountry:PH, PhilippinesAge:58 years",r_actors
+Jonathan_Pryce,"Gender:MaleDate of Birth:1 June  1947Birth place:Holywell, WalesCountry:GB, United KingdomAge:72 years",r_actors
+James_Spader,"Gender:MaleDate of Birth:7 February  1960 - 20:02hBirth place:Boston, MassachusettsCountry:US, United StatesAge:60 years",r_actors
+Richard_Thomas,"Gender:MaleDate of Birth:13 June  1951 - 02:03hBirth place:New York, New YorkCountry:US, United StatesAge:68 years",r_actors
+Jack_Warden,"Gender:MaleDate of Birth:18 September  1920 - 17:00hBirth place:Newark, New JerseyCountry:US, United StatesAge:† 85 years",r_actors
+Kim_Cattrall,"Gender:FemaleDate of Birth:21 August  1956Birth place:Liverpool, EnglandCountry:GB, United KingdomAge:63 years",r_actors
+Kristin_Davis,"Gender:FemaleDate of Birth:24 February  1965Birth place:Boulder, ColoradoCountry:US, United StatesAge:55 years",r_actors
+Minnie_Driver,"Gender:FemaleDate of Birth:31 January  1970 - 05:25hBirth place:London, EnglandCountry:GB, United KingdomAge:50 years",r_actors
