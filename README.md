@@ -1,6 +1,8 @@
 # Is There a Connection Between Astrology and Occupation?
 
-![powerful astrology finger](astrology-img.jpg) ![occupation stock photo](DCK372.jpg)
+![powerful astrology finger](astrology-img.jpg)
+
+![occupation stock photo](DCK372.jpg)
 
 ## Section 1:
 
